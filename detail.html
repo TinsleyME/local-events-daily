@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-page-node-id="cXOPW4UHrCfQee3uPhlT7L">
+<head data-page-node-id="YdECW9vHwVoOG7mIiL8a5S">
+<meta charset="UTF-8" data-page-node-id="us6wDmDciY8MZjcLiHyi7c">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" data-page-node-id="p3mYzaTLha9vPz909jzflw">
+<title>活动详情 · 广州本地活动</title>
+<style>
+  :root{
+    --bg:#f5f6f8; --card:#fff; --ink:#1d2129; --sub:#6b7280; --line:#e9ebee;
+    --accent:#e8543f; --accent2:#2f6df0;
+    --exhi:#e8543f; --show:#7c4dff; --market:#11a87a; --talk:#f0991c;
+    --sports:#0ea5e9; --family:#ec4899; --outdoor:#14b8a6; --expo:#d4a017;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif;line-height:1.7;padding:28px 16px 64px;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:760px;margin:0 auto}
+  .back{display:inline-flex;align-items:center;gap:4px;font-size:13px;color:var(--accent2);text-decoration:none;margin-bottom:16px;font-weight:600}
+  .back:hover{text-decoration:underline}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:22px 22px 20px}
+  .chead{display:flex;align-items:center;gap:10px;margin-bottom:12px;flex-wrap:wrap}
+  .tag{display:inline-block;font-size:12px;font-weight:700;color:#fff;border-radius:6px;padding:3px 11px;letter-spacing:.3px}
+  .t-exhi{background:var(--exhi)} .t-show{background:var(--show)} .t-market{background:var(--market)} .t-talk{background:var(--talk)}
+  .t-sports{background:var(--sports)} .t-family{background:var(--family)} .t-outdoor{background:var(--outdoor)} .t-expo{background:var(--expo)}
+  .cost{display:inline-block;font-size:12px;font-weight:700;border-radius:6px;padding:3px 11px;letter-spacing:.3px}
+  .c-free{background:#e7f7ef;color:#0e9f6e} .c-paid{background:#fdecea;color:#e8543f} .c-unknown{background:#eef0f3;color:#9aa1ab}
+  h1{font-size:23px;line-height:1.4;margin-bottom:16px;font-weight:800;letter-spacing:.3px}
+  .row{font-size:14px;color:var(--sub);display:flex;gap:8px;margin:7px 0;padding:8px 12px;background:#f7f8fa;border-radius:10px}
+  .row .k{color:#9aa1ab;min-width:54px;flex-shrink:0}
+  .row .v{color:var(--ink)}
+  .desc{font-size:14px;color:#374151;margin:16px 0 20px;white-space:pre-wrap;line-height:1.8;padding:14px 16px;background:#f7f8fa;border-radius:12px}
+  .acts{display:flex;gap:18px;flex-wrap:wrap;border-top:1px dashed var(--line);padding-top:18px}
+  .acts a{font-size:14px;color:var(--accent2);text-decoration:none;font-weight:600;display:inline-flex;align-items:center;gap:4px}
+  .acts a.map{color:var(--accent)}
+  .acts a:hover{text-decoration:underline}
+  #map{width:100%;height:300px;border-radius:14px;overflow:hidden;border:1px solid var(--line);margin-top:18px;background:#eef1f5}
+  .missing{text-align:center;color:var(--sub);padding:60px 0;font-size:15px}
+</style>
+</head>
+<body data-page-node-id="XkjlgSfdxPuiG0ePcEqgzM">
+<div class="wrap" data-page-node-id="BBcuNBusrdkNjvkJFXrVzm">
+  <a class="back" href="index.html" data-page-node-id="HmcPaAtJLAbDGAo1icGhYV">← 返回活动看板</a>
+  <div id="box" data-page-node-id="OmiItUAKez1FGTD0wH9U9j"></div>
+</div>
+
+<script type="text/javascript">
+  window._TMapSecurityConfig = {
+    serviceHost: 'http://127.0.0.1:__WB_HTTP_PORT__/_TMapService/_wbt/__WB_TMAP_SECRET__',
+  };
+</script>
+<script src="data.js"></script>
+<script src="https://map.qq.com/api/gljs?v=1.exp&libraries=service"></script>
+<script>
+  var COLORS = { exhi:'#e8543f', show:'#7c4dff', market:'#11a87a', talk:'#f0991c', sports:'#0ea5e9', family:'#ec4899', outdoor:'#14b8a6', expo:'#d4a017' };
+  var CATNAME = { exhi:'展览', show:'演出', market:'市集', talk:'讲座', sports:'体育', family:'亲子', outdoor:'户外', expo:'展会' };
+  var COST = { free:{label:'免',name:'💰免费'}, paid:{label:'¥',name:'💰付费'}, unknown:{label:'?',name:'💰未知'} };
+  var events = GZ_EVENTS.events;
+  var VENUE = GZ_EVENTS.VENUE;
+
+  function esc(s){ return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+  function mapUrl(kw){ return 'https://apis.map.qq.com/uri/v1/search?keyword=' + encodeURIComponent(kw) + '&region=广州市&referer=workbuddy'; }
+  function getI(){ var p = new URLSearchParams(location.search); var i = parseInt(p.get('i'), 10); return isNaN(i) ? -1 : i; }
+
+  function pin(color, letter){
+    var svg = '<svg xmlns="http://www.w3.org/2000/svg" width="26" height="36">'
+      + '<path d="M13 0C5.8 0 0 5.8 0 13c0 9 13 23 13 23s13-14 13-23C26 5.8 20.2 0 13 0z" fill="'+color+'"/>'
+      + '<circle cx="13" cy="13" r="8" fill="#fff"/>'
+      + '<text x="13" y="13" fill="'+color+'" font-size="10" font-weight="700" text-anchor="middle" dominant-baseline="central" font-family="sans-serif">'+letter+'</text>'
+      + '</svg>';
+    return 'data:image/svg+xml;charset=utf-8,'+encodeURIComponent(svg);
+  }
+
+  function initMap(e){
+    var v = VENUE[e.kw];
+    if(!v) return;
+    var map = new TMap.Map('map', { zoom: 14, center: new TMap.LatLng(v[0], v[1]) });
+    var styleId = e.cat + '_' + e.cost;
+    var styles = {};
+    styles[styleId] = new TMap.MarkerStyle({ width:26, height:36, anchor:{x:13,y:36}, src: pin(COLORS[e.cat], COST[e.cost].label) });
+    new TMap.MultiMarker({ map: map, styles: styles, geometries: [ { id:'0', styleId: styleId, position: new TMap.LatLng(v[0], v[1]) } ] });
+  }
+
+  function render(){
+    var box = document.getElementById('box');
+    var i = getI();
+    if(i < 0 || i >= events.length){
+      box.innerHTML = '<div class="missing">未找到该活动，或数据已更新。<br><br><a class="back" href="index.html">← 返回活动看板</a></div>';
+      return;
+    }
+    var e = events[i];
+    var cat = e.cat;
+    var html = '<div class="card">'
+      + '<div class="chead"><span class="tag t-'+cat+'">'+ esc(e.tag||CATNAME[cat]) +'</span>'
+      + '<span class="cost c-'+e.cost+'">'+ COST[e.cost].name +'</span></div>'
+      + '<h1>'+ esc(e.name) +'</h1>'
+      + '<div class="row"><span class="k">类别</span><span class="v">'+ CATNAME[cat] +'</span></div>'
+      + '<div class="row"><span class="k">'+(e.dkey||'时间')+'</span><span class="v">'+ esc(e.date) +'</span></div>'
+      + '<div class="row"><span class="k">地点</span><span class="v">'+ esc(e.venue) +'</span></div>'
+      + (e.desc ? '<div class="desc">'+ esc(e.desc) +'</div>' : '')
+      + '<div class="acts">'
+      + (e.link ? '<a href="'+ esc(e.link) +'" target="_blank">🔗 原文</a>' : '')
+      + '<a class="map" href="'+ esc(mapUrl(e.kw)) +'" target="_blank">📍 地图导航</a>'
+      + '</div>'
+      + '<div id="map"></div>'
+      + '</div>';
+    box.innerHTML = html;
+    document.title = '详情 · ' + e.name;
+    if(window.TMap) initMap(e);
+  }
+
+  render();
+  if(!window.TMap){
+    window.addEventListener('load', function(){
+      var t = setInterval(function(){ if(window.TMap){ clearInterval(t); render(); } }, 300);
+    });
+  }
+</script>
+</body>
+</html>

@@ -3,69 +3,69 @@
 <head data-page-node-id="pVnTwVXxBIk3Vlh1Mv91Lq">
 <meta charset="UTF-8" data-page-node-id="wfNoTS5SSO4KmdwIHsbSwk">
 <meta name="viewport" content="width=device-width, initial-scale=1.0" data-page-node-id="mQHoGlbduS5OTQvJX0F2jg">
-<title>广州本地活动看板 · 2026-09-07</title>
+<title>广州本地活动看板</title>
 <style>
   :root{
-    --bg:#f6f7f9; --card:#ffffff; --ink:#1f2329; --sub:#6b7280;
-    --line:#e8eaed; --accent:#e8543f; --accent2:#2f6df0;
+    --bg:#f5f6f8; --card:#ffffff; --ink:#1d2129; --sub:#6b7280;
+    --line:#e9ebee; --accent:#e8543f; --accent2:#2f6df0;
     --exhi:#e8543f; --show:#7c4dff; --market:#11a87a; --talk:#f0991c;
     --sports:#0ea5e9; --family:#ec4899; --outdoor:#14b8a6; --expo:#d4a017;
+    --shadow:0 1px 2px rgba(16,24,40,.04), 0 8px 24px rgba(16,24,40,.06);
   }
   *{box-sizing:border-box;margin:0;padding:0}
-  body{background:var(--bg);color:var(--ink);font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;line-height:1.6;padding:28px 18px 60px}
-  .wrap{max-width:1040px;margin:0 auto}
-  header{background:linear-gradient(135deg,#fff,#fff7f5);border:1px solid var(--line);border-radius:16px;padding:22px 26px;margin-bottom:18px}
-  header h1{font-size:24px;display:flex;align-items:center;gap:10px}
-  header h1 .dot{width:12px;height:12px;border-radius:50%;background:var(--accent)}
-  .meta{color:var(--sub);font-size:13px;margin-top:6px}
-  .summary{display:flex;flex-wrap:wrap;gap:10px;margin-top:14px}
-  .pill{background:#fff;border:1px solid var(--line);border-radius:999px;padding:6px 14px;font-size:13px}
-  .pill b{color:var(--accent)}
-  .map-box{background:#fff;border:1px solid var(--line);border-radius:16px;padding:16px 18px;margin-bottom:20px}
-  .map-box h2{font-size:16px;margin-bottom:4px}
-  .map-box p{font-size:12.5px;color:var(--sub);margin-bottom:10px}
-  #map{width:100%;height:420px;border-radius:12px;overflow:hidden;border:1px solid var(--line)}
-  .map-legend{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}
-  .map-legend .lg{font-size:12px;color:var(--sub);background:#f2f4f7;border-radius:8px;padding:3px 9px;display:inline-flex;align-items:center;gap:5px}
+  body{background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif;line-height:1.6;padding:30px 18px 64px;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:1060px;margin:0 auto}
+  header{background:linear-gradient(135deg,#ffffff,#fff6f3);border:1px solid var(--line);border-radius:18px;padding:22px 26px;margin-bottom:18px;box-shadow:var(--shadow)}
+  header h1{font-size:25px;font-weight:800;display:flex;align-items:center;gap:11px;letter-spacing:.5px}
+  .summary{margin-top:6px;font-size:13px;color:var(--sub);line-height:1.6}
+  .meta-bottom{color:#9aa1ab;font-size:12px;text-align:center;margin-top:20px;line-height:1.7}
+  .map-box{background:#fff;border:1px solid var(--line);border-radius:18px;padding:18px 20px;margin-bottom:22px;box-shadow:var(--shadow)}
+  .map-box h2{font-size:17px;margin-bottom:6px;display:flex;align-items:center;gap:6px}
+  .map-box p{font-size:12.5px;color:var(--sub);margin-bottom:12px;line-height:1.7}
+  #map{width:100%;height:430px;border-radius:14px;overflow:hidden;border:1px solid var(--line);background:#eef1f5}
+  .map-legend{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+  .map-legend .lg{font-size:12px;color:var(--sub);background:#f4f6f9;border-radius:8px;padding:4px 10px;display:inline-flex;align-items:center;gap:6px}
   .map-legend .lg i{width:10px;height:10px;border-radius:50%;display:inline-block}
-  .map-filter{display:flex;flex-wrap:wrap;align-items:center;gap:6px;margin-top:10px;padding-top:10px;border-top:1px dashed var(--line)}
-  .map-filter .fl{font-size:12px;color:var(--sub);margin-right:2px}
-  .map-filter button{font-size:12px;border:1px solid var(--line);background:#fff;color:var(--sub);border-radius:999px;padding:4px 12px;cursor:pointer;transition:.12s}
+  .map-filter{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin-top:12px;padding-top:12px;border-top:1px dashed var(--line)}
+  .map-filter .fl{font-size:12.5px;color:var(--sub);margin-right:2px}
+  .map-filter button{font-size:12.5px;border:1px solid var(--line);background:#fff;color:var(--sub);border-radius:999px;padding:5px 14px;cursor:pointer;transition:.15s;font-weight:600}
   .map-filter button:hover{border-color:var(--accent2);color:var(--accent2)}
-  .map-filter button.on{background:var(--accent);border-color:var(--accent);color:#fff}
+  .map-filter button.on{background:var(--accent);border-color:var(--accent);color:#fff;box-shadow:0 2px 8px rgba(232,84,63,.25)}
   .map-list{display:flex;flex-direction:column;gap:4px;margin-top:12px;max-height:240px;overflow:auto}
-  .map-list .li{font-size:13px;display:flex;align-items:center;gap:8px;padding:5px 8px;border-radius:8px;cursor:pointer}
+  .map-list .li{font-size:13px;display:flex;align-items:center;gap:9px;padding:7px 10px;border-radius:10px;cursor:pointer;transition:.12s}
   .map-list .li:hover{background:#f5f7fa}
   .map-list .li i{width:9px;height:9px;border-radius:50%;flex-shrink:0;display:inline-block}
   .map-list .li .nm{flex:1;color:var(--ink);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-  .map-list .li .cost{font-size:10px;font-weight:700;border-radius:4px;padding:0 5px;flex-shrink:0}
+  .map-list .li .cost{font-size:10px;font-weight:700;border-radius:5px;padding:1px 6px;flex-shrink:0}
   .map-list .li .dt{color:#9aa1ab;font-size:11.5px;flex-shrink:0}
-  .c-free{background:#e6f6ef;color:#11a87a}
-  .c-paid{background:#fdecea;color:#e8543f}
-  .c-unknown{background:#eef0f3;color:#9aa1ab}
-  section{margin-top:26px}
-  .sec-title{font-size:18px;font-weight:700;margin-bottom:12px;display:flex;align-items:center;gap:8px}
-  .sec-title .bar{width:5px;height:18px;border-radius:3px}
+  .c-free{background:#e7f7ef;color:#0e9f6e} .c-paid{background:#fdecea;color:#e8543f} .c-unknown{background:#eef0f3;color:#9aa1ab}
+  section{margin-top:28px}
+  .sec-title{font-size:18px;font-weight:800;margin-bottom:14px;display:flex;align-items:center;gap:9px}
+  .sec-title .bar{width:5px;height:19px;border-radius:3px}
+  .sec-title .cnt{font-size:12px;font-weight:700;color:var(--sub);background:#fff;border:1px solid var(--line);border-radius:999px;padding:2px 10px;margin-left:2px}
   .c-exhi .bar{background:var(--exhi)} .c-show .bar{background:var(--show)}
   .c-market .bar{background:var(--market)} .c-talk .bar{background:var(--talk)}
   .c-sports .bar{background:var(--sports)} .c-family .bar{background:var(--family)}
   .c-outdoor .bar{background:var(--outdoor)} .c-expo .bar{background:var(--expo)}
-  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:14px}
-  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 16px 14px;transition:.15s}
-  .card:hover{box-shadow:0 6px 22px rgba(0,0,0,.07);transform:translateY(-2px)}
-  .tag{display:inline-block;font-size:11px;font-weight:700;color:#fff;border-radius:6px;padding:2px 8px;margin-bottom:8px}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:15px}
+  .card{background:var(--card);border:1px solid var(--line);border-top:3px solid var(--c,var(--line));border-radius:14px;padding:16px 16px 14px;transition:.18s;box-shadow:0 1px 2px rgba(16,24,40,.03)}
+  .card:hover{box-shadow:var(--shadow);transform:translateY(-3px);border-color:#dfe3e8;border-top-color:var(--c,var(--line))}
+  .tag{display:inline-block;font-size:11px;font-weight:700;color:#fff;border-radius:6px;padding:2px 9px;margin-bottom:9px;letter-spacing:.3px}
   .t-exhi{background:var(--exhi)} .t-show{background:var(--show)} .t-market{background:var(--market)} .t-talk{background:var(--talk)}
   .t-sports{background:var(--sports)} .t-family{background:var(--family)} .t-outdoor{background:var(--outdoor)} .t-expo{background:var(--expo)}
-  .card h3{font-size:15.5px;line-height:1.4;margin-bottom:8px}
-  .row{font-size:13px;color:var(--sub);display:flex;gap:6px;margin:3px 0}
+  .card h3{font-size:15.5px;line-height:1.45;margin-bottom:9px;font-weight:700}
+  .row{font-size:13px;color:var(--sub);display:flex;gap:7px;margin:3px 0}
   .row .k{color:#9aa1ab;min-width:38px;flex-shrink:0}
-  .row .v .badge{font-size:10px;font-weight:700;border-radius:4px;padding:0 6px;margin-left:4px}
-  .desc{font-size:13px;color:#444;margin:9px 0 11px}
-  .links{display:flex;gap:14px;flex-wrap:wrap}
+  .row .v{color:var(--ink)}
+  .desc{font-size:13px;color:#4b5563;margin:10px 0 12px;line-height:1.7}
+  .links{display:flex;gap:14px;flex-wrap:wrap;align-items:center}
   .card a{font-size:13px;color:var(--accent2);text-decoration:none;font-weight:600}
   .card a.map{color:var(--accent)}
   .card a:hover{text-decoration:underline}
-  .note{background:#fff;border:1px dashed var(--line);border-radius:12px;padding:14px 18px;color:var(--sub);font-size:13px;margin-top:14px}
+  .chead{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:8px}
+  .cost{display:inline-block;font-size:11px;font-weight:700;border-radius:6px;padding:2px 9px;line-height:1.5;letter-spacing:.3px}
+  .links a.detail{color:var(--accent2)}
+  .note{background:#fff;border:1px dashed var(--line);border-radius:14px;padding:15px 18px;color:var(--sub);font-size:13px;margin-top:18px;line-height:1.75;box-shadow:var(--shadow)}
   .note b{color:var(--ink)}
   footer{color:#9aa1ab;font-size:12px;text-align:center;margin-top:36px}
 </style>
@@ -73,317 +73,36 @@
 <body data-page-node-id="UDw4BSvQ5mWQ1yBTLjbQ0D">
 <div class="wrap" data-page-node-id="lr85jlxSpOYUnJLnmar1dg">
   <header data-page-node-id="hz8F39VmA0IA7iK3rJ2dur">
-    <h1 data-page-node-id="FEan59FEJpWLJjcl37EL8B"><span class="dot" data-page-node-id="HXPqBkH6fQtQerslF1DtkH"></span>广州本地活动看板</h1>
-    <div class="meta" data-page-node-id="DiCsd3zy2jDvCspK5wmi0I">生成日期：2026-09-07（周一）· 覆盖未来约 14 天 · 数据来源：公开网络检索（豆瓣同城 / 活动行 / 广州本地宝 / 场馆官号 / 文旅厅等）</div>
-    <div class="summary" data-page-node-id="WZFLnDkQ0jqbiJxfEgHgGY">
-      <span class="pill">共收录 <b>37</b> 项</span>
-      <span class="pill">展览 <b>9</b></span>
-      <span class="pill">演出 <b>12</b></span>
-      <span class="pill">市集 <b>3</b></span>
-      <span class="pill">讲座沙龙 <b>3</b></span>
-      <span class="pill">体育 <b>1</b></span>
-      <span class="pill">亲子 <b>4</b></span>
-      <span class="pill">户外 <b>1</b></span>
-      <span class="pill">展会 <b>4</b></span>
-      <span class="pill">免费 <b style="color:#11a87a">12</b></span>
-      <span class="pill">付费 <b style="color:#e8543f">21</b></span>
-      <span class="pill">未知 <b style="color:#9aa1ab">4</b></span>
-    </div>
+    <h1 data-page-node-id="FEan59FEJpWLJjcl37EL8B">📍 广州本地活动看板</h1>
+    <div class="summary" id="summary"></div>
   </header>
 
   <div class="map-box" data-page-node-id="ztblemIzmEgz4tw56sHlSl">
     <h2 data-page-node-id="1sF4l4GR10c4f7EIX4zu8d">📍 活动地图总览</h2>
     <p>每个活动按类别着色打点（<b style="color:#e8543f">展览</b> / <b style="color:#7c4dff">演出</b> / <b style="color:#11a87a">市集</b> / <b style="color:#f0991c">讲座</b> / <b style="color:#0ea5e9">体育</b> / <b style="color:#ec4899">亲子</b> / <b style="color:#14b8a6">户外</b> / <b style="color:#d4a017">展会</b>），圆点内的字表示费用：<b>免</b>=免费、<b>¥</b>=付费、<b>?</b>=未知。点击标记或下方列表查看详情，可用费用筛选。</p>
     <div id="map" data-page-node-id="SMoL7URbgH5Mlz1BHa7Yu5"></div>
-    <div class="map-legend" id="legend" data-page-node-id="D2yl7q7AkDg3rXtHXCJrK6">
-      <span class="lg"><i style="background:#e8543f"></i>展览 9</span>
-      <span class="lg"><i style="background:#7c4dff"></i>演出 12</span>
-      <span class="lg"><i style="background:#11a87a"></i>市集 3</span>
-      <span class="lg"><i style="background:#f0991c"></i>讲座 3</span>
-      <span class="lg"><i style="background:#0ea5e9"></i>体育 1</span>
-      <span class="lg"><i style="background:#ec4899"></i>亲子 4</span>
-      <span class="lg"><i style="background:#14b8a6"></i>户外 1</span>
-      <span class="lg"><i style="background:#d4a017"></i>展会 4</span>
-    </div>
+    <div class="map-legend" id="legend"></div>
     <div class="map-filter" id="filterBar" data-page-node-id="fltB">
       <span class="fl">费用：</span>
       <button data-f="all" class="on">全部</button>
-      <button data-f="free">免费 12</button>
-      <button data-f="paid">付费 21</button>
-      <button data-f="unknown">未知 4</button>
+      <button data-f="free">免费 <span id="cFree">0</span></button>
+      <button data-f="paid">付费 <span id="cPaid">0</span></button>
+      <button data-f="unknown">未知 <span id="cUnknown">0</span></button>
     </div>
     <div class="map-list" id="eventList" data-page-node-id="evtL"></div>
   </div>
 
-  <section class="c-exhi" data-page-node-id="lEvyXNqXqohUvuDnDCH40D">
-    <div class="sec-title" data-page-node-id="lNzzaAFkruHgPPjzQZGvdo"><span class="bar" data-page-node-id="VpVwAXFJIKkJN0KTOEgeKx"></span>展览 / 美术馆</div>
-    <div class="grid" data-page-node-id="AliE8Vo7BjMSRwWzKBZtIw">
-      <div class="card" data-page-node-id="D2CjcqK5mvezox4TLwFfXV"><span class="tag t-exhi" data-page-node-id="tGNVvxfbsndFe4uuJ2Oqs4">展览</span><h3 data-page-node-id="XzCwjt7wHA2HplX2qm5Yjf">城脉千年——广州建城2240年得名1800年专题展</h3>
-        <div class="row" data-page-node-id="CyvGiH0ZKlUPSuQxs2oNAz"><span class="k" data-page-node-id="7Ipsa5h7qeARtkcdGNMeUG">展期</span><span data-page-node-id="KQgHIN2fFT8VaP8DxKqpiN">2026-08-22 ~ 2027-08-22</span></div>
-        <div class="row" data-page-node-id="r7ygSZHmShwL8EuiuUUnEj"><span class="k" data-page-node-id="ptJyasnOcwikSmf2SAWpgu">地点</span><span data-page-node-id="kE1IuCFgjrRoWRXM8mxA7H">广州艺术博物院（广州美术馆）三楼 10/11 号厅</span></div>
-        <div class="desc" data-page-node-id="mdWSQHmxfOQLQRAO922Lab">410 余件展品系统呈现广州城脉、商脉、文脉与近代城市精神，免费（需预约）。</div>
-        <div class="links" data-page-node-id="eFZvPCxAcn8mCeAmJqVqGs"><a href="https://whly.gd.gov.cn/service_new/hdyg/content/post_4948012.html" target="_blank" data-page-node-id="LQN6FxMubF95J3YdiogpyO">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=广州艺术博物院&region=广州市&referer=workbuddy" target="_blank" data-page-node-id="UDmtlAiwORymvqRzFXQcWx">📍 地图定位</a></div></div>
-
-      <div class="card" data-page-node-id="T4YfmiDmljdyDnfKndUBNX"><span class="tag t-exhi" data-page-node-id="Z9LdN32SAixeORZQBC9nI6">展览</span><h3 data-page-node-id="klXAJqoCYcwyTu30MlnfnW">印象·梵高：沉浸式数字艺术展</h3>
-        <div class="row" data-page-node-id="kv4PAkccrlWdBePOL9jEr8"><span class="k" data-page-node-id="gm9LxvErTAJwCi73gjH0IW">展期</span><span data-page-node-id="8CHed0jIvSbvGQdGzapGvl">2026-07-15 ~ 10-25</span></div>
-        <div class="row" data-page-node-id="6uCWPDxmiuHCvKTJmMRqSV"><span class="k" data-page-node-id="LeQ1Nktt1HAYv04wopcetQ">地点</span><span data-page-node-id="LwH3e1x3WMaf2O6bmdMly7">广东省博物馆三楼展厅</span></div>
-        <div class="desc" data-page-node-id="VBsHylNwcrq7q2LslRb2L4">意大利团队打造，高精度动态投影 + 环绕交响乐，串联梵高十年创作生涯。</div>
-        <div class="links" data-page-node-id="85xWdE7z23ckkfSW0p8sx8"><a href="https://www.nfnews.com/content/834p7gDe3d.html" target="_blank" data-page-node-id="2iFuYGsJCD2AXo1jzjXY52">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=广东省博物馆&region=广州市&referer=workbuddy" target="_blank" data-page-node-id="ADZa4XrFGypTC7TMNol6n0">📍 地图定位</a></div></div>
-
-      <div class="card" data-page-node-id="A8MQJEBrK7DAHOzmo9uZw8"><span class="tag t-exhi" data-page-node-id="DzgbdC4Ips2Lw83OhqQ4PK">展览</span><h3 data-page-node-id="WJBFnCh7bKSMWyuK5oHyk7">文艺复兴的交响——格拉斯哥博物馆藏大师作品展</h3>
-        <div class="row" data-page-node-id="BkzbYQRvliDUIAqfsmggdi"><span class="k" data-page-node-id="988JqgteLKjfxFkwI77Axh">展期</span><span data-page-node-id="VqM97fFa8IFOqLegxUjV5t">2026-07-01 ~ 10-18</span></div>
-        <div class="row" data-page-node-id="tmfygal1DlvFiE6DUDQLTp"><span class="k" data-page-node-id="lEVD4RyLgsXcrBps8n23q2">地点</span><span data-page-node-id="VymmlfCk1aYt8KtG7hWQWH">广东省博物馆三楼展厅</span></div>
-        <div class="desc" data-page-node-id="eZbGbaFqCsLBycdDZy510m">近 60 件英国格拉斯哥博物馆意大利艺术珍藏，跨越重洋抵穗。</div>
-        <div class="links" data-page-node-id="ZKNwuseu0B39DYNKEY2skk"><a href="https://www.nfnews.com/content/834p7gDe3d.html" target="_blank" data-page-node-id="rhywxcSPjsgdsfOutSdaEQ">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=广东省博物馆&region=广州市&referer=workbuddy" target="_blank" data-page-node-id="wqmDzv4UmzInJY2C6Kusxm">📍 地图定位</a></div></div>
-
-      <div class="card" data-page-node-id="wLuSgYryPOcTEs5zQUIDFX"><span class="tag t-exhi" data-page-node-id="3VQF13DCHdiyxqvNHoOcDA">展览</span><h3 data-page-node-id="hv1ysdBxAiLfYBgvk2Hqch">一念敦煌——石窟艺术大展</h3>
-        <div class="row" data-page-node-id="DkpwYQ9DCqfV0HKIjHHJYY"><span class="k" data-page-node-id="5wbPhydFXsz0F1JPqwGzDI">展期</span><span data-page-node-id="yTN3zD1Nc0PCIRgwkWKduc">2026-05-01 ~ 10-31</span></div>
-        <div class="row" data-page-node-id="jGruHxq05BkykeEZMGBIdZ"><span class="k" data-page-node-id="Nl92db3NnOphakVZnWdrVK">地点</span><span data-page-node-id="S0ecoR7PyUyKaaDS4maUCB">广州艺术博物院 2/3 号厅</span></div>
-        <div class="desc" data-page-node-id="7lFHwWrqd41Bfg3T0Xopn9">以“一念”为精神主线，剧场化沉浸叙事与艺术互动体验。</div>
-        <div class="links" data-page-node-id="ZuDKe5iR4DeSy9wbbTSnJ5"><a href="https://whly.gd.gov.cn/service_new/hdyg/content/post_4948012.html" target="_blank" data-page-node-id="Skzp9FwWhuSS5ehNkqwx2q">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=广州艺术博物院&region=广州市&referer=workbuddy" target="_blank" data-page-node-id="9zL6bYcVYdxA4ubnBLDjZR">📍 地图定位</a></div></div>
-
-      <div class="card" data-page-node-id="QnGLXedYIcOIRfuM3p6AF4"><span class="tag t-exhi" data-page-node-id="AfE6OZwDvS3oqpQ4mh2y8w">展览</span><h3 data-page-node-id="w0Grkug2oKHdXpEDJCf61X">青州微笑——中国古青州佛造像艺术展</h3>
-        <div class="row" data-page-node-id="8f0mbJaw2k4vIWLfGyMi93"><span class="k" data-page-node-id="RHVSmyiJQ7lCpU2mvFNj0G">展期</span><span data-page-node-id="DCjhg3nATEbsNb4ixxsFjz">2026-06-20 ~ 12-19</span></div>
-        <div class="row" data-page-node-id="8EDOcXQ7yd0qe0RHFMePkd"><span class="k" data-page-node-id="MHQWnWyDzwU5PGk1FZK5CL">地点</span><span data-page-node-id="N3vsAwcA2dVoJgADT2UAWe">广州艺术博物院 1 号厅</span></div>
-        <div class="desc" data-page-node-id="b7UU9bk7UVvahJKq7xuxQm">62 件佛造像精品，呈现北魏至北齐艺术风格流变。</div>
-        <div class="links" data-page-node-id="z0SnNwH8lJAs93e0JzrGM1"><a href="https://whly.gd.gov.cn/service_new/hdyg/content/post_4948012.html" target="_blank" data-page-node-id="6P4fYPaTxjr2B2QkkboL2U">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=广州艺术博物院&region=广州市&referer=workbuddy" target="_blank" data-page-node-id="TeG3dGLCExBQvgZjEtufip">📍 地图定位</a></div></div>
-
-      <div class="card" data-page-node-id="UHVAYdUqwWeZp19P1f7qSX"><span class="tag t-exhi" data-page-node-id="fjlBbDd3vVruIAkfLHmhSP">展览</span><h3 data-page-node-id="OXalYSKDY5A0I1teZiQegV">本己与在侧——神经多元艺术展</h3>
-        <div class="row" data-page-node-id="4lg0I9wqfGqn0aBXm4x5cf"><span class="k" data-page-node-id="WcucnapiOQ6FuFMSdHG9jK">展期</span><span data-page-node-id="lG4AI8t2c0vUOAJSE5TJJp">2026-09-08 ~ 09-20</span></div>
-        <div class="row" data-page-node-id="AJNacMuO5WWbvsSBU66wz0"><span class="k" data-page-node-id="uix2sBFsQgLy5Uv7fkvZwG">地点</span><span data-page-node-id="b23EdpWiUlHs1oS8gzvAmy">广州艺术博物院四楼 18 号厅</span></div>
-        <div class="desc" data-page-node-id="G9U86jbSLkx54Kof68kBCZ">29 位创作者呈现多元感知；9/12 分享沙龙、9/13 公共教育活动，免费开放。</div>
-        <div class="links" data-page-node-id="FCl8jPD1rtHobfT294hW4u"><a href="https://www.nfnews.com/content/LozB9Y5jon.html" target="_blank" data-page-node-id="qwuyDDEFjXhqEcyHc223Gm">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=广州艺术博物院&region=广州市&referer=workbuddy" target="_blank" data-page-node-id="zcx11ZHvzDjxCyZNUKvQUg">📍 地图定位</a></div></div>
-
-      <div class="card" data-page-node-id="ReI8m8guL46oDk13bxtdVL"><span class="tag t-exhi" data-page-node-id="tvwCOnV7LTY0mRGFAmknUD">展览</span><h3 data-page-node-id="WHPd0LKAVJAC0j7Gk9fLwM">白鹅潭大湾区艺术中心·广东美术馆新馆群展</h3>
-        <div class="row" data-page-node-id="GD7lTB2hcRO7nOmVSKJ7oL"><span class="k" data-page-node-id="quhNbdqMU6fo3IK9FkSoi6">展期</span><span data-page-node-id="NQFSsHQlHRXvovFZUF7G8i">长期 / 多展并行</span></div>
-        <div class="row" data-page-node-id="6EJTySv6XQmvj9FqRkYvBB"><span class="k" data-page-node-id="hfOZuEV6LtCuD0yhag7Nx2">地点</span><span data-page-node-id="8Qi6L4EWTzPu1i2bFFDuBi">白鹅潭大湾区艺术中心（广东美术馆新馆）</span></div>
-        <div class="desc" data-page-node-id="VOhppAEtaHfaDDoGygYGDt">王维宝捐赠展、李金明从艺 68 年回顾展、维加斯回顾展、许钦松创作奖全国展等。</div>
-        <div class="links" data-page-node-id="UEOwdOMxjoyFLzfuhDw19t"><a href="https://huacheng.gz-cmc.com/pages/2026/08/31/f10caa61f9764dd19cfa1b1cd1330808.html" target="_blank" data-page-node-id="vNH7wqlxgYoy7Juo67Dqfx">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=白鹅潭大湾区艺术中心&region=广州市&referer=workbuddy" target="_blank" data-page-node-id="BjAvVcBg1V0sjqZBCY3NJ4">📍 地图定位</a></div></div>
-
-      <div class="card" data-page-node-id="Fy3usKxoIDdYPtL3lojX3H"><span class="tag t-exhi" data-page-node-id="QWfF4OPRA2Hz0uT017rwgA">展览</span><h3 data-page-node-id="qM63tJGwLRP2d8356MXElf">那些年的老课本展</h3>
-        <div class="row" data-page-node-id="M0NA6CFhE8K145wDsYjINz"><span class="k" data-page-node-id="fuw2MkUnXdyxWQC3fiGV6m">展期</span><span data-page-node-id="2VW0t6VcRP8fXGHxqOrrij">九月起</span></div>
-        <div class="row" data-page-node-id="LyArgzKNiQuuo2roNeJYbV"><span class="k" data-page-node-id="u84mDMu23ouTDvfrLBATwT">地点</span><span data-page-node-id="6hx1JgDbChFT7zQUrdnbBa">荔湾博物馆</span></div>
-        <div class="desc" data-page-node-id="A1JfI5ChYecM0CFYIsuUrM">带观众走进百年前的课堂，读懂那时少年的成长课。</div>
-        <div class="links" data-page-node-id="eWUUiApcdP9IpjRfWzF1Q5"><a href="https://huacheng.gz-cmc.com/pages/2026/08/31/f10caa61f9764dd19cfa1b1cd1330808.html" target="_blank" data-page-node-id="nlfYeitFHAE5jpl7jeSevv">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=荔湾博物馆&region=广州市&referer=workbuddy" target="_blank" data-page-node-id="2rXCC8SR6gU2KSZ8fLvzRs">📍 地图定位</a></div></div>
-
-      <div class="card" data-page-node-id="UVqxDX1jBIuKu37JEdBxKV"><span class="tag t-exhi" data-page-node-id="D470oJ8R09yl9WVQ0GLBHk">展览</span><h3 data-page-node-id="eJH05kMWykae6KgmQjBcA4">广州文化公园中秋灯会</h3>
-        <div class="row" data-page-node-id="wn31pdUf1eFRPykp6J8ajz"><span class="k" data-page-node-id="tNcC9Ppk1Cu8By0u8vbrxK">展期</span><span data-page-node-id="Ad8YXbBjn6Ov0LhHyNDN2A">2026-09-25 ~ 10-07（免费）</span></div>
-        <div class="row" data-page-node-id="GOmRFh4IjcAG11kDIu6S36"><span class="k" data-page-node-id="9HSDkdD1Hx5TqHEnr3JnEc">地点</span><span data-page-node-id="ZuAeDCRECXsDxQLC79eTYA">广州文化公园</span></div>
-        <div class="desc" data-page-node-id="ENDEMeqVGfRAY1R1hKesiV">30 余组大中型彩灯 + 逾千盏气氛灯笼，配套中秋嘉年华市集、灯谜会、讲古。</div>
-        <div class="links" data-page-node-id="HcbdIDbBYc9wCDJtuGFm0H"><a href="https://huacheng.gz-cmc.com/pages/2026/08/31/f10caa61f9764dd19cfa1b1cd1330808.html" target="_blank" data-page-node-id="dTiUHeKLc3wxpZiZZlVrr1">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=广州文化公园&region=广州市&referer=workbuddy" target="_blank" data-page-node-id="bHm1Aynfkb7qysDcDTn65i">📍 地图定位</a></div></div>
-    </div>
-  </section>
-
-  <section class="c-show" data-page-node-id="XmLm9nxl3hfl46KIP5yB0T">
-    <div class="sec-title" data-page-node-id="EshhyE8jbld9lD97ebCoHJ"><span class="bar" data-page-node-id="a30chdKmbwim2b90j98CC2"></span>演出 / 现场</div>
-    <div class="grid" data-page-node-id="9dOLohsnDZD6kt7DZYbFtl">
-      <div class="card" data-page-node-id="6km5PpCZ6VdX4pktF1JT7P"><span class="tag t-show" data-page-node-id="21GTI53SQqrzR2LvVAHPuk">演唱会</span><h3 data-page-node-id="TDa4IXcJDtHOyUHgHVGhK0">欧阳娜娜「Playlist 嘉年华」演唱会</h3>
-        <div class="row" data-page-node-id="2HGt1Rp1KRnSVKCAuAGprx"><span class="k" data-page-node-id="DhDnb3SdVUg0hOu2VJgZKG">时间</span><span data-page-node-id="OmreEcyQBSS3iQV7Qh8eqA">2026-09-12 19:00</span></div>
-        <div class="row" data-page-node-id="rvL7YKh1CE486rXkEdd4xb"><span class="k" data-page-node-id="fsLJwWDtimMYKHrETISHy0">地点</span><span data-page-node-id="XvsoG8tIXey9Pyi2SHCwgB">广州体育馆 1 号馆</span></div>
-        <div class="desc" data-page-node-id="ABDfdAs5UwobZgWLAPLOhO">大提琴、钢琴、吉他将音乐世界装进一张“Playlist”。</div>
-        <div class="links" data-page-node-id="b7pXuYqBsBhW8lRMSx94E1"><a href="https://www.toutiao.com/article/7681327845976670726/" target="_blank" data-page-node-id="UXcj4gIqbuVeSC0JRqrVIf">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=广州体育馆&region=广州市&referer=workbuddy" target="_blank" data-page-node-id="gRlZSBEGaiGhAhHbX50am3">📍 地图定位</a></div></div>
-
-      <div class="card" data-page-node-id="L9tCWXfAoXM88W7YqOM4ZM"><span class="tag t-show" data-page-node-id="aCRiQv2kRs1qqxiwWskkhi">演唱会</span><h3 data-page-node-id="n7aXj6kLq8ccd5GQdEZnV2">光良「不会分离·今晚我不孤独 3.0⁺」巡回演唱会</h3>
-        <div class="row" data-page-node-id="QaEQPPmCyDSuBA4rdTvunI"><span class="k" data-page-node-id="enmWQqVn7hTox88inHSKtU">时间</span><span data-page-node-id="MSE1R52UyZap3bDqTXX50W">2026-09-12 19:00</span></div>
-        <div class="row" data-page-node-id="W9ZcgE7n4XU6RrffniELbF"><span class="k" data-page-node-id="3E5tUK0877ixyypDz3tJj1">地点</span><span data-page-node-id="mGnknR7qMm7HUyyzhztOeD">宝能广州国际体育演艺中心</span></div>
-        <div class="desc" data-page-node-id="gYvAL8v2y19DGDHyd76gfM">那些曾单曲循环的情歌，终于在现场重新响起。</div>
-        <div class="links" data-page-node-id="saj4y9JZuDoHS1VrdvDw8m"><a href="https://www.toutiao.com/article/7681327845976670726/" target="_blank" data-page-node-id="o0DXAFEyNgfCZCjwv4JSu8">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=宝能广州国际体育演艺中心&region=广州市&referer=workbuddy" target="_blank" data-page-node-id="Ohhj1alU7XBtjYqURczXk4">📍 地图定位</a></div></div>
-
-      <div class="card" data-page-node-id="NN1nTc31G4fAOv3EMyE6CC"><span class="tag t-show" data-page-node-id="4VKcspKE4ZQ56ncEA5vT5p">演唱会</span><h3 data-page-node-id="Ybn8mCUxFUqFIm6GHvyKrQ">黄小琥「现在那边是几点」巡回演唱会 广州站</h3>
-        <div class="row" data-page-node-id="2LizdXvgDXxSVPr9Dsu2rz"><span class="k" data-page-node-id="PYnUPia7zu1gFeROLzGUV3">时间</span><span data-page-node-id="nJt5VumNlnCk6odEl7bwmj">2026-09-12</span></div>
-        <div class="row" data-page-node-id="L0kkdfMHbShzLbMLnb1wD4"><span class="k" data-page-node-id="dje9UN1u2rKwtHhlX5R3WI">地点</span><span data-page-node-id="avLJeJgdbUZvNydHJ8t7aP">广州亚运城综合体育馆</span></div>
-        <div class="desc" data-page-node-id="ZFcVgDxWblAK5jKdqvASUh">时光、回忆与陪伴，经典歌声回到现场。</div>
-        <div class="links" data-page-node-id="w0EFPGB8fm60MqxCHdZxsn"><a href="https://www.toutiao.com/article/7681327845976670726/" target="_blank" data-page-node-id="7l8NSGDdzQEXJFgluTDKcz">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=广州亚运城综合体育馆&region=广州市&referer=workbuddy" target="_blank" data-page-node-id="AabeczrIgs8OoQsVOmvo3Y">📍 地图定位</a></div></div>
-
-      <div class="card" data-page-node-id="zjlmUfI4TTTePhHPRPsWHw"><span class="tag t-show" data-page-node-id="b7NejMOBeD5srGSBfsRA3B">演唱会</span><h3 data-page-node-id="KcEXvGtP4n8qHu8uddBVPp">关智斌《The Endless Adventure》2026 广州演唱会</h3>
-        <div class="row" data-page-node-id="Fw0EpJV9KuwEXCgZYPNA48"><span class="k" data-page-node-id="61ipUz18UEwvN3bmT8Hwvv">时间</span><span data-page-node-id="rcg1uCMOWVVh9jnHRkxGW4">2026-09-19 19:00</span></div>
-        <div class="row" data-page-node-id="Ma86X0lppuHeDYLWh27urZ"><span class="k" data-page-node-id="ZgwLGJ5BKBolxSNAhSIUaB">地点</span><span data-page-node-id="KXIKTXtxVxXRePOPbEjQbx">广州体育馆 1 号馆</span></div>
-        <div class="desc" data-page-node-id="dmTODeNChZlrEkcZBdOqyP">从 Boy'z 到独立歌手，一场“无尽冒险”。</div>
-        <div class="links" data-page-node-id="rG8uB2zKjvAcL4JqRHSjHi"><a href="https://www.toutiao.com/article/7681327845976670726/" target="_blank" data-page-node-id="YGZC6vqy2kv00mEh73eI1v">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=广州体育馆&region=广州市&referer=workbuddy" target="_blank" data-page-node-id="9illu8vuoCwhf0O7Qt8fRH">📍 地图定位</a></div></div>
-
-      <div class="card" data-page-node-id="vne7LzAu6kEfXPLSruZ06n"><span class="tag t-show" data-page-node-id="zqTYyqaYYdHwWuTek4MR5R">演唱会</span><h3 data-page-node-id="Rqxmx9YpHmMXz4Cv6xwFDG">韦礼安「HI WE1 韦，您好」巡回演唱会</h3>
-        <div class="row" data-page-node-id="RGAsN5rWmrm9fxTTLYwiGf"><span class="k" data-page-node-id="keAOCcJatBP4ht6d2lslmq">时间</span><span data-page-node-id="yRHvz8iyWKBbcD9hERCOiy">2026-09-19 19:00</span></div>
-        <div class="row" data-page-node-id="QG27M8gjUNEX2oAqdwA3Dd"><span class="k" data-page-node-id="r29h900GdBeEpYvjrxDr62">地点</span><span data-page-node-id="vQXrhYVXYrAPOjO9BZvt8r">广州亚运城综合体育馆</span></div>
-        <div class="desc" data-page-node-id="EFLQroq9ykLymxIhZHB9sP">“韦，您好。” 清新派创作男声现场。</div>
-        <div class="links" data-page-node-id="AHPrUkUN8IQXuD3yUr5s1Q"><a href="https://www.toutiao.com/article/7681327845976670726/" target="_blank" data-page-node-id="taeSEjQEX9Mh7X2pCcuFD8">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=广州亚运城综合体育馆&region=广州市&referer=workbuddy" target="_blank" data-page-node-id="o5Fc0YSzcpdWDukgH8GKfl">📍 地图定位</a></div></div>
-
-      <div class="card" data-page-node-id="rCFYcOCXde6Fo5fYB9elcJ"><span class="tag t-show" data-page-node-id="8Dv4y75YZNtiygMCe90gsw">音乐会</span><h3 data-page-node-id="FNbLr1XGnDDnUvpeWaKMzf">约兰·索舍尔吉他独奏音乐会</h3>
-        <div class="row" data-page-node-id="omaH7o4rxz8U13JkxkJZfN"><span class="k" data-page-node-id="rypsob4liZ05skBmWmjdnA">时间</span><span data-page-node-id="D5TLmhu5prSmmeuEYrC2Y6">2026-09-27 15:00</span></div>
-        <div class="row" data-page-node-id="en11EvptHOK5Mgch4OiQ1I"><span class="k" data-page-node-id="vYyNAnVOKZKLmUCwfOStAI">地点</span><span data-page-node-id="zcNRWCHuHAJgnIrE2MjBe6">广州大剧院</span></div>
-        <div class="desc" data-page-node-id="1AjrvgGBbmZJ7MJdoBWwdK">DG 签约艺术家、巴黎国际吉他大赛冠军，巴赫鲁特琴作品标杆演绎。</div>
-        <div class="links" data-page-node-id="ntNzl4H23JwhSlxiauEbYd"><a href="https://m.sohu.com/a/1071722360_121106875" target="_blank" data-page-node-id="O8ayY7zLcIKKNCT4jxgLfH">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=广州大剧院&region=广州市&referer=workbuddy" target="_blank" data-page-node-id="CBX1Pj9mhQRM6w4AlLfgZa">📍 地图定位</a></div></div>
-
-      <div class="card" data-page-node-id="137U11YxV4dhYXXtqQqEMK"><span class="tag t-show" data-page-node-id="PrUhQBG1QCff5LiUT5yXj2">Livehouse</span><h3 data-page-node-id="jWHYhB8T53JdgZRoBijPeJ">MAO Livehouse 广州（太古仓店）9 月演出</h3>
-        <div class="row" data-page-node-id="c5K5DRbjEbPimOznVymUW6"><span class="k" data-page-node-id="RGbcfXsOFgLDn7wKF3Q0rS">时间</span><span data-page-node-id="o9mZeHFNz1VJ4sO7msqMQ3">9/12 CHECKYLAM · 9/13 yamy · 9/19 高天佐 · 9/20 亚森 · 9/26 Killer Dragon</span></div>
-        <div class="row" data-page-node-id="7VCy2KUEAejV7nt3tA7ZAk"><span class="k" data-page-node-id="WeTzunWCxK61Akb0KpJpMt">地点</span><span data-page-node-id="pMeoU3z7CG3rKSHUEvWb2M">MAO Livehouse 太古仓店</span></div>
-        <div class="desc" data-page-node-id="rYRHMhvlTPgaBESyznPFaw">独立、说唱、二次元多线并行，详见官博场次。</div>
-        <div class="links" data-page-node-id="XjKoSZBaa4olGX103RL6jy"><a href="https://weibo.com/6415425506/5337675204921302" target="_blank" data-page-node-id="k2yFnByXYrIDaN7DVKC8QB">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=MAO Livehouse 太古仓店&region=广州市&referer=workbuddy" target="_blank" data-page-node-id="w4JfCGjEQEv0yApXdrb2qg">📍 地图定位</a></div></div>
-
-      <div class="card" data-page-node-id="5NfUtDAcvpfwUPyFytBEAF"><span class="tag t-show" data-page-node-id="BaRzrNBoQbG66HKXyGiMr8">Livehouse</span><h3 data-page-node-id="v9OEZOcxzlGDB2BzRlYK7X">MAO Livehouse 广州（中大店）9 月演出</h3>
-        <div class="row" data-page-node-id="dOXojmmgDgDEBQLLwK9CJj"><span class="k" data-page-node-id="G8P6oqqHYijQQXk8GIH8Yi">时间</span><span data-page-node-id="crGCop5cE2yiyEAOIy6XHH">9/11 宫阁 · 9/12 小缘/Galen Crew · 9/19 邓典 · 9/20 WE LOST THE SEA · 9/22 沉默演讲 · 9/25 Marian Hill · 9/27 于冬然</span></div>
-        <div class="row" data-page-node-id="i8oJYYn8Vtex7d5gNpMted"><span class="k" data-page-node-id="XqaLJ7Wzb3kNWlWlyHJB23">地点</span><span data-page-node-id="bO0XxFghZrtqKRoaFbIRFT">MAO Livehouse 中大店</span></div>
-        <div class="desc" data-page-node-id="3WGiGFo6z45Kq3Cjnc5P0q">二号馆 / 一号馆多场，覆盖后朋、独立、流行。</div>
-        <div class="links" data-page-node-id="HESouFnNIMD8sH3NXJQ1Mw"><a href="https://weibo.com/7960236874/5337352672381289" target="_blank" data-page-node-id="crzPHe4mtRy9lAWeDyqDgX">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=MAO Livehouse 中大店&region=广州市&referer=workbuddy" target="_blank" data-page-node-id="qd0LIr6dfkxFo6OTFcmQwP">📍 地图定位</a></div></div>
-
-      <div class="card" data-page-node-id="nSMYKyxH4KMSBxMUugkjDu"><span class="tag t-show" data-page-node-id="Yl3znN5caiuVgjMJU8x7Ml">Livehouse</span><h3 data-page-node-id="IV16M2CaJvGHI1LTwNyzC7">疆进酒 OMNI SPACE 9 月演出</h3>
-        <div class="row" data-page-node-id="YBuw85Ifp9DEpWqwmAzTT8"><span class="k" data-page-node-id="mcB0pnmEkduAjWsnQ3GBXx">时间</span><span data-page-node-id="JtBZYkcb3QmUMiM0Th1LYW">9/12 一枚钉情绪音乐节 · 9/17 Noumena · 9/18 EPICA 荷兰交响金属 · 9/19 钟立风</span></div>
-        <div class="row" data-page-node-id="C0iNXyHIZ5TI70myoECNdr"><span class="k" data-page-node-id="y8i3nDb8xWsIaOAA3kFDeN">地点</span><span data-page-node-id="VSqMemUbR5NFRSu39Bzl9H">疆进酒 OMNI SPACE</span></div>
-        <div class="desc" data-page-node-id="OUHXLy1HP5SGRcfCq9sTWv">金属、emo、民谣多风格现场。</div>
-        <div class="links" data-page-node-id="3dEgDuYg5u1eIHICA0Zbrq"><a href="https://www.nfnews.com/content/834p7gDe3d.html" target="_blank" data-page-node-id="1BnCQUU7Ip7plmqAJ9DTia">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=疆进酒 OMNI SPACE 广州&region=广州市&referer=workbuddy" target="_blank" data-page-node-id="hMn5uzy8UhJoABQnnzDWPj">📍 地图定位</a></div></div>
-
-      <div class="card" data-page-node-id="E4Y19e37Dlrwd6jngiJRLi"><span class="tag t-show" data-page-node-id="ueb3yKKPMNfVpqbYLsM9ia">Livehouse</span><h3 data-page-node-id="QerU9vCusDFA6ASqwMJx9K">声音共和 Livehouse 9 月演出</h3>
-        <div class="row" data-page-node-id="DzcfhjRWyhxADMlpDBHlkz"><span class="k" data-page-node-id="RZVhqwwgiCYPX6hAoFnMF0">时间</span><span data-page-node-id="aNN3yFAe17Yv73IKNnkhpQ">9/11 超级市场 · 9/12 斯外戈 · 9/13 倦梦鼠鼠 · 9/17 液蓝 · 9/18 EITEEN · 9/19 半吨兄弟</span></div>
-        <div class="row" data-page-node-id="kVh0LFZnECRQgPwmLARCBF"><span class="k" data-page-node-id="GvxitJZOsJT352FRrSovJo">地点</span><span data-page-node-id="rs0Y79AZVFXsDb0w1oOmRk">声音共和 Livehouse（广州塔店）</span></div>
-        <div class="desc" data-page-node-id="BpWI4JVD6ufFiO2d8fFFtF">合成器流行、独立、民谣厂牌联合专场。</div>
-        <div class="links" data-page-node-id="cz51VFB0imO2VlClZVgoNB"><a href="https://www.nfnews.com/content/834p7gDe3d.html" target="_blank" data-page-node-id="Hg8K7yzaCzqUtpPTJWGyE8">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=声音共和 Livehouse 广州&region=广州市&referer=workbuddy" target="_blank" data-page-node-id="T2Mq36AvjZBx7qDi2FbACR">📍 地图定位</a></div></div>
-
-      <div class="card" data-page-node-id="SfyoCmeDbcl7mHphw0bNoh"><span class="tag t-show" data-page-node-id="CAhC30KSJOf3zXWbb64Iqa">喜剧</span><h3 data-page-node-id="wKxuZnI9HInG05QzilPELd">好说喜剧 / BRAVO COMEDY 脱口秀</h3>
-        <div class="row" data-page-node-id="JRBiMmNTNBpZTKaU2ECMFL"><span class="k" data-page-node-id="yiWIAKyHgWPgZIqHQJGtfB">时间</span><span data-page-node-id="webbkRrt0rP3ICb135tTGB">9/4、9/12 等多场</span></div>
-        <div class="row" data-page-node-id="jdGmHNYDYXYFddu894PTyi"><span class="k" data-page-node-id="KCFEsat3I9rCfvaFOvdCEH">地点</span><span data-page-node-id="svCT3Pn28OGDcessoDBBzL">好说喜剧（永庆坊店 / 客村珠影店）</span></div>
-        <div class="desc" data-page-node-id="GZa2kxSqXyFX6PiVVJsGE5">英语单口、中文开放麦与专场并行。</div>
-        <div class="links" data-page-node-id="Hjj5MdutEOquUcMFauZF4e"><a href="https://www.nfnews.com/content/834p7gDe3d.html" target="_blank" data-page-node-id="WcCJNSgfpeyGLkNFpHSsn0">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=好说喜剧 广州&region=广州市&referer=workbuddy" target="_blank" data-page-node-id="OzZoV8Nwri22VHTB8fYL5k">📍 地图定位</a></div></div>
-
-      <div class="card" data-page-node-id="O5c97wkFm0VFYz986fujtV"><span class="tag t-show" data-page-node-id="2wLyxT6YHnbLTFFqTwG71X">重磅预告</span><h3 data-page-node-id="7eSK3jTTMzzgD58HmCv0CO">周杰伦嘉年华 2026 世界巡回演唱会 广州站</h3>
-        <div class="row" data-page-node-id="Q24pF7QA3nltXsJFsEbGt2"><span class="k" data-page-node-id="Ls9aaCwA0c68ms4LP4BL9Y">时间</span><span data-page-node-id="HP3e1ysiXkvuApsbJ7BvIn">2026-12-04 ~ 12-06（开票待定）</span></div>
-        <div class="row" data-page-node-id="kBIYAKuCFaGDIexxTxQ6wr"><span class="k" data-page-node-id="UhC8mvI4mkG9mTsWcjII7F">地点</span><span data-page-node-id="yJFdIFxlZPcVOfQyHULHT3">天河体育中心体育场</span></div>
-        <div class="desc" data-page-node-id="ksuDlLXgkz5w5EMelyivKX">时隔十年再临广州，三晚连唱；大麦 / 猫眼“想看”已超 254 万。</div>
-        <div class="links" data-page-node-id="mnud3ZNFlx4jfMAwYDi92e"><a href="https://www.toutiao.com/article/7681327845976670726/" target="_blank" data-page-node-id="2GFFYmwk1VABOPG5miJT6J">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=天河体育中心&region=广州市&referer=workbuddy" target="_blank" data-page-node-id="Gv3bYIb7TvFP2oLSM9OCMW">📍 地图定位</a></div></div>
-    </div>
-  </section>
-
-  <section class="c-market" data-page-node-id="oYK99EPcwNparctlbfpW2W">
-    <div class="sec-title" data-page-node-id="bxiWBMUsO6egxNjsY1pheF"><span class="bar" data-page-node-id="XVoRrbCLfynRmTiQTPwmmU"></span>市集 / 快闪</div>
-    <div class="grid" data-page-node-id="QtXBaymnHKHQJrOJTZsxYx">
-      <div class="card" data-page-node-id="EKkOQYTC05W624rD7mDZ9u"><span class="tag t-market" data-page-node-id="E7qyCOLGESvZF9KzoGO5uN">手作市集</span><h3 data-page-node-id="Bir82WF7IM6mOPEKZkpD2V">一方东山「玩物立志」手作市集</h3>
-        <div class="row" data-page-node-id="G2Yzd7uIaemY4ef2U9Er4Y"><span class="k" data-page-node-id="pTrS6QRH4CFjPyvwt127If">时间</span><span data-page-node-id="IK7YTTLe8jYlbKXNO767Sw">2026-09-11 ~ 09-13 11:00-19:00</span></div>
-        <div class="row" data-page-node-id="odyDSHZXTCTjh5WHjM0FVk"><span class="k" data-page-node-id="bEg51XvaIHU1HYjQiZsLfU">地点</span><span data-page-node-id="LDdBTTCMNT7OQm2KLWsYty">一方东山文创园 A 区广场（东山口）</span></div>
-        <div class="desc" data-page-node-id="iGz80fpRzvovTsfXac9mnV">原创手作、插画、黏土、潮玩、怪摆件；集章有礼。</div>
-        <div class="links" data-page-node-id="gFrQRMRf7HBqVOkhJgnpnQ"><a href="https://weibo.com/6504355895/5338307702819406" target="_blank" data-page-node-id="UT5bUZKP1O7xrHHHv6ncye">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=一方东山文创园&region=广州市&referer=workbuddy" target="_blank" data-page-node-id="9VkAL7jTNOktKGJo605qpo">📍 地图定位</a></div></div>
-
-      <div class="card" data-page-node-id="83OuF3eYBjN52Th9wxx2dN"><span class="tag t-market" data-page-node-id="EvOzsWMjdmWeHxxJB6giK1">社区市集</span><h3 data-page-node-id="hYnDRQ361mQSzPteJrh0HP">第三届广州地铁 TOD 生活节·好生活市集</h3>
-        <div class="row" data-page-node-id="Z8U23kBrIDp630ya3byWrL"><span class="k" data-page-node-id="zXPObzma1d0TV3e1nHu4Df">时间</span><span data-page-node-id="MW4w2xZ0q9dgezvqMCTXbl">9/5-6、9/12-13 每日 16:00-20:00</span></div>
-        <div class="row" data-page-node-id="CdJnnKYYqVD0sVs6ZM59Md"><span class="k" data-page-node-id="K4sm5elauSKHtUtaHUB6yr">地点</span><span data-page-node-id="n1KZMiCLNRrWF4Nnu7ZKRl">4 城区 7 个 TOD 社区</span></div>
-        <div class="desc" data-page-node-id="CJANvgnwFkWBfYJHWiJX8J">免费摊位招募原创手作 / 文创 / 夏夜轻食 / 非遗；地铁沿线客流。</div>
-        <div class="links" data-page-node-id="P51jq7TVMi8g0BvH8B0rmW"><a href="https://so.html5.qq.com/page/real/search_news?docid=70000021_9146a8a3bdf65852" target="_blank" data-page-node-id="aRDTnbm6xnZsm80FIYFWFd">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=广州地铁 TOD&region=广州市&referer=workbuddy" target="_blank" data-page-node-id="KlbSJ7azKNIuhXLQmkp96J">📍 地图定位</a></div></div>
-
-      <div class="card" data-page-node-id="xUavnWvzqUjLXY9lJPpTNR"><span class="tag t-market" data-page-node-id="4OuPgcI1VDq4mkUJmtMs5W">节庆市集</span><h3 data-page-node-id="DYugBBxDwy3nyf79890j9P">广州文化公园中秋嘉年华市集</h3>
-        <div class="row" data-page-node-id="8o0xDWbdOTFBEuBG9nuzqP"><span class="k" data-page-node-id="FhDbJAykK3HKEFZbo2Y1P6">时间</span><span data-page-node-id="4oHBVQoY95sAB7IhkXrWxR">2026-09-25 ~ 10-07</span></div>
-        <div class="row" data-page-node-id="6A6ZbiwFs4U6JiHEoGFDSY"><span class="k" data-page-node-id="FEbCwMGnhEjKbZ4J88twXA">地点</span><span data-page-node-id="vBrwHRXoTUVvPHehdkWnKo">广州文化公园</span></div>
-        <div class="desc" data-page-node-id="Z634nykzu8JE680VbID8qE">中秋灯会同期配套市集、彩灯制作比赛、灯谜会、讲古等。</div>
-        <div class="links" data-page-node-id="Sw2HahYVC9fOFFT5QnTiE1"><a href="https://huacheng.gz-cmc.com/pages/2026/08/31/f10caa61f9764dd19cfa1b1cd1330808.html" target="_blank" data-page-node-id="bjx7bHuXsfvcVBXB8zsrsF">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=广州文化公园&region=广州市&referer=workbuddy" target="_blank" data-page-node-id="CrNH30TookSIwfoQeaoC6F">📍 地图定位</a></div></div>
-    </div>
-  </section>
-
-  <section class="c-talk" data-page-node-id="jGu0QgDsnpIQ9sQRRFS3iw">
-    <div class="sec-title" data-page-node-id="Yim8kwF0cRAveV1gNhSlBn"><span class="bar" data-page-node-id="9FL3wSCZUyO2OvgPlrBD0U"></span>讲座 / 沙龙</div>
-    <div class="grid" data-page-node-id="cU0alEVW0LGQcA6cZuq5xe">
-      <div class="card" data-page-node-id="fXaZNrWdJAde1Hso0jSMdM"><span class="tag t-talk" data-page-node-id="8eq4M5ZGFN3At5HWbRWcrW">阅读疗愈</span><h3 data-page-node-id="JOUNMLWeTvKeIsklQfZw4q">广图阅己·艺享｜岭南琴茶香阅读疗愈</h3>
-        <div class="row" data-page-node-id="KSFXpEImZxlhmT9cdFVaJt"><span class="k" data-page-node-id="1MkJxd5znN4HgBZDuOlGf4">时间</span><span data-page-node-id="HZMbryIFA61uG0J1QWO6xn">2026-09-18、09-19 10:00-11:30</span></div>
-        <div class="row" data-page-node-id="ZjF4bRrqFDoNxkCvutsk7T"><span class="k" data-page-node-id="1P6pfpnJWHN7dJNBYR2EXt">地点</span><span data-page-node-id="wOilRl7ESNJI4csvTYU7pW">广州图书馆南一楼阅读体验区</span></div>
-        <div class="desc" data-page-node-id="3mDZemq2J0v6opPqKXk50o">岭南古琴市级非遗传承人宁兰清主讲，共读琴诗、陈皮普洱配降真和香，每场限 50 人，免费报名。</div>
-        <div class="links" data-page-node-id="CYyiExYfPX4e8Pb76VhfjF"><a href="https://action.gzlib.org.cn/action/web/integral.do?actionCmd=viewSP&id=50122716" target="_blank" data-page-node-id="Vpvq0yO68RarGUWV8DQs6A">报名 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=广州图书馆&region=广州市&referer=workbuddy" target="_blank" data-page-node-id="ta52mHphPBhF6739zp8Enc">📍 地图定位</a></div></div>
-
-      <div class="card" data-page-node-id="COQ4PPWqLQ9Q2AuPiYRbpz"><span class="tag t-talk" data-page-node-id="ou4X3FEYI06HtrdABLnHFO">拆书会</span><h3 data-page-node-id="mxuzCOClSnoZylZZqLAWJB">阅动黄埔·拆书会《真红利：一本书讲透 AI 时代的风口》</h3>
-        <div class="row" data-page-node-id="wvG60r3OTnOUMxJ0nT2egk"><span class="k" data-page-node-id="OGsFIouhJ7wNzyEraw0YsG">时间</span><span data-page-node-id="J43q7977PSBf4bnFBVuWCk">2026-09-13 15:00-16:30</span></div>
-        <div class="row" data-page-node-id="mF3ZBf6OFFiFUgaisDoP2A"><span class="k" data-page-node-id="6Wm1JXwZGl8LTULSSp5Tu3">地点</span><span data-page-node-id="BbT6btR3VINDfnExDyttTw">黄埔区图书馆总馆（香雪馆）一楼培训室</span></div>
-        <div class="desc" data-page-node-id="kniF9z37L6tzJyPhGtwAZB">零基础友好，掌握 AI 提问公式，现场实操；限 50 人，免费报名。</div>
-        <div class="links" data-page-node-id="VQM7fyYbZMmpg7xWh4YIkp"><a href="https://www.sohu.com/a/1070585955_121106875" target="_blank" data-page-node-id="EwDM1tySX8vRy6mWlnkqtM">报名 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=黄埔区图书馆 香雪馆&region=广州市&referer=workbuddy" target="_blank" data-page-node-id="TWNIXIepoIdC2rub1p63Gx">📍 地图定位</a></div></div>
-
-      <div class="card" data-page-node-id="iSy5J81LSk55qY8hBbre12"><span class="tag t-talk" data-page-node-id="muwBvEny6CWLXUk75eDPiP">技术沙龙</span><h3 data-page-node-id="FW7F4p8aJOy7ZCwEc5eMP5">腾讯云架构师城市沙龙｜AI 在企业落地的问题与解法</h3>
-        <div class="row" data-page-node-id="2oHirb0GmMjIw2AJPfgXUi"><span class="k" data-page-node-id="wbgVJrKEv2IBDSJu1W5i4s">时间</span><span data-page-node-id="XTfrxCB638oE8oTyyZxRBO">2026-09-12 14:00-18:00</span></div>
-        <div class="row" data-page-node-id="arbccthR4kyqdCmSBT5cIF"><span class="k" data-page-node-id="YClWGsehRx8N9JfnBx1FwT">地点</span><span data-page-node-id="uAe2zqg6Wjci6F6YwFfvpR">腾讯广州大厦 512 会议室（海珠琶洲）</span></div>
-        <div class="desc" data-page-node-id="alzTz4CTAjeL5QCB2kG08K">AI Coding 进研发体系的三处断点、不被 AI 取代的工程师等议题，分组讨论。</div>
-        <div class="links" data-page-node-id="pEIqOGRGndgLKg4dFlfwWY"><a href="https://cloud.tencent.com/developer/salon/salon-2514" target="_blank" data-page-node-id="dEArBRsEP05g5YIR0VtAyv">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=腾讯广州大厦&region=广州市&referer=workbuddy" target="_blank" data-page-node-id="EvceQb93w8hDhOnXlIWIKz">📍 地图定位</a></div></div>
-    </div>
-  </section>
-
-  <section class="c-sports">
-    <div class="sec-title"><span class="bar"></span>体育赛事</div>
-    <div class="grid">
-      <div class="card"><span class="tag t-sports">体育</span><h3>2026 广州马拉松赛报名</h3>
-        <div class="row"><span class="k">时间</span><span>09-02~09-11 报名（12-20 开跑）</span></div>
-        <div class="row"><span class="k">地点</span><span>天河体育中心（起点）· 海心沙（终点）</span></div>
-        <div class="desc">世界田联金标赛事，规模扩至 3 万人；报名费 180 元/人，9/11 18:00 截止，抽签结果 9 月下旬公布。</div>
-        <div class="links"><a href="https://www.guangzhou-marathon.com" target="_blank">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=天河体育中心&amp;region=广州市&amp;referer=workbuddy" target="_blank">📍 地图定位</a></div></div>
-    </div>
-  </section>
-
-  <section class="c-family">
-    <div class="sec-title"><span class="bar"></span>亲子</div>
-    <div class="grid">
-      <div class="card"><span class="tag t-family">亲子</span><h3>《冰雪奇缘之冰雪梦境》亲子魔法剧</h3>
-        <div class="row"><span class="k">时间</span><span>09-11~09-12 多场</span></div>
-        <div class="row"><span class="k">地点</span><span>广东艺术剧院</span></div>
-        <div class="desc">艾莎、安娜空降广州，梦幻冰雪世界舞台还原，孩子可近距离与公主互动。</div>
-        <div class="links"><a href="https://m.sohu.com/a/1071722360_121106875" target="_blank">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=广东艺术剧院&amp;region=广州市&amp;referer=workbuddy" target="_blank">📍 地图定位</a></div></div>
-
-      <div class="card"><span class="tag t-family">亲子</span><h3>《奥特曼之光之守护者》儿童剧</h3>
-        <div class="row"><span class="k">时间</span><span>09-12~09-13 多场</span></div>
-        <div class="row"><span class="k">地点</span><span>广东艺术剧院</span></div>
-        <div class="desc">亲身奔赴奥特曼的热血现场，圆小朋友的英雄梦想，亲子观演体验。</div>
-        <div class="links"><a href="https://m.sohu.com/a/1071722360_121106875" target="_blank">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=广东艺术剧院&amp;region=广州市&amp;referer=workbuddy" target="_blank">📍 地图定位</a></div></div>
-
-      <div class="card"><span class="tag t-family">亲子</span><h3>《冰雪公主魔镜奇缘》亲子音乐剧</h3>
-        <div class="row"><span class="k">时间</span><span>09-12 科学城 / 09-19 文化馆</span></div>
-        <div class="row"><span class="k">地点</span><span>广州科学城会议中心（9/12）</span></div>
-        <div class="desc">根据安徒生童话《冰雪女王》重新创作的正版亲子音乐舞台剧。</div>
-        <div class="links"><a href="https://m.sohu.com/a/1071722360_121106875" target="_blank">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=科学城会议中心&amp;region=广州市&amp;referer=workbuddy" target="_blank">📍 地图定位</a></div></div>
-
-      <div class="card"><span class="tag t-family">亲子</span><h3>《小王子：星旅奇遇》沉浸式VR展</h3>
-        <div class="row"><span class="k">展期</span><span>08-22~11-30</span></div>
-        <div class="row"><span class="k">地点</span><span>广州K11购物艺术中心 L3</span></div>
-        <div class="desc">沉浸式 VR 大空间体验，亲子共同寻找、守护 B-612 星球，写给孩子与成人的星际邀请。</div>
-        <div class="links"><a href="https://huacheng.gz-cmc.com/pages/2026/08/21/a759f4b2087b4ef2802735ec259f21f3.html" target="_blank">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=广州K11购物艺术中心&amp;region=广州市&amp;referer=workbuddy" target="_blank">📍 地图定位</a></div></div>
-    </div>
-  </section>
-
-  <section class="c-outdoor">
-    <div class="sec-title"><span class="bar"></span>户外</div>
-    <div class="grid">
-      <div class="card"><span class="tag t-outdoor">户外</span><h3>第十五届郑仙诞文化旅游月</h3>
-        <div class="row"><span class="k">时间</span><span>09-06~09-19</span></div>
-        <div class="row"><span class="k">地点</span><span>白云山鸣春谷山顶广场</span></div>
-        <div class="desc">1600 年历史的“广州第一诞”，含七山联动集福打卡、康养庙会、非遗手作市集；9/6 穿汉服从南门入园免门票。</div>
-        <div class="links"><a href="https://www.toutiao.com/article/7680876170631528975" target="_blank">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=白云山&amp;region=广州市&amp;referer=workbuddy" target="_blank">📍 地图定位</a></div></div>
-    </div>
-  </section>
-
-  <section class="c-expo">
-    <div class="sec-title"><span class="bar"></span>展会 / 招聘</div>
-    <div class="grid">
-      <div class="card"><span class="tag t-expo">展会</span><h3>2026 广州国际露营展会</h3>
-        <div class="row"><span class="k">时间</span><span>09-11~09-13</span></div>
-        <div class="row"><span class="k">地点</span><span>保利世贸博览馆</span></div>
-        <div class="desc">帐篷、户外装备、露营生活方式等品类的专业商贸展。</div>
-        <div class="links"><a href="https://exhibit.56ye.net/show-226783.html" target="_blank">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=保利世贸博览馆&amp;region=广州市&amp;referer=workbuddy" target="_blank">📍 地图定位</a></div></div>
-
-      <div class="card"><span class="tag t-expo">招聘</span><h3>“百万英才汇南粤”网信人才招聘会</h3>
-        <div class="row"><span class="k">时间</span><span>09-14 09:00-16:00</span></div>
-        <div class="row"><span class="k">地点</span><span>华南理工大学广州国际校区</span></div>
-        <div class="desc">200+ 企业参会，聚焦 AI 算法、芯片设计、网络安全等岗位，部分年薪 30-70 万。</div>
-        <div class="links"><a href="https://www.sznews.com/news/content/2026-09/07/content_32165714.htm" target="_blank">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=华南理工大学广州国际校区&amp;region=广州市&amp;referer=workbuddy" target="_blank">📍 地图定位</a></div></div>
-
-      <div class="card"><span class="tag t-expo">招聘</span><h3>第五届广州天河博士专场招聘会</h3>
-        <div class="row"><span class="k">时间</span><span>09-10 14:00-17:30</span></div>
-        <div class="row"><span class="k">地点</span><span>广州(国际)科技成果转化天河基地</span></div>
-        <div class="desc">AI + 软件产业博士人才对接，含企业参观交流与现场面试洽谈。</div>
-        <div class="links"><a href="https://career.scnu.edu.cn/detail/online?id=3576842" target="_blank">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=广州(国际)科技成果转化天河基地&amp;region=广州市&amp;referer=workbuddy" target="_blank">📍 地图定位</a></div></div>
-
-      <div class="card"><span class="tag t-expo">展会</span><h3>2026 广东国际旅游产业博览会</h3>
-        <div class="row"><span class="k">时间</span><span>09-11~09-13</span></div>
-        <div class="row"><span class="k">地点</span><span>广交会展馆A区</span></div>
-        <div class="desc">文旅产业综合博览会，涵盖目的地、文旅装备、数字文旅等板块。</div>
-        <div class="links"><a href="https://www.sohu.com/a/1070097301_121106875" target="_blank">查看详情 →</a><a class="map" href="https://apis.map.qq.com/uri/v1/search?keyword=广交会展馆A区&amp;region=广州市&amp;referer=workbuddy" target="_blank">📍 地图定位</a></div></div>
-    </div>
-  </section>
+  <div id="sections"></div>
 
   <div class="note" data-page-node-id="h4ikADM2KsAlKuLDUwbSwM">
     <b data-page-node-id="NRHgo8Hkjtm8XiSXnlYo29">使用建议：</b>本看板由公开网络信息聚合生成，门票 / 报名以各官方渠道为准。演出类部分场次门票紧张，建议看到即下手。
     顶部交互地图由腾讯地图提供（坐标系 GCJ-02），每个活动按类别着色打点、圆点内字表示费用（免/¥/?），点击标记或下方列表均可查看详情与导航。地图点位为场馆大致位置（GCJ-02 近似），仅作概览；精确起终点导航请点击卡片内或弹窗中的「📍 地图导航」链接。
-    每日 09:00 自动更新，最新版见 <b data-page-node-id="p5gaWLiE0NdoQw50hXIQB4">latest.html</b>。
+    每日 09:00 自动更新，最新版见 <b data-page-node-id="p5gaWLiE0NdoQw50hXIQB4">index.html</b>。
   </div>
 
-  <footer data-page-node-id="5WKF1igVQZwossh89b5cVh">广州本地活动每日收集 · 自动化任务 ID 3ca156ea · 本页为 2026-09-07 手动首跑快照</footer>
+  <div class="meta-bottom" id="metaBottom"></div>
+
+  <footer data-page-node-id="5WKF1igVQZwossh89b5cVh">广州本地活动每日收集 · 自动化任务 ID 3ca156ea · 数据日期：<span id="footDate"></span> · 由自动化每日 09:00 刷新</footer>
 </div>
 
 <script type="text/javascript">
@@ -391,84 +110,79 @@
     serviceHost: 'http://127.0.0.1:__WB_HTTP_PORT__/_TMapService/_wbt/__WB_TMAP_SECRET__',
   };
 </script>
+<script src="data.js"></script>
 <script src="https://map.qq.com/api/gljs?v=1.exp&libraries=service"></script>
 <script>
   var COLORS = { exhi:'#e8543f', show:'#7c4dff', market:'#11a87a', talk:'#f0991c', sports:'#0ea5e9', family:'#ec4899', outdoor:'#14b8a6', expo:'#d4a017' };
   var CATNAME = { exhi:'展览', show:'演出', market:'市集', talk:'讲座', sports:'体育', family:'亲子', outdoor:'户外', expo:'展会' };
-  var COST = { free:{label:'免',name:'免费'}, paid:{label:'¥',name:'付费'}, unknown:{label:'?',name:'未知'} };
+  var COST = { free:{label:'免',name:'💰免费'}, paid:{label:'¥',name:'💰付费'}, unknown:{label:'?',name:'💰未知'} };
   // cost: free=免费 / paid=付费 / unknown=未注明
-  var events = [
-    { name:'城脉千年——广州建城2240年专题展', cat:'exhi', date:'08-22~次年08-22', venue:'广州艺术博物院', kw:'广州艺术博物院', cost:'free' },
-    { name:'印象·梵高：沉浸式数字艺术展', cat:'exhi', date:'07-15~10-25', venue:'广东省博物馆', kw:'广东省博物馆', cost:'paid' },
-    { name:'文艺复兴的交响——格拉斯哥大师展', cat:'exhi', date:'07-01~10-18', venue:'广东省博物馆', kw:'广东省博物馆', cost:'paid' },
-    { name:'一念敦煌——石窟艺术大展', cat:'exhi', date:'05-01~10-31', venue:'广州艺术博物院', kw:'广州艺术博物院', cost:'paid' },
-    { name:'青州微笑——古青州佛造像艺术展', cat:'exhi', date:'06-20~12-19', venue:'广州艺术博物院', kw:'广州艺术博物院', cost:'paid' },
-    { name:'本己与在侧——神经多元艺术展', cat:'exhi', date:'09-08~09-20', venue:'广州艺术博物院', kw:'广州艺术博物院', cost:'free' },
-    { name:'白鹅潭大湾区艺术中心·广东美术馆新馆群展', cat:'exhi', date:'长期', venue:'白鹅潭大湾区艺术中心', kw:'白鹅潭大湾区艺术中心', cost:'unknown' },
-    { name:'那些年的老课本展', cat:'exhi', date:'九月起', venue:'荔湾博物馆', kw:'荔湾博物馆', cost:'unknown' },
-    { name:'广州文化公园中秋灯会', cat:'exhi', date:'09-25~10-07', venue:'广州文化公园', kw:'广州文化公园', cost:'free' },
-    { name:'欧阳娜娜「Playlist 嘉年华」演唱会', cat:'show', date:'09-12 19:00', venue:'广州体育馆', kw:'广州体育馆', cost:'paid' },
-    { name:'光良「不会分离」巡回演唱会', cat:'show', date:'09-12 19:00', venue:'宝能广州国际体育演艺中心', kw:'宝能广州国际体育演艺中心', cost:'paid' },
-    { name:'黄小琥「现在那边是几点」演唱会', cat:'show', date:'09-12', venue:'广州亚运城综合体育馆', kw:'广州亚运城综合体育馆', cost:'paid' },
-    { name:'关智斌 2026 广州演唱会', cat:'show', date:'09-19 19:00', venue:'广州体育馆', kw:'广州体育馆', cost:'paid' },
-    { name:'韦礼安「HI WE1 韦，您好」演唱会', cat:'show', date:'09-19 19:00', venue:'广州亚运城综合体育馆', kw:'广州亚运城综合体育馆', cost:'paid' },
-    { name:'约兰·索舍尔吉他独奏音乐会', cat:'show', date:'09-27 15:00', venue:'广州大剧院', kw:'广州大剧院', cost:'paid' },
-    { name:'MAO Livehouse 太古仓店 9 月演出', cat:'show', date:'9/12 起多场', venue:'MAO Livehouse 太古仓店', kw:'MAO Livehouse 太古仓店', cost:'paid' },
-    { name:'MAO Livehouse 中大店 9 月演出', cat:'show', date:'9/11 起多场', venue:'MAO Livehouse 中大店', kw:'MAO Livehouse 中大店', cost:'paid' },
-    { name:'疆进酒 OMNI SPACE 9 月演出', cat:'show', date:'9/12 起多场', venue:'疆进酒 OMNI SPACE', kw:'疆进酒 OMNI SPACE 广州', cost:'paid' },
-    { name:'声音共和 Livehouse 9 月演出', cat:'show', date:'9/11 起多场', venue:'声音共和 Livehouse', kw:'声音共和 Livehouse 广州', cost:'paid' },
-    { name:'好说喜剧 / BRAVO COMEDY 脱口秀', cat:'show', date:'9/4、9/12 等', venue:'好说喜剧', kw:'好说喜剧 广州', cost:'paid' },
-    { name:'周杰伦嘉年华 2026 广州站', cat:'show', date:'12-04~12-06', venue:'天河体育中心体育场', kw:'天河体育中心', cost:'paid' },
-    { name:'一方东山「玩物立志」手作市集', cat:'market', date:'09-11~09-13', venue:'一方东山文创园', kw:'一方东山文创园', cost:'free' },
-    { name:'第三届广州地铁 TOD 生活节·好生活市集', cat:'market', date:'9/5-6、9/12-13', venue:'广州地铁 TOD 社区', kw:'广州地铁 TOD', cost:'free' },
-    { name:'广州文化公园中秋嘉年华市集', cat:'market', date:'09-25~10-07', venue:'广州文化公园', kw:'广州文化公园', cost:'free' },
-    { name:'广图阅己·艺享｜岭南琴茶香阅读疗愈', cat:'talk', date:'09-18、09-19', venue:'广州图书馆', kw:'广州图书馆', cost:'free' },
-    { name:'阅动黄埔·拆书会《真红利》', cat:'talk', date:'09-13 15:00', venue:'黄埔区图书馆 香雪馆', kw:'黄埔区图书馆 香雪馆', cost:'free' },
-    { name:'腾讯云架构师城市沙龙｜AI 落地', cat:'talk', date:'09-12 14:00', venue:'腾讯广州大厦', kw:'腾讯广州大厦', cost:'free' },
-    { name:'2026 广州马拉松赛报名', cat:'sports', date:'09-02~09-11 报名(12-20 开跑)', venue:'天河体育中心', kw:'天河体育中心', cost:'paid' },
-    { name:'《冰雪奇缘之冰雪梦境》亲子魔法剧', cat:'family', date:'09-11~09-12 多场', venue:'广东艺术剧院', kw:'广东艺术剧院', cost:'paid' },
-    { name:'《奥特曼之光之守护者》儿童剧', cat:'family', date:'09-12~09-13 多场', venue:'广东艺术剧院', kw:'广东艺术剧院', cost:'paid' },
-    { name:'《冰雪公主魔镜奇缘》亲子音乐剧', cat:'family', date:'09-12 科学城 / 09-19 文化馆', venue:'广州科学城会议中心', kw:'科学城会议中心', cost:'paid' },
-    { name:'《小王子：星旅奇遇》沉浸式VR展', cat:'family', date:'08-22~11-30', venue:'广州K11购物艺术中心', kw:'广州K11购物艺术中心', cost:'paid' },
-    { name:'第十五届郑仙诞文化旅游月', cat:'outdoor', date:'09-06~09-19', venue:'白云山', kw:'白云山', cost:'free' },
-    { name:'2026 广州国际露营展会', cat:'expo', date:'09-11~09-13', venue:'保利世贸博览馆', kw:'保利世贸博览馆', cost:'unknown' },
-    { name:'“百万英才汇南粤”网信人才招聘会', cat:'expo', date:'09-14 09:00-16:00', venue:'华南理工大学广州国际校区', kw:'华南理工大学广州国际校区', cost:'free' },
-    { name:'第五届广州天河博士专场招聘会', cat:'expo', date:'09-10 14:00-17:30', venue:'广州(国际)科技成果转化天河基地', kw:'广州(国际)科技成果转化天河基地', cost:'free' },
-    { name:'2026 广东国际旅游产业博览会', cat:'expo', date:'09-11~09-13', venue:'广交会展馆A区', kw:'广交会展馆A区', cost:'unknown' }
-  ];
+  var events = GZ_EVENTS.events;
+  var VENUE = GZ_EVENTS.VENUE;
+  // ===== 数据驱动渲染（数据来自 data.js → window.GZ_EVENTS）=====
+  var CAT_ORDER = ['exhi','show','market','talk','sports','family','outdoor','expo'];
+  var CAT_TITLE = { exhi:'展览 / 美术馆', show:'演出 / 现场', market:'市集 / 快闪', talk:'讲座 / 沙龙', sports:'体育赛事', family:'亲子', outdoor:'户外', expo:'展会 / 招聘' };
+  function esc(s){ return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+  function mapUrl(kw){ return 'https://apis.map.qq.com/uri/v1/search?keyword=' + encodeURIComponent(kw) + '&region=广州市&referer=workbuddy'; }
 
-  // 内置场馆坐标（GCJ-02 近似，用于地图概览打点；精确路线请用卡片内"地图导航"链接）
-  var VENUE = {
-    '广州艺术博物院':[23.1485,113.2830],
-    '广东省博物馆':[23.1180,113.3245],
-    '白鹅潭大湾区艺术中心':[23.0895,113.2440],
-    '荔湾博物馆':[23.1265,113.2445],
-    '广州文化公园':[23.1110,113.2490],
-    '广州体育馆':[23.1560,113.2760],
-    '宝能广州国际体育演艺中心':[23.1760,113.4500],
-    '广州亚运城综合体育馆':[23.0480,113.4050],
-    '广州大剧院':[23.1185,113.3220],
-    'MAO Livehouse 太古仓店':[23.0900,113.2520],
-    'MAO Livehouse 中大店':[23.0980,113.2930],
-    '疆进酒 OMNI SPACE 广州':[23.0950,113.3300],
-    '声音共和 Livehouse 广州':[23.0850,113.3100],
-    '好说喜剧 广州':[23.1350,113.3300],
-    '天河体育中心':[23.1420,113.3240],
-    '一方东山文创园':[23.1220,113.2900],
-    '广州地铁 TOD':[23.1050,113.4000],
-    '广州图书馆':[23.1195,113.3255],
-    '黄埔区图书馆 香雪馆':[23.1780,113.4500],
-    '腾讯广州大厦':[23.1000,113.3200],
-    '广东艺术剧院':[23.1350,113.3180],
-    '科学城会议中心':[23.1650,113.4250],
-    '广州市文化馆':[23.0850,113.3150],
-    '广州K11购物艺术中心':[23.1200,113.3240],
-    '白云山':[23.1750,113.2900],
-    '保利世贸博览馆':[23.0980,113.3850],
-    '华南理工大学广州国际校区':[23.0300,113.3800],
-    '广州(国际)科技成果转化天河基地':[23.1420,113.3300],
-    '广交会展馆A区':[23.1030,113.3750]
-  };
+  function renderMeta(){
+    var m = GZ_EVENTS.meta || {};
+    if(m.date) document.title = '广州本地活动看板 · ' + m.date;
+    var md = (m.date||'') + (m.weekday?('（'+m.weekday+'）'):'');
+    var fd = document.getElementById('footDate'); if(fd) fd.textContent = (m.date||'');
+    var mb = document.getElementById('metaBottom');
+    if(mb) mb.innerHTML = '生成日期：'+ md +' · 覆盖未来约 14 天 · 数据来源：公开网络检索（豆瓣同城 / 活动行 / 广州本地宝 / 场馆官号 / 文旅厅等）';
+  }
+
+  function renderSummary(){
+    var byCat = {}, byCost = {free:0,paid:0,unknown:0};
+    events.forEach(function(e){ byCat[e.cat]=(byCat[e.cat]||0)+1; byCost[e.cost]=(byCost[e.cost]||0)+1; });
+    var md = (GZ_EVENTS.meta && GZ_EVENTS.meta.date) ? GZ_EVENTS.meta.date : '';
+    document.getElementById('summary').innerHTML = '数据日期 '+ md +' ｜ 覆盖展览·演出·市集·讲座·体育·亲子·户外·展会 八类 ｜ 仅公开网络信息';
+    // 地图费用筛选按钮动态计数
+    var cf=document.getElementById('cFree'); if(cf) cf.textContent=byCost.free;
+    var cp=document.getElementById('cPaid'); if(cp) cp.textContent=byCost.paid;
+    var cu=document.getElementById('cUnknown'); if(cu) cu.textContent=byCost.unknown;
+    // 地图图例（按类别着色 + 实时计数）
+    var lg = '';
+    CAT_ORDER.forEach(function(c){
+      lg += '<span class="lg"><i style="background:'+ COLORS[c] +'"></i>'+ CAT_TITLE[c].split(' /')[0] +' '+ (byCat[c]||0) +'</span>';
+    });
+    document.getElementById('legend').innerHTML = lg;
+  }
+
+  function renderSections(){
+    var wrap = document.getElementById('sections');
+    wrap.innerHTML = '';
+    CAT_ORDER.forEach(function(c){
+      var list = events.filter(function(e){ return e.cat===c; });
+      if(!list.length) return;
+      var sec = document.createElement('section'); sec.className = 'c-'+c;
+      var title = document.createElement('div'); title.className = 'sec-title';
+      title.innerHTML = '<span class="bar"></span>'+ CAT_TITLE[c] +'<span class="cnt">'+ list.length +'</span>';
+      var grid = document.createElement('div'); grid.className = 'grid';
+      list.forEach(function(e){
+        var card = document.createElement('div'); card.className = 'card';
+      card.style.setProperty('--c', COLORS[c]);
+        var idx = events.indexOf(e);
+        var srcLabel = (e.ltext && e.ltext.indexOf('查看详情')===0) ? '原文' : (e.ltext || '原文');
+        var srcLink = e.link ? '<a href="'+ esc(e.link) +'" target="_blank">'+ esc(srcLabel) +'</a>' : '';
+        var detailLink = '<a class="detail" href="detail.html?i='+ idx +'">查看详情</a>';
+        card.innerHTML = '<div class="chead"><span class="tag t-'+c+'">'+ esc(e.tag||CAT_TITLE[c].split(' /')[0]) +'</span>'
+          + '<span class="cost c-'+ e.cost +'">'+ COST[e.cost].name +'</span></div>'
+          + '<h3>'+ esc(e.name) +'</h3>'
+          + '<div class="row"><span class="k">'+ (e.dkey||'时间') +'</span><span>'+ esc(e.date) +'</span></div>'
+          + '<div class="row"><span class="k">地点</span><span>'+ esc(e.venue) +'</span></div>'
+          + '<div class="desc">'+ esc(e.desc) +'</div>'
+          + '<div class="links">'+ srcLink + detailLink +'<a class="map" href="'+ esc(mapUrl(e.kw)) +'" target="_blank">📍 地图定位</a></div>';
+        grid.appendChild(card);
+      });
+      sec.appendChild(title); sec.appendChild(grid); wrap.appendChild(sec);
+    });
+  }
+
+  renderMeta(); renderSummary(); renderSections();
+
 
   function pin(color, letter){
     var svg = '<svg xmlns="http://www.w3.org/2000/svg" width="26" height="36">'
@@ -499,12 +213,17 @@
       var e = events[i];
       var mapUrl = 'https://apis.map.qq.com/uri/v1/search?keyword=' + encodeURIComponent(e.kw) + '&region=广州市&referer=workbuddy';
       info.setPosition(pos);
-      info.setContent('<div style="min-width:200px;font-size:13px;line-height:1.6">'
+      var idx = events.indexOf(e);
+      var detLine = (e.link ? '<a href="'+ e.link +'" target="_blank" style="color:#2563eb;font-weight:600;text-decoration:none;margin-right:12px">🔗 原文</a>' : '');
+      var detDetail = '<a href="detail.html?i='+ idx +'" target="_blank" style="color:#2563eb;font-weight:600;text-decoration:none;margin-right:12px">🔗 查看详情</a>';
+      info.setContent('<div style="min-width:240px;max-width:300px;font-size:13px;line-height:1.6">'
         + '<div style="font-weight:700;margin-bottom:4px">'+ e.name +'</div>'
         + '<div style="color:#6b7280">类别：'+ CATNAME[e.cat] +'　费用：'+ COST[e.cost].name +'</div>'
         + '<div style="color:#6b7280">时间：'+ e.date +'</div>'
         + '<div style="color:#6b7280;margin-bottom:6px">地点：'+ e.venue +'</div>'
-        + '<a href="'+ mapUrl +'" target="_blank" style="color:#e8543f;font-weight:600;text-decoration:none">📍 地图导航 →</a>'
+        + (e.desc ? '<div style="margin:4px 0 8px;color:#374151">'+ e.desc +'</div>' : '')
+        + detLine + detDetail
+        + '<a href="'+ mapUrl +'" target="_blank" style="color:#e8543f;font-weight:600;text-decoration:none">📍 地图导航</a>'
         + '</div>');
       info.open();
     }
