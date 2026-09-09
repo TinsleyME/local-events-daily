@@ -1,0 +1,141 @@
+/* ============================================================
+   公共卡片 / 区块样式
+   被 index.html 与 detail.html 共同引用 —— 唯一来源
+   ============================================================ */
+
+:root{
+  --exhi:#e8543f; --show:#7c4dff; --market:#11a87a; --talk:#f0991c;
+  --sports:#0ea5e9; --family:#ec4899; --outdoor:#14b8a6; --expo:#d4a017;
+}
+
+.sec-title{
+  font-size:18px;font-weight:800;letter-spacing:.3px;
+  display:flex;align-items:center;gap:10px;margin:0 0 4px;
+}
+.sec-title .bar{width:5px;height:19px;border-radius:3px;background:var(--accent);flex-shrink:0}
+.sec-title .cnt{
+  font-size:12px;font-weight:700;color:var(--sub);
+  background:#fff;border:1px solid var(--line);
+  border-radius:999px;padding:2px 10px;margin-left:2px;
+}
+.sec-title .cnt b{color:var(--accent);font-weight:800}
+
+.sec-sub{
+  display:flex;align-items:center;gap:6px;flex-wrap:wrap;
+  font-size:13px;color:var(--sub);margin:0 0 15px;line-height:1.55;
+}
+.sec-sub .pin{font-size:12px;line-height:1}
+.sec-sub .loc{color:var(--ink);font-weight:700}
+
+.ev-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:15px}
+
+.evcard{
+  background:var(--card);border:1px solid var(--line);
+  border-top:3px solid var(--c,var(--line));
+  border-radius:14px;padding:16px 16px 14px;
+  transition:box-shadow .18s,transform .18s,border-color .18s;
+  box-shadow:0 1px 2px rgba(16,24,40,.03);
+  display:flex;flex-direction:column;
+}
+.evcard:hover,.evcard.clickable:hover{
+  box-shadow:0 8px 24px rgba(16,24,40,.10);
+  transform:translateY(-3px);
+  border-color:#dfe3e8;
+  border-top-color:var(--c,var(--line));
+}
+.evcard.clickable{cursor:pointer}
+
+.evcard .chead{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:9px}
+.evcard .chead .badges{display:flex;align-items:center;gap:6px;flex-shrink:0}
+.evcard h3{font-size:15.5px;line-height:1.45;margin:0 0 9px;font-weight:700}
+
+.evcard .tag{
+  display:inline-block;font-size:11px;font-weight:700;color:#fff;
+  border-radius:6px;padding:2px 9px;letter-spacing:.3px;white-space:nowrap;
+}
+.t-exhi{background:var(--exhi)}   .t-show{background:var(--show)}
+.t-market{background:var(--market)} .t-talk{background:var(--talk)}
+.t-sports{background:var(--sports)} .t-family{background:var(--family)}
+.t-outdoor{background:var(--outdoor)} .t-expo{background:var(--expo)}
+
+.evcard .cost{
+  display:inline-block;font-size:11px;font-weight:700;
+  border-radius:6px;padding:2px 9px;line-height:1.5;letter-spacing:.3px;white-space:nowrap;
+}
+.c-free{background:#e7f7ef;color:#0e9f6e}
+.c-paid{background:#fdecea;color:#e8543f}
+.c-unknown{background:#eef0f3;color:#9aa1ab}
+
+.evcard .dist{
+  display:inline-block;font-size:11px;font-weight:700;
+  border-radius:6px;padding:2px 9px;line-height:1.5;letter-spacing:.3px;
+  background:#eef4ff;color:#2f6df0;white-space:nowrap;
+}
+
+.evcard .row{font-size:13px;color:var(--sub);display:flex;gap:7px;margin:3px 0;align-items:flex-start}
+.evcard .row .k{color:#9aa1ab;min-width:38px;flex-shrink:0}
+.evcard .row span+span{color:var(--ink);flex:1;min-width:0}
+.evcard .row.price .pv{color:#e8543f;font-weight:700;letter-spacing:.2px}
+.evcard .row.price .pv.unknown{color:#9aa1ab;font-weight:400}
+
+.evcard .desc{font-size:13px;color:#4b5563;margin:10px 0 0;line-height:1.7}
+
+.evcard .links{display:flex;gap:14px;flex-wrap:wrap;align-items:center;margin-top:12px}
+.evcard .links a{font-size:13px;color:var(--accent2);text-decoration:none;font-weight:600}
+.evcard .links a.map{color:var(--accent)}
+.evcard .links a:hover{text-decoration:underline}
+
+/* 响应式移动端适配 */
+@media (max-width: 640px) {
+  .ev-grid {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+  .sec-title .cnt {
+    font-size: 12px;
+    padding: 4px 8px;
+  }
+  .evcard {
+    padding: 12px 14px;
+    box-shadow: 0 2px 8px rgba(16, 24, 40, .06);
+  }
+  .evcard h3 {
+    font-size: 15px;
+    margin: 0 0 6px;
+  }
+  .evcard .row {
+    font-size: 13px;
+    margin: 5px 0;
+  }
+  .evcard .row .k {
+    color: #9aa1ab;
+    font-size: 13px;
+  }
+  .evcard .row span+span {
+    font-size: 13px;
+  }
+  .evcard .links {
+    flex-direction: column;
+    gap: 6px;
+  }
+  .evcard .links a {
+    font-size: 13px;
+    padding: 4px 6px;
+    background: #f9fafb;
+    border-radius: 8px;
+    color: #2563eb;
+  }
+  .evcard .links a:hover {
+    background: #eef0f3;
+  }
+  .evcard .links a.map {
+    color: #e8543f;
+  }
+  .evcard .links a.map:hover {
+    background: #fef3f2;
+  }
+  .evcard .links a:disabled {
+    color: #9aa1ab;
+    pointer-events: none;
+  }
+}

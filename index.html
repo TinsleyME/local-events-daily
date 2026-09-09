@@ -3,7 +3,8 @@
 <head data-page-node-id="pVnTwVXxBIk3Vlh1Mv91Lq">
 <meta charset="UTF-8" data-page-node-id="wfNoTS5SSO4KmdwIHsbSwk">
 <meta name="viewport" content="width=device-width, initial-scale=1.0" data-page-node-id="mQHoGlbduS5OTQvJX0F2jg">
-<title>广州本地活动看板</title>
+<title>城市本地活动看板</title>
+<link rel="stylesheet" href="assets/cards.css">
 <style>
   :root{
     --bg:#f5f6f8; --card:#ffffff; --ink:#1d2129; --sub:#6b7280;
@@ -18,7 +19,21 @@
   header{background:linear-gradient(135deg,#ffffff,#fff6f3);border:1px solid var(--line);border-radius:18px;padding:22px 26px;margin-bottom:18px;box-shadow:var(--shadow)}
   header h1{font-size:25px;font-weight:800;display:flex;align-items:center;gap:11px;letter-spacing:.5px}
   .summary{margin-top:6px;font-size:13px;color:var(--sub);line-height:1.6}
+  .city-bar{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+  .city-bar button{font-size:13px;border:1px solid var(--line);background:#fff;color:var(--sub);border-radius:999px;padding:5px 16px;cursor:pointer;transition:.15s;font-weight:600}
+  .city-bar button:hover{border-color:var(--accent2);color:var(--accent2)}
+  .city-bar button.on{background:var(--accent2);border-color:var(--accent2);color:#fff}
   .meta-bottom{color:#9aa1ab;font-size:12px;text-align:center;margin-top:20px;line-height:1.7}
+  .vpicker{position:fixed;left:50%;top:50%;transform:translate(-50%,-50%);background:#fff;border-radius:14px;box-shadow:0 20px 60px rgba(16,24,40,.18);padding:18px 20px;z-index:9999;min-width:260px;max-width:360px;font-size:14px}
+  .vpicker h3{font-size:15px;font-weight:700;margin-bottom:10px}
+  .vpicker .vitem{display:flex;align-items:center;gap:8px;padding:9px 10px;border-radius:8px;cursor:pointer;transition:.15s;text-decoration:none;color:var(--ink)}
+  .vpicker .vitem:hover{background:#f5f6f8}
+  .vpicker .vitem .dot{width:10px;height:10px;border-radius:50%;flex-shrink:0}
+  .vpicker .vitem .nm{flex:1}
+  .vpicker .vitem .tag{font-size:12px;color:#9aa1ab}
+  .vpicker .vitem.meet .nm{font-weight:600}
+  .vpicker .close{position:absolute;right:12px;top:10px;font-size:18px;color:#9aa1ab;cursor:pointer;line-height:1}
+  .vpicker .backdrop{position:fixed;inset:0;background:rgba(0,0,0,.25);z-index:9998}
   .map-box{background:#fff;border:1px solid var(--line);border-radius:18px;padding:18px 20px;margin-bottom:22px;box-shadow:var(--shadow)}
   .map-box h2{font-size:17px;margin-bottom:6px;display:flex;align-items:center;gap:6px}
   .map-box p{font-size:12.5px;color:var(--sub);margin-bottom:12px;line-height:1.7}
@@ -31,40 +46,21 @@
   .map-filter button{font-size:12.5px;border:1px solid var(--line);background:#fff;color:var(--sub);border-radius:999px;padding:5px 14px;cursor:pointer;transition:.15s;font-weight:600}
   .map-filter button:hover{border-color:var(--accent2);color:var(--accent2)}
   .map-filter button.on{background:var(--accent);border-color:var(--accent);color:#fff;box-shadow:0 2px 8px rgba(232,84,63,.25)}
+  .map-filter select{font-size:12.5px;font-weight:600;color:var(--ink);background:#fff;border:1px solid var(--line);border-radius:999px;padding:5px 12px;cursor:pointer;font-family:inherit;transition:.15s}
+  .map-filter select:hover{border-color:var(--accent2);color:var(--accent2)}
+  .map-filter select:focus{outline:none;border-color:var(--accent2)}
+  .map-filter select.active{background:var(--accent);border-color:var(--accent);color:#fff}
+  .map-filter .hint{font-size:12px;color:#9aa1ab}
   .map-list{display:flex;flex-direction:column;gap:4px;margin-top:12px;max-height:240px;overflow:auto}
   .map-list .li{font-size:13px;display:flex;align-items:center;gap:9px;padding:7px 10px;border-radius:10px;cursor:pointer;transition:.12s}
   .map-list .li:hover{background:#f5f7fa}
   .map-list .li i{width:9px;height:9px;border-radius:50%;flex-shrink:0;display:inline-block}
   .map-list .li .nm{flex:1;color:var(--ink);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
   .map-list .li .cost{font-size:10px;font-weight:700;border-radius:5px;padding:1px 6px;flex-shrink:0}
+  .map-list .li .pr{font-size:10.5px;font-weight:700;color:#e8543f;flex-shrink:0}
+  .map-list .li .pr.unknown{color:#9aa1ab;font-weight:400}
   .map-list .li .dt{color:#9aa1ab;font-size:11.5px;flex-shrink:0}
-  .c-free{background:#e7f7ef;color:#0e9f6e} .c-paid{background:#fdecea;color:#e8543f} .c-unknown{background:#eef0f3;color:#9aa1ab}
   section{margin-top:28px}
-  .sec-title{font-size:18px;font-weight:800;margin-bottom:14px;display:flex;align-items:center;gap:9px}
-  .sec-title .bar{width:5px;height:19px;border-radius:3px}
-  .sec-title .cnt{font-size:12px;font-weight:700;color:var(--sub);background:#fff;border:1px solid var(--line);border-radius:999px;padding:2px 10px;margin-left:2px}
-  .c-exhi .bar{background:var(--exhi)} .c-show .bar{background:var(--show)}
-  .c-market .bar{background:var(--market)} .c-talk .bar{background:var(--talk)}
-  .c-sports .bar{background:var(--sports)} .c-family .bar{background:var(--family)}
-  .c-outdoor .bar{background:var(--outdoor)} .c-expo .bar{background:var(--expo)}
-  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:15px}
-  .card{background:var(--card);border:1px solid var(--line);border-top:3px solid var(--c,var(--line));border-radius:14px;padding:16px 16px 14px;transition:.18s;box-shadow:0 1px 2px rgba(16,24,40,.03)}
-  .card:hover{box-shadow:var(--shadow);transform:translateY(-3px);border-color:#dfe3e8;border-top-color:var(--c,var(--line))}
-  .tag{display:inline-block;font-size:11px;font-weight:700;color:#fff;border-radius:6px;padding:2px 9px;margin-bottom:9px;letter-spacing:.3px}
-  .t-exhi{background:var(--exhi)} .t-show{background:var(--show)} .t-market{background:var(--market)} .t-talk{background:var(--talk)}
-  .t-sports{background:var(--sports)} .t-family{background:var(--family)} .t-outdoor{background:var(--outdoor)} .t-expo{background:var(--expo)}
-  .card h3{font-size:15.5px;line-height:1.45;margin-bottom:9px;font-weight:700}
-  .row{font-size:13px;color:var(--sub);display:flex;gap:7px;margin:3px 0}
-  .row .k{color:#9aa1ab;min-width:38px;flex-shrink:0}
-  .row .v{color:var(--ink)}
-  .desc{font-size:13px;color:#4b5563;margin:10px 0 12px;line-height:1.7}
-  .links{display:flex;gap:14px;flex-wrap:wrap;align-items:center}
-  .card a{font-size:13px;color:var(--accent2);text-decoration:none;font-weight:600}
-  .card a.map{color:var(--accent)}
-  .card a:hover{text-decoration:underline}
-  .chead{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:8px}
-  .cost{display:inline-block;font-size:11px;font-weight:700;border-radius:6px;padding:2px 9px;line-height:1.5;letter-spacing:.3px}
-  .links a.detail{color:var(--accent2)}
   .note{background:#fff;border:1px dashed var(--line);border-radius:14px;padding:15px 18px;color:var(--sub);font-size:13px;margin-top:18px;line-height:1.75;box-shadow:var(--shadow)}
   .note b{color:var(--ink)}
   footer{color:#9aa1ab;font-size:12px;text-align:center;margin-top:36px}
@@ -73,8 +69,9 @@
 <body data-page-node-id="UDw4BSvQ5mWQ1yBTLjbQ0D">
 <div class="wrap" data-page-node-id="lr85jlxSpOYUnJLnmar1dg">
   <header data-page-node-id="hz8F39VmA0IA7iK3rJ2dur">
-    <h1 data-page-node-id="FEan59FEJpWLJjcl37EL8B">📍 广州本地活动看板</h1>
+    <h1 data-page-node-id="FEan59FEJpWLJjcl37EL8B" id="pageTitle">📍 本地活动看板</h1>
     <div class="summary" id="summary"></div>
+    <div class="city-bar" id="cityBar"></div>
   </header>
 
   <div class="map-box" data-page-node-id="ztblemIzmEgz4tw56sHlSl">
@@ -89,6 +86,11 @@
       <button data-f="paid">付费 <span id="cPaid">0</span></button>
       <button data-f="unknown">未知 <span id="cUnknown">0</span></button>
     </div>
+    <div class="map-filter" id="dateBar" data-page-node-id="dtB">
+      <span class="fl">日期：</span>
+      <select id="dateSelect"></select>
+      <span class="hint" id="dateHint"></span>
+    </div>
     <div class="map-list" id="eventList" data-page-node-id="evtL"></div>
   </div>
 
@@ -102,7 +104,7 @@
 
   <div class="meta-bottom" id="metaBottom"></div>
 
-  <footer data-page-node-id="5WKF1igVQZwossh89b5cVh">广州本地活动每日收集 · 自动化任务 ID 3ca156ea · 数据日期：<span id="footDate"></span> · 由自动化每日 09:00 刷新</footer>
+  <footer data-page-node-id="5WKF1igVQZwossh89b5cVh"><span id="footCity"></span>本地活动每日收集 · 自动化任务 ID 3ca156ea · 数据日期：<span id="footDate"></span> · 由自动化每日 09:00 刷新</footer>
 </div>
 
 <script type="text/javascript">
@@ -110,43 +112,269 @@
     serviceHost: 'http://127.0.0.1:__WB_HTTP_PORT__/_TMapService/_wbt/__WB_TMAP_SECRET__',
   };
 </script>
-<script src="data.js"></script>
-<script src="https://map.qq.com/api/gljs?v=1.exp&libraries=service"></script>
+<script src="https://map.qq.com/api/gljs?v=1.exp"></script>
+<script src="dims/dims.js"></script>
+    <script src="dims/venues_gz.js"></script>
+    <script src="dims/venues_sz.js"></script>
+    <script src="dims/venues_fs.js"></script>
+    <script src="dims/venues_bj.js"></script>
+    <script src="dims/venues_sh.js"></script>
+    <script src="dims/venues_hz.js"></script>
+    <script src="dims/venues_nj.js"></script>
+    <script src="dims/venues_cd.js"></script>
+    <script src="dims/venues_wh.js"></script>
+    <script src="dims/venues_xa.js"></script>
+    <script src="dims/venues_cq.js"></script>
 <script>
-  var COLORS = { exhi:'#e8543f', show:'#7c4dff', market:'#11a87a', talk:'#f0991c', sports:'#0ea5e9', family:'#ec4899', outdoor:'#14b8a6', expo:'#d4a017' };
-  var CATNAME = { exhi:'展览', show:'演出', market:'市集', talk:'讲座', sports:'体育', family:'亲子', outdoor:'户外', expo:'展会' };
-  var COST = { free:{label:'免',name:'💰免费'}, paid:{label:'¥',name:'💰付费'}, unknown:{label:'?',name:'💰未知'} };
-  // cost: free=免费 / paid=付费 / unknown=未注明
-  var events = GZ_EVENTS.events;
-  var VENUE = GZ_EVENTS.VENUE;
-  // ===== 数据驱动渲染（数据来自 data.js → window.GZ_EVENTS）=====
-  var CAT_ORDER = ['exhi','show','market','talk','sports','family','outdoor','expo'];
-  var CAT_TITLE = { exhi:'展览 / 美术馆', show:'演出 / 现场', market:'市集 / 快闪', talk:'讲座 / 沙龙', sports:'体育赛事', family:'亲子', outdoor:'户外', expo:'展会 / 招聘' };
+  // ===== v2.2 数据层：维表 dims/（cities/cats/costs/venues，慢变）+ 事实表 data/<city>.js（按城市拆分）=====
+  var D = (function(){
+    var dim = window.APP_DIMS || {};
+    return { version: 2, meta: {},
+      cities: dim.cities || [], cats: dim.cats || [], costs: dim.costs || [], venues: [],
+      events: [] };
+  })();
+  var CITY_MAP = {}, CAT_MAP = {}, COST_MAP = {}, VENUE_MAP = {};
+  D.cities.forEach(function(c){ CITY_MAP[c.id] = c; });
+  D.cats.forEach(function(c){ CAT_MAP[c.id] = c; });
+  D.costs.forEach(function(c){ COST_MAP[c.id] = c; });
+  // 聚合各城市 venues 文件：每个文件暴露 window.APP_VENUES_<CITY>
+  D.cities.forEach(function(c){
+    var key = 'APP_VENUES_' + c.id.toUpperCase();
+    if(Array.isArray(window[key])) D.venues = D.venues.concat(window[key]);
+  });
+  // 兼容旧格式（单一 window.APP_VENUES 数组）
+  if(Array.isArray(window.APP_VENUES)) D.venues = D.venues.concat(window.APP_VENUES);
+  // 与维表自带 venues 取并集：两份来源可能不同步，缺一不可，否则部分活动打不出点位
+  if(Array.isArray((window.APP_DIMS||{}).venues)) D.venues = D.venues.concat(window.APP_DIMS.venues);
+  // 按 id 去重（先出现的优先）
+  (function(){
+    var seen = {}, uniq = [];
+    D.venues.forEach(function(v){ if(v && v.id && !seen[v.id]){ seen[v.id] = 1; uniq.push(v); } });
+    D.venues = uniq;
+  })();
+  if(!D.venues.length) console.error('[venues] 场馆维表为空（dims/venues_*.js 未正确加载），地图点位将全部消失');
+  D.venues.forEach(function(v){ VENUE_MAP[v.id] = v; });
+  var CAT_ORDER = D.cats.map(function(c){ return c.id; });
+
+  function getCityId(){
+    var p = new URLSearchParams(location.search);
+    var c = p.get('city');
+    return (c && CITY_MAP[c]) ? c : D.cities[0].id;
+  }
+  var CITY = CITY_MAP[getCityId()];
+
+  // 动态加载所有城市的数据文件，聚合到 D.events；城市切换时只重载数据
+  function loadCityData(cityId, callback){
+    var all = D.cities.map(function(c){ return 'data/data_' + c.id + '.js'; });
+    var loaded = 0, total = all.length;
+    var allEvents = [];
+    function next(){
+      loaded++;
+      if(loaded < total) return;
+      D.events = allEvents;
+      D.meta = (window.APP_DATA && window.APP_DATA.meta) || {};
+      if(callback) callback();
+    }
+    all.forEach(function(src){
+      var script = document.createElement('script');
+      script.onload = function(){
+        var fact = window.APP_DATA || {};
+        if(Array.isArray(fact.events)) allEvents = allEvents.concat(fact.events);
+        next();
+      };
+      script.onerror = function(){
+        console.error('Failed to load: ' + src);
+        next();
+      };
+      script.src = src;
+      document.head.appendChild(script);
+    });
+  }
+
+  // 初始加载
+  loadCityData(CITY.id, function(){
+    // 数据加载完成后的初始化
+    // cityEvents = 当前城市全量；events = 叠加日期筛选后的结果（切日期时重算，卡片/统计/地图同步）
+    var cityEvents = D.events.filter(function(e){ return e.city === CITY.id; });
+    var events = cityEvents.slice();
+    var byId = {};
+    events.forEach(function(e){ if(e.id) byId[e.id] = e; });
+
+  function catOf(e){ return CAT_MAP[e.cat] || { name:'其他', title:'其他', color:'#9aa1ab' }; }
+  function venueOf(e){ return VENUE_MAP[e.venue] || null; }
+  function costOf(e){ return COST_MAP[e.cost] || { name:'未知', label:'?' }; }
+
+  // ===== 日期筛选：未来两周按天过滤 =====
+  var WEEK = ['周日','周一','周二','周三','周四','周五','周六'];
+  function pad2(n){ return n < 10 ? ('0' + n) : ('' + n); }
+  function isoOf(d){ return d.getFullYear() + '-' + pad2(d.getMonth() + 1) + '-' + pad2(d.getDate()); }
+
+  // 活动在某天是否正在进行：start <= day <= end；起止都缺（长期/常设）视为天天都有
+  function matchDay(e, day){
+    if(!day) return true;
+    if(!e.start && !e.end) return true;
+    var s = e.start || e.end, en = e.end || e.start;
+    return s <= day && day <= en;
+  }
+  function countOn(day){
+    return cityEvents.filter(function(e){ return matchDay(e, day); }).length;
+  }
+
+  var stateDate = '';
+  function applyDate(){
+    events = cityEvents.filter(function(e){ return matchDay(e, stateDate); });
+    renderSummary();
+    renderSections();
+    if(window.__refreshMapPoints) window.__refreshMapPoints();   // 地图点位同步重建
+    var hint = document.getElementById('dateHint');
+    if(hint){
+      hint.textContent = stateDate
+        ? '已筛选 ' + stateDate + '（含跨天与长期活动）'
+        : '';
+    }
+  }
+
+  function buildDateSelect(){
+    var sel = document.getElementById('dateSelect');
+    if(!sel) return;
+    var today = new Date();
+    var days = [''];
+    for(var i = 0; i < 14; i++){
+      var d = new Date(today.getTime() + i * 86400000);
+      days.push(isoOf(d));
+    }
+    sel.innerHTML = days.map(function(v){
+      var label, prefix = '';
+      if(!v){ label = '全部日期'; }
+      else {
+        if(v === days[1]) prefix = '今天 ';
+        else if(v === days[2]) prefix = '明天 ';
+        else if(v === days[3]) prefix = '后天 ';
+        label = prefix + v.slice(5) + ' ' + WEEK[new Date(v + 'T00:00:00').getDay()];
+      }
+      return '<option value="'+ v +'">'+ label +'（'+ countOn(v) +'）</option>';
+    }).join('');
+    sel.value = '';
+    sel.addEventListener('change', function(){
+      stateDate = sel.value;
+      sel.className = stateDate ? 'active' : '';
+      applyDate();
+    });
+  }
+
+  // 票价行：仅付费活动展示。有 price 显示具体金额，无则「价格待定」（免费/未知不占位）
+  function priceRow(e){
+    if(e.cost !== 'paid') return '';
+    var inner = e.price
+      ? '<span class="pv">'+ esc(e.price) +'</span>'
+      : '<span class="pv unknown">价格待定</span>';
+    return '<div class="row price"><span class="k">票价</span>'+ inner +'</div>';
+  }
+  // 纯文本版票价（地图气泡等单行场景）：'180-1280元' / '价格待定' / ''
+  function priceText(e){
+    if(e.cost !== 'paid') return '';
+    return e.price || '价格待定';
+  }
+
+  // 多地点：venueIds = 全部地点；缺省回退到主键 venue。只保留维表中真实存在的 id（脏 id 静默忽略）
+  function venueIdsOf(e){
+    var raw = (e.venueIds && e.venueIds.length) ? e.venueIds : (e.venue ? [e.venue] : []);
+    var out = [], seen = {};
+    raw.forEach(function(id){ if(VENUE_MAP[id] && !seen[id]){ seen[id] = 1; out.push(id); } });
+    if(!out.length && e.venue && VENUE_MAP[e.venue]) out.push(e.venue);
+    return out;
+  }
+  function venuesOf(e){ return venueIdsOf(e).map(function(id){ return VENUE_MAP[id]; }); }
+  function isMeet(e, vid){ return (e.meetIds || []).indexOf(vid) >= 0; }
+  function venueLabel(e, v){ return v.name + (isMeet(e, v.id) ? '（集合点）' : ''); }
+
   function esc(s){ return String(s==null?'':s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
-  function mapUrl(kw){ return 'https://apis.map.qq.com/uri/v1/search?keyword=' + encodeURIComponent(kw) + '&region=广州市&referer=workbuddy'; }
+  function mapUrl(v){
+    return 'https://apis.map.qq.com/uri/v1/search?keyword=' + encodeURIComponent(v ? v.name : '') + '&region=' + encodeURIComponent(CITY.name) + '&referer=workbuddy';
+  }
+
+  // 多地点导航：单地点直接跳转，多地点弹窗让用户选
+  function pickVenue(e){
+    var vs = venuesOf(e);
+    if(vs.length <= 1){
+      location.href = mapUrl(vs[0] || venueOf(e));
+      return;
+    }
+    var overlay = document.createElement('div');
+    overlay.style.cssText = 'position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,.35);z-index:9999;display:flex;align-items:center;justify-content:center;font-family:sans-serif';
+    var box = document.createElement('div');
+    box.style.cssText = 'background:#fff;border-radius:14px;padding:20px 22px;max-width:360px;width:90%;box-shadow:0 10px 40px rgba(0,0,0,.18)';
+    var title = document.createElement('div');
+    title.style.cssText = 'font-size:15px;font-weight:700;margin-bottom:12px;color:#111';
+    title.textContent = '该活动在 ' + vs.length + ' 个地点举行，请选择：';
+    var list = document.createElement('div');
+    list.style.cssText = 'display:flex;flex-direction:column;gap:8px';
+    vs.forEach(function(v, i){
+      var btn = document.createElement('a');
+      btn.href = mapUrl(v);
+      btn.target = '_blank';
+      btn.style.cssText = 'display:block;padding:10px 14px;border-radius:10px;background:#f7f8fa;color:#2563eb;text-decoration:none;font-size:14px;font-weight:600;border:1px solid #e5e7eb';
+      btn.textContent = (isMeet(e, v.id) ? '📍 ' : '') + (i+1) + '. ' + v.name + (isMeet(e, v.id) ? '（集合点）' : '');
+      list.appendChild(btn);
+    });
+    var close = document.createElement('button');
+    close.textContent = '取消';
+    close.style.cssText = 'margin-top:12px;width:100%;padding:9px;border-radius:10px;border:1px solid #d1d5db;background:#fff;color:#374151;font-size:14px;cursor:pointer';
+    close.onclick = function(){ document.body.removeChild(overlay); };
+    box.appendChild(title);
+    box.appendChild(list);
+    box.appendChild(close);
+    overlay.appendChild(box);
+    overlay.onclick = function(ev){ if(ev.target === overlay) document.body.removeChild(overlay); };
+    document.body.appendChild(overlay);
+  }
+  function pickVenueById(id){
+    var e = byId[id];
+    if(e) pickVenue(e);
+  }
 
   function renderMeta(){
-    var m = GZ_EVENTS.meta || {};
-    if(m.date) document.title = '广州本地活动看板 · ' + m.date;
+    var m = D.meta || {};
+    document.title = CITY.name + '本地活动看板' + (m.date ? (' · ' + m.date) : '');
     var md = (m.date||'') + (m.weekday?('（'+m.weekday+'）'):'');
     var fd = document.getElementById('footDate'); if(fd) fd.textContent = (m.date||'');
     var mb = document.getElementById('metaBottom');
-    if(mb) mb.innerHTML = '生成日期：'+ md +' · 覆盖未来约 14 天 · 数据来源：公开网络检索（豆瓣同城 / 活动行 / 广州本地宝 / 场馆官号 / 文旅厅等）';
+    if(mb) mb.innerHTML = '生成日期：'+ md +' · 覆盖未来约 14 天 · 数据来源：公开网络检索（豆瓣同城 / 活动行 / '+ CITY.name +'本地宝 / 场馆官号 / 文旅厅等）';
+    var pt = document.getElementById('pageTitle'); if(pt) pt.textContent = '📍 ' + CITY.name + '本地活动看板';
+    var fc = document.getElementById('footCity'); if(fc) fc.textContent = CITY.name;
+    renderCityBar();
+  }
+
+  // 城市切换器：仅当数据含多个城市时显示（单城市自动隐藏）
+  function renderCityBar(){
+    var bar = document.getElementById('cityBar');
+    if(!bar) return;
+    if(D.cities.length < 2){ bar.style.display = 'none'; return; }
+    bar.innerHTML = D.cities.map(function(c){
+      var n = D.events.filter(function(e){ return e.city === c.id; }).length;
+      return '<button data-c="'+ c.id +'"' + (c.id === CITY.id ? ' class="on"' : '') + '>'+ c.name +' '+ n +'</button>';
+    }).join('');
+    bar.addEventListener('click', function(ev){
+      var b = ev.target.closest('button'); if(!b) return;
+      var id = b.getAttribute('data-c');
+      if(id === CITY.id) return;
+      location.search = '?city=' + encodeURIComponent(id);
+    });
   }
 
   function renderSummary(){
     var byCat = {}, byCost = {free:0,paid:0,unknown:0};
     events.forEach(function(e){ byCat[e.cat]=(byCat[e.cat]||0)+1; byCost[e.cost]=(byCost[e.cost]||0)+1; });
-    var md = (GZ_EVENTS.meta && GZ_EVENTS.meta.date) ? GZ_EVENTS.meta.date : '';
-    document.getElementById('summary').innerHTML = '数据日期 '+ md +' ｜ 覆盖展览·演出·市集·讲座·体育·亲子·户外·展会 八类 ｜ 仅公开网络信息';
-    // 地图费用筛选按钮动态计数
+    var md = (D.meta && D.meta.date) ? D.meta.date : '';
+    var catNames = CAT_ORDER.map(function(c){ return CAT_MAP[c].name; }).join('·');
+    var CN = ['零','一','二','三','四','五','六','七','八','九','十'];
+    document.getElementById('summary').innerHTML = '数据日期 '+ md +' ｜ 覆盖 '+ catNames +' '+ (CN[CAT_ORDER.length]||CAT_ORDER.length) +'类 ｜ 仅公开网络信息';
     var cf=document.getElementById('cFree'); if(cf) cf.textContent=byCost.free;
     var cp=document.getElementById('cPaid'); if(cp) cp.textContent=byCost.paid;
     var cu=document.getElementById('cUnknown'); if(cu) cu.textContent=byCost.unknown;
-    // 地图图例（按类别着色 + 实时计数）
     var lg = '';
     CAT_ORDER.forEach(function(c){
-      lg += '<span class="lg"><i style="background:'+ COLORS[c] +'"></i>'+ CAT_TITLE[c].split(' /')[0] +' '+ (byCat[c]||0) +'</span>';
+      lg += '<span class="lg"><i style="background:'+ CAT_MAP[c].color +'"></i>'+ CAT_MAP[c].name +' '+ (byCat[c]||0) +'</span>';
     });
     document.getElementById('legend').innerHTML = lg;
   }
@@ -154,129 +382,212 @@
   function renderSections(){
     var wrap = document.getElementById('sections');
     wrap.innerHTML = '';
+    if(!events.length){
+      wrap.innerHTML = '<div class="note" style="text-align:center">'
+        + (stateDate ? '「'+ esc(stateDate) +'」没有匹配的活动，换个日期或选「全部日期」看看。' : '当前城市暂无活动。')
+        + '</div>';
+      return;
+    }
     CAT_ORDER.forEach(function(c){
+      var cat = CAT_MAP[c];
       var list = events.filter(function(e){ return e.cat===c; });
       if(!list.length) return;
       var sec = document.createElement('section'); sec.className = 'c-'+c;
       var title = document.createElement('div'); title.className = 'sec-title';
-      title.innerHTML = '<span class="bar"></span>'+ CAT_TITLE[c] +'<span class="cnt">'+ list.length +'</span>';
-      var grid = document.createElement('div'); grid.className = 'grid';
+      title.innerHTML = '<span class="bar" style="background:'+ cat.color +'"></span>'+ cat.title +'<span class="cnt"><b>'+ list.length +'</b> 场</span>';
+      var grid = document.createElement('div'); grid.className = 'ev-grid';
       list.forEach(function(e){
-        var card = document.createElement('div'); card.className = 'card';
-      card.style.setProperty('--c', COLORS[c]);
-        var idx = events.indexOf(e);
-        var srcLabel = (e.ltext && e.ltext.indexOf('查看详情')===0) ? '原文' : (e.ltext || '原文');
-        var srcLink = e.link ? '<a href="'+ esc(e.link) +'" target="_blank">'+ esc(srcLabel) +'</a>' : '';
-        var detailLink = '<a class="detail" href="detail.html?i='+ idx +'">查看详情</a>';
-        card.innerHTML = '<div class="chead"><span class="tag t-'+c+'">'+ esc(e.tag||CAT_TITLE[c].split(' /')[0]) +'</span>'
-          + '<span class="cost c-'+ e.cost +'">'+ COST[e.cost].name +'</span></div>'
+        var card = document.createElement('div'); card.className = 'evcard';
+        card.style.setProperty('--c', cat.color);
+        var v = venueOf(e);
+        var nv = venueIdsOf(e).length;
+        var srcLink = e.link ? '<a href="'+ esc(e.link) +'" target="_blank" rel="noopener noreferrer">原文</a>' : '';
+        var detailLink = '<a class="detail" href="detail.html?id='+ encodeURIComponent(e.id) +'&city='+ encodeURIComponent(e.city) +'">查看详情</a>';
+        card.innerHTML = '<div class="chead"><span class="tag t-'+ e.cat +'">'+ esc(e.tag || cat.name) +'</span>'
+          + '<span class="badges"><span class="cost c-'+ e.cost +'">💰'+ costOf(e).name +'</span></span></div>'
           + '<h3>'+ esc(e.name) +'</h3>'
           + '<div class="row"><span class="k">'+ (e.dkey||'时间') +'</span><span>'+ esc(e.date) +'</span></div>'
-          + '<div class="row"><span class="k">地点</span><span>'+ esc(e.venue) +'</span></div>'
+          + '<div class="row"><span class="k">地点</span><span>'+ esc(e.venueText || (v ? v.name : '')) + (nv > 1 ? '（'+ nv +' 处）' : '') +'</span></div>'
+          + priceRow(e)
           + '<div class="desc">'+ esc(e.desc) +'</div>'
-          + '<div class="links">'+ srcLink + detailLink +'<a class="map" href="'+ esc(mapUrl(e.kw)) +'" target="_blank">📍 地图定位</a></div>';
+          + '<div class="links">'+ srcLink + detailLink +'<a class="map" href="javascript:void(0)" data-id="'+ e.id +'" onclick="pickVenueById(this.dataset.id)">📍 地图定位</a></div>';
         grid.appendChild(card);
       });
       sec.appendChild(title); sec.appendChild(grid); wrap.appendChild(sec);
     });
   }
 
-  renderMeta(); renderSummary(); renderSections();
+    renderMeta(); renderSummary(); renderSections(); buildDateSelect();
 
 
-  function pin(color, letter){
-    var svg = '<svg xmlns="http://www.w3.org/2000/svg" width="26" height="36">'
-      + '<path d="M13 0C5.8 0 0 5.8 0 13c0 9 13 23 13 23s13-14 13-23C26 5.8 20.2 0 13 0z" fill="'+color+'"/>'
-      + '<circle cx="13" cy="13" r="8" fill="#fff"/>'
-      + '<text x="13" y="13" fill="'+color+'" font-size="10" font-weight="700" text-anchor="middle" dominant-baseline="central" font-family="sans-serif">'+letter+'</text>'
-      + '</svg>';
-    return 'data:image/svg+xml;charset=utf-8,'+encodeURIComponent(svg);
-  }
-
-  function initMap(){
-    var map = new TMap.Map('map', { zoom: 11, center: new TMap.LatLng(23.1291, 113.2644) });
-    var styles = {};
-    Object.keys(COLORS).forEach(function(c){
-      Object.keys(COST).forEach(function(k){
-        styles[c+'_'+k] = new TMap.MarkerStyle({ width:26, height:36, anchor:{x:13,y:36}, src: pin(COLORS[c], COST[k].label) });
-      });
-    });
-    var markers = new TMap.MultiMarker({ map: map, styles: styles, geometries: [] });
-    var info = new TMap.InfoWindow({ map: map, position: new TMap.LatLng(23.1291, 113.2644), content: '' });
-    info.close();
-
-    var resolved = [];        // {i, e, pos}
-    var stateFilter = 'all';
-    var listEl = document.getElementById('eventList');
-
-    function openInfo(i, pos){
-      var e = events[i];
-      var mapUrl = 'https://apis.map.qq.com/uri/v1/search?keyword=' + encodeURIComponent(e.kw) + '&region=广州市&referer=workbuddy';
-      info.setPosition(pos);
-      var idx = events.indexOf(e);
-      var detLine = (e.link ? '<a href="'+ e.link +'" target="_blank" style="color:#2563eb;font-weight:600;text-decoration:none;margin-right:12px">🔗 原文</a>' : '');
-      var detDetail = '<a href="detail.html?i='+ idx +'" target="_blank" style="color:#2563eb;font-weight:600;text-decoration:none;margin-right:12px">🔗 查看详情</a>';
-      info.setContent('<div style="min-width:240px;max-width:300px;font-size:13px;line-height:1.6">'
-        + '<div style="font-weight:700;margin-bottom:4px">'+ e.name +'</div>'
-        + '<div style="color:#6b7280">类别：'+ CATNAME[e.cat] +'　费用：'+ COST[e.cost].name +'</div>'
-        + '<div style="color:#6b7280">时间：'+ e.date +'</div>'
-        + '<div style="color:#6b7280;margin-bottom:6px">地点：'+ e.venue +'</div>'
-        + (e.desc ? '<div style="margin:4px 0 8px;color:#374151">'+ e.desc +'</div>' : '')
-        + detLine + detDetail
-        + '<a href="'+ mapUrl +'" target="_blank" style="color:#e8543f;font-weight:600;text-decoration:none">📍 地图导航</a>'
-        + '</div>');
-      info.open();
+    function pin(color, letter){
+      var svg = '<svg xmlns="http://www.w3.org/2000/svg" width="26" height="36">'
+        + '<path d="M13 0C5.8 0 0 5.8 0 13c0 9 13 23 13 23s13-14 13-23C26 5.8 20.2 0 13 0z" fill="'+color+'"/>'
+        + '<circle cx="13" cy="13" r="8" fill="#fff"/>'
+        + '<text x="13" y="13" fill="'+color+'" font-size="10" font-weight="700" text-anchor="middle" dominant-baseline="central" font-family="sans-serif">'+letter+'</text>'
+        + '</svg>';
+      return 'data:image/svg+xml;charset=utf-8,'+encodeURIComponent(svg);
     }
 
-    function render(){
-      var f = resolved.filter(function(r){ return stateFilter==='all' || r.e.cost===stateFilter; });
-      markers.setGeometries(f.map(function(r){ return { id:String(r.i), styleId:r.e.cat+'_'+r.e.cost, position:r.pos }; }));
-      listEl.innerHTML = '';
-      if(f.length===0){ listEl.innerHTML = '<div style="color:#9aa1ab;font-size:12px;padding:6px 8px">当前筛选无匹配活动</div>'; return; }
-      f.forEach(function(r){
-        var e = r.e;
-        var li = document.createElement('div');
-        li.className = 'li';
-        li.innerHTML = '<i style="background:'+ COLORS[e.cat] +'"></i>'
-          + '<span class="nm">'+ e.name +'</span>'
-          + '<span class="cost c-'+ e.cost +'">'+ COST[e.cost].label +'</span>'
-          + '<span class="dt">'+ e.date +'</span>';
-        li.addEventListener('click', function(){
-          map.panTo(r.pos); openInfo(r.i, r.pos);
+    function initMap(){
+      var map = new TMap.Map('map', { zoom: CITY.zoom || 11, center: new TMap.LatLng(CITY.center[0], CITY.center[1]) });
+      var styles = {};
+      CAT_ORDER.forEach(function(c){
+        D.costs.forEach(function(k){
+          styles[c+'_'+k.id] = new TMap.MarkerStyle({ width:26, height:36, anchor:{x:13,y:36}, src: pin(CAT_MAP[c].color, k.label) });
         });
-        listEl.appendChild(li);
       });
-    }
+      var markers = new TMap.MultiMarker({ map: map, styles: styles, geometries: [] });
+      var resolved = [];        // { e, pts:[{gid, vid, pos}] } —— 一条活动可含多个点位
+      var stateFilter = 'all';
+      var listEl = document.getElementById('eventList');
 
-    markers.on('click', function(evt){
-      var i = parseInt(evt.geometry.id, 10);
-      var r = resolved.filter(function(x){return x.i===i;})[0];
-      if(r) openInfo(i, r.pos);
-    });
+      // 页面级普通弹窗（替代 TMap.InfoWindow）
+      function openInfo(e, pos, vid){
+        var cat = catOf(e);
+        var vs = venuesOf(e);
+        var cur = (vid && VENUE_MAP[vid]) ? VENUE_MAP[vid] : (vs[0] || venueOf(e));
+        var navUrl = mapUrl(cur);
+        var names = vs.map(function(v){ return venueLabel(e, v); }).join('、');
+        var vline = vs.length > 1
+          ? (e.venueText ? esc(e.venueText) + '<br>' : '') + esc(names)
+          : esc(e.venueText || (vs[0] ? vs[0].name : ''));
+        var detLine = (e.link ? '<a href="'+ esc(e.link) +'" target="_blank" rel="noopener noreferrer" style="color:#2563eb;font-weight:600;text-decoration:none;margin-right:12px">🔗 原文</a>' : '');
+        var detDetail = '<a href="detail.html?id='+ encodeURIComponent(e.id) +'&city='+ encodeURIComponent(e.city) +'" target="_blank" rel="noopener noreferrer" style="color:#2563eb;font-weight:600;text-decoration:none;margin-right:12px">🔗 查看详情</a>';
+        var navLine = vs.length > 1
+          ? '<a href="javascript:void(0)" onclick="pickVenueById(\''+ e.id +'\')" style="color:#e8543f;font-weight:600;text-decoration:none">📍 地图导航（'+ vs.length +' 处，请选择）</a>'
+          : '<a href="'+ navUrl +'" target="_blank" rel="noopener noreferrer" style="color:#e8543f;font-weight:600;text-decoration:none">📍 地图导航</a>';
 
-    // 费用筛选按钮
-    var bar = document.getElementById('filterBar');
-    bar.addEventListener('click', function(ev){
-      var btn = ev.target.closest('button'); if(!btn) return;
-      stateFilter = btn.getAttribute('data-f');
-      Array.prototype.forEach.call(bar.querySelectorAll('button'), function(b){ b.classList.remove('on'); });
-      btn.classList.add('on');
+        var overlay = document.createElement('div');
+        overlay.style.cssText = 'position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,.35);z-index:9999;display:flex;align-items:center;justify-content:center;font-family:sans-serif';
+        var box = document.createElement('div');
+        box.style.cssText = 'background:#fff;border-radius:14px;padding:20px 22px;max-width:420px;width:90%;box-shadow:0 10px 40px rgba(0,0,0,.18);max-height:90vh;overflow-y:auto';
+        box.innerHTML = '<div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:10px">'
+          + '<div style="font-size:15px;font-weight:700;color:'+ cat.color +'">'+ esc(cat.name) +'</div>'
+          + '<button id="infoCloseBtn" style="background:none;border:none;font-size:20px;color:#9aa1ab;cursor:pointer;line-height:1">×</button>'
+          + '</div>'
+          + '<div style="font-size:17px;font-weight:800;margin-bottom:8px;line-height:1.4">'+ esc(e.name) +'</div>'
+          + '<div style="font-size:13px;color:#6b7280;margin-bottom:4px">💰 '+ costOf(e).name
+          + (priceText(e) ? '（'+ esc(priceText(e)) +'）' : '')
+          + '　'+ esc(e.date) +'</div>'
+          + '<div style="font-size:13px;color:#6b7280;margin-bottom:8px">📍 '+ vline +'</div>'
+          + (e.desc ? '<div style="font-size:13px;color:#374151;margin-bottom:12px;line-height:1.7;background:#f7f8fa;padding:10px 12px;border-radius:10px">'+ esc(e.desc) +'</div>' : '')
+          + '<div style="display:flex;gap:10px;flex-wrap:wrap">'
+          + detLine + detDetail + navLine
+          + '</div>';
+        overlay.appendChild(box);
+        overlay.onclick = function(ev){ if(ev.target === overlay) document.body.removeChild(overlay); };
+        box.querySelector('#infoCloseBtn').onclick = function(){ document.body.removeChild(overlay); };
+        document.body.appendChild(overlay);
+        window.__lastEvent = e;
+      }
+
+      function render(){
+        var f = resolved.filter(function(r){ return stateFilter==='all' || r.e.cost===stateFilter; });
+        var geoms = [];
+        f.forEach(function(r){
+          r.pts.forEach(function(p){
+            geoms.push({ id: p.gid, styleId: r.e.cat + '_' + r.e.cost, position: p.pos });
+          });
+        });
+        markers.setGeometries(geoms);
+        listEl.innerHTML = '';
+        if(f.length===0){ listEl.innerHTML = '<div style="color:#9aa1ab;font-size:12px;padding:6px 8px">当前筛选无匹配活动</div>'; return; }
+        f.forEach(function(r){
+          var e = r.e;
+          var li = document.createElement('div');
+          li.className = 'li';
+          li.innerHTML = '<i style="background:'+ catOf(e).color +'"></i>'
+            + '<span class="nm">'+ esc(e.name) +'</span>'
+            + (r.pts.length > 1 ? '<span class="cost">'+ r.pts.length +'处</span>' : '')
+            + '<span class="cost c-'+ e.cost +'">'+ costOf(e).label +'</span>'
+            + (priceText(e) ? '<span class="pr'+ (e.price ? '' : ' unknown') +'">'+ esc(priceText(e)) +'</span>' : '')
+            + '<span class="dt">'+ e.date +'</span>';
+          li.addEventListener('click', function(){ focusEvent(r); });
+          listEl.appendChild(li);
+        });
+      }
+
+      // 定位到某活动：多地点自适应视野，单地点直接平移
+      function focusEvent(r){
+        if(r.pts.length > 1){
+          var b = new TMap.LatLngBounds(r.pts[0].pos, r.pts[0].pos);
+          r.pts.forEach(function(p){ b.extend(p.pos); });
+          map.fitBounds(b, { padding: 60 });
+        } else {
+          map.panTo(r.pts[0].pos);
+        }
+        openInfo(r.e, r.pts[0].pos, r.pts[0].vid);
+      }
+
+      markers.on('click', function(evt){
+        var gid = evt.geometry.id;
+        var eid = gid.split('#')[0];
+        var r = resolved.filter(function(x){ return x.e.id === eid; })[0];
+        if(!r) return;
+        var p = r.pts.filter(function(x){ return x.gid === gid; })[0] || r.pts[0];
+        openInfo(r.e, p.pos, p.vid);
+      });
+
+      // 费用筛选按钮
+      var bar = document.getElementById('filterBar');
+      bar.addEventListener('click', function(ev){
+        var btn = ev.target.closest('button'); if(!btn) return;
+        stateFilter = btn.getAttribute('data-f');
+        Array.prototype.forEach.call(bar.querySelectorAll('button'), function(b){ b.classList.remove('on'); });
+        btn.classList.add('on');
+        render();
+      });
+
+      // 直接用场馆维表坐标打点（不再依赖运行时联网 geocode，保证点位必显示）
+      // 一条活动按 venueIds 打 N 个点；gid = 活动id#场馆id，保证 geometry id 全局唯一
+      function buildResolved(){
+        resolved.length = 0;
+        events.forEach(function(e){
+          var pts = venueIdsOf(e).map(function(vid){
+            var v = VENUE_MAP[vid];
+            return { gid: e.id + '#' + vid, vid: vid, pos: new TMap.LatLng(v.lat, v.lng) };
+          });
+          if(pts.length) resolved.push({ e: e, pts: pts });
+        });
+      }
+      buildResolved();
       render();
-    });
-
-    // 直接用内置场馆坐标打点（不再依赖运行时联网 geocode，保证点位必显示）
-    events.forEach(function(e, i){
-      var v = VENUE[e.kw];
-      if(v){ pushGeom(i, e, new TMap.LatLng(v[0], v[1])); }
-    });
-
-    function pushGeom(i, e, pos){
-      resolved.push({ i:i, e:e, pos:pos });
-      render();
+      // 日期筛选切换时重建点位（TMap 未就绪则跳过，等 initMap 自身重试）
+      window.__refreshMapPoints = function(){
+        if(!window.TMap) return;
+        buildResolved();
+        render();
+      };
     }
-  }
-  if (window.TMap) { initMap(); }
-  else { window.addEventListener('load', function(){ var t=setInterval(function(){ if(window.TMap){clearInterval(t);initMap();} },300); }); }
+    if (window.TMap) { initMap(); }
+    else { window.addEventListener('load', function(){ var t=setInterval(function(){ if(window.TMap){clearInterval(t);initMap();} },300); }); }
+
+    // 多地点导航选择器
+    function showVenuePicker(e){
+      var vs = venuesOf(e);
+      if(vs.length <= 1) return;
+      var old = document.getElementById('vpicker-backdrop');
+      if(old) old.remove();
+      var bd = document.createElement('div'); bd.id = 'vpicker-backdrop'; bd.className = 'backdrop';
+      var box = document.createElement('div'); box.className = 'vpicker';
+      box.innerHTML = '<div class="close" title="关闭">×</div>'
+        + '<h3>📍 选择导航地点</h3>'
+        + vs.map(function(v, i){
+            var meet = isMeet(e, v.id);
+            return '<a class="vitem'+(meet?' meet':'')+'" data-vid="'+ v.id +'" href="'+ esc(mapUrl(v)) +'" target="_blank" rel="noopener noreferrer">'
+              + '<span class="dot" style="background:'+ catOf(e).color +'"></span>'
+              + '<span class="nm">'+ esc(v.name) +'</span>'
+              + (meet ? '<span class="tag">集合点</span>' : '')
+              + '</a>';
+          }).join('');
+      document.body.appendChild(bd);
+      document.body.appendChild(box);
+      box.querySelector('.close').addEventListener('click', function(){ bd.remove(); box.remove(); });
+      bd.addEventListener('click', function(){ bd.remove(); box.remove(); });
+    }
+    window.showVenuePicker = showVenuePicker;
+  });
 </script>
 </body>
 </html>
