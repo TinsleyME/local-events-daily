@@ -8,7 +8,7 @@ window.APP_DATA = {
   },
   "events": [
     {
-      "id": "e-cq0001",
+      "id": "e-cq-fbddda",
       "city": "cq",
       "cat": "exhi",
       "name": "“南天门计划”科幻科普巡展(重庆站)",
@@ -23,10 +23,11 @@ window.APP_DATA = {
       "start": "2026-08-20",
       "end": "2026-10-06",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0002",
+      "id": "e-cq-c661de",
       "city": "cq",
       "cat": "exhi",
       "name": "“红岩清风”廉洁文化美术作品展基层巡展",
@@ -41,10 +42,11 @@ window.APP_DATA = {
       "start": "2026-09-01",
       "end": "2026-10-08",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0003",
+      "id": "e-cq-c239a8",
       "city": "cq",
       "cat": "exhi",
       "name": "岁月的回响——中国20世纪遗产摄影展重庆巡展暨长江文明摄影展",
@@ -59,10 +61,11 @@ window.APP_DATA = {
       "start": "2026-09-08",
       "end": "2026-09-20",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0004",
+      "id": "e-cq-413303",
       "city": "cq",
       "cat": "exhi",
       "name": "典藏华章——首届重庆市区县(自治县)美术馆馆藏精品展",
@@ -77,10 +80,11 @@ window.APP_DATA = {
       "start": "2026-09-08",
       "end": "2026-09-27",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0005",
+      "id": "e-cq-29c2c2",
       "city": "cq",
       "cat": "exhi",
       "name": "相与象——方向作品展",
@@ -95,10 +99,11 @@ window.APP_DATA = {
       "start": "2026-09-22",
       "end": "2026-10-18",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0006",
+      "id": "e-cq-579502",
       "city": "cq",
       "cat": "exhi",
       "name": "从人民中来——李毅力艺术与群文实践展",
@@ -113,10 +118,11 @@ window.APP_DATA = {
       "start": "2026-09-11",
       "end": "2026-10-08",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0007",
+      "id": "e-cq-720509",
       "city": "cq",
       "cat": "exhi",
       "name": "跨越山海:寻找东西方传说中的奇幻生物",
@@ -131,10 +137,11 @@ window.APP_DATA = {
       "start": "2026-06-18",
       "end": "2026-10-18",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0008",
+      "id": "e-cq-cbb2b6",
       "city": "cq",
       "cat": "exhi",
       "name": "尺素文心——馆藏明清名人书札展",
@@ -149,10 +156,11 @@ window.APP_DATA = {
       "start": "2026-07-01",
       "end": "2026-10-11",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0009",
+      "id": "e-cq-ce42c9",
       "city": "cq",
       "cat": "exhi",
       "name": "时光无心 奈亦真明——宋金铜镜展",
@@ -167,10 +175,11 @@ window.APP_DATA = {
       "start": "2026-08-01",
       "end": "2026-11-01",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0010",
+      "id": "e-cq-2e1bc4",
       "city": "cq",
       "cat": "exhi",
       "name": "龙骨坡的故事——重庆三峡地区旧石器时代考古特展",
@@ -185,10 +194,11 @@ window.APP_DATA = {
       "start": "2026-09-01",
       "end": "2026-12-31",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0011",
+      "id": "e-cq-09838b",
       "city": "cq",
       "cat": "exhi",
       "name": "北碚区民间工艺作品展",
@@ -203,10 +213,11 @@ window.APP_DATA = {
       "start": "2026-09-01",
       "end": "2026-09-30",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0012",
+      "id": "e-cq-fb109b",
       "city": "cq",
       "cat": "exhi",
       "name": "“四季童读”2026年秋季卷书目展",
@@ -221,10 +232,11 @@ window.APP_DATA = {
       "start": "2026-09-01",
       "end": "2026-09-30",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0013",
+      "id": "e-cq-90c3f5",
       "city": "cq",
       "cat": "exhi",
       "name": "“漫步缙云·自然有发现”主题展览",
@@ -239,10 +251,11 @@ window.APP_DATA = {
       "start": "2026-09-01",
       "end": "2026-09-30",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0014",
+      "id": "e-cq-ba4b9b",
       "city": "cq",
       "cat": "show",
       "name": "王力宏“最好的地方II”世界巡回演唱会-重庆站",
@@ -257,10 +270,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-13",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0015",
+      "id": "e-cq-2e2f4f",
       "city": "cq",
       "cat": "show",
       "name": "韦礼安+蔡旻佑“如果可以我可以演唱会”(重庆站)",
@@ -275,10 +289,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-12",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0016",
+      "id": "e-cq-b435a6",
       "city": "cq",
       "cat": "market",
       "name": "碳水市场开学季(秋季篇)",
@@ -293,10 +308,11 @@ window.APP_DATA = {
       "start": "2026-09-11",
       "end": "2026-09-13",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0017",
+      "id": "e-cq-2ffe1e",
       "city": "cq",
       "cat": "market",
       "name": "重庆新天地·夜酒节(新西南酒场)",
@@ -311,10 +327,11 @@ window.APP_DATA = {
       "start": "2026-09-11",
       "end": "2026-09-13",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0018",
+      "id": "e-cq-2e1e3c",
       "city": "cq",
       "cat": "market",
       "name": "秋秋手帐艺术集",
@@ -329,10 +346,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-14",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0019",
+      "id": "e-cq-318b5e",
       "city": "cq",
       "cat": "market",
       "name": "山城巷原创文创市集",
@@ -347,10 +365,11 @@ window.APP_DATA = {
       "start": "2026-09-05",
       "end": "2026-09-27",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0020",
+      "id": "e-cq-9d2c4a",
       "city": "cq",
       "cat": "market",
       "name": "南滨路后备箱市集",
@@ -365,10 +384,11 @@ window.APP_DATA = {
       "start": "2026-09-05",
       "end": "2026-09-27",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0021",
+      "id": "e-cq-08d47e",
       "city": "cq",
       "cat": "market",
       "name": "两江新区空港佳园广场夜市",
@@ -383,10 +403,11 @@ window.APP_DATA = {
       "start": "2026-08-28",
       "end": "2026-09-22",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0022",
+      "id": "e-cq-0313ea",
       "city": "cq",
       "cat": "market",
       "name": "南滨路国际啤酒节",
@@ -401,10 +422,11 @@ window.APP_DATA = {
       "start": "2026-09-05",
       "end": "2026-09-12",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0023",
+      "id": "e-cq-79a862",
       "city": "cq",
       "cat": "market",
       "name": "第十六届重庆国际音乐啤酒节",
@@ -419,10 +441,11 @@ window.APP_DATA = {
       "start": "2026-09-19",
       "end": "2026-09-23",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0024",
+      "id": "e-cq-2ac751",
       "city": "cq",
       "cat": "talk",
       "name": "重图讲座:打呼噜就是睡得香?——鼾声背后的健康真相",
@@ -437,10 +460,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-12",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0025",
+      "id": "e-cq-499a1c",
       "city": "cq",
       "cat": "talk",
       "name": "重图讲座:听山说话,遇险不慌——重庆人身边的地质安全课",
@@ -455,10 +479,11 @@ window.APP_DATA = {
       "start": "2026-09-19",
       "end": "2026-09-19",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0026",
+      "id": "e-cq-4cce66",
       "city": "cq",
       "cat": "talk",
       "name": "重图英语角",
@@ -473,10 +498,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-12",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0027",
+      "id": "e-cq-fcdd51",
       "city": "cq",
       "cat": "talk",
       "name": "两路口街道急救知识科普讲座",
@@ -491,10 +517,11 @@ window.APP_DATA = {
       "start": "2026-09-11",
       "end": "2026-09-11",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0028",
+      "id": "e-cq-9a9261",
       "city": "cq",
       "cat": "talk",
       "name": "“金秋护养·健康同行”秋季养生健康知识讲堂",
@@ -509,10 +536,11 @@ window.APP_DATA = {
       "start": "2026-09-15",
       "end": "2026-09-15",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0029",
+      "id": "e-cq-a86952",
       "city": "cq",
       "cat": "talk",
       "name": "“喜迎中秋佳节 传承传统文化”中秋节文化宣传活动",
@@ -527,10 +555,11 @@ window.APP_DATA = {
       "start": "2026-09-21",
       "end": "2026-09-21",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0030",
+      "id": "e-cq-01b1cf",
       "city": "cq",
       "cat": "sports",
       "name": "2026世界攀联攀岩世界杯(中国重庆)",
@@ -545,10 +574,11 @@ window.APP_DATA = {
       "start": "2026-09-18",
       "end": "2026-09-20",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0031",
+      "id": "e-cq-f2328e",
       "city": "cq",
       "cat": "family",
       "name": "第208期亲子阅读会",
@@ -563,10 +593,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-12",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0032",
+      "id": "e-cq-8c6e48",
       "city": "cq",
       "cat": "family",
       "name": "第92期阅·绘梦想家",
@@ -581,10 +612,11 @@ window.APP_DATA = {
       "start": "2026-09-19",
       "end": "2026-09-19",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0033",
+      "id": "e-cq-312a74",
       "city": "cq",
       "cat": "family",
       "name": "第9期非遗亲子小课堂(巧手编福结)",
@@ -599,10 +631,11 @@ window.APP_DATA = {
       "start": "2026-09-13",
       "end": "2026-09-13",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0034",
+      "id": "e-cq-269491",
       "city": "cq",
       "cat": "family",
       "name": "双语绘本亲子读书会",
@@ -617,10 +650,11 @@ window.APP_DATA = {
       "start": "2026-09-13",
       "end": "2026-09-13",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0035",
+      "id": "e-cq-27ef23",
       "city": "cq",
       "cat": "family",
       "name": "西部(重庆)科学城科技节·科普嘉年华",
@@ -635,10 +669,11 @@ window.APP_DATA = {
       "start": "2026-09-18",
       "end": "2026-09-19",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0036",
+      "id": "e-cq-461178",
       "city": "cq",
       "cat": "family",
       "name": "科技之光·开放探索行(种质创制大科学中心等)",
@@ -653,10 +688,11 @@ window.APP_DATA = {
       "start": "2026-09-05",
       "end": "2026-09-19",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0037",
+      "id": "e-cq-90178a",
       "city": "cq",
       "cat": "family",
       "name": "重庆无人机灯光秀(常规及中秋场)",
@@ -671,10 +707,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-19",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0038",
+      "id": "e-cq-39cfeb",
       "city": "cq",
       "cat": "family",
       "name": "稻香云谷农场·中国农民丰收节亲子活动",
@@ -689,10 +726,11 @@ window.APP_DATA = {
       "start": "2026-09-01",
       "end": "2026-10-31",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0039",
+      "id": "e-cq-2c4551",
       "city": "cq",
       "cat": "outdoor",
       "name": "第21届中国国际山地户外运动公开赛(重庆·武隆)",
@@ -707,10 +745,11 @@ window.APP_DATA = {
       "start": "2026-09-19",
       "end": "2026-09-22",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0040",
+      "id": "e-cq-a15281",
       "city": "cq",
       "cat": "expo",
       "name": "第四十九届华夏家博会(重庆)",
@@ -725,10 +764,11 @@ window.APP_DATA = {
       "start": "2026-09-11",
       "end": "2026-09-13",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0041",
+      "id": "e-cq-3a56ca",
       "city": "cq",
       "cat": "expo",
       "name": "第20届重庆中秋食品博览会暨月饼文化节",
@@ -743,10 +783,11 @@ window.APP_DATA = {
       "start": "2026-09-13",
       "end": "2026-09-23",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0042",
+      "id": "e-cq-4a8973",
       "city": "cq",
       "cat": "expo",
       "name": "2026重庆跨境电商交易会",
@@ -761,10 +802,11 @@ window.APP_DATA = {
       "start": "2026-09-18",
       "end": "2026-09-20",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0043",
+      "id": "e-cq-334db7",
       "city": "cq",
       "cat": "expo",
       "name": "第二十四届中国国际摩托车博览会(摩博会)",
@@ -779,10 +821,11 @@ window.APP_DATA = {
       "start": "2026-09-19",
       "end": "2026-09-22",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0044",
+      "id": "e-cq-c1f08e",
       "city": "cq",
       "cat": "expo",
       "name": "第二届医学人工智能大会",
@@ -797,10 +840,11 @@ window.APP_DATA = {
       "start": "2026-09-15",
       "end": "2026-09-17",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     },
     {
-      "id": "e-cq0045",
+      "id": "e-cq-77661f",
       "city": "cq",
       "cat": "expo",
       "name": "2026网络安全漏洞分析与风险评估大会",
@@ -815,7 +859,8 @@ window.APP_DATA = {
       "start": "2026-09-22",
       "end": "2026-09-22",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cq"
     }
   ]
 };

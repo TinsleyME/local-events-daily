@@ -11,14 +11,24 @@
 .sec-title{
   font-size:18px;font-weight:800;letter-spacing:.3px;
   display:flex;align-items:center;gap:10px;margin:0 0 4px;
+  width:100%;background:none;border:0;padding:6px 0;cursor:pointer;
+  font-family:inherit;color:var(--ink);text-align:left;
 }
+.sec-title:hover{opacity:.85}
 .sec-title .bar{width:5px;height:19px;border-radius:3px;background:var(--accent);flex-shrink:0}
+.sec-title .sec-name{color:var(--ink)}
 .sec-title .cnt{
   font-size:12px;font-weight:700;color:var(--sub);
   background:#fff;border:1px solid var(--line);
   border-radius:999px;padding:2px 10px;margin-left:2px;
 }
 .sec-title .cnt b{color:var(--accent);font-weight:800}
+.sec-title .chev{
+  margin-left:auto;font-size:14px;color:var(--sub);
+  transition:transform .2s;flex-shrink:0;
+}
+.sec-title[aria-expanded="false"] .chev{transform:rotate(-90deg)}
+section.collapsed .ev-grid{display:none}
 
 .sec-sub{
   display:flex;align-items:center;gap:6px;flex-wrap:wrap;
@@ -115,15 +125,17 @@
     font-size: 13px;
   }
   .evcard .links {
-    flex-direction: column;
-    gap: 6px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 8px;
   }
   .evcard .links a {
     font-size: 13px;
-    padding: 4px 6px;
+    padding: 6px 10px;
     background: #f9fafb;
     border-radius: 8px;
     color: #2563eb;
+    flex: 0 0 auto;
   }
   .evcard .links a:hover {
     background: #eef0f3;

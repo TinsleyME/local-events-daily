@@ -2,7 +2,7 @@
 <html lang="zh-CN" data-page-node-id="cXOPW4UHrCfQee3uPhlT7L">
 <head data-page-node-id="YdECW9vHwVoOG7mIiL8a5S">
 <meta charset="UTF-8" data-page-node-id="us6wDmDciY8MZjcLiHyi7c">
-<meta name="viewport" content="width=device-width, initial-scale=1.0" data-page-node-id="p3mYzaTLha9vPz909jzflw">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" data-page-node-id="p3mYzaTLha9vPz909jzflw">
 <title>活动详情 · 城市本地活动</title>
 <link rel="stylesheet" href="assets/cards.css">
 <style>
@@ -36,17 +36,53 @@
   .acts a{font-size:14px;color:var(--accent2);text-decoration:none;font-weight:600;display:inline-flex;align-items:center;gap:4px}
   .acts a.map{color:var(--accent)}
   .acts a:hover{text-decoration:underline}
+  .acts a.share{color:var(--sub)}
+  .acts a.share:hover{color:var(--ink)}
   #map{width:100%;height:300px;border-radius:14px;overflow:hidden;border:1px solid var(--line);margin-top:18px;background:#eef1f5}
   .missing{text-align:center;color:var(--sub);padding:60px 0;font-size:15px}
+  .missing-icon{font-size:48px;margin-bottom:8px}
+  .missing-title{font-size:16px;font-weight:700;color:var(--ink);margin-bottom:6px}
+  .missing-hint{font-size:13px;color:var(--sub);margin-bottom:14px;line-height:1.6}
+  .missing-btn{display:inline-block;font-size:13px;padding:8px 20px;background:var(--accent);color:#fff;border:none;border-radius:999px;cursor:pointer;font-weight:600;text-decoration:none;transition:.15s}
+  .missing-btn:hover{background:#d14a35;text-decoration:none}
+
+  /* ===== 地图加载失败兜底 ===== */
+  .map-fallback{text-align:center;padding:30px 16px;background:#f9fafb;border:1px dashed var(--line);border-radius:14px;margin-top:12px}
+  .map-fallback-icon{font-size:40px;margin-bottom:8px}
+  .map-fallback-text{font-size:14px;font-weight:700;color:var(--ink);margin-bottom:4px}
+  .map-fallback-hint{font-size:12px;color:var(--sub);margin-bottom:10px}
+  .map-fallback-btn{font-size:12px;padding:7px 18px;background:var(--accent);color:#fff;border:none;border-radius:999px;cursor:pointer;font-weight:600}
+  .map-fallback-btn:hover{background:#d14a35}
 
   /* 推荐区块（同地点 / 附近）：卡片样式统一由 assets/cards.css 提供，此处只管容器间距 */
   .block{margin-top:26px}
   .block:first-child{margin-top:22px}
+  /* ===== 手机端适配（≤640px） ===== */
+  @media (max-width: 640px){
+    body{padding:calc(env(safe-area-inset-top) + 18px) 12px calc(env(safe-area-inset-bottom) + 48px)}
+    .wrap{max-width:100%}
+    .back{font-size:13px;margin-bottom:12px}
+    .card{padding:18px 16px;border-radius:12px}
+    h1{font-size:20px;line-height:1.35;margin-bottom:12px}
+    .chead{gap:8px;margin-bottom:10px}
+    .row{font-size:13px;padding:9px 12px;margin:6px 0}
+    .row .k{min-width:48px}
+    .desc{font-size:13px;padding:12px 14px;margin:14px 0 16px;line-height:1.75}
+    /* 操作按钮：一行并排，等宽紧凑 */
+    .acts{flex-direction:row;flex-wrap:nowrap;gap:8px;padding-top:14px}
+    .acts a{width:auto;flex:1 1 0;min-width:0;justify-content:center;padding:10px 6px;font-size:13px;background:#f5f7fa;border-radius:10px}
+    .acts a.map{background:#fef3f2}
+    #map{height:260px;margin-top:14px}
+    .missing{padding:40px 0;font-size:14px}
+    .block{margin-top:20px}
+    .block:first-child{margin-top:18px}
+    .sec-title{font-size:16px}
+  }
 </style>
 </head>
 <body data-page-node-id="XkjlgSfdxPuiG0ePcEqgzM">
 <div class="wrap" data-page-node-id="BBcuNBusrdkNjvkJFXrVzm">
-  <a class="back" href="index.html" id="backLink" data-page-node-id="HmcPaAtJLAbDGAo1icGhYV">← 返回活动看板</a>
+  <a class="back" href="index.html" id="backLink" data-page-node-id="HmcPaAtJLAbDGAo1icGhYV" aria-label="返回活动看板">← 返回活动看板</a>
   <div id="box" data-page-node-id="OmiItUAKez1FGTD0wH9U9j"></div>
   <div id="related" class="block"></div>
   <div id="nearby" class="block"></div>
@@ -68,6 +104,7 @@
       events: [] };
   })();
   var CITY_MAP = {}, CAT_MAP = {}, COST_MAP = {}, VENUE_MAP = {};
+  var currentEvent = null;  // 当前详情页活动，供地图重试使用
   D.cities.forEach(function(c){ CITY_MAP[c.id] = c; });
   D.cats.forEach(function(c){ CAT_MAP[c.id] = c; });
   D.costs.forEach(function(c){ COST_MAP[c.id] = c; });
@@ -141,10 +178,12 @@
   }
 
   function pin(color, letter){
-    var svg = '<svg xmlns="http://www.w3.org/2000/svg" width="26" height="36">'
-      + '<path d="M13 0C5.8 0 0 5.8 0 13c0 9 13 23 13 23s13-14 13-23C26 5.8 20.2 0 13 0z" fill="'+color+'"/>'
-      + '<circle cx="13" cy="13" r="8" fill="#fff"/>'
-      + '<text x="13" y="13" fill="'+color+'" font-size="10" font-weight="700" text-anchor="middle" dominant-baseline="central" font-family="sans-serif">'+letter+'</text>'
+    var isMobile = window.innerWidth <= 640;
+    var w = isMobile ? 36 : 26, h = isMobile ? 48 : 36;
+    var svg = '<svg xmlns="http://www.w3.org/2000/svg" width="'+ w +'" height="'+ h +'">'
+      + '<path d="M'+ (w/2) +' 0C'+ (w/2-5.2) +' 0 0 '+ (h/2-8) +' 0 '+ (h/2) +'c0 9 '+ (w/2) +' '+ (h-(h/2)) +' '+ (w/2) +' '+ (h-(h/2)) +'s'+ (w/2) +'-14 '+ (w/2) +'-'+ (h/2) +'C'+ w +' '+ (h/2-8) +' '+ (w/2+5.2) +' 0 '+ (w/2) +' 0z" fill="'+color+'"/>'
+      + '<circle cx="'+ (w/2) +'" cy="'+ (h/2-4) +'" r="'+(isMobile?9:8)+'" fill="#fff"/>'
+      + '<text x="'+ (w/2) +'" y="'+ (h/2-4) +'" fill="'+color+'" font-size="'+(isMobile?11:10)+'" font-weight="700" text-anchor="middle" dominant-baseline="central" font-family="sans-serif">'+letter+'</text>'
       + '</svg>';
     return 'data:image/svg+xml;charset=utf-8,'+encodeURIComponent(svg);
   }
@@ -153,8 +192,10 @@
     var vs = venuesOf(e);
     if(!vs.length) return;
     var styleId = e.cat + '_' + e.cost;
+    var isMobile = window.innerWidth <= 640;
+    var mw = isMobile ? 36 : 26, mh = isMobile ? 48 : 36;
     var styles = {};
-    styles[styleId] = new TMap.MarkerStyle({ width:26, height:36, anchor:{x:13,y:36}, src: pin(catOf(e).color, costOf(e).label) });
+    styles[styleId] = new TMap.MarkerStyle({ width:mw, height:mh, anchor:{x:Math.round(mw/2),y:mh}, src: pin(catOf(e).color, costOf(e).label) });
     var geoms = vs.map(function(v, i){ return { id: String(i), styleId: styleId, position: new TMap.LatLng(v.lat, v.lng) }; });
     var map = new TMap.Map('map', { zoom: 14, center: new TMap.LatLng(vs[0].lat, vs[0].lng) });
     new TMap.MultiMarker({ map: map, styles: styles, geometries: geoms });
@@ -320,7 +361,12 @@
   function render(e){
     var box = document.getElementById('box');
     if(!e){
-      box.innerHTML = '<div class="missing">未找到该活动，或数据已更新。<br><br><a class="back" href="index.html">← 返回活动看板</a></div>';
+      box.innerHTML = '<div class="missing">'
+        + '<div class="missing-icon">🔍</div>'
+        + '<div class="missing-title">未找到该活动</div>'
+        + '<div class="missing-hint">活动可能已结束，或数据已更新。<br>试试从活动看板搜索其他活动。</div>'
+        + '<a class="missing-btn" href="index.html">← 返回活动看板</a>'
+        + '</div>';
       return;
     }
     var cat = catOf(e);
@@ -349,14 +395,41 @@
       + '<div class="acts">'
       + (e.link ? '<a href="'+ esc(e.link) +'" target="_blank" rel="noopener noreferrer">🔗 原文</a>' : '<a style="color:#9aa1ab">🔗 原文</a>')
       + '<a class="map" id="mapNavBtn" href="javascript:void(0)">📍 地图导航</a>'
+      + '<a class="share" id="shareBtn" href="javascript:void(0)">🔗 分享</a>'
       + '</div>'
       + '<div id="map"></div>'
+      + '<div id="map-fallback" class="map-fallback" style="display:none">'
+      + '<div class="map-fallback-icon">🗺️</div>'
+      + '<p class="map-fallback-text">地图加载失败</p>'
+      + '<p class="map-fallback-hint">仍可查看活动详情与导航链接</p>'
+      + '<button class="map-fallback-btn" onclick="retryDetailMap()">重试加载地图</button>'
+      + '</div>'
       + '</div>';
     box.innerHTML = html;
     var sameVenue = renderRelated(e);   // 先渲染同地点，再把它排除出「附近」，避免上下重复
     renderNearby(e, sameVenue);
     var navEl = document.getElementById('mapNavBtn');
     if(navEl){ navEl.addEventListener('click', function(ev){ ev.preventDefault(); pickVenue(e); }); }
+    var shareEl = document.getElementById('shareBtn');
+    if(shareEl){
+      shareEl.addEventListener('click', function(ev){
+        ev.preventDefault();
+        var url = location.href;
+        if(navigator.clipboard && navigator.clipboard.writeText){
+          navigator.clipboard.writeText(url).then(function(){
+            shareEl.textContent = '✓ 已复制';
+            setTimeout(function(){ shareEl.textContent = '🔗 分享'; }, 2000);
+          });
+        } else {
+          var ta = document.createElement('textarea'); ta.value = url; ta.style.position = 'fixed'; ta.style.opacity = '0';
+          document.body.appendChild(ta); ta.select();
+          try { document.execCommand('copy'); } catch(e){}
+          document.body.removeChild(ta);
+          shareEl.textContent = '✓ 已复制';
+          setTimeout(function(){ shareEl.textContent = '🔗 分享'; }, 2000);
+        }
+      });
+    }
     document.title = '详情 · ' + esc(e.name);
     if(window.TMap) initMap(e);
   }
@@ -365,7 +438,12 @@
   var id = getId();
   var city = new URLSearchParams(location.search).get('city');
   if(!id){
-    document.getElementById('box').innerHTML = '<div class="missing">缺少活动 ID，请从活动看板页跳转。<br><br><a class="back" href="index.html">← 返回活动看板</a></div>';
+    document.getElementById('box').innerHTML = '<div class="missing">'
+      + '<div class="missing-icon">🔗</div>'
+      + '<div class="missing-title">缺少活动链接</div>'
+      + '<div class="missing-hint">请从活动看板页点击活动卡片进入详情。</div>'
+      + '<a class="missing-btn" href="index.html">← 返回活动看板</a>'
+      + '</div>';
   } else {
     // 先加载 dims.js，然后遍历所有城市数据文件找到目标活动
     var allCities = D.cities.map(function(c){ return c.id; });
@@ -424,13 +502,42 @@
   }
 
   function initMapWithRetry(e){
+    currentEvent = e;  // 保存当前活动，供重试使用
     if(window.TMap){ initMap(e); return; }
     var retries = 0, max = 50;
     var t = setInterval(function(){
       if(window.TMap){ clearInterval(t); initMap(e); }
-      else if(++retries >= max){ clearInterval(t); console.error('[detail] TMap 加载超时'); }
+      else if(++retries >= max){
+        clearInterval(t);
+        console.error('[detail] TMap 加载超时');
+        var fb=document.getElementById('map-fallback');
+        var mapEl=document.getElementById('map');
+        if(fb) fb.style.display='block';
+        if(mapEl) mapEl.style.display='none';
+      }
     }, 300);
   }
+
+  // 重试加载详情页地图
+  window.retryDetailMap = function(){
+    var fb=document.getElementById('map-fallback');
+    var mapEl=document.getElementById('map');
+    if(fb) fb.style.display='none';
+    if(mapEl) mapEl.style.display='block';
+    if(!currentEvent) return;
+    if(window.TMap){ initMap(currentEvent); }
+    else {
+      var retries = 0, max = 50;
+      var t = setInterval(function(){
+        if(window.TMap){ clearInterval(t); initMap(currentEvent); }
+        else if(++retries >= max){
+          clearInterval(t);
+          if(fb) fb.style.display='block';
+          if(mapEl) mapEl.style.display='none';
+        }
+      }, 300);
+    }
+  };
 </script>
 </body>
 </html>

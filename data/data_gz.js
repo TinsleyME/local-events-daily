@@ -8,7 +8,7 @@ window.APP_DATA = {
   },
   "events": [
     {
-      "id": "e-b8e59886",
+      "id": "e-gz-b8e598",
       "city": "gz",
       "cat": "exhi",
       "name": "城脉千年——广州建城2240年得名1800年专题展",
@@ -23,10 +23,11 @@ window.APP_DATA = {
       "start": "2026-08-22",
       "end": "2027-08-22",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-a7932c33",
+      "id": "e-gz-a7932c",
       "city": "gz",
       "cat": "exhi",
       "name": "印象·梵高：沉浸式数字艺术展",
@@ -41,10 +42,11 @@ window.APP_DATA = {
       "start": "2026-07-15",
       "end": "2026-10-25",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-fc3cad5c",
+      "id": "e-gz-fc3cad",
       "city": "gz",
       "cat": "exhi",
       "name": "文艺复兴的交响——格拉斯哥博物馆藏大师作品展",
@@ -59,10 +61,11 @@ window.APP_DATA = {
       "start": "2026-07-01",
       "end": "2026-10-18",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-44213872",
+      "id": "e-gz-442138",
       "city": "gz",
       "cat": "exhi",
       "name": "一念敦煌——石窟艺术大展",
@@ -77,10 +80,11 @@ window.APP_DATA = {
       "start": "2026-05-01",
       "end": "2026-10-31",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-c5245a05",
+      "id": "e-gz-c5245a",
       "city": "gz",
       "cat": "exhi",
       "name": "青州微笑——中国古青州佛造像艺术展",
@@ -95,10 +99,11 @@ window.APP_DATA = {
       "start": "2026-06-20",
       "end": "2026-12-19",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-b4da04a9",
+      "id": "e-gz-b4da04",
       "city": "gz",
       "cat": "exhi",
       "name": "本己与在侧——神经多元艺术展",
@@ -113,10 +118,11 @@ window.APP_DATA = {
       "start": "2026-09-08",
       "end": "2026-09-20",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-6af438f6",
+      "id": "e-gz-6af438",
       "city": "gz",
       "cat": "exhi",
       "name": "广州文化公园中秋灯会",
@@ -131,10 +137,11 @@ window.APP_DATA = {
       "start": "2026-09-25",
       "end": "2026-10-07",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-d1894214",
+      "id": "e-gz-d18942",
       "city": "gz",
       "cat": "exhi",
       "name": "那些年的老课本展",
@@ -149,10 +156,11 @@ window.APP_DATA = {
       "start": "2026-09-01",
       "end": null,
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-f20fb5f1",
+      "id": "e-gz-f20fb5",
       "city": "gz",
       "cat": "exhi",
       "name": "白鹅潭·广东美术馆新馆群展(王维宝/李金明/维加斯/许钦松)",
@@ -167,10 +175,11 @@ window.APP_DATA = {
       "start": "2026-09-25",
       "end": null,
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-0017ebdf",
+      "id": "e-gz-0017eb",
       "city": "gz",
       "cat": "show",
       "name": "话剧《农庄馆客人》 黄磊、何炅领衔",
@@ -186,10 +195,11 @@ window.APP_DATA = {
       "end": "2026-09-12",
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-09",
-      "price": "180-1280元"
+      "price": "180-1280元",
+      "cityId": "gz"
     },
     {
-      "id": "e-df87c9ce",
+      "id": "e-gz-df87c9",
       "city": "gz",
       "cat": "show",
       "name": "俄语原版摇滚音乐剧《卡拉马佐夫兄弟》",
@@ -205,10 +215,11 @@ window.APP_DATA = {
       "end": "2026-09-19",
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-09",
-      "price": "180-880元"
+      "price": "180-880元",
+      "cityId": "gz"
     },
     {
-      "id": "e-2e31cb5b",
+      "id": "e-gz-2e31cb",
       "city": "gz",
       "cat": "show",
       "name": "沉浸式国乐剧场《水墨与丝竹的对话3：鳌鱼》",
@@ -224,10 +235,11 @@ window.APP_DATA = {
       "end": "2026-09-26",
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-09",
-      "price": "80-380元"
+      "price": "80-380元",
+      "cityId": "gz"
     },
     {
-      "id": "e-abedd430",
+      "id": "e-gz-abedd4",
       "city": "gz",
       "cat": "show",
       "name": "话剧《非穷尽列举》 姚晨领衔",
@@ -243,10 +255,11 @@ window.APP_DATA = {
       "end": "2026-10-02",
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-09",
-      "price": "180-880元"
+      "price": "180-880元",
+      "cityId": "gz"
     },
     {
-      "id": "e-1cd29bdb",
+      "id": "e-gz-1cd29b",
       "city": "gz",
       "cat": "show",
       "name": "yamy 2026巡演广州站「掂过碌蔗」",
@@ -262,10 +275,11 @@ window.APP_DATA = {
       "end": "2026-09-13",
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-09",
-      "price": "199-299元"
+      "price": "199-299元",
+      "cityId": "gz"
     },
     {
-      "id": "e-89fbe400",
+      "id": "e-gz-89fbe4",
       "city": "gz",
       "cat": "show",
       "name": "CHECKYLAM 广州专场 x 撑台脚Vol.15「胜利冯林」",
@@ -281,10 +295,11 @@ window.APP_DATA = {
       "end": "2026-09-12",
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-09",
-      "price": "188-288元"
+      "price": "188-288元",
+      "cityId": "gz"
     },
     {
-      "id": "e-dd121afe",
+      "id": "e-gz-dd121a",
       "city": "gz",
       "cat": "show",
       "name": "EPICA 荷兰交响金属「秘境维度」亚洲巡演",
@@ -300,10 +315,11 @@ window.APP_DATA = {
       "end": "2026-09-18",
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-09",
-      "price": "540元"
+      "price": "540元",
+      "cityId": "gz"
     },
     {
-      "id": "e-9767b9c7",
+      "id": "e-gz-9767b9",
       "city": "gz",
       "cat": "show",
       "name": "一枚钉情绪音乐节4.0",
@@ -319,10 +335,11 @@ window.APP_DATA = {
       "end": "2026-09-12",
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-09",
-      "price": "168-298元"
+      "price": "168-298元",
+      "cityId": "gz"
     },
     {
-      "id": "e-25ef5df9",
+      "id": "e-gz-25ef5d",
       "city": "gz",
       "cat": "show",
       "name": "液蓝 BlueLiquid 同名专辑发行巡演",
@@ -338,10 +355,11 @@ window.APP_DATA = {
       "end": "2026-09-17",
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-09",
-      "price": "80-150元"
+      "price": "80-150元",
+      "cityId": "gz"
     },
     {
-      "id": "e-20609d60",
+      "id": "e-gz-20609d",
       "city": "gz",
       "cat": "show",
       "name": "倦梦鼠鼠漫游联合专场",
@@ -357,10 +375,11 @@ window.APP_DATA = {
       "end": "2026-09-13",
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-09",
-      "price": "128元"
+      "price": "128元",
+      "cityId": "gz"
     },
     {
-      "id": "e-abe9de47",
+      "id": "e-gz-abe9de",
       "city": "gz",
       "cat": "show",
       "name": "好说喜剧·英语单口喜剧专场",
@@ -376,10 +395,11 @@ window.APP_DATA = {
       "end": "2026-09-12",
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-09",
-      "price": "228元"
+      "price": "228元",
+      "cityId": "gz"
     },
     {
-      "id": "e-af4bacce",
+      "id": "e-gz-af4bac",
       "city": "gz",
       "cat": "market",
       "name": "第三届广州地铁TOD生活节·TOD好生活市集",
@@ -394,10 +414,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-13",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-e9415d2c",
+      "id": "e-gz-e9415d",
       "city": "gz",
       "cat": "market",
       "name": "TWS POP-UP 快闪活动 广州",
@@ -412,10 +433,11 @@ window.APP_DATA = {
       "start": "2026-09-11",
       "end": "2026-09-27",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-1d784263",
+      "id": "e-gz-1d7842",
       "city": "gz",
       "cat": "market",
       "name": "广州文化公园中秋嘉年华市集",
@@ -430,10 +452,11 @@ window.APP_DATA = {
       "start": "2026-09-25",
       "end": "2026-10-07",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-07388484",
+      "id": "e-gz-073884",
       "city": "gz",
       "cat": "talk",
       "name": "【羊城学堂】从\"广延五岭\"到\"州通四海\"(冷东)",
@@ -448,10 +471,11 @@ window.APP_DATA = {
       "start": "2026-09-19",
       "end": "2026-09-19",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-b54153c4",
+      "id": "e-gz-b54153",
       "city": "gz",
       "cat": "talk",
       "name": "【羊城学堂】一脉千秋，城基永固(陈春声)",
@@ -466,10 +490,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-12",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-23b5dd88",
+      "id": "e-gz-23b5dd",
       "city": "gz",
       "cat": "talk",
       "name": "腾讯云架构师城市沙龙：AI在企业落地的问题与解法",
@@ -484,10 +509,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-12",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-41b9652f",
+      "id": "e-gz-41b965",
       "city": "gz",
       "cat": "talk",
       "name": "WeTalk沙龙第104期：理想的周末",
@@ -502,10 +528,11 @@ window.APP_DATA = {
       "start": "2026-09-13",
       "end": "2026-09-13",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-23cdce22",
+      "id": "e-gz-23cdce",
       "city": "gz",
       "cat": "talk",
       "name": "信息素养研学：AI博士解锁\"智识能力的新维度\"",
@@ -520,10 +547,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-12",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-19090ea0",
+      "id": "e-gz-19090e",
       "city": "gz",
       "cat": "talk",
       "name": "e学堂：下肢静脉曲张与\"老烂腿\"防治讲座",
@@ -538,10 +566,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-12",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-2c0483e7",
+      "id": "e-gz-2c0483",
       "city": "gz",
       "cat": "sports",
       "name": "2026广州马拉松赛 报名(12.20鸣枪)",
@@ -557,10 +586,11 @@ window.APP_DATA = {
       "end": "2026-12-20",
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-09",
-      "price": "180元/人"
+      "price": "180元/人",
+      "cityId": "gz"
     },
     {
-      "id": "e-9df3d0c1",
+      "id": "e-gz-9df3d0",
       "city": "gz",
       "cat": "family",
       "name": "儿童剧《冰雪奇缘之冰雪梦境》",
@@ -576,10 +606,11 @@ window.APP_DATA = {
       "end": "2026-09-12",
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-09",
-      "price": "80-680元"
+      "price": "80-680元",
+      "cityId": "gz"
     },
     {
-      "id": "e-e392862b",
+      "id": "e-gz-e39286",
       "city": "gz",
       "cat": "family",
       "name": "儿童剧《奥特曼之光之守护者》",
@@ -595,10 +626,11 @@ window.APP_DATA = {
       "end": "2026-09-13",
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-09",
-      "price": "80-680元"
+      "price": "80-680元",
+      "cityId": "gz"
     },
     {
-      "id": "e-4106417f",
+      "id": "e-gz-410641",
       "city": "gz",
       "cat": "family",
       "name": "《冰雪公主魔镜奇缘》原创亲子音乐舞台剧",
@@ -613,10 +645,11 @@ window.APP_DATA = {
       "start": "2026-09-19",
       "end": "2026-09-19",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-69f1f86e",
+      "id": "e-gz-69f1f8",
       "city": "gz",
       "cat": "family",
       "name": "奇幻亲子音乐剧《绿野仙踪》",
@@ -631,10 +664,11 @@ window.APP_DATA = {
       "start": "2026-09-26",
       "end": "2026-09-27",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-a77c24a0",
+      "id": "e-gz-a77c24",
       "city": "gz",
       "cat": "family",
       "name": "亲子舞台剧《菲尼斯·小王子》",
@@ -649,10 +683,11 @@ window.APP_DATA = {
       "start": "2026-09-27",
       "end": "2026-09-27",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-b6388a82",
+      "id": "e-gz-b6388a",
       "city": "gz",
       "cat": "family",
       "name": "\"小樱桃\"阅读树·樱桃读书会《做最勇敢的自己》",
@@ -667,10 +702,11 @@ window.APP_DATA = {
       "start": "2026-09-19",
       "end": "2026-09-19",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-6e676118",
+      "id": "e-gz-6e6761",
       "city": "gz",
       "cat": "family",
       "name": "向日葵亲子小屋《阿立会穿裤子了》",
@@ -685,10 +721,11 @@ window.APP_DATA = {
       "start": "2026-09-21",
       "end": "2026-09-21",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-c4f83dc0",
+      "id": "e-gz-c4f83d",
       "city": "gz",
       "cat": "family",
       "name": "亲子童话音乐剧《爱丽丝奇境之旅》",
@@ -708,10 +745,11 @@ window.APP_DATA = {
         "v_cbf5605f",
         "v_43a4ce9c"
       ],
-      "price": "80-220元"
+      "price": "80-220元",
+      "cityId": "gz"
     },
     {
-      "id": "e-49f123cf",
+      "id": "e-gz-49f123",
       "city": "gz",
       "cat": "outdoor",
       "name": "第十五届郑仙诞文化旅游月",
@@ -726,10 +764,11 @@ window.APP_DATA = {
       "start": "2026-09-06",
       "end": "2026-09-19",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-f5a52a8c",
+      "id": "e-gz-f5a52a",
       "city": "gz",
       "cat": "outdoor",
       "name": "莫六公山 山脊徒步(广州出发多期)",
@@ -758,10 +797,11 @@ window.APP_DATA = {
         "v_1b54f924",
         "v_13ad4492"
       ],
-      "price": "118-139元"
+      "price": "118-139元",
+      "cityId": "gz"
     },
     {
-      "id": "e-0a201840",
+      "id": "e-gz-0a2018",
       "city": "gz",
       "cat": "outdoor",
       "name": "白云山森林康养旅游线路发布",
@@ -776,10 +816,11 @@ window.APP_DATA = {
       "start": "2026-09-06",
       "end": null,
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-56de99ab",
+      "id": "e-gz-56de99",
       "city": "gz",
       "cat": "expo",
       "name": "第六届广州军民两用技术装备展览会",
@@ -794,10 +835,11 @@ window.APP_DATA = {
       "start": "2026-09-10",
       "end": "2026-09-12",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-a10e1698",
+      "id": "e-gz-a10e16",
       "city": "gz",
       "cat": "expo",
       "name": "第18届GTI广州游乐设备产业展",
@@ -812,10 +854,11 @@ window.APP_DATA = {
       "start": "2026-09-10",
       "end": "2026-09-12",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-cf8963fa",
+      "id": "e-gz-cf8963",
       "city": "gz",
       "cat": "expo",
       "name": "中食展(广州)暨广州国际食品食材展",
@@ -830,10 +873,11 @@ window.APP_DATA = {
       "start": "2026-09-10",
       "end": "2026-09-12",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-08f4fc81",
+      "id": "e-gz-08f4fc",
       "city": "gz",
       "cat": "expo",
       "name": "2026广州国际渔业博览会 / 海洋牧场展",
@@ -848,10 +892,11 @@ window.APP_DATA = {
       "start": "2026-09-10",
       "end": "2026-09-12",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-1f997e91",
+      "id": "e-gz-1f997e",
       "city": "gz",
       "cat": "expo",
       "name": "2026粤港澳大湾区老字号(文化)博览会",
@@ -866,10 +911,11 @@ window.APP_DATA = {
       "start": "2026-09-11",
       "end": "2026-09-13",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-fc98e125",
+      "id": "e-gz-fc98e1",
       "city": "gz",
       "cat": "expo",
       "name": "2026广东国际旅游产业博览会(CITIE)",
@@ -884,10 +930,11 @@ window.APP_DATA = {
       "start": "2026-09-11",
       "end": "2026-09-13",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-51579384",
+      "id": "e-gz-515793",
       "city": "gz",
       "cat": "expo",
       "name": "CARDJOY卡展 广州站",
@@ -902,10 +949,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-13",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-b94c663d",
+      "id": "e-gz-b94c66",
       "city": "gz",
       "cat": "expo",
       "name": "2026世界电池及储能产业博览会(亚太电池展)",
@@ -920,10 +968,11 @@ window.APP_DATA = {
       "start": "2026-09-16",
       "end": "2026-09-18",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-eec954b3",
+      "id": "e-gz-eec954",
       "city": "gz",
       "cat": "expo",
       "name": "第五届广州国际自有品牌展",
@@ -938,10 +987,11 @@ window.APP_DATA = {
       "start": "2026-09-08",
       "end": "2026-09-09",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-c483d4c3",
+      "id": "e-gz-c483d4",
       "city": "gz",
       "cat": "expo",
       "name": "第七届广州国际智慧物业博览会",
@@ -956,10 +1006,11 @@ window.APP_DATA = {
       "start": "2026-09-17",
       "end": "2026-09-19",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-9c5a1329",
+      "id": "e-gz-9c5a13",
       "city": "gz",
       "cat": "expo",
       "name": "鸿威·世界宠物博览会 广州展",
@@ -974,10 +1025,11 @@ window.APP_DATA = {
       "start": "2026-09-18",
       "end": "2026-09-20",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-5bcd19fa",
+      "id": "e-gz-5bcd19",
       "city": "gz",
       "cat": "expo",
       "name": "第38届广东时装周-秋季",
@@ -992,10 +1044,11 @@ window.APP_DATA = {
       "start": "2026-09-15",
       "end": "2026-09-23",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-ab8ae0a1",
+      "id": "e-gz-ab8ae0",
       "city": "gz",
       "cat": "show",
       "name": "2026广州超级草莓音乐节",
@@ -1010,10 +1063,11 @@ window.APP_DATA = {
       "start": "2026-09-25",
       "end": "2026-09-27",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-dcfab17f",
+      "id": "e-gz-dcfab1",
       "city": "gz",
       "cat": "show",
       "name": "余宇涵\"地球旅客\"演唱会",
@@ -1028,10 +1082,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-13",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-c09d18f4",
+      "id": "e-gz-c09d18",
       "city": "gz",
       "cat": "show",
       "name": "话剧《致永庆坊》",
@@ -1046,10 +1101,11 @@ window.APP_DATA = {
       "start": "2026-09-18",
       "end": "2026-09-20",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-30c174bd",
+      "id": "e-gz-30c174",
       "city": "gz",
       "cat": "market",
       "name": "万代假面骑士麦斯快闪店",
@@ -1064,10 +1120,11 @@ window.APP_DATA = {
       "start": "2026-09-05",
       "end": "2026-10-07",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-1ce2a5d6",
+      "id": "e-gz-1ce2a5",
       "city": "gz",
       "cat": "market",
       "name": "JOJO的奇妙冒险主题快闪",
@@ -1082,10 +1139,11 @@ window.APP_DATA = {
       "start": "2026-09-04",
       "end": "2026-10-11",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-bd6268ea",
+      "id": "e-gz-bd6268",
       "city": "gz",
       "cat": "exhi",
       "name": "小王子VR沉浸体验展",
@@ -1100,10 +1158,11 @@ window.APP_DATA = {
       "start": "2026-09-08",
       "end": "2026-11-30",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-ccdf5427",
+      "id": "e-gz-ccdf54",
       "city": "gz",
       "cat": "exhi",
       "name": "黄河落天——王鸿海黄河文化艺术展",
@@ -1118,10 +1177,11 @@ window.APP_DATA = {
       "start": "2026-09-05",
       "end": "2026-10-07",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-c2afb0ec",
+      "id": "e-gz-c2afb0",
       "city": "gz",
       "cat": "family",
       "name": "海珠湿地稻谷收割亲子体验课",
@@ -1136,10 +1196,11 @@ window.APP_DATA = {
       "start": "2026-09-06",
       "end": "2026-09-25",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-287f57dc",
+      "id": "e-gz-287f57",
       "city": "gz",
       "venueText": "广州图书馆 负1层小展厅",
       "dkey": "展期",
@@ -1154,10 +1215,11 @@ window.APP_DATA = {
       "desc": "展品涵盖两广碑刻、青铜器、汉画像、砖文等近百件传拓作品，透过拓片中的金石铭刻，展现文字由实用记录向审美艺术演变的轨迹。逢周三闭馆。",
       "link": "https://action.gzlib.gov.cn/action/mb/weixin.do?cmd=listNewAction",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-b7515882",
+      "id": "e-gz-b75158",
       "city": "gz",
       "venueText": "广州图书馆 负1层小展厅",
       "dkey": "展期",
@@ -1172,10 +1234,11 @@ window.APP_DATA = {
       "desc": "汇集四位艺术家约60幅书画佳作，题材涵盖讴歌时代发展、礼赞羊城风貌、传承中华经典与艺术家个人志趣。逢周三闭馆。",
       "link": "https://action.gzlib.gov.cn/action/mb/weixin.do?cmd=listNewAction",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-d349aa0a",
+      "id": "e-gz-d349aa",
       "city": "gz",
       "venueText": "广州图书馆 南1楼家谱查询中心",
       "dkey": "展期",
@@ -1190,10 +1253,11 @@ window.APP_DATA = {
       "desc": "系统展出十五运会和残特奥会火炬、奖牌、证书、吉祥物、主题图书等珍贵实物与文献，全景回望粤港澳三地首次联合承办的体育盛会。逢周三闭馆。",
       "link": "https://action.gzlib.gov.cn/action/mb/weixin.do?cmd=listNewAction",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-bccb8ce5",
+      "id": "e-gz-bccb8c",
       "city": "gz",
       "venueText": "广州图书馆 北9楼广州人文馆",
       "dkey": "展期",
@@ -1208,10 +1272,11 @@ window.APP_DATA = {
       "desc": "聚焦广图所藏古籍珍善之本，从卷帙存佚、刻书序跋、版式行款、递藏印记等方面呈现明崇祯刻本《四书汇考》的独特价值。逢周三闭馆。",
       "link": "https://action.gzlib.gov.cn/action/mb/weixin.do?cmd=listNewAction",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-2b804cae",
+      "id": "e-gz-2b804c",
       "city": "gz",
       "venueText": "广州大剧院",
       "dkey": "时间",
@@ -1226,10 +1291,11 @@ window.APP_DATA = {
       "desc": "以黑色幽默解构莎翁经典，一间杂物间里的权力游戏，广州大剧院九月话剧新档。",
       "link": "https://www.gzdjy.org/",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-59f5d255",
+      "id": "e-gz-59f5d2",
       "city": "gz",
       "venueText": "广州大剧院",
       "dkey": "时间",
@@ -1244,10 +1310,11 @@ window.APP_DATA = {
       "desc": "瑞典古典吉他大师约兰·索舍尔独奏音乐会，广州大剧院\"纯粹系列\"重磅场次。",
       "link": "https://www.gzdjy.org/",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-5658b8b9",
+      "id": "e-gz-5658b8",
       "city": "gz",
       "venueText": "宝能广州国际体育演艺中心",
       "dkey": "时间",
@@ -1263,10 +1330,11 @@ window.APP_DATA = {
       "link": "https://www.ososhow.com/month/guangzhou-concert-9.html",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": "388元起"
+      "price": "388元起",
+      "cityId": "gz"
     },
     {
-      "id": "e-984bb16b",
+      "id": "e-gz-984bb1",
       "city": "gz",
       "venueText": "广州体育馆 1号馆",
       "dkey": "时间",
@@ -1282,10 +1350,11 @@ window.APP_DATA = {
       "link": "https://www.ososhow.com/month/guangzhou-concert-9.html",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": "380元起"
+      "price": "380元起",
+      "cityId": "gz"
     },
     {
-      "id": "e-f187635a",
+      "id": "e-gz-f18763",
       "city": "gz",
       "venueText": "广州亚运城综合体育馆",
       "dkey": "时间",
@@ -1301,10 +1370,11 @@ window.APP_DATA = {
       "link": "https://www.ososhow.com/month/guangzhou-concert-9.html",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": "380元起"
+      "price": "380元起",
+      "cityId": "gz"
     },
     {
-      "id": "e-efcfb52b",
+      "id": "e-gz-efcfb5",
       "city": "gz",
       "venueText": "广州亚运城综合体育馆",
       "dkey": "时间",
@@ -1320,10 +1390,11 @@ window.APP_DATA = {
       "link": "https://www.ososhow.com/month/guangzhou-concert-9.html",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": "380元起"
+      "price": "380元起",
+      "cityId": "gz"
     },
     {
-      "id": "e-8b49b540",
+      "id": "e-gz-8b49b5",
       "city": "gz",
       "venueText": "广州体育馆 1号馆",
       "dkey": "时间",
@@ -1339,10 +1410,11 @@ window.APP_DATA = {
       "link": "https://www.ososhow.com/month/guangzhou-concert-9.html",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": "280元起"
+      "price": "280元起",
+      "cityId": "gz"
     },
     {
-      "id": "e-f7413368",
+      "id": "e-gz-f74133",
       "city": "gz",
       "venueText": "CH8蛙厂演艺中心(大学城店)",
       "dkey": "时间",
@@ -1358,10 +1430,11 @@ window.APP_DATA = {
       "link": "https://www.ososhow.com/month/guangzhou-concert-9.html",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": "400元起"
+      "price": "400元起",
+      "cityId": "gz"
     },
     {
-      "id": "e-5d2400e0",
+      "id": "e-gz-5d2400",
       "city": "gz",
       "venueText": "MAO Livehouse 广州永庆坊店 Live厅",
       "dkey": "时间",
@@ -1376,10 +1449,11 @@ window.APP_DATA = {
       "desc": "柏林合成器流行女王 Molly Nilsson 东方之约广州站。",
       "link": "https://www.showstart.com/",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-e3b54d74",
+      "id": "e-gz-e3b54d",
       "city": "gz",
       "venueText": "MAO Livehouse 广州永庆坊店 club厅",
       "dkey": "时间",
@@ -1394,10 +1468,11 @@ window.APP_DATA = {
       "desc": "器乐摇滚/后摇乐队碎叠携新专辑《阿南刻》中秋前夕上演，嘉宾宇宙盲盒；学生票69/预售89/双人169/全价109。",
       "link": "https://www.showstart.com/",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-3a55ef67",
+      "id": "e-gz-3a55ef",
       "city": "gz",
       "venueText": "MAO Livehouse 广州永庆坊店 Live厅",
       "dkey": "时间",
@@ -1413,10 +1488,11 @@ window.APP_DATA = {
       "link": "https://www.ososhow.com/month/guangzhou-concert-9.html",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": "198元起"
+      "price": "198元起",
+      "cityId": "gz"
     },
     {
-      "id": "e-74d21a0c",
+      "id": "e-gz-74d21a",
       "city": "gz",
       "venueText": "MAO Livehouse 广州中大店 一号馆",
       "dkey": "时间",
@@ -1432,10 +1508,11 @@ window.APP_DATA = {
       "link": "https://www.ososhow.com/month/guangzhou-concert-9.html",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": "199元起"
+      "price": "199元起",
+      "cityId": "gz"
     },
     {
-      "id": "e-6a207dca",
+      "id": "e-gz-6a207d",
       "city": "gz",
       "venueText": "MAO Livehouse 广州太古仓店",
       "dkey": "时间",
@@ -1451,10 +1528,11 @@ window.APP_DATA = {
       "link": "https://www.ososhow.com/month/guangzhou-concert-9.html",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": "188元起"
+      "price": "188元起",
+      "cityId": "gz"
     },
     {
-      "id": "e-10caa561",
+      "id": "e-gz-10caa5",
       "city": "gz",
       "venueText": "疆进酒 OMNI SPACE 广州 2号馆",
       "dkey": "时间",
@@ -1470,10 +1548,11 @@ window.APP_DATA = {
       "link": "https://www.ososhow.com/month/guangzhou-concert-9.html",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": "168元起"
+      "price": "168元起",
+      "cityId": "gz"
     },
     {
-      "id": "e-eaebf9f7",
+      "id": "e-gz-eaebf9",
       "city": "gz",
       "venueText": "MAO Livehouse 广州中大店 二号馆",
       "dkey": "时间",
@@ -1489,10 +1568,11 @@ window.APP_DATA = {
       "link": "https://www.ososhow.com/month/guangzhou-concert-9.html",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": "180元"
+      "price": "180元",
+      "cityId": "gz"
     },
     {
-      "id": "e-db5a1a56",
+      "id": "e-gz-db5a1a",
       "city": "gz",
       "venueText": "疆进酒 OMNI SPACE 广州 2号馆",
       "dkey": "时间",
@@ -1508,10 +1588,11 @@ window.APP_DATA = {
       "link": "https://www.ososhow.com/month/guangzhou-concert-9.html",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": "198元起"
+      "price": "198元起",
+      "cityId": "gz"
     },
     {
-      "id": "e-76e82b5c",
+      "id": "e-gz-76e82b",
       "city": "gz",
       "venueText": "疆进酒 OMNI SPACE 广州 2号馆",
       "dkey": "时间",
@@ -1527,10 +1608,11 @@ window.APP_DATA = {
       "link": "https://www.ososhow.com/month/guangzhou-concert-9.html",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": "168元起"
+      "price": "168元起",
+      "cityId": "gz"
     },
     {
-      "id": "e-659c6402",
+      "id": "e-gz-659c64",
       "city": "gz",
       "venueText": "疆进酒 OMNI SPACE 广州 1号馆",
       "dkey": "时间",
@@ -1546,10 +1628,11 @@ window.APP_DATA = {
       "link": "https://www.ososhow.com/month/guangzhou-concert-9.html",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": "188元起"
+      "price": "188元起",
+      "cityId": "gz"
     },
     {
-      "id": "e-704386a1",
+      "id": "e-gz-704386",
       "city": "gz",
       "venueText": "MAO Livehouse 广州中大店 二号馆",
       "dkey": "时间",
@@ -1565,10 +1648,11 @@ window.APP_DATA = {
       "link": "https://www.ososhow.com/month/guangzhou-concert-9.html",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": "188元起"
+      "price": "188元起",
+      "cityId": "gz"
     },
     {
-      "id": "e-ab49a9aa",
+      "id": "e-gz-ab49a9",
       "city": "gz",
       "venueText": "声音共和 Livehouse 广州",
       "dkey": "时间",
@@ -1584,10 +1668,11 @@ window.APP_DATA = {
       "link": "https://www.ososhow.com/month/guangzhou-concert-9.html",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": "200元起"
+      "price": "200元起",
+      "cityId": "gz"
     },
     {
-      "id": "e-dc2effda",
+      "id": "e-gz-dc2eff",
       "city": "gz",
       "venueText": "MAO Livehouse 广州中大店 一号馆",
       "dkey": "时间",
@@ -1603,10 +1688,11 @@ window.APP_DATA = {
       "link": "https://www.showstart.com/",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": "280元起"
+      "price": "280元起",
+      "cityId": "gz"
     },
     {
-      "id": "e-ca14fbe2",
+      "id": "e-gz-ca14fb",
       "city": "gz",
       "venueText": "MAO Livehouse 广州中大店 一号馆",
       "dkey": "时间",
@@ -1622,10 +1708,11 @@ window.APP_DATA = {
       "link": "https://www.showstart.com/",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": "199元起"
+      "price": "199元起",
+      "cityId": "gz"
     },
     {
-      "id": "e-b8b8d770",
+      "id": "e-gz-b8b8d7",
       "city": "gz",
       "venueText": "MAO Livehouse 广州中大店 二号馆",
       "dkey": "时间",
@@ -1641,10 +1728,11 @@ window.APP_DATA = {
       "link": "https://www.showstart.com/",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": "95元起"
+      "price": "95元起",
+      "cityId": "gz"
     },
     {
-      "id": "e-67bb9666",
+      "id": "e-gz-67bb96",
       "city": "gz",
       "venueText": "MAO Livehouse 广州太古仓店",
       "dkey": "时间",
@@ -1659,10 +1747,11 @@ window.APP_DATA = {
       "desc": "亚森2026巡演广州站。",
       "link": "https://weibo.com/6415425506/5337675204921302",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-7af9c86f",
+      "id": "e-gz-7af9c8",
       "city": "gz",
       "venueText": "广东艺术剧院",
       "dkey": "时间",
@@ -1677,10 +1766,11 @@ window.APP_DATA = {
       "desc": "广州同曲异工乐团倾情献演，竹笛、钢琴与弦乐东西交融；现场设月下灯谜、月下祝福树等中秋限定互动。",
       "link": "https://m.sohu.com/a/1071722360_121106875",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-7fec7258",
+      "id": "e-gz-7fec72",
       "city": "gz",
       "venueText": "北京路天河城 主入口展位",
       "dkey": "时间",
@@ -1695,10 +1785,11 @@ window.APP_DATA = {
       "desc": "吴川百年饼艺快闪落地北京路，现场还原月饼手工烘焙制作全过程，沉浸式感受广式月饼匠心与中秋氛围。",
       "link": "https://www.toutiao.com/article/7682717831414219304/",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-b49923e5",
+      "id": "e-gz-b49923",
       "city": "gz",
       "venueText": "广州图书馆 北9楼广州人文馆中庭",
       "dkey": "时间",
@@ -1713,10 +1804,11 @@ window.APP_DATA = {
       "desc": "中山大学历史学系教授、长江学者吴义雄主讲，围绕18世纪末至19世纪初广州口岸贸易扩展的历史进程，探讨中西交往中的合作与摩擦。名额60人，需报名。",
       "link": "https://action.gzlib.gov.cn/action/web/integral.do?actionCmd=viewSP&id=50122957",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-01a9d58a",
+      "id": "e-gz-01a9d5",
       "city": "gz",
       "venueText": "广州图书馆 南6楼语言学习馆活动区",
       "dkey": "时间",
@@ -1731,10 +1823,11 @@ window.APP_DATA = {
       "desc": "粤语文化主题活动，报名参与。",
       "link": "https://action.gzlib.gov.cn/action/mb/weixin.do?cmd=listNewAction",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-ad2b0b46",
+      "id": "e-gz-ad2b0b",
       "city": "gz",
       "venueText": "广州图书馆 负1层1号报告厅",
       "dkey": "时间",
@@ -1749,10 +1842,11 @@ window.APP_DATA = {
       "desc": "星海音乐学院李菁、林琅老师联合主讲，围绕蒙古、羌、彝、胶州秧歌，以\"音乐赏析+舞蹈示范\"双线模式解读传统民族歌舞。报名参与。",
       "link": "https://action.gzlib.gov.cn/action/mb/weixin.do?cmd=listNewAction",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-47d79332",
+      "id": "e-gz-47d793",
       "city": "gz",
       "venueText": "广州图书馆 北5楼东面阅己空间",
       "dkey": "时间",
@@ -1767,10 +1861,11 @@ window.APP_DATA = {
       "desc": "中秋主题阅读疗愈活动，用SEE卡做心愿拼贴，报名参与。",
       "link": "https://action.gzlib.gov.cn/action/mb/weixin.do?cmd=listNewAction",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-494aab65",
+      "id": "e-gz-494aab",
       "city": "gz",
       "venueText": "广州图书馆 南1楼阅读体验区",
       "dkey": "时间",
@@ -1785,10 +1880,11 @@ window.APP_DATA = {
       "desc": "岭南古琴市级传承人宁兰清主讲，以琴凝神、以书致远，配陈皮普洱与降真和香；共读《白玉蟾诗集新编》《白沙诗教解》。每场限50人，报名参与。",
       "link": "https://action.gzlib.org.cn/action/web/integral.do?actionCmd=viewSP&id=50122716",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-889f2675",
+      "id": "e-gz-889f26",
       "city": "gz",
       "venueText": "广州图书馆 北2楼东区美好生活馆",
       "dkey": "时间",
@@ -1803,10 +1899,11 @@ window.APP_DATA = {
       "desc": "旅游达人分享阿曼旅行见闻，报名参与。",
       "link": "https://action.gzlib.gov.cn/action/mb/weixin.do?cmd=listNewAction",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-4dab0c14",
+      "id": "e-gz-4dab0c",
       "city": "gz",
       "venueText": "力健羽毛球馆(天河店) 天河区天源路401号融通和园18栋",
       "dkey": "时间",
@@ -1822,10 +1919,11 @@ window.APP_DATA = {
       "link": "http://www.yonex.cn/",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": "450元"
+      "price": "450元",
+      "cityId": "gz"
     },
     {
-      "id": "e-249db103",
+      "id": "e-gz-249db1",
       "city": "gz",
       "venueText": "广州图书馆 南3楼西区",
       "dkey": "时间",
@@ -1840,10 +1938,11 @@ window.APP_DATA = {
       "desc": "带领8-12岁小读者感受中华民俗温度、体悟传统礼仪，共15个名额，报名参与。",
       "link": "https://action.gzlib.gov.cn/action/mb/weixin.do?cmd=listNewAction",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-2e2f4c96",
+      "id": "e-gz-2e2f4c",
       "city": "gz",
       "venueText": "广州图书馆 南4楼阅创空间",
       "dkey": "时间",
@@ -1858,10 +1957,11 @@ window.APP_DATA = {
       "desc": "少儿编程体验活动，报名参与。",
       "link": "https://action.gzlib.gov.cn/action/mb/weixin.do?cmd=listNewAction",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-e0d5d8df",
+      "id": "e-gz-e0d5d8",
       "city": "gz",
       "venueText": "广州图书馆 南2楼悦读伴岛",
       "dkey": "时间",
@@ -1876,10 +1976,11 @@ window.APP_DATA = {
       "desc": "亲子绘本共读活动，报名参与。",
       "link": "https://action.gzlib.gov.cn/action/mb/weixin.do?cmd=listNewAction",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-1ff56d2c",
+      "id": "e-gz-1ff56d",
       "city": "gz",
       "venueText": "广州图书馆 南2楼小河马玩具馆",
       "dkey": "时间",
@@ -1894,10 +1995,11 @@ window.APP_DATA = {
       "desc": "分龄绘本+积木搭建：从前有个月饼村(2-3岁，9.21/9.25)、过中秋(6-8岁，9.26)、中秋节快乐(3-5岁，9.27)。需提前在广图官网报名。",
       "link": "https://action.gzlib.gov.cn/action/mb/weixin.do?cmd=listNewAction",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-7cca286c",
+      "id": "e-gz-7cca28",
       "city": "gz",
       "venueText": "广州图书馆 南2楼悦读伴岛",
       "dkey": "时间",
@@ -1912,10 +2014,11 @@ window.APP_DATA = {
       "desc": "生活与卫生习惯主题亲子共读，报名参与。",
       "link": "https://action.gzlib.gov.cn/action/mb/weixin.do?cmd=listNewAction",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-df604f6d",
+      "id": "e-gz-df604f",
       "city": "gz",
       "venueText": "番禺区荔园新天地 金逸影城1号厅",
       "dkey": "时间",
@@ -1930,10 +2033,11 @@ window.APP_DATA = {
       "desc": "正版奥特曼舞台剧登陆番禺，连演三场，每场约60分钟。",
       "link": "https://www.panyu.gov.cn/gzpywglt/gkmlpt/content/10/10972/post_10972532.html",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     },
     {
-      "id": "e-efa3ee02",
+      "id": "e-gz-efa3ee",
       "city": "gz",
       "venueText": "客村地铁站B出口集合",
       "dkey": "时间",
@@ -1949,10 +2053,11 @@ window.APP_DATA = {
       "link": "https://www.1778hw.com/",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": "258元"
+      "price": "258元",
+      "cityId": "gz"
     },
     {
-      "id": "e-0d5bde6c",
+      "id": "e-gz-0d5bde",
       "city": "gz",
       "venueText": "客村地铁站B出口集合",
       "dkey": "时间",
@@ -1968,10 +2073,11 @@ window.APP_DATA = {
       "link": "https://www.1778hw.com/",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": "298元"
+      "price": "298元",
+      "cityId": "gz"
     },
     {
-      "id": "e-2a903167",
+      "id": "e-gz-2a9031",
       "city": "gz",
       "venueText": "广州南站集合",
       "dkey": "时间",
@@ -1987,10 +2093,11 @@ window.APP_DATA = {
       "link": "https://www.1778hw.com/",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": "899元"
+      "price": "899元",
+      "cityId": "gz"
     },
     {
-      "id": "e-15c4d52e",
+      "id": "e-gz-15c4d5",
       "city": "gz",
       "venueText": "广交会展馆A区",
       "dkey": "时间",
@@ -2005,7 +2112,8 @@ window.APP_DATA = {
       "desc": "五金电器与工业品跨境出口主题展会，落地广交会展馆A区。票价与登记方式以主办方公告为准。",
       "link": "",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "gz"
     }
   ]
 };

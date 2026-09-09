@@ -8,7 +8,7 @@ window.APP_DATA = {
   },
   "events": [
     {
-      "id": "e-0d14a3da",
+      "id": "e-sz-f4704f",
       "city": "sz",
       "cat": "exhi",
       "name": "笔下传薪——具象油画作品展",
@@ -24,10 +24,11 @@ window.APP_DATA = {
       "end": "2026-10-07",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-1bdb9356",
+      "id": "e-sz-78a577",
       "city": "sz",
       "cat": "exhi",
       "name": "我为我爱——黄胄艺术展",
@@ -43,10 +44,11 @@ window.APP_DATA = {
       "end": "2026-12-04",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-002a4b69",
+      "id": "e-sz-3a59b6",
       "city": "sz",
       "cat": "exhi",
       "name": "记忆的考古——严善錞个展",
@@ -62,10 +64,11 @@ window.APP_DATA = {
       "end": "2026-11-19",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-3f0bcef3",
+      "id": "e-sz-8b7790",
       "city": "sz",
       "cat": "exhi",
       "name": "岭南秘境 蝶舞深圳——大自然微距摄影作品展",
@@ -81,10 +84,11 @@ window.APP_DATA = {
       "end": "2026-11-30",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-497bbf64",
+      "id": "e-sz-7baa01",
       "city": "sz",
       "cat": "exhi",
       "name": "母亲河之恋——何鄂雕塑作品展",
@@ -100,10 +104,11 @@ window.APP_DATA = {
       "end": "2026-12-10",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-694e27d6",
+      "id": "e-sz-412a87",
       "city": "sz",
       "cat": "exhi",
       "name": "桃花源 朱新建艺术展",
@@ -119,10 +124,11 @@ window.APP_DATA = {
       "end": "2026-10-25",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-00811539",
+      "id": "e-sz-057c7e",
       "city": "sz",
       "cat": "exhi",
       "name": "载文蕴艺——中国历代金石碑拓大展",
@@ -138,10 +144,11 @@ window.APP_DATA = {
       "end": "2026-12-31",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-5b6fb6af",
+      "id": "e-sz-d40933",
       "city": "sz",
       "cat": "exhi",
       "name": "薪火相传 稚笔生花 2026深圳美术馆少儿艺术展",
@@ -157,10 +164,11 @@ window.APP_DATA = {
       "end": "2026-10-31",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-5bddae8f",
+      "id": "e-sz-a38c00",
       "city": "sz",
       "cat": "exhi",
       "name": "丝绸之路·相 数字艺术科技特展",
@@ -176,10 +184,11 @@ window.APP_DATA = {
       "end": "2026-10-09",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-0e0fca40",
+      "id": "e-sz-39f9de",
       "city": "sz",
       "cat": "show",
       "name": "姚伟涛·浪漫满屋2026巡回演唱会 深圳",
@@ -195,10 +204,11 @@ window.APP_DATA = {
       "end": "2026-09-11",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-f410f616",
+      "id": "e-sz-4e3d55",
       "city": "sz",
       "cat": "show",
       "name": "孙楠「给所有朋友们的歌」巡演深圳站",
@@ -214,10 +224,11 @@ window.APP_DATA = {
       "end": "2026-09-12",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-96c9a7c1",
+      "id": "e-sz-622b07",
       "city": "sz",
       "cat": "show",
       "name": "郭富城 ICONIC世界巡回演唱会2026深圳站",
@@ -233,10 +244,11 @@ window.APP_DATA = {
       "end": "2026-09-26",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-0aa3552f",
+      "id": "e-sz-9c8c12",
       "city": "sz",
       "cat": "show",
       "name": "陈小春 BIGMAN人一個巡回演唱会-深圳站",
@@ -252,10 +264,11 @@ window.APP_DATA = {
       "end": "2026-10-06",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-e162b359",
+      "id": "e-sz-41d649",
       "city": "sz",
       "cat": "show",
       "name": "陆虎「想你这样的朋友3.0」巡演-深圳站",
@@ -271,10 +284,11 @@ window.APP_DATA = {
       "end": "2026-09-19",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-31264628",
+      "id": "e-sz-429ff2",
       "city": "sz",
       "cat": "show",
       "name": "《图兰朵》首演100周年纪念音乐会",
@@ -290,10 +304,11 @@ window.APP_DATA = {
       "start": "2026-09-17",
       "end": "2026-09-17",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "sz"
     },
     {
-      "id": "e-1f2312ab",
+      "id": "e-sz-9f974e",
       "city": "sz",
       "cat": "show",
       "name": "中国东方演艺集团儿童音乐剧《小东东奇幻之旅》",
@@ -309,10 +324,11 @@ window.APP_DATA = {
       "end": "2026-09-19",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-ba6921dd",
+      "id": "e-sz-e07799",
       "city": "sz",
       "cat": "show",
       "name": "原创国风儿童剧《山海奇遇记—寻找消失的白昼》",
@@ -328,10 +344,11 @@ window.APP_DATA = {
       "end": "2026-09-13",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-20098d79",
+      "id": "e-sz-ffc418",
       "city": "sz",
       "cat": "market",
       "name": "奶酪手帐2.0集深圳站",
@@ -347,10 +364,11 @@ window.APP_DATA = {
       "end": "2026-09-13",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-0f22658e",
+      "id": "e-sz-667bb3",
       "city": "sz",
       "cat": "market",
       "name": "循环派对",
@@ -366,10 +384,11 @@ window.APP_DATA = {
       "end": "2026-09-12",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-c3494e16",
+      "id": "e-sz-7cbf94",
       "city": "sz",
       "cat": "market",
       "name": "有个香菜节",
@@ -385,10 +404,11 @@ window.APP_DATA = {
       "end": "2026-09-13",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-0938145a",
+      "id": "e-sz-839cd8",
       "city": "sz",
       "cat": "market",
       "name": "READY TO GO!秋日趣野市集",
@@ -404,10 +424,11 @@ window.APP_DATA = {
       "end": "2026-09-13",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-8c232f40",
+      "id": "e-sz-bd1872",
       "city": "sz",
       "cat": "market",
       "name": "向海而行 滨海民艺风物集",
@@ -423,10 +444,11 @@ window.APP_DATA = {
       "end": "2026-09-27",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-dcf2cbbb",
+      "id": "e-sz-42a966",
       "city": "sz",
       "cat": "market",
       "name": "深圳糖水节",
@@ -442,10 +464,11 @@ window.APP_DATA = {
       "end": "2026-09-27",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-697f2aed",
+      "id": "e-sz-957830",
       "city": "sz",
       "cat": "market",
       "name": "fizzybizzy葡萄酒节",
@@ -461,10 +484,11 @@ window.APP_DATA = {
       "end": "2026-10-03",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-edb3dc67",
+      "id": "e-sz-72ccdb",
       "city": "sz",
       "cat": "talk",
       "name": "市民文化大讲堂9月讲座",
@@ -480,10 +504,11 @@ window.APP_DATA = {
       "end": "2026-09-13",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-eedd3852",
+      "id": "e-sz-e2128d",
       "city": "sz",
       "cat": "talk",
       "name": "“深圳学人·南书房夜话”第十四季",
@@ -499,10 +524,11 @@ window.APP_DATA = {
       "end": "2026-12-31",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-7ff1311a",
+      "id": "e-sz-6850bc",
       "city": "sz",
       "cat": "talk",
       "name": "腾讯云架构师城市沙龙：AI和云原生架构方案研讨",
@@ -518,10 +544,11 @@ window.APP_DATA = {
       "end": "2026-09-19",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-1db15b27",
+      "id": "e-sz-d77473",
       "city": "sz",
       "cat": "sports",
       "name": "2026年第二届深圳杯篮球联赛",
@@ -537,10 +564,11 @@ window.APP_DATA = {
       "end": "2026-09-19",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-b95725e7",
+      "id": "e-sz-347797",
       "city": "sz",
       "cat": "sports",
       "name": "2026五球联动福田争霸赛·羽毛球争霸赛",
@@ -556,10 +584,11 @@ window.APP_DATA = {
       "end": "2026-09-19",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-bbbfec81",
+      "id": "e-sz-1aaa57",
       "city": "sz",
       "cat": "outdoor",
       "name": "虹桥公园中秋会",
@@ -575,10 +604,11 @@ window.APP_DATA = {
       "end": "2026-09-27",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-a1df52d9",
+      "id": "e-sz-a2d00e",
       "city": "sz",
       "cat": "outdoor",
       "name": "2026“光明杯”两岸骑行赛",
@@ -594,10 +624,11 @@ window.APP_DATA = {
       "end": "2026-09-19",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-e42080d6",
+      "id": "e-sz-3b2bfa",
       "city": "sz",
       "cat": "family",
       "name": "沉浸式海洋科幻舞台剧《海底两万里》深圳站",
@@ -613,10 +644,11 @@ window.APP_DATA = {
       "start": "2026-09-19",
       "end": "2026-09-19",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "sz"
     },
     {
-      "id": "e-b1de7d63",
+      "id": "e-sz-2c16f1",
       "city": "sz",
       "cat": "family",
       "name": "百老汇正版互动亲子科学剧《物理秀》深圳站",
@@ -632,10 +664,11 @@ window.APP_DATA = {
       "start": "2026-10-18",
       "end": "2026-10-18",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "sz"
     },
     {
-      "id": "e-b9a5d390",
+      "id": "e-sz-b7a524",
       "city": "sz",
       "cat": "expo",
       "name": "MEET THAI 2026 Shenzhen(会聚泰国2026·深圳)",
@@ -651,10 +684,11 @@ window.APP_DATA = {
       "end": "2026-09-10",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-3db82e6b",
+      "id": "e-sz-745bfb",
       "city": "sz",
       "cat": "expo",
       "name": "2026深圳国际珠宝展",
@@ -670,10 +704,11 @@ window.APP_DATA = {
       "end": "2026-09-12",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-bcb815c2",
+      "id": "e-sz-bc1fd7",
       "city": "sz",
       "cat": "expo",
       "name": "2026深圳华夏家博会秋季展",
@@ -689,10 +724,11 @@ window.APP_DATA = {
       "end": "2026-09-13",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-7de16295",
+      "id": "e-sz-6e269a",
       "city": "sz",
       "cat": "expo",
       "name": "2026国际数字能源展",
@@ -708,10 +744,11 @@ window.APP_DATA = {
       "end": "2026-09-17",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-8cc0599b",
+      "id": "e-sz-d4f7fe",
       "city": "sz",
       "cat": "expo",
       "name": "CPHI&PMEC制药工业展(深圳)",
@@ -727,10 +764,11 @@ window.APP_DATA = {
       "end": "2026-09-18",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-94afc2b4",
+      "id": "e-sz-439aad",
       "city": "sz",
       "cat": "expo",
       "name": "第十六届深圳国际宠物用品展览会",
@@ -746,10 +784,11 @@ window.APP_DATA = {
       "end": "2026-09-26",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-1ed45137",
+      "id": "e-sz-f853e3",
       "city": "sz",
       "cat": "expo",
       "name": "第27届中国国际光电博览会(CIOE)",
@@ -765,10 +804,11 @@ window.APP_DATA = {
       "end": "2026-09-11",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-5112d0f4",
+      "id": "e-sz-22cb24",
       "city": "sz",
       "cat": "expo",
       "name": "elexcon2026第23届深圳国际电子展暨嵌入式展",
@@ -784,10 +824,11 @@ window.APP_DATA = {
       "end": "2026-09-11",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-84382667",
+      "id": "e-sz-d3ce24",
       "city": "sz",
       "cat": "expo",
       "name": "2026第六届CCBEC深圳跨境电商展",
@@ -803,10 +844,11 @@ window.APP_DATA = {
       "end": "2026-09-18",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-a296e199",
+      "id": "e-sz-4cb94e",
       "city": "sz",
       "cat": "expo",
       "name": "2026深圳(国际)城市生态环境智慧治理展览会",
@@ -822,10 +864,11 @@ window.APP_DATA = {
       "end": "2026-09-21",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09",
-      "price": ""
+      "price": "",
+      "cityId": "sz"
     },
     {
-      "id": "e-78abf5a0",
+      "id": "e-sz-398f5d",
       "city": "sz",
       "cat": "show",
       "name": "G.E.M.邓紫棋 I AM GLORIA世界巡回演唱会-深圳站",
@@ -840,10 +883,11 @@ window.APP_DATA = {
       "start": "2026-09-11",
       "end": "2026-10-05",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-08",
+      "cityId": "sz"
     },
     {
-      "id": "e-346ac5fa",
+      "id": "e-sz-346ac5",
       "city": "sz",
       "cat": "show",
       "name": "马思唯 乐透人生The Lottery TOUR巡回演唱会-深圳站",
@@ -858,10 +902,11 @@ window.APP_DATA = {
       "start": "2026-09-19",
       "end": "2026-09-19",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-08",
+      "cityId": "sz"
     },
     {
-      "id": "e-9182bb3e",
+      "id": "e-sz-9182bb",
       "city": "sz",
       "cat": "show",
       "name": "刘宪华 ENJOY THE SHOW 华丽宪场巡回演唱会-深圳站",
@@ -876,10 +921,11 @@ window.APP_DATA = {
       "start": "2026-09-26",
       "end": "2026-09-26",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-08",
+      "cityId": "sz"
     },
     {
-      "id": "e-03b6f3b9",
+      "id": "e-sz-03b6f3",
       "city": "sz",
       "cat": "exhi",
       "name": "季风穿堂——亚洲当代艺术家邀请展",
@@ -894,10 +940,11 @@ window.APP_DATA = {
       "start": "2026-09-03",
       "end": "2026-10-18",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-08",
+      "cityId": "sz"
     },
     {
-      "id": "e-e6851682",
+      "id": "e-sz-e68516",
       "city": "sz",
       "cat": "exhi",
       "name": "梵韵丹青——热贡娘本唐卡艺术展",
@@ -912,10 +959,11 @@ window.APP_DATA = {
       "start": "2026-09-03",
       "end": "2027-01-03",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-08",
+      "cityId": "sz"
     },
     {
-      "id": "e-710bdd0a",
+      "id": "e-sz-710bdd",
       "city": "sz",
       "cat": "exhi",
       "name": "与冰对话(Dialogue with Ice)",
@@ -930,10 +978,11 @@ window.APP_DATA = {
       "start": "2026-08-28",
       "end": "2026-10-31",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-08",
+      "cityId": "sz"
     },
     {
-      "id": "e-00688aad",
+      "id": "e-sz-00688a",
       "city": "sz",
       "cat": "exhi",
       "name": "字托邦——语言的栖居之地：中国文字设计实验现场",
@@ -948,10 +997,11 @@ window.APP_DATA = {
       "start": "2026-07-12",
       "end": "2026-11-01",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-08",
+      "cityId": "sz"
     },
     {
-      "id": "e-36efc5fc",
+      "id": "e-sz-36efc5",
       "city": "sz",
       "cat": "exhi",
       "name": "花开敦煌——常沙娜艺术研究与应用展",
@@ -966,10 +1016,11 @@ window.APP_DATA = {
       "start": "2026-09-10",
       "end": "2026-12-13",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-08",
+      "cityId": "sz"
     },
     {
-      "id": "e-a8fa69b0",
+      "id": "e-sz-a8fa69",
       "city": "sz",
       "cat": "sports",
       "name": "2026世界斯诺克·深圳公开赛",
@@ -984,10 +1035,11 @@ window.APP_DATA = {
       "start": "2026-09-28",
       "end": "2026-10-04",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-08",
+      "cityId": "sz"
     },
     {
-      "id": "e-a1c080c5",
+      "id": "e-sz-a1c080",
       "city": "sz",
       "cat": "show",
       "name": "音乐剧《蒋公的面子》",
@@ -1002,10 +1054,11 @@ window.APP_DATA = {
       "start": "2026-09-10",
       "end": "2026-09-13",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-08",
+      "cityId": "sz"
     },
     {
-      "id": "e-7a8bb7a3",
+      "id": "e-sz-7a8bb7",
       "city": "sz",
       "cat": "show",
       "name": "俄语音乐剧《基督山伯爵》高清放映",
@@ -1020,10 +1073,11 @@ window.APP_DATA = {
       "start": "2026-09-30",
       "end": "2026-09-30",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-08",
+      "cityId": "sz"
     },
     {
-      "id": "e-05324236",
+      "id": "e-sz-053242",
       "city": "sz",
       "cat": "show",
       "name": "音乐剧《红莲》",
@@ -1038,10 +1092,11 @@ window.APP_DATA = {
       "start": "2026-09-26",
       "end": "2026-09-27",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-08",
+      "cityId": "sz"
     },
     {
-      "id": "e-ceba6de3",
+      "id": "e-sz-ceba6d",
       "city": "sz",
       "cat": "exhi",
       "name": "南山盈藏——浙江美术馆馆藏作品展·深圳特展",
@@ -1056,10 +1111,11 @@ window.APP_DATA = {
       "start": "2026-09-05",
       "end": "2026-10-25",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-08",
+      "cityId": "sz"
     },
     {
-      "id": "e-56196196",
+      "id": "e-sz-561961",
       "city": "sz",
       "cat": "exhi",
       "name": "浪浪山小妖怪:幻境奇旅 XR沉浸展",
@@ -1074,10 +1130,11 @@ window.APP_DATA = {
       "start": "2026-08-22",
       "end": "2026-11-30",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-08",
+      "cityId": "sz"
     },
     {
-      "id": "e-93546888",
+      "id": "e-sz-935468",
       "city": "sz",
       "cat": "exhi",
       "name": "温度——当代青年版画创作邀请展",
@@ -1092,10 +1149,11 @@ window.APP_DATA = {
       "start": "2026-08-11",
       "end": "2026-10-11",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-08",
+      "cityId": "sz"
     },
     {
-      "id": "e-33c27d66",
+      "id": "e-sz-33c27d",
       "city": "sz",
       "cat": "market",
       "name": "龙华区社区运动会非遗文化巡展市集",
@@ -1110,10 +1168,11 @@ window.APP_DATA = {
       "start": "2026-08-31",
       "end": "2026-10-07",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-08",
+      "cityId": "sz"
     },
     {
-      "id": "e-eab486c6",
+      "id": "e-sz-eab486",
       "city": "sz",
       "cat": "show",
       "name": "湾区叙事音乐会",
@@ -1128,7 +1187,8 @@ window.APP_DATA = {
       "start": "2026-09-01",
       "end": "2026-10-31",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-08",
+      "cityId": "sz"
     }
   ]
 };

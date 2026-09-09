@@ -8,7 +8,7 @@ window.APP_DATA = {
   },
   "events": [
     {
-      "id": "e-cd0001",
+      "id": "e-cd-461a85",
       "city": "cd",
       "cat": "exhi",
       "name": "蜀都赋——乡情、经略与遥想中的益州万象",
@@ -23,10 +23,11 @@ window.APP_DATA = {
       "start": "2026-09-09",
       "end": "2026-11-24",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0002",
+      "id": "e-cd-856045",
       "city": "cd",
       "cat": "exhi",
       "name": "一日之计在非遗——香港非物质文化遗产与当代艺术展",
@@ -41,10 +42,11 @@ window.APP_DATA = {
       "start": "2026-09-19",
       "end": "2026-11-22",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0003",
+      "id": "e-cd-b7b556",
       "city": "cd",
       "cat": "exhi",
       "name": "回响——成都画院主题性美术创作作品展",
@@ -59,10 +61,11 @@ window.APP_DATA = {
       "start": "2026-09-22",
       "end": "2026-11-15",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0004",
+      "id": "e-cd-968c1c",
       "city": "cd",
       "cat": "exhi",
       "name": "于此共生——成都双年展捐赠作品展",
@@ -77,10 +80,11 @@ window.APP_DATA = {
       "start": "2026-09-30",
       "end": "2026-12-31",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0005",
+      "id": "e-cd-b3f5b8",
       "city": "cd",
       "cat": "exhi",
       "name": "一语天然——吴凡艺术文献展",
@@ -95,10 +99,11 @@ window.APP_DATA = {
       "start": "2026-09-24",
       "end": "2027-05-31",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0006",
+      "id": "e-cd-92ef79",
       "city": "cd",
       "cat": "exhi",
       "name": "月是故乡明——杜甫与秦州主题文物展",
@@ -113,10 +118,11 @@ window.APP_DATA = {
       "start": "2026-09-09",
       "end": "2026-10-08",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0007",
+      "id": "e-cd-22d47c",
       "city": "cd",
       "cat": "exhi",
       "name": "观妙入真——永乐宫的建筑艺术与传承巡展",
@@ -131,10 +137,11 @@ window.APP_DATA = {
       "start": "2026-09-09",
       "end": "2026-12-06",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0008",
+      "id": "e-cd-1b2246",
       "city": "cd",
       "cat": "exhi",
       "name": "金炳昊个展：隐匿于几何之下",
@@ -149,10 +156,11 @@ window.APP_DATA = {
       "start": "2026-09-09",
       "end": "2026-10-31",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0009",
+      "id": "e-cd-462e89",
       "city": "cd",
       "cat": "exhi",
       "name": "“有一种叫云南的生活”主题摄影作品全国巡展",
@@ -167,10 +175,11 @@ window.APP_DATA = {
       "start": "2026-09-09",
       "end": "2026-09-30",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0010",
+      "id": "e-cd-61f4f0",
       "city": "cd",
       "cat": "exhi",
       "name": "神鸟巡宇——从古蜀问天到航天圆梦文化共创展",
@@ -185,10 +194,11 @@ window.APP_DATA = {
       "start": "2026-09-09",
       "end": "2026-10-16",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0011",
+      "id": "e-cd-8d3e1e",
       "city": "cd",
       "cat": "exhi",
       "name": "数风流人物——中国对外文化集团现当代中国画人物典藏精品展",
@@ -203,10 +213,11 @@ window.APP_DATA = {
       "start": "2026-09-09",
       "end": "2026-10-08",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0012",
+      "id": "e-cd-2b085d",
       "city": "cd",
       "cat": "exhi",
       "name": "消失的PUPIKO——中国首展",
@@ -221,10 +232,11 @@ window.APP_DATA = {
       "start": "2026-09-09",
       "end": "2026-10-07",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0013",
+      "id": "e-cd-67ddd6",
       "city": "cd",
       "cat": "exhi",
       "name": "星海奇航：梦境救援 VR沉浸式互动剧",
@@ -239,10 +251,11 @@ window.APP_DATA = {
       "start": "2026-09-09",
       "end": "2026-12-31",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0020",
+      "id": "e-cd-fef362",
       "city": "cd",
       "cat": "show",
       "name": "川剧《明月情》",
@@ -257,10 +270,11 @@ window.APP_DATA = {
       "start": "2026-09-09",
       "end": "2026-09-10",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0021",
+      "id": "e-cd-4372a1",
       "city": "cd",
       "cat": "show",
       "name": "北欧之境·维也纳之夜 朱凯源小提琴独奏音乐会",
@@ -275,10 +289,11 @@ window.APP_DATA = {
       "start": "2026-09-10",
       "end": "2026-09-10",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0022",
+      "id": "e-cd-5f1aed",
       "city": "cd",
       "cat": "show",
       "name": "成都城市音乐厅交响乐团 26-27 乐季开季音乐会《世纪末的光影对话》",
@@ -293,10 +308,11 @@ window.APP_DATA = {
       "start": "2026-09-11",
       "end": "2026-09-11",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0023",
+      "id": "e-cd-3c833b",
       "city": "cd",
       "cat": "show",
       "name": "香港芭蕾舞团《罗密欧+茱丽叶》",
@@ -311,10 +327,11 @@ window.APP_DATA = {
       "start": "2026-09-11",
       "end": "2026-09-12",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0024",
+      "id": "e-cd-9f7595",
       "city": "cd",
       "cat": "show",
       "name": "进念·二十面体《戏曲金庸·笑傲江湖》",
@@ -329,10 +346,11 @@ window.APP_DATA = {
       "start": "2026-09-11",
       "end": "2026-09-13",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0025",
+      "id": "e-cd-5238d5",
       "city": "cd",
       "cat": "show",
       "name": "艾志恒Asen「在雨后醒来」巡回演唱会-成都站",
@@ -347,10 +365,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-12",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0026",
+      "id": "e-cd-f53f8e",
       "city": "cd",
       "cat": "show",
       "name": "廖国敏、陆逸轩与香港管弦乐团专场音乐会",
@@ -365,10 +384,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-12",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0027",
+      "id": "e-cd-6d2972",
       "city": "cd",
       "cat": "show",
       "name": "庆怜Caelan《SORRY NOT SORRY·舞所畏》巡演-成都站",
@@ -383,10 +403,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-12",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0028",
+      "id": "e-cd-9ee6e7",
       "city": "cd",
       "cat": "show",
       "name": "单依纯「纯妹妹2.0」2026巡回演唱会-成都站",
@@ -401,10 +422,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-13",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0029",
+      "id": "e-cd-d66ae1",
       "city": "cd",
       "cat": "show",
       "name": "舞蹈诗剧《九歌》",
@@ -419,10 +441,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-13",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0030",
+      "id": "e-cd-331a8e",
       "city": "cd",
       "cat": "show",
       "name": "绿叶剧团《山海经》第一部曲《山川命》",
@@ -437,10 +460,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-13",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0031",
+      "id": "e-cd-ed79fa",
       "city": "cd",
       "cat": "show",
       "name": "《天空之城》宫崎骏&久石让动漫作品音乐会",
@@ -455,10 +479,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-25",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0032",
+      "id": "e-cd-3bde1b",
       "city": "cd",
       "cat": "show",
       "name": "百老汇正版授权互动亲子科学剧《化学秀》中文版",
@@ -473,10 +498,11 @@ window.APP_DATA = {
       "start": "2026-09-13",
       "end": "2026-09-13",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0033",
+      "id": "e-cd-7087e2",
       "city": "cd",
       "cat": "show",
       "name": "英文原版音乐剧《剧院魅影》成都站",
@@ -491,10 +517,11 @@ window.APP_DATA = {
       "start": "2026-09-15",
       "end": "2026-09-20",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0034",
+      "id": "e-cd-fad43c",
       "city": "cd",
       "cat": "show",
       "name": "汪峰「相信未来」巡回演唱会-成都站",
@@ -509,10 +536,11 @@ window.APP_DATA = {
       "start": "2026-09-19",
       "end": "2026-09-19",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0035",
+      "id": "e-cd-547c63",
       "city": "cd",
       "cat": "show",
       "name": "王源 2026 宇宙超级无敌大大狂欢巡回演唱会-成都站",
@@ -527,10 +555,11 @@ window.APP_DATA = {
       "start": "2026-09-19",
       "end": "2026-09-20",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0036",
+      "id": "e-cd-ab236e",
       "city": "cd",
       "cat": "show",
       "name": "谭盾：16部电影的交响诗《声音河流》",
@@ -545,10 +574,11 @@ window.APP_DATA = {
       "start": "2026-09-19",
       "end": "2026-09-20",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0037",
+      "id": "e-cd-11a97e",
       "city": "cd",
       "cat": "show",
       "name": "俄罗斯芭蕾国家剧院芭蕾舞《胡桃夹子》成都站",
@@ -563,10 +593,11 @@ window.APP_DATA = {
       "start": "2026-09-19",
       "end": "2026-09-19",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0038",
+      "id": "e-cd-52d1b6",
       "city": "cd",
       "cat": "show",
       "name": "川剧《铁木高娃》",
@@ -581,10 +612,11 @@ window.APP_DATA = {
       "start": "2026-09-19",
       "end": "2026-09-20",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0039",
+      "id": "e-cd-864101",
       "city": "cd",
       "cat": "show",
       "name": "从巴赫到新世界：马丁·施梅丁管风琴独奏音乐会",
@@ -599,10 +631,11 @@ window.APP_DATA = {
       "start": "2026-09-21",
       "end": "2026-09-21",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0040",
+      "id": "e-cd-a4cab0",
       "city": "cd",
       "cat": "show",
       "name": "二狗个人专场《一条名叫爱情的狗》",
@@ -617,10 +650,11 @@ window.APP_DATA = {
       "start": "2026-09-21",
       "end": "2026-09-21",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0041",
+      "id": "e-cd-a93e66",
       "city": "cd",
       "cat": "show",
       "name": "“花好月圆”中秋音乐会",
@@ -635,10 +669,11 @@ window.APP_DATA = {
       "start": "2026-09-22",
       "end": "2026-09-22",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0042",
+      "id": "e-cd-d52356",
       "city": "cd",
       "cat": "show",
       "name": "2026 葫芦果音乐节成都站",
@@ -653,10 +688,11 @@ window.APP_DATA = {
       "start": "2026-09-26",
       "end": "2026-09-27",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0043",
+      "id": "e-cd-8694c3",
       "city": "cd",
       "cat": "show",
       "name": "蒲熠星《银河系旅行攻略》巡回演唱会-成都站",
@@ -671,10 +707,11 @@ window.APP_DATA = {
       "start": "2026-09-26",
       "end": "2026-09-26",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0044",
+      "id": "e-cd-bc6867",
       "city": "cd",
       "cat": "show",
       "name": "那英「我来，因为你在」巡回演唱会-成都站",
@@ -689,10 +726,11 @@ window.APP_DATA = {
       "start": "2026-09-26",
       "end": "2026-09-26",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0045",
+      "id": "e-cd-6d3e5d",
       "city": "cd",
       "cat": "show",
       "name": "汉斯·季默传奇音乐会“全新境界”成都站",
@@ -707,10 +745,11 @@ window.APP_DATA = {
       "start": "2026-09-30",
       "end": "2026-09-30",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0046",
+      "id": "e-cd-db9ac2",
       "city": "cd",
       "cat": "show",
       "name": "舞蹈诗剧《只此青绿》成都站",
@@ -725,10 +764,11 @@ window.APP_DATA = {
       "start": "2026-09-30",
       "end": "2026-10-03",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0047",
+      "id": "e-cd-795b3d",
       "city": "cd",
       "cat": "show",
       "name": "中央芭蕾舞团“走进芭蕾”",
@@ -743,10 +783,11 @@ window.APP_DATA = {
       "start": "2026-09-30",
       "end": "2026-09-30",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0048",
+      "id": "e-cd-25ca87",
       "city": "cd",
       "cat": "show",
       "name": "香港文化周·ImagineLand 户外音乐 & 文创市集",
@@ -761,10 +802,11 @@ window.APP_DATA = {
       "start": "2026-09-11",
       "end": "2026-09-12",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0050",
+      "id": "e-cd-4a9371",
       "city": "cd",
       "cat": "market",
       "name": "2026 天府熊猫文创集市（二期·音乐生活节）",
@@ -779,10 +821,11 @@ window.APP_DATA = {
       "start": "2026-09-10",
       "end": "2026-09-19",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0051",
+      "id": "e-cd-cb0770",
       "city": "cd",
       "cat": "market",
       "name": "玉林摆摊计划",
@@ -797,10 +840,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-13",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0052",
+      "id": "e-cd-940d86",
       "city": "cd",
       "cat": "market",
       "name": "漫步芭菲节",
@@ -815,10 +859,11 @@ window.APP_DATA = {
       "start": "2026-09-10",
       "end": "2026-09-13",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0053",
+      "id": "e-cd-d9b2df",
       "city": "cd",
       "cat": "market",
       "name": "成都时装周配套艺术集市",
@@ -833,10 +878,11 @@ window.APP_DATA = {
       "start": "2026-09-11",
       "end": "2026-09-17",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0054",
+      "id": "e-cd-f0e15b",
       "city": "cd",
       "cat": "market",
       "name": "悠享生活季·好好耍乐园",
@@ -851,10 +897,11 @@ window.APP_DATA = {
       "start": "2026-09-25",
       "end": "2026-09-26",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0055",
+      "id": "e-cd-be77cd",
       "city": "cd",
       "cat": "market",
       "name": "萌想社区文创生活节（第四届）",
@@ -869,10 +916,11 @@ window.APP_DATA = {
       "start": "2026-09-24",
       "end": "2026-09-27",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0056",
+      "id": "e-cd-bd60b9",
       "city": "cd",
       "cat": "market",
       "name": "此地世界咖啡节",
@@ -887,10 +935,11 @@ window.APP_DATA = {
       "start": "2026-09-25",
       "end": "2026-09-27",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0057",
+      "id": "e-cd-f9e89d",
       "city": "cd",
       "cat": "market",
       "name": "纽扣手帐艺术节（成都首站）",
@@ -905,10 +954,11 @@ window.APP_DATA = {
       "start": "2026-09-24",
       "end": "2026-09-26",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0058",
+      "id": "e-cd-64728d",
       "city": "cd",
       "cat": "market",
       "name": "成都首届 Bean to Bar 巧克力节",
@@ -923,10 +973,11 @@ window.APP_DATA = {
       "start": "2026-09-25",
       "end": "2026-09-27",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0060",
+      "id": "e-cd-d71bfa",
       "city": "cd",
       "cat": "talk",
       "name": "巴赫：解构巴洛克的音乐密码（走近艺术公益讲座）",
@@ -941,10 +992,11 @@ window.APP_DATA = {
       "start": "2026-09-13",
       "end": "2026-09-13",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0061",
+      "id": "e-cd-bf9f00",
       "city": "cd",
       "cat": "talk",
       "name": "指尖传承竹韵新生——非遗竹编主题讲座",
@@ -959,10 +1011,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-12",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0070",
+      "id": "e-cd-b60b1a",
       "city": "cd",
       "cat": "sports",
       "name": "2026 WDSF世界霹雳舞3V3混合团体锦标赛暨世界青年霹雳舞锦标赛",
@@ -977,10 +1030,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-13",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0071",
+      "id": "e-cd-0b9162",
       "city": "cd",
       "cat": "sports",
       "name": "2026 亚洲U17暨U15青少年羽毛球锦标赛",
@@ -995,10 +1049,11 @@ window.APP_DATA = {
       "start": "2026-09-08",
       "end": "2026-09-13",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0072",
+      "id": "e-cd-689f90",
       "city": "cd",
       "cat": "sports",
       "name": "BD 自然挑战赛（儿童户外障碍挑战赛）",
@@ -1013,10 +1068,11 @@ window.APP_DATA = {
       "start": "2026-09-26",
       "end": "2026-09-27",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0080",
+      "id": "e-cd-fe37f9",
       "city": "cd",
       "cat": "family",
       "name": "“乡”约广福·“才”聚中秋 郫都区专家人才亲子活动",
@@ -1031,10 +1087,11 @@ window.APP_DATA = {
       "start": "2026-09-19",
       "end": "2026-09-19",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0081",
+      "id": "e-cd-481878",
       "city": "cd",
       "cat": "family",
       "name": "勇闯龙椅山 亲子户外挑战营",
@@ -1049,10 +1106,11 @@ window.APP_DATA = {
       "start": "2026-09-27",
       "end": "2026-09-27",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0082",
+      "id": "e-cd-46804c",
       "city": "cd",
       "cat": "family",
       "name": "2026 首届彭派家庭户外生活季",
@@ -1067,10 +1125,11 @@ window.APP_DATA = {
       "start": "2026-09-22",
       "end": "2026-09-23",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0083",
+      "id": "e-cd-418692",
       "city": "cd",
       "cat": "family",
       "name": "花好月圆·山野中秋 通济花海露营公园中秋嘉年华",
@@ -1085,10 +1144,11 @@ window.APP_DATA = {
       "start": "2026-09-26",
       "end": "2026-10-06",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0084",
+      "id": "e-cd-64fe48",
       "city": "cd",
       "cat": "family",
       "name": "龙兴大梦·宋“潮”奇遇季",
@@ -1103,10 +1163,11 @@ window.APP_DATA = {
       "start": "2026-09-25",
       "end": "2026-10-07",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0085",
+      "id": "e-cd-780502",
       "city": "cd",
       "cat": "family",
       "name": "斯文在兹——彭州文庙遗珍特展",
@@ -1121,10 +1182,11 @@ window.APP_DATA = {
       "start": "2026-09-09",
       "end": "2026-10-08",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0086",
+      "id": "e-cd-f0c0c4",
       "city": "cd",
       "cat": "family",
       "name": "金彭古韵 时代新辉——彭州文物保护成果展",
@@ -1139,10 +1201,11 @@ window.APP_DATA = {
       "start": "2026-09-09",
       "end": "2026-10-31",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0087",
+      "id": "e-cd-ea9d8b",
       "city": "cd",
       "cat": "family",
       "name": "秋染丹景·国潮嘉年华 丹景山中秋国庆双节游园会",
@@ -1157,10 +1220,11 @@ window.APP_DATA = {
       "start": "2026-09-25",
       "end": "2026-10-07",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0088",
+      "id": "e-cd-757aff",
       "city": "cd",
       "cat": "family",
       "name": "中秋亲子·古法造纸汉服雅趣",
@@ -1175,10 +1239,11 @@ window.APP_DATA = {
       "start": "2026-09-19",
       "end": "2026-10-05",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0090",
+      "id": "e-cd-07f4d1",
       "city": "cd",
       "cat": "outdoor",
       "name": "青城山秋季徒步",
@@ -1193,10 +1258,11 @@ window.APP_DATA = {
       "start": "2026-09-09",
       "end": "2026-09-30",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0091",
+      "id": "e-cd-c3355f",
       "city": "cd",
       "cat": "outdoor",
       "name": "西岭雪山徒步（山门至半山）",
@@ -1211,10 +1277,11 @@ window.APP_DATA = {
       "start": "2026-09-09",
       "end": "2026-09-30",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0092",
+      "id": "e-cd-70a2c8",
       "city": "cd",
       "cat": "outdoor",
       "name": "凤栖山徒步（崇州）",
@@ -1229,10 +1296,11 @@ window.APP_DATA = {
       "start": "2026-09-09",
       "end": "2026-09-30",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0093",
+      "id": "e-cd-3a0fb2",
       "city": "cd",
       "cat": "outdoor",
       "name": "中坝森林公园“暮光森林”徒步",
@@ -1247,10 +1315,11 @@ window.APP_DATA = {
       "start": "2026-09-09",
       "end": "2026-09-30",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0094",
+      "id": "e-cd-3952e3",
       "city": "cd",
       "cat": "outdoor",
       "name": "龙椅山植物园新手徒步线",
@@ -1265,10 +1334,11 @@ window.APP_DATA = {
       "start": "2026-09-09",
       "end": "2026-09-30",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0095",
+      "id": "e-cd-a71ee4",
       "city": "cd",
       "cat": "outdoor",
       "name": "永安湖城市森林公园轻徒步",
@@ -1283,10 +1353,11 @@ window.APP_DATA = {
       "start": "2026-09-09",
       "end": "2026-09-30",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0096",
+      "id": "e-cd-14ffde",
       "city": "cd",
       "cat": "outdoor",
       "name": "七藏沟经典徒步穿越（国庆团期）",
@@ -1301,10 +1372,11 @@ window.APP_DATA = {
       "start": "2026-10-01",
       "end": "2026-10-05",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0100",
+      "id": "e-cd-c4e5ac",
       "city": "cd",
       "cat": "expo",
       "name": "2026 第24届成都橡塑及包装工业展览会",
@@ -1319,10 +1391,11 @@ window.APP_DATA = {
       "start": "2026-09-10",
       "end": "2026-09-12",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0101",
+      "id": "e-cd-434b57",
       "city": "cd",
       "cat": "expo",
       "name": "第十四届TOPS成都宠物博览会暨首届宠物洗护美容工具及用品展",
@@ -1337,10 +1410,11 @@ window.APP_DATA = {
       "start": "2026-09-10",
       "end": "2026-09-13",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0102",
+      "id": "e-cd-a5272c",
       "city": "cd",
       "cat": "expo",
       "name": "第26届四川中秋食品博览会暨月饼文化展",
@@ -1355,10 +1429,11 @@ window.APP_DATA = {
       "start": "2026-09-13",
       "end": "2026-09-23",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0103",
+      "id": "e-cd-7325b5",
       "city": "cd",
       "cat": "expo",
       "name": "2026 丘陵山区农业机械展览会",
@@ -1373,10 +1448,11 @@ window.APP_DATA = {
       "start": "2026-09-20",
       "end": "2026-09-22",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0104",
+      "id": "e-cd-be71b4",
       "city": "cd",
       "cat": "expo",
       "name": "第四届成都国际石油和化工技术装备展览会",
@@ -1391,10 +1467,11 @@ window.APP_DATA = {
       "start": "2026-09-21",
       "end": "2026-09-23",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0105",
+      "id": "e-cd-9aad9c",
       "city": "cd",
       "cat": "expo",
       "name": "赋能未来·教育品牌博览会—成都站",
@@ -1409,10 +1486,11 @@ window.APP_DATA = {
       "start": "2026-09-22",
       "end": "2026-09-24",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0106",
+      "id": "e-cd-c4612d",
       "city": "cd",
       "cat": "expo",
       "name": "第52届成都珠宝首饰展览会",
@@ -1427,10 +1505,11 @@ window.APP_DATA = {
       "start": "2026-09-25",
       "end": "2026-09-28",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0107",
+      "id": "e-cd-cafb0e",
       "city": "cd",
       "cat": "expo",
       "name": "第十二届成都国际都市现代农业博览会",
@@ -1445,10 +1524,11 @@ window.APP_DATA = {
       "start": "2026-09-28",
       "end": "2026-09-30",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0108",
+      "id": "e-cd-50ccda",
       "city": "cd",
       "cat": "expo",
       "name": "首届四川供销绿色农产品供应链博览会",
@@ -1463,10 +1543,11 @@ window.APP_DATA = {
       "start": "2026-09-20",
       "end": "2026-09-22",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0109",
+      "id": "e-cd-2a8297",
       "city": "cd",
       "cat": "expo",
       "name": "第6届成都国际环博会暨循环经济与绿色制造展览会",
@@ -1481,10 +1562,11 @@ window.APP_DATA = {
       "start": "2026-09-16",
       "end": "2026-09-18",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0110",
+      "id": "e-cd-9ab40c",
       "city": "cd",
       "cat": "expo",
       "name": "2026·成都秋季高校毕业生就业促进暨“蓉漂人才荟”青年人才大型招聘会",
@@ -1499,10 +1581,11 @@ window.APP_DATA = {
       "start": "2026-09-19",
       "end": "2026-09-19",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0111",
+      "id": "e-cd-926db4",
       "city": "cd",
       "cat": "expo",
       "name": "2026 国际防务技术大会(2026 ICDT)",
@@ -1517,10 +1600,11 @@ window.APP_DATA = {
       "start": "2026-09-15",
       "end": "2026-09-18",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0112",
+      "id": "e-cd-0cd2cc",
       "city": "cd",
       "cat": "expo",
       "name": "成都市代理记账协会年会",
@@ -1535,10 +1619,11 @@ window.APP_DATA = {
       "start": "2026-09-15",
       "end": "2026-09-17",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0113",
+      "id": "e-cd-b69efe",
       "city": "cd",
       "cat": "expo",
       "name": "第五届成渝美食工业博览会",
@@ -1553,10 +1638,11 @@ window.APP_DATA = {
       "start": "2026-09-17",
       "end": "2026-09-19",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0114",
+      "id": "e-cd-dbb902",
       "city": "cd",
       "cat": "expo",
       "name": "2026 航空装备创新展暨航空装备及产业创新促进大会",
@@ -1571,10 +1657,11 @@ window.APP_DATA = {
       "start": "2026-09-22",
       "end": "2026-09-23",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0115",
+      "id": "e-cd-3e762e",
       "city": "cd",
       "cat": "expo",
       "name": "2026(第一届)高品质农业与肥料增效博览会",
@@ -1589,10 +1676,11 @@ window.APP_DATA = {
       "start": "2026-09-22",
       "end": "2026-09-23",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0116",
+      "id": "e-cd-782749",
       "city": "cd",
       "cat": "expo",
       "name": "2026 四川省文化和旅游发展大会",
@@ -1607,10 +1695,11 @@ window.APP_DATA = {
       "start": "2026-09-28",
       "end": "2026-10-03",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0117",
+      "id": "e-cd-fc1f5f",
       "city": "cd",
       "cat": "expo",
       "name": "第七届IGS·中国(成都)国际数字娱乐博览会",
@@ -1625,10 +1714,11 @@ window.APP_DATA = {
       "start": "2026-09-29",
       "end": "2026-09-30",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     },
     {
-      "id": "e-cd0118",
+      "id": "e-cd-20689e",
       "city": "cd",
       "cat": "expo",
       "name": "中国土木工程学会 2026 年学术年会",
@@ -1643,7 +1733,8 @@ window.APP_DATA = {
       "start": "2026-09-21",
       "end": "2026-09-23",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "cd"
     }
   ]
 };

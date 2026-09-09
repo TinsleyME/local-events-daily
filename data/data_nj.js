@@ -8,7 +8,7 @@ window.APP_DATA = {
   },
   "events": [
     {
-      "id": "e-8690087a",
+      "id": "e-nj-869008",
       "city": "nj",
       "cat": "exhi",
       "name": "灯 影——南京博物院藏陕西皮影艺术展",
@@ -23,10 +23,11 @@ window.APP_DATA = {
       "start": "2026-05-15",
       "end": null,
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-f94fed70",
+      "id": "e-nj-f94fed",
       "city": "nj",
       "cat": "exhi",
       "name": "元青花：景德镇手工瓷业遗存考古新发现特展",
@@ -41,10 +42,11 @@ window.APP_DATA = {
       "start": "2026-06-05",
       "end": "2026-10-25",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-38274e60",
+      "id": "e-nj-38274e",
       "city": "nj",
       "cat": "exhi",
       "name": "过江——青年视界下的长江行吟",
@@ -59,10 +61,11 @@ window.APP_DATA = {
       "start": "2026-07-07",
       "end": "2026-09-09",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-d7d2ddeb",
+      "id": "e-nj-d7d2dd",
       "city": "nj",
       "cat": "exhi",
       "name": "迤逦·草木归 草木染展",
@@ -77,10 +80,11 @@ window.APP_DATA = {
       "start": "2026-07-05",
       "end": "2026-09-25",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-d448dc02",
+      "id": "e-nj-d448dc",
       "city": "nj",
       "cat": "exhi",
       "name": "楼起万卷 苏藏大千——江苏藏书文化主题特展",
@@ -95,10 +99,11 @@ window.APP_DATA = {
       "start": "2026-08-19",
       "end": "2026-10-07",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-236fd5d9",
+      "id": "e-nj-236fd5",
       "city": "nj",
       "cat": "exhi",
       "name": "云飞扬：西汉广陵漆木器文化与艺术",
@@ -113,10 +118,11 @@ window.APP_DATA = {
       "start": "2026-08-15",
       "end": "2026-11-15",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-27688792",
+      "id": "e-nj-276887",
       "city": "nj",
       "cat": "exhi",
       "name": "盛世华彩——康雍乾官窑瓷器展",
@@ -131,10 +137,11 @@ window.APP_DATA = {
       "start": null,
       "end": null,
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-edfba4cb",
+      "id": "e-nj-edfba4",
       "city": "nj",
       "cat": "exhi",
       "name": "精准与华美——南京博物院藏钟表精品展",
@@ -149,10 +156,11 @@ window.APP_DATA = {
       "start": null,
       "end": null,
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-3bd0a9ef",
+      "id": "e-nj-3bd0a9",
       "city": "nj",
       "cat": "exhi",
       "name": "亲密的奥黛丽·赫本 南京特展",
@@ -167,10 +175,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2027-01-30",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-ad43e065",
+      "id": "e-nj-ad43e0",
       "city": "nj",
       "cat": "exhi",
       "name": "连接 用编织接地气「共创编织疗愈」展览",
@@ -185,10 +194,11 @@ window.APP_DATA = {
       "start": "2026-09-11",
       "end": "2026-10-30",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-600ed270",
+      "id": "e-nj-600ed2",
       "city": "nj",
       "cat": "exhi",
       "name": "十竹斋·粮仓当代艺术季",
@@ -203,10 +213,11 @@ window.APP_DATA = {
       "start": "2026-09-23",
       "end": "2026-11-15",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-ece2022a",
+      "id": "e-nj-ece202",
       "city": "nj",
       "cat": "exhi",
       "name": "蒋志个展：情书",
@@ -221,10 +232,11 @@ window.APP_DATA = {
       "start": "2026-08-07",
       "end": "2026-10-18",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-9d412a1e",
+      "id": "e-nj-9d412a",
       "city": "nj",
       "cat": "exhi",
       "name": "如画的园林",
@@ -239,10 +251,11 @@ window.APP_DATA = {
       "start": "2026-07-25",
       "end": "2026-10-25",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-66e331be",
+      "id": "e-nj-66e331",
       "city": "nj",
       "cat": "exhi",
       "name": "触摸宇宙——太空科学艺术展",
@@ -257,10 +270,11 @@ window.APP_DATA = {
       "start": null,
       "end": null,
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-ea0f47d9",
+      "id": "e-nj-ea0f47",
       "city": "nj",
       "cat": "exhi",
       "name": "南京科技馆 恐龙大复活特展",
@@ -275,10 +289,11 @@ window.APP_DATA = {
       "start": "2026-06-05",
       "end": "2026-11-20",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-406e01d5",
+      "id": "e-nj-406e01",
       "city": "nj",
       "cat": "show",
       "name": "那英「我来，因为你在」巡回演唱会·南京站",
@@ -293,10 +308,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-12",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-7430ff68",
+      "id": "e-nj-7430ff",
       "city": "nj",
       "cat": "show",
       "name": "郭富城ICONIC世界巡回演唱会·南京站",
@@ -311,10 +327,11 @@ window.APP_DATA = {
       "start": "2026-09-19",
       "end": "2026-09-19",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-f4091776",
+      "id": "e-nj-f40917",
       "city": "nj",
       "cat": "show",
       "name": "张云雷2026「靠近你」巡回演唱会·南京站",
@@ -329,10 +346,11 @@ window.APP_DATA = {
       "start": "2026-09-19",
       "end": "2026-09-19",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-05ac622f",
+      "id": "e-nj-05ac62",
       "city": "nj",
       "cat": "show",
       "name": "爱在南京嘉年华2026周杰伦世界巡回演唱会",
@@ -347,10 +365,11 @@ window.APP_DATA = {
       "start": "2026-09-24",
       "end": "2026-09-26",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-18307e30",
+      "id": "e-nj-18307e",
       "city": "nj",
       "cat": "show",
       "name": "华晨宇火星演唱会——乐园2.0",
@@ -365,10 +384,11 @@ window.APP_DATA = {
       "start": "2026-09-25",
       "end": "2026-10-06",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-35104ae6",
+      "id": "e-nj-35104a",
       "city": "nj",
       "cat": "show",
       "name": "莱斯音乐节南京站",
@@ -383,10 +403,11 @@ window.APP_DATA = {
       "start": "2026-09-26",
       "end": "2026-09-27",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-f217a4ab",
+      "id": "e-nj-f217a4",
       "city": "nj",
       "cat": "show",
       "name": "张靓颖「追」世界巡回演唱会·南京站",
@@ -401,10 +422,11 @@ window.APP_DATA = {
       "start": "2026-09-26",
       "end": "2026-09-26",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-4a72c26b",
+      "id": "e-nj-4a72c2",
       "city": "nj",
       "cat": "show",
       "name": "蓝心羽2026巡回演唱会·南京站",
@@ -419,10 +441,11 @@ window.APP_DATA = {
       "start": "2026-09-27",
       "end": "2026-09-27",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-7a56942a",
+      "id": "e-nj-7a5694",
       "city": "nj",
       "cat": "show",
       "name": "2026南京森林音乐会",
@@ -437,10 +460,11 @@ window.APP_DATA = {
       "start": "2026-09-24",
       "end": "2026-09-26",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-a5b5d7b3",
+      "id": "e-nj-a5b5d7",
       "city": "nj",
       "cat": "show",
       "name": "舞剧《咏春》",
@@ -455,10 +479,11 @@ window.APP_DATA = {
       "start": "2026-09-11",
       "end": "2026-09-12",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-775b59a6",
+      "id": "e-nj-775b59",
       "city": "nj",
       "cat": "show",
       "name": "经典昆剧《1699·桃花扇》20周年纪念演出",
@@ -473,10 +498,11 @@ window.APP_DATA = {
       "start": "2026-09-11",
       "end": "2026-09-12",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-611863f0",
+      "id": "e-nj-611863",
       "city": "nj",
       "cat": "show",
       "name": "舞蹈诗剧《只此青绿》",
@@ -491,10 +517,11 @@ window.APP_DATA = {
       "start": "2026-09-24",
       "end": "2026-09-26",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-a2f88813",
+      "id": "e-nj-a2f888",
       "city": "nj",
       "cat": "show",
       "name": "百老汇摇滚音乐剧《HEDWIG》中文版",
@@ -509,10 +536,11 @@ window.APP_DATA = {
       "start": "2026-09-25",
       "end": "2026-09-26",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-3f23164b",
+      "id": "e-nj-3f2316",
       "city": "nj",
       "cat": "show",
       "name": "老舍传世经典话剧《茶馆》传承版",
@@ -527,10 +555,11 @@ window.APP_DATA = {
       "start": "2026-09-09",
       "end": "2026-09-09",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-80934a1b",
+      "id": "e-nj-80934a",
       "city": "nj",
       "cat": "show",
       "name": "京剧《四世同堂》",
@@ -545,10 +574,11 @@ window.APP_DATA = {
       "start": "2026-09-09",
       "end": "2026-09-09",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-97b51c55",
+      "id": "e-nj-97b51c",
       "city": "nj",
       "cat": "show",
       "name": "京剧《四郎探母》",
@@ -563,10 +593,11 @@ window.APP_DATA = {
       "start": "2026-09-11",
       "end": "2026-09-11",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-2d4a5d14",
+      "id": "e-nj-2d4a5d",
       "city": "nj",
       "cat": "show",
       "name": "越剧《孟丽君》",
@@ -581,10 +612,11 @@ window.APP_DATA = {
       "start": "2026-09-11",
       "end": "2026-09-11",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-fba03154",
+      "id": "e-nj-fba031",
       "city": "nj",
       "cat": "show",
       "name": "乌镇戏剧节三部曲南京首演",
@@ -599,10 +631,11 @@ window.APP_DATA = {
       "start": "2026-09-11",
       "end": "2026-09-12",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-14320e3c",
+      "id": "e-nj-14320e",
       "city": "nj",
       "cat": "show",
       "name": "话剧《无墙》",
@@ -617,10 +650,11 @@ window.APP_DATA = {
       "start": "2026-09-26",
       "end": "2026-09-27",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-4773d39b",
+      "id": "e-nj-4773d3",
       "city": "nj",
       "cat": "show",
       "name": "洛朗·班2026个人巡回音乐会·南京站",
@@ -635,10 +669,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-12",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-03fbfda5",
+      "id": "e-nj-03fbfd",
       "city": "nj",
       "cat": "show",
       "name": "美丽人生经典电影音乐会",
@@ -653,10 +688,11 @@ window.APP_DATA = {
       "start": "2026-09-13",
       "end": "2026-09-13",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-379809d8",
+      "id": "e-nj-379809",
       "city": "nj",
       "cat": "show",
       "name": "《梁祝·卡农》中西浪漫名曲音乐会",
@@ -671,10 +707,11 @@ window.APP_DATA = {
       "start": "2026-09-19",
       "end": "2026-09-19",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-a3d5d241",
+      "id": "e-nj-a3d5d2",
       "city": "nj",
       "cat": "show",
       "name": "伦敦交响乐团音乐会（帕帕诺/刘晓禹）",
@@ -689,10 +726,11 @@ window.APP_DATA = {
       "start": "2026-09-20",
       "end": "2026-09-20",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-3c38a411",
+      "id": "e-nj-3c38a4",
       "city": "nj",
       "cat": "show",
       "name": "陈萨钢琴独奏音乐会",
@@ -707,10 +745,11 @@ window.APP_DATA = {
       "start": "2026-09-24",
       "end": "2026-09-24",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-cee96bcb",
+      "id": "e-nj-cee96b",
       "city": "nj",
       "cat": "show",
       "name": "开心茶馆相声大会",
@@ -725,10 +764,11 @@ window.APP_DATA = {
       "start": "2026-08-28",
       "end": "2026-09-26",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-eec9323a",
+      "id": "e-nj-eec932",
       "city": "nj",
       "cat": "show",
       "name": "无名喜剧 胡莱脱口秀《塑料袋》",
@@ -743,10 +783,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-12",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-1b6fb62b",
+      "id": "e-nj-1b6fb6",
       "city": "nj",
       "cat": "market",
       "name": "美好的咖啡 市集",
@@ -761,10 +802,11 @@ window.APP_DATA = {
       "start": "2026-09-10",
       "end": "2026-09-13",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-fa8143c3",
+      "id": "e-nj-fa8143",
       "city": "nj",
       "cat": "market",
       "name": "国际冠军咖啡季",
@@ -779,10 +821,11 @@ window.APP_DATA = {
       "start": "2026-09-10",
       "end": "2026-09-13",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-601b2279",
+      "id": "e-nj-601b22",
       "city": "nj",
       "cat": "market",
       "name": "接地气艺术疗愈节2.0",
@@ -797,10 +840,11 @@ window.APP_DATA = {
       "start": "2026-09-11",
       "end": "2026-09-13",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-9cdea56b",
+      "id": "e-nj-9cdea5",
       "city": "nj",
       "cat": "market",
       "name": "2026艺术金陵秋季游园会（国风市集）",
@@ -815,10 +859,11 @@ window.APP_DATA = {
       "start": "2026-09-19",
       "end": "2026-09-19",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-e3c649f0",
+      "id": "e-nj-e3c649",
       "city": "nj",
       "cat": "market",
       "name": "南京会展首届奇石玉器博览会",
@@ -833,10 +878,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-25",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-a213ce81",
+      "id": "e-nj-a213ce",
       "city": "nj",
       "cat": "market",
       "name": "玄武湖东岸潮流消费夜集",
@@ -851,10 +897,11 @@ window.APP_DATA = {
       "start": "2026-09-11",
       "end": "2026-09-12",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-06d00165",
+      "id": "e-nj-06d001",
       "city": "nj",
       "cat": "market",
       "name": "高淳固城湖螃蟹美食市集",
@@ -869,10 +916,11 @@ window.APP_DATA = {
       "start": "2026-09-24",
       "end": "2026-10-08",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-5ea6b762",
+      "id": "e-nj-5ea6b7",
       "city": "nj",
       "cat": "market",
       "name": "高淳金秋淳味国庆主题市集",
@@ -887,10 +935,11 @@ window.APP_DATA = {
       "start": "2026-09-25",
       "end": "2026-10-07",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-e16457ff",
+      "id": "e-nj-e16457",
       "city": "nj",
       "cat": "talk",
       "name": "南图讲座：航天精神永传承",
@@ -905,10 +954,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-12",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-e96d1f60",
+      "id": "e-nj-e96d1f",
       "city": "nj",
       "cat": "talk",
       "name": "南图讲座：中文在联合国的话语权",
@@ -923,10 +973,11 @@ window.APP_DATA = {
       "start": "2026-09-19",
       "end": "2026-09-19",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-cd148bc7",
+      "id": "e-nj-cd148b",
       "city": "nj",
       "cat": "talk",
       "name": "南图讲座：诗中的中秋意象",
@@ -941,10 +992,11 @@ window.APP_DATA = {
       "start": "2026-09-26",
       "end": "2026-09-26",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-509e1265",
+      "id": "e-nj-509e12",
       "city": "nj",
       "cat": "talk",
       "name": "敬老月“家门口的大学堂”银龄公益讲堂",
@@ -959,10 +1011,11 @@ window.APP_DATA = {
       "start": "2026-09-11",
       "end": "2026-09-21",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-6bb99fbd",
+      "id": "e-nj-6bb99f",
       "city": "nj",
       "cat": "sports",
       "name": "2026南京·大学生国际赛艇公开赛",
@@ -977,10 +1030,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-13",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-e9e9b42f",
+      "id": "e-nj-e9e9b4",
       "city": "nj",
       "cat": "sports",
       "name": "第十四届环太湖国际公路自行车赛（南京站）",
@@ -995,10 +1049,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-12",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-ddcf1da9",
+      "id": "e-nj-ddcf1d",
       "city": "nj",
       "cat": "sports",
       "name": "全国公开水域游泳系列赛（南京金牛湖站）",
@@ -1013,10 +1068,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-13",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-05e52bc4",
+      "id": "e-nj-05e52b",
       "city": "nj",
       "cat": "sports",
       "name": "紫金山·径 轻野户外系列认证赛·秋季赛",
@@ -1031,10 +1087,11 @@ window.APP_DATA = {
       "start": "2026-09-27",
       "end": "2026-09-27",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-dd5bff0c",
+      "id": "e-nj-dd5bff",
       "city": "nj",
       "cat": "sports",
       "name": "强悍泥人儿童障碍挑战 南京站",
@@ -1049,10 +1106,11 @@ window.APP_DATA = {
       "start": "2026-09-26",
       "end": "2026-09-26",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-2e122078",
+      "id": "e-nj-2e1220",
       "city": "nj",
       "cat": "family",
       "name": "研学：厉害了，长江大桥",
@@ -1067,10 +1125,11 @@ window.APP_DATA = {
       "start": "2026-09-19",
       "end": "2026-09-19",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-6d8e797b",
+      "id": "e-nj-6d8e79",
       "city": "nj",
       "cat": "family",
       "name": "江心洲秋日亲子活动（昆虫夜观/儿童剧/高粱音乐会）",
@@ -1085,10 +1144,11 @@ window.APP_DATA = {
       "start": "2026-09-05",
       "end": "2026-09-30",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-573b1b11",
+      "id": "e-nj-573b1b",
       "city": "nj",
       "cat": "family",
       "name": "秋收农事乐·敲板栗挖红薯",
@@ -1103,10 +1163,11 @@ window.APP_DATA = {
       "start": "2026-08-29",
       "end": "2026-10-18",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-00c47f27",
+      "id": "e-nj-00c47f",
       "city": "nj",
       "cat": "family",
       "name": "地层寻踪·原生矿科考营（三日）",
@@ -1121,10 +1182,11 @@ window.APP_DATA = {
       "start": "2026-09-25",
       "end": "2026-09-27",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-05e198a8",
+      "id": "e-nj-05e198",
       "city": "nj",
       "cat": "outdoor",
       "name": "环陵路+红石谷 紫金山轻徒步",
@@ -1139,10 +1201,11 @@ window.APP_DATA = {
       "start": "2026-09-10",
       "end": "2026-09-10",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-4a25b058",
+      "id": "e-nj-4a25b0",
       "city": "nj",
       "cat": "outdoor",
       "name": "江心洲葡萄采摘",
@@ -1157,10 +1220,11 @@ window.APP_DATA = {
       "start": "2026-09-01",
       "end": "2026-10-07",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-3b44de01",
+      "id": "e-nj-3b44de",
       "city": "nj",
       "cat": "expo",
       "name": "2026国际低空产业大会&第二届中国(南京)军事智能技术装备博览会",
@@ -1175,10 +1239,11 @@ window.APP_DATA = {
       "start": "2026-09-11",
       "end": "2026-09-13",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-3b929e25",
+      "id": "e-nj-3b929e",
       "city": "nj",
       "cat": "expo",
       "name": "2026(第二十六届)中国风险投资论坛",
@@ -1193,10 +1258,11 @@ window.APP_DATA = {
       "start": "2026-09-11",
       "end": "2026-09-12",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-a694ddbd",
+      "id": "e-nj-a694dd",
       "city": "nj",
       "cat": "expo",
       "name": "2026江苏产学研合作对接大会",
@@ -1211,10 +1277,11 @@ window.APP_DATA = {
       "start": "2026-09-11",
       "end": "2026-09-12",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-f52ef834",
+      "id": "e-nj-f52ef8",
       "city": "nj",
       "cat": "expo",
       "name": "2026第二十七届中国国际气体设备展&第四届中国国际氢能展",
@@ -1229,10 +1296,11 @@ window.APP_DATA = {
       "start": "2026-09-16",
       "end": "2026-09-18",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-cd5ecfd8",
+      "id": "e-nj-cd5ecf",
       "city": "nj",
       "cat": "expo",
       "name": "第八届APEC人力资源开发部长会议",
@@ -1247,10 +1315,11 @@ window.APP_DATA = {
       "start": "2026-09-17",
       "end": "2026-09-20",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-736e9458",
+      "id": "e-nj-736e94",
       "city": "nj",
       "cat": "expo",
       "name": "2026中国香料香精化妆品行业年会暨产业博览会",
@@ -1265,10 +1334,11 @@ window.APP_DATA = {
       "start": "2026-09-17",
       "end": "2026-09-19",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-2bf59a2a",
+      "id": "e-nj-2bf59a",
       "city": "nj",
       "cat": "expo",
       "name": "2026国际(江苏)人力资源服务业发展大会",
@@ -1283,10 +1353,11 @@ window.APP_DATA = {
       "start": "2026-09-20",
       "end": "2026-09-20",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-cf2602de",
+      "id": "e-nj-cf2602",
       "city": "nj",
       "cat": "expo",
       "name": "南京金秋经贸洽谈会",
@@ -1301,10 +1372,11 @@ window.APP_DATA = {
       "start": "2026-09-20",
       "end": "2026-09-23",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-9a8c2d83",
+      "id": "e-nj-9a8c2d",
       "city": "nj",
       "cat": "expo",
       "name": "江苏电商创新发展大会",
@@ -1319,10 +1391,11 @@ window.APP_DATA = {
       "start": "2026-09-22",
       "end": "2026-09-23",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-0db3cda2",
+      "id": "e-nj-0db3cd",
       "city": "nj",
       "cat": "expo",
       "name": "第二届中国生物药产业大会",
@@ -1337,10 +1410,11 @@ window.APP_DATA = {
       "start": "2026-09-22",
       "end": "2026-09-24",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-6eb8a4bb",
+      "id": "e-nj-6eb8a4",
       "city": "nj",
       "cat": "expo",
       "name": "第五届江苏对口支援协作合作地区特色商品展",
@@ -1355,10 +1429,11 @@ window.APP_DATA = {
       "start": "2026-09-18",
       "end": "2026-09-20",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-c1977d7f",
+      "id": "e-nj-c1977d",
       "city": "nj",
       "cat": "expo",
       "name": "凡人动画·星海天南嘉年华FES",
@@ -1373,10 +1448,11 @@ window.APP_DATA = {
       "start": "2026-09-25",
       "end": "2026-09-27",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-5460b33b",
+      "id": "e-nj-5460b3",
       "city": "nj",
       "cat": "expo",
       "name": "宁宠会·第六届城市宠物文化产业博览会",
@@ -1391,10 +1467,11 @@ window.APP_DATA = {
       "start": "2026-09-25",
       "end": "2026-09-27",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     },
     {
-      "id": "e-f2c5b305",
+      "id": "e-nj-f2c5b3",
       "city": "nj",
       "cat": "expo",
       "name": "2026(第二十四届)南京汽车展览会暨江苏人工智能终端产品展",
@@ -1409,7 +1486,8 @@ window.APP_DATA = {
       "start": "2026-09-30",
       "end": "2026-10-04",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "nj"
     }
   ]
 };

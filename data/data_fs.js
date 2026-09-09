@@ -8,7 +8,7 @@ window.APP_DATA = {
   },
   "events": [
     {
-      "id": "e-01b7f195",
+      "id": "e-fs-01b7f1",
       "city": "fs",
       "cat": "exhi",
       "name": "哆啦A梦主题快闪展·佛山站",
@@ -24,10 +24,11 @@ window.APP_DATA = {
       "start": "2026-09-04",
       "end": "2026-10-18",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "fs"
     },
     {
-      "id": "e-3974960d",
+      "id": "e-fs-397496",
       "city": "fs",
       "cat": "exhi",
       "name": "宝“贝”天成：贝类动物科普展",
@@ -43,10 +44,11 @@ window.APP_DATA = {
       "start": "2026-08-09",
       "end": "2026-10-25",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "fs"
     },
     {
-      "id": "e-9f1efeb8",
+      "id": "e-fs-9f1efe",
       "city": "fs",
       "cat": "exhi",
       "name": "瓷韵华章——清康雍乾官窑瓷器精品展",
@@ -62,10 +64,11 @@ window.APP_DATA = {
       "start": "2026-09-01",
       "end": "2026-11-19",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "fs"
     },
     {
-      "id": "e-bfaa1ae7",
+      "id": "e-fs-bfaa1a",
       "city": "fs",
       "cat": "exhi",
       "name": "纱上岭南——香云纱文化展",
@@ -81,10 +84,11 @@ window.APP_DATA = {
       "start": "2026-09-01",
       "end": "2027-07-31",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "fs"
     },
     {
-      "id": "e-43064703",
+      "id": "e-fs-430647",
       "city": "fs",
       "cat": "exhi",
       "name": "灯映纱墨·雅聚秋月——非遗融合创新艺术展",
@@ -100,10 +104,11 @@ window.APP_DATA = {
       "start": "2026-09-04",
       "end": "2026-10-18",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "fs"
     },
     {
-      "id": "e-c18ebcae",
+      "id": "e-fs-c18ebc",
       "city": "fs",
       "cat": "show",
       "name": "王赫野WINDY巡回演唱会-佛山站",
@@ -119,10 +124,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-12",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "fs"
     },
     {
-      "id": "e-b7395d34",
+      "id": "e-fs-b7395d",
       "city": "fs",
       "cat": "show",
       "name": "王栎鑫不管“三七”二十一生日会",
@@ -138,10 +144,11 @@ window.APP_DATA = {
       "start": "2026-09-19",
       "end": "2026-09-19",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "fs"
     },
     {
-      "id": "e-241c11f3",
+      "id": "e-fs-241c11",
       "city": "fs",
       "cat": "show",
       "name": "张德兰2026《情义两心坚》巡回演唱会-佛山站",
@@ -157,10 +164,11 @@ window.APP_DATA = {
       "start": "2026-09-26",
       "end": "2026-09-26",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "fs"
     },
     {
-      "id": "e-4a8a16d7",
+      "id": "e-fs-4a8a16",
       "city": "fs",
       "cat": "show",
       "name": "声声不息·港乐经典金曲演唱会",
@@ -176,10 +184,11 @@ window.APP_DATA = {
       "start": "2026-09-26",
       "end": "2026-09-26",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "fs"
     },
     {
-      "id": "e-2f2a4894",
+      "id": "e-fs-2f2a48",
       "city": "fs",
       "cat": "show",
       "name": "丛林音乐嘉年华",
@@ -195,10 +204,11 @@ window.APP_DATA = {
       "start": "2026-09-25",
       "end": "2026-09-26",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "fs"
     },
     {
-      "id": "e-1e147e1d",
+      "id": "e-fs-1e147e",
       "city": "fs",
       "cat": "show",
       "name": "7时代音乐现场 佛山站",
@@ -214,10 +224,11 @@ window.APP_DATA = {
       "start": "2026-09-27",
       "end": "2026-09-27",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "fs"
     },
     {
-      "id": "e-3f75723b",
+      "id": "e-fs-3f7572",
       "city": "fs",
       "cat": "sports",
       "name": "佛山市第十三届镇(街道)男篮超级联赛",
@@ -233,10 +244,11 @@ window.APP_DATA = {
       "start": "2026-09-20",
       "end": "2026-10-31",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "fs"
     },
     {
-      "id": "e-b6da2e12",
+      "id": "e-fs-b6da2e",
       "city": "fs",
       "cat": "sports",
       "name": "2026职业男篮挑战赛“澳洲虎红酒杯”",
@@ -252,10 +264,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-13",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "fs"
     },
     {
-      "id": "e-247135e4",
+      "id": "e-fs-247135",
       "city": "fs",
       "cat": "sports",
       "name": "2026沥BA暨大沥镇青少年三人篮球锦标赛",
@@ -271,10 +284,11 @@ window.APP_DATA = {
       "start": "2026-09-15",
       "end": "2026-09-27",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "fs"
     },
     {
-      "id": "e-44e69b2b",
+      "id": "e-fs-44e69b",
       "city": "fs",
       "cat": "sports",
       "name": "2026年全国女子排球锦标赛",
@@ -290,10 +304,11 @@ window.APP_DATA = {
       "start": "2026-09-19",
       "end": "2026-09-27",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "fs"
     },
     {
-      "id": "e-368212fa",
+      "id": "e-fs-368212",
       "city": "fs",
       "cat": "sports",
       "name": "2026佛山龙超“九江双蒸”龙舟联赛(第三站)",
@@ -309,10 +324,11 @@ window.APP_DATA = {
       "start": "2026-09-26",
       "end": "2026-09-26",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "fs"
     },
     {
-      "id": "e-f7092341",
+      "id": "e-fs-f70923",
       "city": "fs",
       "cat": "market",
       "name": "FO3|CURATED咕噜星球潮流运动生活节",
@@ -328,10 +344,11 @@ window.APP_DATA = {
       "start": "2026-09-25",
       "end": "2026-10-07",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "fs"
     },
     {
-      "id": "e-9c6b68c1",
+      "id": "e-fs-9c6b68",
       "city": "fs",
       "cat": "market",
       "name": "一方岭南·2026谷德乐克音乐啤酒市集嘉年华",
@@ -347,10 +364,11 @@ window.APP_DATA = {
       "start": "2026-09-30",
       "end": "2026-10-07",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "fs"
     },
     {
-      "id": "e-3f9b7f2a",
+      "id": "e-fs-3f9b7f",
       "city": "fs",
       "cat": "market",
       "name": "集物志“趁手作”正嘢集",
@@ -366,10 +384,11 @@ window.APP_DATA = {
       "start": "2026-10-01",
       "end": "2026-10-07",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "fs"
     },
     {
-      "id": "e-ee10d6ad",
+      "id": "e-fs-ee10d6",
       "city": "fs",
       "cat": "market",
       "name": "来创产·月来月圆满 中秋主题活动",
@@ -385,10 +404,11 @@ window.APP_DATA = {
       "start": "2026-09-09",
       "end": "2026-10-07",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "fs"
     },
     {
-      "id": "e-6f6d195b",
+      "id": "e-fs-6f6d19",
       "city": "fs",
       "cat": "market",
       "name": "禅城区格调城市创新季",
@@ -404,10 +424,11 @@ window.APP_DATA = {
       "start": "2026-09-09",
       "end": "2027-03-31",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "fs"
     },
     {
-      "id": "e-394b0b9b",
+      "id": "e-fs-394b0b",
       "city": "fs",
       "cat": "family",
       "name": "三水区“全国科普月”系列活动暨科普游助力百千万",
@@ -423,10 +444,11 @@ window.APP_DATA = {
       "start": "2026-09-11",
       "end": "2026-09-30",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "fs"
     },
     {
-      "id": "e-eefe1020",
+      "id": "e-fs-eefe10",
       "city": "fs",
       "cat": "family",
       "name": "南海图书馆“迎中秋贺国庆”系列活动",
@@ -442,10 +464,11 @@ window.APP_DATA = {
       "start": "2026-09-23",
       "end": "2026-10-07",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "fs"
     },
     {
-      "id": "e-8fd0fee9",
+      "id": "e-fs-8fd0fe",
       "city": "fs",
       "cat": "family",
       "name": "紫南芳华谷中秋国庆双节同庆",
@@ -461,10 +484,11 @@ window.APP_DATA = {
       "start": "2026-09-25",
       "end": "2026-10-07",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "fs"
     },
     {
-      "id": "e-5214cf03",
+      "id": "e-fs-5214cf",
       "city": "fs",
       "cat": "talk",
       "name": "书香·AI科普驿站(禅城区全国科普月)",
@@ -480,10 +504,11 @@ window.APP_DATA = {
       "start": "2026-09-01",
       "end": "2026-09-30",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "fs"
     },
     {
-      "id": "e-ce121dd8",
+      "id": "e-fs-ce121d",
       "city": "fs",
       "cat": "talk",
       "name": "2026佛山创业生态系列活动(青年创客/中秋游园)",
@@ -499,10 +524,11 @@ window.APP_DATA = {
       "start": "2026-09-09",
       "end": "2026-09-30",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "fs"
     },
     {
-      "id": "e-d3ff1b28",
+      "id": "e-fs-d3ff1b",
       "city": "fs",
       "cat": "expo",
       "name": "中国南方制冷展-佛山潭洲制冷展(SCRE)",
@@ -518,10 +544,11 @@ window.APP_DATA = {
       "start": "2026-09-09",
       "end": "2026-09-12",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "fs"
     },
     {
-      "id": "e-3fa88a37",
+      "id": "e-fs-3fa88a",
       "city": "fs",
       "cat": "expo",
       "name": "佛山顺德家电展-中国家电交易会(CAE)",
@@ -537,10 +564,11 @@ window.APP_DATA = {
       "start": "2026-09-18",
       "end": "2026-09-27",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "fs"
     },
     {
-      "id": "e-99bc638c",
+      "id": "e-fs-99bc63",
       "city": "fs",
       "cat": "expo",
       "name": "2026佛山(南海)茶业博览会",
@@ -556,10 +584,11 @@ window.APP_DATA = {
       "start": "2026-09-24",
       "end": "2026-09-27",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "fs"
     },
     {
-      "id": "e-7030f2f7",
+      "id": "e-fs-7030f2",
       "city": "fs",
       "cat": "expo",
       "name": "第八届COMICUP广东(湾区)创作交流展(CPG08)",
@@ -575,10 +604,11 @@ window.APP_DATA = {
       "start": "2026-09-09",
       "end": "2026-09-30",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "fs"
     },
     {
-      "id": "e-0662a4d3",
+      "id": "e-fs-0662a4",
       "city": "fs",
       "cat": "outdoor",
       "name": "南海湾森林生态园 登山·溯溪·露营",
@@ -594,10 +624,11 @@ window.APP_DATA = {
       "start": "2026-09-09",
       "end": "2026-09-30",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "fs"
     },
     {
-      "id": "e-9e0731db",
+      "id": "e-fs-9e0731",
       "city": "fs",
       "cat": "outdoor",
       "name": "皂幕山旅游风景区 徒步",
@@ -613,10 +644,11 @@ window.APP_DATA = {
       "start": "2026-09-09",
       "end": "2026-10-07",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "fs"
     },
     {
-      "id": "e-f5093176",
+      "id": "e-fs-f50931",
       "city": "fs",
       "cat": "outdoor",
       "name": "云勇国家森林公园 徒步",
@@ -632,10 +664,11 @@ window.APP_DATA = {
       "start": "2026-09-09",
       "end": "2026-10-07",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "fs"
     },
     {
-      "id": "e-be8381e3",
+      "id": "e-fs-be8381",
       "city": "fs",
       "cat": "outdoor",
       "name": "三山森林公园 亲子徒步露营",
@@ -651,10 +684,11 @@ window.APP_DATA = {
       "start": "2026-09-09",
       "end": "2026-10-07",
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-09",
+      "cityId": "fs"
     },
     {
-      "id": "e-3e61b6a5",
+      "id": "e-fs-21586e",
       "city": "fs",
       "cat": "outdoor",
       "name": "谷德乐克音乐嘉年华暨跟着影视游佛山系列活动",
@@ -669,10 +703,11 @@ window.APP_DATA = {
       "start": "2026-09-04",
       "end": "2026-09-13",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-08",
+      "cityId": "fs"
     },
     {
-      "id": "e-07a8083c",
+      "id": "e-fs-304bc9",
       "city": "fs",
       "cat": "exhi",
       "name": "妙手神韵——潘柏林陶塑艺术作品全国巡回展(顺德站)暨顺德书画作品联展",
@@ -687,10 +722,11 @@ window.APP_DATA = {
       "start": "2026-09-02",
       "end": "2026-10-08",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-08",
+      "cityId": "fs"
     },
     {
-      "id": "e-3658e72e",
+      "id": "e-fs-3658e7",
       "city": "fs",
       "cat": "exhi",
       "name": "京洛风华——唐代洛阳文物展",
@@ -705,10 +741,11 @@ window.APP_DATA = {
       "start": "2026-07-16",
       "end": "2026-10-18",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-08",
+      "cityId": "fs"
     },
     {
-      "id": "e-980a1b40",
+      "id": "e-fs-980a1b",
       "city": "fs",
       "cat": "exhi",
       "name": "佛山市地理标志推介展",
@@ -723,10 +760,11 @@ window.APP_DATA = {
       "start": "2026-09-03",
       "end": "2026-10-09",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-08",
+      "cityId": "fs"
     },
     {
-      "id": "e-18846966",
+      "id": "e-fs-188469",
       "city": "fs",
       "cat": "expo",
       "name": "2026禅城区全国科普月",
@@ -741,10 +779,11 @@ window.APP_DATA = {
       "start": "2026-09-01",
       "end": "2026-09-30",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-08",
+      "cityId": "fs"
     },
     {
-      "id": "e-d579452d",
+      "id": "e-fs-d57945",
       "city": "fs",
       "cat": "sports",
       "name": "西樵镇\"顺枫杯\"五人龙舟邀请赛",
@@ -759,10 +798,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-12",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-08",
+      "cityId": "fs"
     },
     {
-      "id": "e-91b3c497",
+      "id": "e-fs-91b3c4",
       "city": "fs",
       "cat": "sports",
       "name": "2026佛山龙超\"九江双蒸\"龙舟联赛(第三站)",
@@ -777,10 +817,11 @@ window.APP_DATA = {
       "start": "2026-09-26",
       "end": "2026-09-26",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-08",
+      "cityId": "fs"
     },
     {
-      "id": "e-367cdd03",
+      "id": "e-fs-367cdd",
       "city": "fs",
       "cat": "sports",
       "name": "梦里水乡锦龙盛会",
@@ -795,10 +836,11 @@ window.APP_DATA = {
       "start": "2026-09-24",
       "end": "2026-09-24",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-08",
+      "cityId": "fs"
     },
     {
-      "id": "e-3efbcfb0",
+      "id": "e-fs-3efbcf",
       "city": "fs",
       "cat": "sports",
       "name": "2026佛山自行车嘉年华暨骑跑两项",
@@ -813,10 +855,11 @@ window.APP_DATA = {
       "start": "2026-09-12",
       "end": "2026-09-13",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-08",
+      "cityId": "fs"
     },
     {
-      "id": "e-f6b3fdb6",
+      "id": "e-fs-f6b3fd",
       "city": "fs",
       "cat": "outdoor",
       "name": "中秋烧番塔民俗活动",
@@ -831,10 +874,11 @@ window.APP_DATA = {
       "start": "2026-09-25",
       "end": "2026-09-25",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-08",
+      "cityId": "fs"
     },
     {
-      "id": "e-4cff31ee",
+      "id": "e-fs-4cff31",
       "city": "fs",
       "cat": "exhi",
       "name": "仙岗\"番塔之光\"艺术节",
@@ -849,10 +893,11 @@ window.APP_DATA = {
       "start": "2026-09-01",
       "end": "2026-10-31",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-08",
+      "cityId": "fs"
     },
     {
-      "id": "e-36bce906",
+      "id": "e-fs-36bce9",
       "city": "fs",
       "cat": "sports",
       "name": "2026狮BA三人篮球赛及电竞比赛",
@@ -867,7 +912,8 @@ window.APP_DATA = {
       "start": "2026-09-18",
       "end": "2026-09-26",
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-08",
+      "cityId": "fs"
     }
   ]
 };
