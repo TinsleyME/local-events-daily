@@ -160,8 +160,8 @@ window.APP_DATA = {
       "dateText": "2026.9.1-9.30",
       "startDate": "2026-09-01",
       "endDate": "2026-09-30",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "需购上海迪士尼乐园门票",
       "description": "达菲和他的朋友们主题月，含限定周边、主题巡游与拍照点。",
       "sourceUrl": "https://www.shanghaidisneyresort.com/",
       "tagName": "",
@@ -263,12 +263,13 @@ window.APP_DATA = {
       "dateText": "2026.9.12-10.14",
       "startDate": "2026-09-12",
       "endDate": "2026-10-14",
-      "costId": "unknown",
+      "costId": "free",
       "description": "以油画作品与纪实纪录片共同构筑沉浸式艺术场域，还原艺术家真实的野外创作现场，透过影像与画作带领观者步入辽阔悠远的云山世界。",
       "sourceUrl": "https://news.qq.com/rain/a/20260907A046CZ00",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费"
     },
     {
       "id": "SH_evt_1c70e9",
@@ -280,12 +281,13 @@ window.APP_DATA = {
       "dateText": "2026.9.12-2027.2.28",
       "startDate": "2026-09-12",
       "endDate": "2027-02-28",
-      "costId": "unknown",
+      "costId": "paid",
       "description": "汇集1930年代至21世纪初的革命历史题材作品80余组，涵盖版画、油画、中国画、水彩、雕塑等多种艺术形式，以私人收藏视角回望百年奋斗峥嵘岁月。",
       "sourceUrl": "https://news.qq.com/rain/a/20260907A046CZ00",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "需购票"
     },
     {
       "id": "SH_evt_0bd527",
@@ -420,6 +422,7 @@ window.APP_DATA = {
       "description": "李荣浩\"黑马\"巡回演唱会上海站，上海体育场。",
       "sourceUrl": "https://detail.damai.cn/item.htm?id=1061482479643",
       "tagName": "",
+      "celebrity": "李荣浩",
       "createdAt": "2026-09-08",
       "updatedAt": "2026-09-09"
     },
@@ -637,12 +640,13 @@ window.APP_DATA = {
       "dateText": "2026.9.17-10.18",
       "startDate": "2026-09-17",
       "endDate": "2026-10-18",
-      "costId": "unknown",
+      "costId": "free",
       "description": "路威酩轩香水化妆品呈现的感官炼金术艺术装置展，落地新天地时尚1期中庭，以沉浸式嗅觉与视觉装置演绎香水美学。",
       "sourceUrl": "https://expo.sww.sh.gov.cn/browser/search-entp-index.jspx?code=SEARCH",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费（需预约）"
     },
     {
       "id": "SH_evt_09a15a",
@@ -659,7 +663,8 @@ window.APP_DATA = {
       "sourceUrl": "https://expo.sww.sh.gov.cn/browser/search-entp-index.jspx?code=SEARCH",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": ""
     },
     {
       "id": "SH_evt_de1300",
@@ -709,6 +714,7 @@ window.APP_DATA = {
       "description": "张智霖首场个人巡演登陆上海，融合粤语金曲、流行单曲与舞台剧情表演，兼顾唱功与舞台叙事。",
       "sourceUrl": "https://www.meet-in-shanghai.net/tc/news/get-ready-to-grab-tickets-another-wave-of-concerts-in-shanghai-is-about-to-begin-023420",
       "tagName": "",
+      "celebrity": "张智霖",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -726,6 +732,7 @@ window.APP_DATA = {
       "description": "潘玮柏MADLOVE:ULTRA巡回演唱会上海站，虹口足球场，燃爆金曲现场。",
       "sourceUrl": "https://www.ososhow.com/month/shanghai-concert-9.html",
       "tagName": "",
+      "celebrity": "潘玮柏",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -743,6 +750,7 @@ window.APP_DATA = {
       "description": "袁一琦出道十周年个人演唱会上海站，以UNKNOWN未知为主题，先锋光影舞台，开票即售罄。",
       "sourceUrl": "https://news.qq.com/rain/a/20260814A0ATE200",
       "tagName": "",
+      "celebrity": "袁一琦",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -760,6 +768,7 @@ window.APP_DATA = {
       "description": "北欧经典摇滚乐队迈克学摇滚来华开演，重现传世金曲Take Me To Your Heart，掀起欧美复古怀旧浪潮。",
       "sourceUrl": "https://www.meet-in-shanghai.net/tc/news/get-ready-to-grab-tickets-another-wave-of-concerts-in-shanghai-is-about-to-begin-023420",
       "tagName": "",
+      "celebrity": "迈克学摇滚",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -777,6 +786,7 @@ window.APP_DATA = {
       "description": "齐豫风采依旧·在上海演唱会，上海体育馆，以温柔声线演绎经典金曲。",
       "sourceUrl": "https://www.ososhow.com/month/shanghai-concert-9.html",
       "tagName": "",
+      "celebrity": "齐豫",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -794,6 +804,7 @@ window.APP_DATA = {
       "description": "石凯时空乐园2026巡回演唱会上海站，国家会展中心(上海)虹馆EH。",
       "sourceUrl": "https://www.ososhow.com/month/shanghai-concert-9.html",
       "tagName": "",
+      "celebrity": "石凯",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -811,6 +822,7 @@ window.APP_DATA = {
       "description": "小柯来·把你唱给我听巡回演唱会上海站，静安体育中心体育馆。",
       "sourceUrl": "https://www.ososhow.com/month/shanghai-concert-9.html",
       "tagName": "",
+      "celebrity": "小柯",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -960,12 +972,13 @@ window.APP_DATA = {
       "dateText": "2026.9.22-27",
       "startDate": "2026-09-22",
       "endDate": "2026-09-27",
-      "costId": "unknown",
+      "costId": "free",
       "description": "全球规格最高的职业技能赛事首次落子上海，九大领域数千名青年技能人才同台竞技，集赛会、展演与论坛于一体，展现工匠精神与世界技能前沿。",
       "sourceUrl": "https://www.worldskills2026.com.cn/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费（需预约）"
     },
     {
       "id": "SH_evt_05c959",
@@ -977,12 +990,13 @@ window.APP_DATA = {
       "dateText": "2026.9.7-11",
       "startDate": "2026-09-07",
       "endDate": "2026-09-11",
-      "costId": "unknown",
+      "costId": "free",
       "description": "第三十一届中国国际家具展览会与摩登上海设计周双馆联动，逾3200家品牌、35万平米展区覆盖制造、设计与全渠道，呈现全球家居产业最新趋势。",
       "sourceUrl": "https://www.shanghai.gov.cn/nw15343/20260902/c57e515253c94b20b8086ff8ad7dfafa.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费（需预约）"
     },
     {
       "id": "SH_evt_bb3422",

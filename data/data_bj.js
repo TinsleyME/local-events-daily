@@ -34,8 +34,8 @@ window.APP_DATA = {
       "dateText": "2026.9.1-11.30",
       "startDate": "2026-09-01",
       "endDate": "2026-11-30",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "50元",
       "description": "清华大学艺术博物馆同期呈现陶融万象、知境寻源、帕拉第奥三个展览，展至11月。",
       "sourceUrl": "https://www.artmuseum.tsinghua.edu.cn/",
       "tagName": "",
@@ -124,8 +124,8 @@ window.APP_DATA = {
       "dateText": "2026.9.24-9.27",
       "startDate": "2026-09-24",
       "endDate": "2026-09-27",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费",
       "description": "潮流汽车与生活方式主题展，汇集改装、摩托与户外装备。",
       "sourceUrl": "",
       "tagName": "",
@@ -327,6 +327,7 @@ window.APP_DATA = {
       "description": "赵雷「没有信号」巡演北京站，9月12、13日连开两场，首位登上鸟巢的民谣歌手，以乐队原声演绎经典曲目。",
       "sourceUrl": "https://detail.damai.cn/item.htm?id=1068092042109",
       "tagName": "民谣",
+      "celebrity": "赵雷",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -345,6 +346,7 @@ window.APP_DATA = {
       "description": "周深2026「深深的」演唱会北京站中秋专场，9月25至27日连开三场，海量热门OST与古风曲目编排，舞美规格拉满。",
       "sourceUrl": "https://new.qq.com/rain/a/20260828A09VPC00",
       "tagName": "流行",
+      "celebrity": "周深",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -363,6 +365,7 @@ window.APP_DATA = {
       "description": "黎明全新主题巡演北京站，9月12日19:30在国家体育馆开唱，汇集横跨数十年的经典粤语国语金曲，重现黄金年代港乐。",
       "sourceUrl": "https://www.visitbeijing.com.cn/article/4T2zPMtLZ5p",
       "tagName": "港乐",
+      "celebrity": "黎明",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -381,6 +384,7 @@ window.APP_DATA = {
       "description": "林志炫ONEtake3.0《耳顺》巡回演唱会北京站，9月30日19:00在首都体育馆，延续不修音现场实力，经典老歌必安排。",
       "sourceUrl": "https://www.visitbeijing.com.cn/article/4T2zPMtLZ5p",
       "tagName": "流行",
+      "celebrity": "林志炫",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -399,6 +403,7 @@ window.APP_DATA = {
       "description": "蒙古之花乌兰图雅9月连开两场，《套马杆》《站在草原望北京》等国民金曲悉数登场，民族旋律与流行编曲融合。",
       "sourceUrl": "https://www.visitbeijing.com.cn/article/4T2zPMtLZ5p",
       "tagName": "民族",
+      "celebrity": "乌兰图雅",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -502,13 +507,13 @@ window.APP_DATA = {
       "dateText": "2026.9.8-9.10",
       "startDate": "2026-09-08",
       "endDate": "2026-09-10",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费（需预约）",
       "description": "全面展示眼镜行业在人工智能、眼健康管理、绿色可持续设计、近视防控新技术等前沿领域的最新成果与全球品牌。",
       "sourceUrl": "https://www.beijing.gov.cn/fwcj/calendar/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10"
     },
     {
       "id": "BJ_evt_2a8ba9",
@@ -520,13 +525,13 @@ window.APP_DATA = {
       "dateText": "2026.9.16-9.18",
       "startDate": "2026-09-16",
       "endDate": "2026-09-18",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费（需预约）",
       "description": "以「高端医疗 创新智造」为主题，展示医疗设备及技术，为参展企业与医疗机构提供交流合作平台，需线上预约。",
       "sourceUrl": "https://www.beijing.gov.cn/fwcj/calendar/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10"
     },
     {
       "id": "BJ_evt_1c77b7",
@@ -538,13 +543,13 @@ window.APP_DATA = {
       "dateText": "2026.9.22-9.24",
       "startDate": "2026-09-22",
       "endDate": "2026-09-24",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费（需预约）",
       "description": "集中展示信息通信领域最新技术、网络基础设施与行业应用解决方案，涵盖5G-A、人工智能与算力网络等热点。",
       "sourceUrl": "https://www.beijing.gov.cn/fwcj/calendar/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10"
     },
     {
       "id": "BJ_evt_f97676",
@@ -826,13 +831,13 @@ window.APP_DATA = {
       "dateText": "2026.9.12-9.13",
       "startDate": "2026-09-12",
       "endDate": "2026-09-13",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "100-268元",
       "description": "9月12至13日在门头沟举办，规模9000人，设徒步达人、徒步之星组别，含水库探秘、红色之旅等路线。",
       "sourceUrl": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4906a96dff298752",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10"
     },
     {
       "id": "BJ_evt_9e519a",
@@ -896,12 +901,13 @@ window.APP_DATA = {
       "dateText": "2026.9.2起",
       "startDate": "2026-09-02",
       "endDate": null,
-      "costId": "unknown",
+      "costId": "free",
       "description": "中国科学技术馆重磅推出年度大展，依托中国脑计划最新研究成果，通过45件展品拆解脑科学前沿知识。",
       "sourceUrl": "https://go.huanqiu.com/article/4T2sobY1XFM",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-08"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费（需预约）"
     },
     {
       "id": "BJ_evt_679e2a",
@@ -913,12 +919,13 @@ window.APP_DATA = {
       "dateText": "2026.9起-2027.4.27",
       "startDate": "2026-09-01",
       "endDate": "2027-04-27",
-      "costId": "unknown",
+      "costId": "paid",
       "description": "汇聚70余位国内外顶尖艺术家/团队，近150组科技艺术作品，涵盖数字艺术、电影视效、沉浸式交互、虚拟时尚、AI创作与思辨设计。",
       "sourceUrl": "https://www.visitbeijing.com.cn/article/4T2lQZXxwUw",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-08"
+      "updatedAt": "2026-09-10",
+      "priceText": "48-128元"
     },
     {
       "id": "BJ_evt_7c2992",

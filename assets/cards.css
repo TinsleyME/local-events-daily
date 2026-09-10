@@ -76,6 +76,9 @@ section.collapsed .ev-grid{display:none}
 .c-paid{background:#fdecea;color:#e8543f}
 .c-unknown{background:#eef0f3;color:#9aa1ab}
 
+/* 明星标记徽标（事件级标记，与 cost 同级；有明星则高亮） */
+.m-celebrity{background:#fff7e6;color:#b7791f;border:1px solid #f6e0b5}
+
 .evcard .dist{
   display:inline-block;font-size:11px;font-weight:700;
   border-radius:6px;padding:2px 9px;line-height:1.5;letter-spacing:.3px;
@@ -87,6 +90,9 @@ section.collapsed .ev-grid{display:none}
 .evcard .row span+span{color:var(--ink);flex:1;min-width:0}
 .evcard .row.price .pv{color:#e8543f;font-weight:700;letter-spacing:.2px}
 .evcard .row.price .pv.unknown{color:#9aa1ab;font-weight:400}
+.evcard .star-note{background:#fffaf0;border:1px solid #f6e0b5;border-radius:8px;padding:6px 9px;margin:8px 0 0;font-size:13px;display:flex;gap:7px;align-items:flex-start;line-height:1.6}
+.evcard .star-note .k{color:#b7791f;flex-shrink:0}
+.evcard .star-note .v{color:#7c4a03;font-weight:600;flex:1;min-width:0}
 
 .evcard .desc{font-size:13px;color:#4b5563;margin:10px 0 0;line-height:1.7}
 

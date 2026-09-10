@@ -16,8 +16,8 @@ window.APP_DATA = {
       "dateText": "2026.9.22-9.29",
       "startDate": "2026-09-22",
       "endDate": "2026-09-29",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "30-1530元",
       "description": "ATP亚洲赛季最具影响力的250级别赛事之一，各国好手齐聚双流。",
       "sourceUrl": "https://cd.bendibao.com/xiuxian/jieqinghd/",
       "tagName": "",
@@ -189,12 +189,13 @@ window.APP_DATA = {
       "dateText": "2026.9.9-10.31",
       "startDate": "2026-09-09",
       "endDate": "2026-10-31",
-      "costId": "unknown",
+      "costId": "paid",
       "description": "展出八组大型装置，展现艺术家标志性的“秩序美学”，以几何与重复的语言探讨隐匿于结构之下的感知。",
       "sourceUrl": "https://news.qq.com/rain/a/20260901A0AOPK00?adChannelId=chengdu",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "79元起"
     },
     {
       "id": "CD_evt_462e89",
@@ -240,12 +241,13 @@ window.APP_DATA = {
       "dateText": "2026.9.9-10.8",
       "startDate": "2026-09-09",
       "endDate": "2026-10-08",
-      "costId": "unknown",
+      "costId": "free",
       "description": "展出齐白石、李可染等名家 32 幅典藏真迹，呈现现当代中国画人物画的创作流变。",
       "sourceUrl": "https://news.qq.com/rain/a/20260901A0AOPK00?adChannelId=chengdu",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费（需预约）"
     },
     {
       "id": "CD_evt_2b085d",
@@ -257,12 +259,13 @@ window.APP_DATA = {
       "dateText": "2026.9.9-10.7",
       "startDate": "2026-09-09",
       "endDate": "2026-10-07",
-      "costId": "unknown",
+      "costId": "paid",
       "description": "借由角色故事探讨年轻人的情绪与自我表达，以沉浸式的角色叙事打造中国首展。",
       "sourceUrl": "https://news.qq.com/rain/a/20260901A0AOPK00?adChannelId=chengdu",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "69-119元"
     },
     {
       "id": "CD_evt_67ddd6",
@@ -380,6 +383,7 @@ window.APP_DATA = {
       "description": "说唱歌手艾志恒Asen 2026 巡演登陆成都东安湖，继去年后再度开唱。",
       "sourceUrl": "https://www.toutiao.com/article/7680510082559263272/",
       "tagName": "",
+      "celebrity": "艾志恒Asen",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -414,6 +418,7 @@ window.APP_DATA = {
       "description": "歌手庆怜Caelan个人巡演成都站，以“舞所畏”为题释放舞台能量。",
       "sourceUrl": "https://cd.bendibao.com/yanchu/",
       "tagName": "",
+      "celebrity": "庆怜Caelan",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -431,6 +436,7 @@ window.APP_DATA = {
       "description": "“纯妹妹”升级归来，天籁嗓音搭配全新舞美编排，《在夜里跳舞》《爱的回归线》等金曲轮番唱响。",
       "sourceUrl": "https://www.toutiao.com/article/7680510082559263272/",
       "tagName": "",
+      "celebrity": "单依纯",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -533,6 +539,7 @@ window.APP_DATA = {
       "description": "中国摇滚乐代表人物汪峰携“相信未来”巡演登陆成都，《飞得更高》《怒放的生命》《春天里》等时代金曲唱响。",
       "sourceUrl": "https://www.dahepiao.com/yc/lironhhcd",
       "tagName": "",
+      "celebrity": "汪峰",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -550,6 +557,7 @@ window.APP_DATA = {
       "description": "王源携全新巡演登陆成都连开两场，从原创音乐到舞台创意全面升级，用青春与才华点燃东安湖之夜。",
       "sourceUrl": "https://www.toutiao.com/article/7680510082559263272/",
       "tagName": "",
+      "celebrity": "王源",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -686,6 +694,7 @@ window.APP_DATA = {
       "description": "蒲熠星首度开启个人巡演，以“银河系旅行”为概念打造沉浸式舞台，在家乡讲述成长故事。",
       "sourceUrl": "https://www.dahepiao.com/yc/lironhhcd",
       "tagName": "",
+      "celebrity": "蒲熠星",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -703,6 +712,7 @@ window.APP_DATA = {
       "description": "华语乐坛天后那英重磅回归，《征服》《白天不懂夜的黑》《默》等传世金曲唱响蓉城。",
       "sourceUrl": "https://www.toutiao.com/article/7680510082559263272/",
       "tagName": "",
+      "celebrity": "那英",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -988,12 +998,13 @@ window.APP_DATA = {
       "dateText": "2026.9.8-9.13",
       "startDate": "2026-09-08",
       "endDate": "2026-09-13",
-      "costId": "unknown",
+      "costId": "paid",
       "description": "亚羽联 U17、U15 年龄组最高级别青少年赛事，国内首个改用三局 15 分制的国际羽毛球赛事，节奏更快、观赏性更强。",
       "sourceUrl": "https://m.thepaper.cn/newsDetail_forward_33994211",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "48-88元"
     },
     {
       "id": "CD_evt_689f90",
@@ -1056,12 +1067,13 @@ window.APP_DATA = {
       "dateText": "2026.9.22-9.23",
       "startDate": "2026-09-22",
       "endDate": "2026-09-23",
-      "costId": "unknown",
+      "costId": "paid",
       "description": "以星空露营+户外运动体验为核心的家庭户外生活季，打造亲子自然度假场景。",
       "sourceUrl": "https://cdwglj.chengdu.gov.cn/cdwglj/c133208/2026-09/07/content_1d50e4b9d7614a018f6f18e8a56a2614.shtml",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "148-318元"
     },
     {
       "id": "CD_evt_418692",
@@ -1073,12 +1085,13 @@ window.APP_DATA = {
       "dateText": "2026.9.26-10.6",
       "startDate": "2026-09-26",
       "endDate": "2026-10-06",
-      "costId": "unknown",
+      "costId": "free",
       "description": "花海月下游园会、月下霓裳汉服游园、非遗体验、月下茶歇音乐会、星空露营夜、打铁花展演、川剧变脸互动秀、亲子趣味游园。",
       "sourceUrl": "https://cdwglj.chengdu.gov.cn/cdwglj/c133208/2026-09/07/content_1d50e4b9d7614a018f6f18e8a56a2614.shtml",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费"
     },
     {
       "id": "CD_evt_64fe48",
@@ -1481,12 +1494,13 @@ window.APP_DATA = {
       "dateText": "2026.9.15-9.18",
       "startDate": "2026-09-15",
       "endDate": "2026-09-18",
-      "costId": "unknown",
+      "costId": "paid",
       "description": "展示国防科学领域最前沿技术成果，提供与全球国防科学顶尖专家交流互动、展示科研进展的舞台。",
       "sourceUrl": "https://www.zhanxun.cn/news/11637.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "2200-3000元"
     },
     {
       "id": "CD_evt_0cd2cc",
@@ -1498,12 +1512,13 @@ window.APP_DATA = {
       "dateText": "2026.9.15-9.17",
       "startDate": "2026-09-15",
       "endDate": "2026-09-17",
-      "costId": "unknown",
+      "costId": "paid",
       "description": "由全国 100 余家代理记账行业协会共同发起，发布行业标准及发展报告，举办多场平行论坛，展示 AI 财务工厂系统等前沿成果。",
       "sourceUrl": "https://www.zhanxun.cn/news/11637.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "需购票"
     },
     {
       "id": "CD_evt_b69efe",
@@ -1515,12 +1530,13 @@ window.APP_DATA = {
       "dateText": "2026.9.17-9.19",
       "startDate": "2026-09-17",
       "endDate": "2026-09-19",
-      "costId": "unknown",
+      "costId": "free",
       "description": "川渝两地联合主办的食品工业年度重点展会，打造展览展示、产销对接、产业交流、品牌推广于一体的综合性美食工业平台。",
       "sourceUrl": "https://www.zhanxun.cn/news/11637.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费（需预约）"
     },
     {
       "id": "CD_evt_dbb902",
@@ -1532,12 +1548,13 @@ window.APP_DATA = {
       "dateText": "2026.9.22-9.23",
       "startDate": "2026-09-22",
       "endDate": "2026-09-23",
-      "costId": "unknown",
+      "costId": "free",
       "description": "“会议+展览”一体化，设先进民机、通航装备、高端航空材料、航空动力等论坛，同期航空装备前沿创新成果专属展区。",
       "sourceUrl": "https://www.zhanxun.cn/news/11637.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费（需预约）"
     },
     {
       "id": "CD_evt_3e762e",
@@ -1549,12 +1566,13 @@ window.APP_DATA = {
       "dateText": "2026.9.22-9.23",
       "startDate": "2026-09-22",
       "endDate": "2026-09-23",
-      "costId": "unknown",
+      "costId": "free",
       "description": "聚焦宏观趋势与安全保障、植物营养与增效、技术创新与产品突破，推动农业现代化向科技、绿色、质量、品牌转型升级。",
       "sourceUrl": "https://www.zhanxun.cn/news/11637.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费（需预约）"
     },
     {
       "id": "CD_evt_782749",
@@ -1600,12 +1618,13 @@ window.APP_DATA = {
       "dateText": "2026.9.21-9.23",
       "startDate": "2026-09-21",
       "endDate": "2026-09-23",
-      "costId": "unknown",
+      "costId": "paid",
       "description": "围绕“人工智能与土木工程创新发展”主题，邀请院士与知名专家分享最新研究成果、探讨技术创新。",
       "sourceUrl": "https://www.zhanxun.cn/news/11637.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "1000-2200元"
     }
   ]
 };

@@ -52,8 +52,8 @@ window.APP_DATA = {
       "dateText": "2026.9.27",
       "startDate": "2026-09-27",
       "endDate": "2026-09-27",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "9.9元",
       "description": "楚超常规赛收官战，赛场周边摆起特色市集、开设“第二现场”，凭票根享系列优惠。",
       "sourceUrl": "https://sw.wuhan.gov.cn/xwdt/mtbd/202609/t20260909_2845634.shtml",
       "tagName": "",
@@ -326,12 +326,13 @@ window.APP_DATA = {
       "dateText": "2026.9.25-9.26",
       "startDate": "2026-09-25",
       "endDate": "2026-09-26",
-      "costId": "unknown",
+      "costId": "paid",
       "description": "顶级时尚IP落地武汉，明星红毯秀与现场舞台演出双线呈现，氛围感拉满，适配打卡拍照与休闲观演。",
       "sourceUrl": "https://news.hubeidaily.net/pc/z_856481.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "380-1780元"
     },
     {
       "id": "WH_evt_84101e",
@@ -347,6 +348,7 @@ window.APP_DATA = {
       "description": "重温经典校园民谣情怀，水木年华2026巡回演唱会武汉站，在汉秀剧场唱响青春记忆。",
       "sourceUrl": "https://weibo.com/2127403275/5337215505793351",
       "tagName": "",
+      "celebrity": "水木年华",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -364,6 +366,7 @@ window.APP_DATA = {
       "description": "情歌天花板A-Lin唱响治愈金曲，多场次火热在售，用温柔声线治愈江城初秋。",
       "sourceUrl": "https://news.hubeidaily.net/pc/z_856481.html",
       "tagName": "",
+      "celebrity": "A-Lin黄丽玲",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -381,6 +384,7 @@ window.APP_DATA = {
       "description": "张信哲、徐怀钰、光良、阿杜重磅同台，跨代际经典金曲唤醒全民青春记忆。",
       "sourceUrl": "https://news.hubeidaily.net/pc/z_856481.html",
       "tagName": "",
+      "celebrity": true,
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -398,6 +402,7 @@ window.APP_DATA = {
       "description": "乃万第五张个人专辑专属巡演，15首曲目打破流行、电子、说唱、摇滚与国风的边界，演后设专辑面签环节。",
       "sourceUrl": "https://news.hubeidaily.net/pc/z_856481.html",
       "tagName": "",
+      "celebrity": "乃万",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -466,6 +471,7 @@ window.APP_DATA = {
       "description": "陈婧霏2026巡演武汉站，在Livehouse呈现细腻迷幻的现场氛围。",
       "sourceUrl": "https://www.163.com/dy/article/L4P07KHI0530PS59.html",
       "tagName": "",
+      "celebrity": "陈婧霏",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -500,6 +506,7 @@ window.APP_DATA = {
       "description": "布瑞吉77%巡演武汉站，硬核说唱现场点燃秋夜。",
       "sourceUrl": "https://www.163.com/dy/article/L4P07KHI0530PS59.html",
       "tagName": "",
+      "celebrity": "布瑞吉",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -534,6 +541,7 @@ window.APP_DATA = {
       "description": "光谷潮玩季：随机舞蹈（9.5-6、9.27）、许嵩明星影院歌友会（9.26），乐队现场演唱加粉丝K歌挑战赛、应援棒互动墙。",
       "sourceUrl": "https://www.toutiao.com/article/7682257212786262579/",
       "tagName": "",
+      "celebrity": "许嵩",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -671,7 +679,8 @@ window.APP_DATA = {
       "sourceUrl": "https://3g.wuhan.gov.cn/ztzl/sszx/ssxw/202604/t20260416_2753577.shtml",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": ""
     },
     {
       "id": "WH_evt_142f94",
@@ -683,12 +692,13 @@ window.APP_DATA = {
       "dateText": "2026年9月",
       "startDate": "2026-09-15",
       "endDate": "2026-09-18",
-      "costId": "unknown",
+      "costId": "paid",
       "description": "2026武汉现代天外天高尔夫球公开赛9月开杆，汇聚国内外高尔夫好手角逐江城绿茵。",
       "sourceUrl": "https://3g.wuhan.gov.cn/ztzl/sszx/ssxw/202604/t20260416_2753577.shtml",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "需购票"
     },
     {
       "id": "WH_evt_7e1dfa",
@@ -785,12 +795,13 @@ window.APP_DATA = {
       "dateText": "2026.9.11-9.13",
       "startDate": "2026-09-11",
       "endDate": "2026-09-13",
-      "costId": "unknown",
+      "costId": "free",
       "description": "家居装修一站式采购盛会，涵盖家具、建材、家电、软装等，助力安心焕新家。",
       "sourceUrl": "https://www.zhanxun.cn/news/11613.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费（需预约）"
     },
     {
       "id": "WH_evt_66a2a4",
@@ -802,12 +813,13 @@ window.APP_DATA = {
       "dateText": "2026.9.11-9.14",
       "startDate": "2026-09-11",
       "endDate": "2026-09-14",
-      "costId": "unknown",
+      "costId": "free",
       "description": "茶产业全产业链博览会，汇聚各地名茶、茶器具与茶文化，免费逛展淘好茶。",
       "sourceUrl": "https://www.zhanxun.cn/news/11613.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费（需预约）"
     },
     {
       "id": "WH_evt_5e18e7",
@@ -819,12 +831,13 @@ window.APP_DATA = {
       "dateText": "2026.9.21-9.24",
       "startDate": "2026-09-21",
       "endDate": "2026-09-24",
-      "costId": "unknown",
+      "costId": "free",
       "description": "聚焦机床装备与金属加工，展示高端制造技术与智能装备解决方案。",
       "sourceUrl": "https://www.zhanxun.cn/news/11613.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费（需预约）"
     },
     {
       "id": "WH_evt_42b9f9",
@@ -836,12 +849,13 @@ window.APP_DATA = {
       "dateText": "2026.9.22-9.24",
       "startDate": "2026-09-22",
       "endDate": "2026-09-24",
-      "costId": "unknown",
+      "costId": "free",
       "description": "华中汽车产业风向标，整车、零部件、新能源与智能制造全产业链展示，380余家参展商，立足“中国车谷”链接全球资源。",
       "sourceUrl": "http://www.cnena.com/zt/bencandy-htm-fid-130-id-25898.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费（需预约）"
     },
     {
       "id": "WH_evt_e57236",
@@ -853,12 +867,13 @@ window.APP_DATA = {
       "dateText": "2026.9.22-9.24",
       "startDate": "2026-09-22",
       "endDate": "2026-09-24",
-      "costId": "unknown",
+      "costId": "free",
       "description": "中国机博会与武汉工博会融合展，新质势能、智链全球，覆盖先进制造国际合作全链条。",
       "sourceUrl": "https://www.zhanxun.cn/news/11613.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费（需预约）"
     },
     {
       "id": "WH_evt_287637",
@@ -870,12 +885,13 @@ window.APP_DATA = {
       "dateText": "2026.9.22-9.24",
       "startDate": "2026-09-22",
       "endDate": "2026-09-24",
-      "costId": "unknown",
+      "costId": "free",
       "description": "聚焦工业自动化、智能制造与机器人技术，展示柔性产线与智能工厂解决方案。",
       "sourceUrl": "https://www.zhanxun.cn/news/11613.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费（需预约）"
     },
     {
       "id": "WH_evt_bb38de",
@@ -887,12 +903,13 @@ window.APP_DATA = {
       "dateText": "2026.9.22-9.24",
       "startDate": "2026-09-22",
       "endDate": "2026-09-24",
-      "costId": "unknown",
+      "costId": "free",
       "description": "汽车电子、智能网联与三电技术专业展，呈现汽车前端产业生态与核心零部件。",
       "sourceUrl": "https://www.zhanxun.cn/news/11613.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费（需预约）"
     },
     {
       "id": "WH_evt_5374d0",
@@ -904,12 +921,13 @@ window.APP_DATA = {
       "dateText": "2026.9.29-10.1",
       "startDate": "2026-09-29",
       "endDate": "2026-10-01",
-      "costId": "unknown",
+      "costId": "free",
       "description": "聚焦银发经济，养老、健康、适老化产品与服务综合展，链接康养产业新机遇。",
       "sourceUrl": "https://www.zhanxun.cn/news/11613.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费（需预约）"
     }
   ]
 };

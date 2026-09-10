@@ -16,8 +16,8 @@ window.APP_DATA = {
       "dateText": "2026.9.9-9.11",
       "startDate": "2026-09-09",
       "endDate": "2026-09-11",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费",
       "description": "规划展览面积2万平米，汇聚商业航天企业、卫星研发制造、火箭发射与在轨运营等前沿技术与解决方案。",
       "sourceUrl": "https://xa.bendibao.com/xiuxian/?page=19",
       "tagName": "",
@@ -34,8 +34,8 @@ window.APP_DATA = {
       "dateText": "2026.5.15-10.15",
       "startDate": "2026-05-15",
       "endDate": "2026-10-15",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "10元",
       "description": "精选陕鲁两地碑刻与画像石拓片，溯源历史文脉，沉浸式品读汉石遗韵。",
       "sourceUrl": "https://xa.bendibao.com/xiuxian/?page=19",
       "tagName": "",
@@ -52,8 +52,8 @@ window.APP_DATA = {
       "dateText": "2025.4.30-2026.12.31",
       "startDate": "2025-04-30",
       "endDate": "2026-12-31",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "88元",
       "description": "借助XR扩增现实打造全景沉浸式体验，结合珂罗版敦煌特窟壁画，走进莫高窟神秘世界。",
       "sourceUrl": "https://hk.trip.com/events/14348798-2026-xi-an-collection",
       "tagName": "",
@@ -123,12 +123,13 @@ window.APP_DATA = {
       "dateText": "6月18日-12月30日",
       "startDate": "2026-06-18",
       "endDate": "2026-12-30",
-      "costId": "unknown",
+      "costId": "free",
       "description": "聚焦陕西商周至民国青铜器遗存，分五大单元梳理金石学学术脉络与当代传承，展品含商周青铜、仿古器物、名家题跋拓本。",
       "sourceUrl": "https://m.xa.bendibao.com/jieri/141626.shtm",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费（需预约）"
     },
     {
       "id": "XA_evt_40d9b4",
@@ -140,12 +141,13 @@ window.APP_DATA = {
       "dateText": "6月18日-10月11日",
       "startDate": "2026-06-18",
       "endDate": "2026-10-11",
-      "costId": "unknown",
+      "costId": "free",
       "description": "以相马、绘马、塑马为脉络设三大单元，展现中国古代绘画与雕塑中骏马的风骨神韵。",
       "sourceUrl": "https://m.xa.bendibao.com/jieri/141626.shtm",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费（需预约）"
     },
     {
       "id": "XA_evt_4a00a7",
@@ -329,12 +331,13 @@ window.APP_DATA = {
       "dateText": "8月15日-10月18日",
       "startDate": "2026-08-15",
       "endDate": "2026-10-18",
-      "costId": "unknown",
+      "costId": "paid",
       "description": "小满系列原创插画西北首展，设巨型小满人偶、多巴胺打卡场景、专属拍照机，画风奶萌治愈。门票以现场公示为准。",
       "sourceUrl": "https://m.xa.bendibao.com/jieri/141626.shtm",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "39元"
     },
     {
       "id": "XA_evt_ffef38",
@@ -346,12 +349,13 @@ window.APP_DATA = {
       "dateText": "6月19日-10月24日",
       "startDate": "2026-06-19",
       "endDate": "2026-10-24",
-      "costId": "unknown",
+      "costId": "paid",
       "description": "以李白、杜甫、苏轼等9位大诗人的故事为主题，用绘画、光影、雕塑装置、数字人动画等丰富形式讲述唐诗意境。",
       "sourceUrl": "https://m.xa.bendibao.com/jieri/141626.shtm",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "45元"
     },
     {
       "id": "XA_evt_c49b4a",
@@ -363,12 +367,13 @@ window.APP_DATA = {
       "dateText": "6月1日-10月31日",
       "startDate": "2026-06-01",
       "endDate": "2026-10-31",
-      "costId": "unknown",
+      "costId": "free",
       "description": "当代艺术家初劭玮个展，聚焦\"玩具\"这一可量产的工业材料，将其视为被工业化生产的情感关系，构建专属的共时记忆。",
       "sourceUrl": "https://m.xa.bendibao.com/jieri/141626.shtm",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费"
     },
     {
       "id": "XA_evt_9d091d",
@@ -385,7 +390,8 @@ window.APP_DATA = {
       "sourceUrl": "https://www.xiancn.com/content/2026-09/06/content_7513222.htm",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-09",
+      "priceText": ""
     },
     {
       "id": "XA_evt_bfcbb5",
@@ -555,6 +561,7 @@ window.APP_DATA = {
       "description": "群星演唱会，张靓颖、张信哲、蔡健雅、海来阿木同台，西安奥体中心体育场，套票8.9折起298元起。",
       "sourceUrl": "https://m.damai.cn/damai/category/index.html?categoryId=1&cityId=610100&cityName=%E8%A5%BF%E5%AE%89",
       "tagName": "演唱会",
+      "celebrity": "张靓颖、张信哲、蔡健雅、海来阿木",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -573,6 +580,7 @@ window.APP_DATA = {
       "description": "李健\"万物安生时\"巡回演唱会西安站，西安奥体中心体育馆，380元起。",
       "sourceUrl": "https://m.damai.cn/damai/category/index.html?categoryId=1&cityId=610100&cityName=%E8%A5%BF%E5%AE%89",
       "tagName": "演唱会",
+      "celebrity": "李健",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -591,6 +599,7 @@ window.APP_DATA = {
       "description": "于适YOSH「适诗」2026巡回演唱会西安站，西安奥体中心体育馆，约120分钟，380-1680元。",
       "sourceUrl": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6646a8ebfd099352",
       "tagName": "演唱会",
+      "celebrity": "于适",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },

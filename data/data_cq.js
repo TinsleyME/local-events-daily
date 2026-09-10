@@ -70,8 +70,8 @@ window.APP_DATA = {
       "dateText": "2026.9.25-9.27",
       "startDate": "2026-09-25",
       "endDate": "2026-09-27",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "19.9元",
       "description": "可携宠逛展，早鸟单人票19.9元，集比赛、游戏与300+品牌于一体。",
       "sourceUrl": "https://huodong.com/event/chongqing/exhibition",
       "tagName": "",
@@ -93,6 +93,7 @@ window.APP_DATA = {
       "description": "谢霆锋进化演唱会重庆站，看台380/580/780/980元，内场1380/1680元。",
       "sourceUrl": "https://api.cqyc.net/wap/thread/view-thread/tid/2172108",
       "tagName": "",
+      "celebrity": "谢霆锋",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-10"
     },
@@ -124,8 +125,8 @@ window.APP_DATA = {
       "dateText": "2026.2.10-2027.1.31",
       "startDate": "2026-02-10",
       "endDate": "2027-01-31",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "40元",
       "description": "30+部经典动画、70+年中国动画艺术史回顾展，重温上美影金色岁月。",
       "sourceUrl": "https://cq.bendibao.com/xiuxian?page=11",
       "tagName": "",
@@ -369,6 +370,7 @@ window.APP_DATA = {
       "description": "王力宏“最好的地方II”世界巡回演唱会重庆站，两晚连开。票价看台380/580/780/980元，内场1380/1680/1880元。购票渠道：大麦、猫眼。",
       "sourceUrl": "https://www.dahepiao.com/news1/yanchu/20260708549245.html",
       "tagName": "",
+      "celebrity": "王力宏",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -387,6 +389,7 @@ window.APP_DATA = {
       "description": "韦礼安、蔡旻佑联合演唱会重庆站，票价看台380/480/680/880元，内场1080元。购票渠道：大麦、猫眼。",
       "sourceUrl": "https://epaper.cqdsrb.com.cn/html/202608/11/content_531387.html",
       "tagName": "",
+      "celebrity": "韦礼安、蔡旻佑",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -831,7 +834,8 @@ window.APP_DATA = {
       "sourceUrl": "https://news.qq.com/rain/a/20260830A08L2L00",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-09",
+      "priceText": ""
     },
     {
       "id": "CQ_evt_4a8973",
@@ -843,12 +847,13 @@ window.APP_DATA = {
       "dateText": "2026.9.18-9.20",
       "startDate": "2026-09-18",
       "endDate": "2026-09-20",
-      "costId": "unknown",
+      "costId": "free",
       "description": "以“工业跨境新平台·西部制造新出路”为主题，携手中国跨交会主办团队，打造面向全国、服务全球的工业品跨境电商专业展。",
       "sourceUrl": "https://news.qq.com/rain/a/20260830A08L2L00",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费（需预登记）"
     },
     {
       "id": "CQ_evt_334db7",
@@ -883,7 +888,8 @@ window.APP_DATA = {
       "sourceUrl": "https://news.qq.com/rain/a/20260830A08L2L00",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-09",
+      "priceText": ""
     },
     {
       "id": "CQ_evt_77661f",
@@ -900,7 +906,8 @@ window.APP_DATA = {
       "sourceUrl": "https://news.qq.com/rain/a/20260830A08L2L00",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-09",
+      "priceText": ""
     }
   ]
 };

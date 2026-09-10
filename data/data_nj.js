@@ -34,8 +34,8 @@ window.APP_DATA = {
       "dateText": "2026.9.12",
       "startDate": "2026-09-12",
       "endDate": "2026-09-12",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "20元",
       "description": "江苏省城市足球联赛南京队主场对阵镇江队，观赛可享票根联动文旅优惠。",
       "sourceUrl": "https://wlj.nanjing.gov.cn/whyw/202608/t20260821_5897660.html",
       "tagName": "",
@@ -420,6 +420,7 @@ window.APP_DATA = {
       "description": "那英2026巡回演唱会南京站，经典金曲现场呈现。",
       "sourceUrl": "https://www.thepaper.cn/newsDetail_forward_33684303",
       "tagName": "演唱会",
+      "celebrity": "那英",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -437,6 +438,7 @@ window.APP_DATA = {
       "description": "郭富城ICONIC世界巡回演唱会南京站，舞美与金曲盛宴。",
       "sourceUrl": "https://www.thepaper.cn/newsDetail_forward_33684303",
       "tagName": "演唱会",
+      "celebrity": "郭富城",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -454,6 +456,7 @@ window.APP_DATA = {
       "description": "张云雷全新舞台美学重构距离的巡回演唱会南京站。",
       "sourceUrl": "https://www.dahepiao.com/yc/ymsnnjych",
       "tagName": "演唱会",
+      "celebrity": "张云雷",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -471,6 +474,7 @@ window.APP_DATA = {
       "description": "周杰伦世界巡回演唱会南京站，中秋万人大合唱。",
       "sourceUrl": "https://www.thepaper.cn/newsDetail_forward_33684303",
       "tagName": "演唱会",
+      "celebrity": "周杰伦",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -488,6 +492,7 @@ window.APP_DATA = {
       "description": "华晨宇火星演唱会乐园2.0，多日沉浸式音乐现场。",
       "sourceUrl": "https://www.dahepiao.com/yc/ymsnnjych",
       "tagName": "演唱会",
+      "celebrity": "华晨宇",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -522,6 +527,7 @@ window.APP_DATA = {
       "description": "张靓颖“追”巡回演唱会南京站，全新舞台与金曲。",
       "sourceUrl": "https://www.dahepiao.com/yc/ymsnnjych",
       "tagName": "演唱会",
+      "celebrity": "张靓颖",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -539,6 +545,7 @@ window.APP_DATA = {
       "description": "蓝心羽2026巡回演唱会南京站，治愈系现场。",
       "sourceUrl": "https://www.dahepiao.com/yc/ymsnnjych",
       "tagName": "演唱会",
+      "celebrity": "蓝心羽",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -709,6 +716,7 @@ window.APP_DATA = {
       "description": "音乐剧演员洛朗·班Thousand Layers of Love巡演南京站。",
       "sourceUrl": "https://www.jsopera.com/",
       "tagName": "音乐会",
+      "celebrity": "洛朗·班",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -824,12 +832,13 @@ window.APP_DATA = {
       "dateText": "2026.9.10-9.13",
       "startDate": "2026-09-10",
       "endDate": "2026-09-13",
-      "costId": "unknown",
+      "costId": "free",
       "description": "近30城40+精品咖啡与冠军品牌空降新街口。",
       "sourceUrl": "https://m.nj.bendibao.com/tour/ly173188.shtm",
       "tagName": "咖啡",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费"
     },
     {
       "id": "NJ_evt_fa8143",
@@ -841,12 +850,13 @@ window.APP_DATA = {
       "dateText": "2026.9.10-9.13",
       "startDate": "2026-09-10",
       "endDate": "2026-09-13",
-      "costId": "unknown",
+      "costId": "free",
       "description": "25+世界咖啡冠军亲临，80+咖啡品牌四天喝遍四大洲。",
       "sourceUrl": "https://m.nj.bendibao.com/tour/ly173188.shtm",
       "tagName": "咖啡",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费"
     },
     {
       "id": "NJ_evt_601b22",
@@ -858,12 +868,13 @@ window.APP_DATA = {
       "dateText": "2026.9.11-9.13",
       "startDate": "2026-09-11",
       "endDate": "2026-09-13",
-      "costId": "unknown",
+      "costId": "free",
       "description": "百人共创编织展、疗愈工作坊、美学市集与轻柔音乐。",
       "sourceUrl": "https://m.nj.bendibao.com/tour/ly173188.shtm",
       "tagName": "疗愈",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费"
     },
     {
       "id": "NJ_evt_9cdea5",
@@ -892,12 +903,13 @@ window.APP_DATA = {
       "dateText": "2026.9.12-9.25",
       "startDate": "2026-09-12",
       "endDate": "2026-09-25",
-      "costId": "unknown",
+      "costId": "free",
       "description": "奇石玉器博览会，汇聚赏石与玉器精品。",
       "sourceUrl": "https://m.nj.bendibao.com/",
       "tagName": "奇石",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费"
     },
     {
       "id": "NJ_evt_a213ce",
@@ -909,12 +921,13 @@ window.APP_DATA = {
       "dateText": "2026.9.11-9.12",
       "startDate": "2026-09-11",
       "endDate": "2026-09-12",
-      "costId": "unknown",
+      "costId": "free",
       "description": "苏超第二现场&HI啤露营集市，直播观赛+音乐演出+美食。",
       "sourceUrl": "https://www.njiexpo.com/",
       "tagName": "夜集",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费"
     },
     {
       "id": "NJ_evt_06d001",
@@ -926,12 +939,13 @@ window.APP_DATA = {
       "dateText": "2026.9.24-10.8",
       "startDate": "2026-09-24",
       "endDate": "2026-10-08",
-      "costId": "unknown",
+      "costId": "free",
       "description": "全市品牌农产展销与全蟹创意美食街区，配套亲子体验。",
       "sourceUrl": "https://www.toutiao.com/article/7681868540026159616",
       "tagName": "美食",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费"
     },
     {
       "id": "NJ_evt_5ea6b7",
@@ -943,12 +957,13 @@ window.APP_DATA = {
       "dateText": "2026.9.25-10.7",
       "startDate": "2026-09-25",
       "endDate": "2026-10-07",
-      "costId": "unknown",
+      "costId": "free",
       "description": "集中展销高淳本土特色美食与金秋农特产品。",
       "sourceUrl": "https://www.toutiao.com/article/7681868540026159616",
       "tagName": "美食",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费"
     },
     {
       "id": "NJ_evt_e16457",
@@ -1028,12 +1043,13 @@ window.APP_DATA = {
       "dateText": "2026.9.12-9.13",
       "startDate": "2026-09-12",
       "endDate": "2026-09-13",
-      "costId": "unknown",
+      "costId": "free",
       "description": "南京自主培育的大学生国际品牌赛事，秦淮河畔挥桨开赛。",
       "sourceUrl": "https://m2.nbs.cn/article/1128209.html",
       "tagName": "赛艇",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费"
     },
     {
       "id": "NJ_evt_e9e9b4",
@@ -1045,12 +1061,13 @@ window.APP_DATA = {
       "dateText": "2026.9.12",
       "startDate": "2026-09-12",
       "endDate": "2026-09-12",
-      "costId": "unknown",
+      "costId": "free",
       "description": "环太湖赛首站落户江宁园博园，“车在景中骑”巅峰对决。",
       "sourceUrl": "https://jsstyj.jiangsu.gov.cn/art/2026/8/31/art_79626_11822858.html",
       "tagName": "自行车",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费"
     },
     {
       "id": "NJ_evt_ddcf1d",
@@ -1062,12 +1079,13 @@ window.APP_DATA = {
       "dateText": "2026.9.12-9.13",
       "startDate": "2026-09-12",
       "endDate": "2026-09-13",
-      "costId": "unknown",
+      "costId": "paid",
       "description": "“大江大河”全国公开水域游泳系列赛金牛湖站。",
       "sourceUrl": "https://jsstyj.jiangsu.gov.cn/art/2026/8/31/art_79626_11822858.html",
       "tagName": "游泳",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "19.9元"
     },
     {
       "id": "NJ_evt_05e52b",
@@ -1130,12 +1148,13 @@ window.APP_DATA = {
       "dateText": "2026.9月",
       "startDate": "2026-09-05",
       "endDate": "2026-09-30",
-      "costId": "unknown",
+      "costId": "free",
       "description": "葡萄采摘、昆虫夜观、LULULAND儿童剧、高粱音乐会等亲子玩法。",
       "sourceUrl": "https://www.toutiao.com/article/7682606902299132452",
       "tagName": "亲子",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费"
     },
     {
       "id": "NJ_evt_573b1b",
@@ -1198,12 +1217,13 @@ window.APP_DATA = {
       "dateText": "2026.9月-10月初",
       "startDate": "2026-09-01",
       "endDate": "2026-10-07",
-      "costId": "unknown",
+      "costId": "free",
       "description": "阳光玫瑰等四大品种采摘，沉浸式田园风光体验。",
       "sourceUrl": "https://www.toutiao.com/article/7682606902299132452",
       "tagName": "采摘",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费（入园无门票，采摘按重量计费）"
     },
     {
       "id": "NJ_evt_3b44de",
@@ -1215,12 +1235,13 @@ window.APP_DATA = {
       "dateText": "2026.9.11-9.13",
       "startDate": "2026-09-11",
       "endDate": "2026-09-13",
-      "costId": "unknown",
+      "costId": "free",
       "description": "低空安全与军事智能化高端交流平台，含主论坛与平行会议。",
       "sourceUrl": "https://big5.cri.cn/gate/big5/js.cri.cn/20260901/fbd725d6-a98c-48e9-a6c1-5d0baefce682.html",
       "tagName": "军博",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费（需预约观展）"
     },
     {
       "id": "NJ_evt_3b929e",
@@ -1237,7 +1258,8 @@ window.APP_DATA = {
       "sourceUrl": "https://big5.cri.cn/gate/big5/js.cri.cn/20260901/fbd725d6-a98c-48e9-a6c1-5d0baefce682.html",
       "tagName": "论坛",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": ""
     },
     {
       "id": "NJ_evt_a694dd",
@@ -1249,12 +1271,13 @@ window.APP_DATA = {
       "dateText": "2026.9.11-9.12",
       "startDate": "2026-09-11",
       "endDate": "2026-09-12",
-      "costId": "unknown",
+      "costId": "free",
       "description": "江苏科技成果转化年度标杆盛会，打通供给与企业需求。",
       "sourceUrl": "https://www.njiexpo.com/",
       "tagName": "产学研",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费（需预约报名）"
     },
     {
       "id": "NJ_evt_f52ef8",
@@ -1266,12 +1289,13 @@ window.APP_DATA = {
       "dateText": "2026.9.16-9.18",
       "startDate": "2026-09-16",
       "endDate": "2026-09-18",
-      "costId": "unknown",
+      "costId": "free",
       "description": "全球气体行业领先展会，含氢能、加氢站及燃料电池设备。",
       "sourceUrl": "https://www.nanjingexpo.com.cn/cg/dq/20260828/202608/t20260828_8590846.shtml",
       "tagName": "氢能",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费（需实名预约）"
     },
     {
       "id": "NJ_evt_cd5ecf",
@@ -1288,7 +1312,8 @@ window.APP_DATA = {
       "sourceUrl": "https://www.nanjingexpo.com.cn/sy",
       "tagName": "APEC",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": ""
     },
     {
       "id": "NJ_evt_736e94",
@@ -1300,12 +1325,13 @@ window.APP_DATA = {
       "dateText": "2026.9.17-9.19",
       "startDate": "2026-09-17",
       "endDate": "2026-09-19",
-      "costId": "unknown",
+      "costId": "free",
       "description": "“传承·创新·超越”主题，高品质高精尖的香化产业博览会。",
       "sourceUrl": "https://www.nanjingexpo.com.cn/sy",
       "tagName": "香化",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费（可免费观展参会）"
     },
     {
       "id": "NJ_evt_2bf59a",
@@ -1317,12 +1343,13 @@ window.APP_DATA = {
       "dateText": "2026.9.20",
       "startDate": "2026-09-20",
       "endDate": "2026-09-20",
-      "costId": "unknown",
+      "costId": "free",
       "description": "中共江苏省委、省政府主办，海内外高层次人才对接平台。",
       "sourceUrl": "https://www.nanjingexpo.com.cn/sy",
       "tagName": "人力",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费（需报名）"
     },
     {
       "id": "NJ_evt_cf2602",
@@ -1339,7 +1366,8 @@ window.APP_DATA = {
       "sourceUrl": "https://www.nanjingexpo.com.cn/sy",
       "tagName": "经贸",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": ""
     },
     {
       "id": "NJ_evt_9a8c2d",
@@ -1356,7 +1384,8 @@ window.APP_DATA = {
       "sourceUrl": "https://www.njiexpo.com/",
       "tagName": "电商",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": ""
     },
     {
       "id": "NJ_evt_0db3cd",
@@ -1368,12 +1397,13 @@ window.APP_DATA = {
       "dateText": "2026.9.22-9.24",
       "startDate": "2026-09-22",
       "endDate": "2026-09-24",
-      "costId": "unknown",
+      "costId": "free",
       "description": "“产学研用管投”全产业链交流，聚焦生物药与创新疫苗。",
       "sourceUrl": "https://www.nanjingexpo.com.cn/sy",
       "tagName": "生物药",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费（免收参会费，需报名）"
     },
     {
       "id": "NJ_evt_6eb8a4",
@@ -1390,7 +1420,8 @@ window.APP_DATA = {
       "sourceUrl": "https://www.njiexpo.com/",
       "tagName": "帮扶",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": ""
     },
     {
       "id": "NJ_evt_c1977d",
@@ -1419,12 +1450,13 @@ window.APP_DATA = {
       "dateText": "2026.9.25-9.27",
       "startDate": "2026-09-25",
       "endDate": "2026-09-27",
-      "costId": "unknown",
+      "costId": "paid",
       "description": "猫犬、异宠、水族全品类，200+品牌联动的宠物文化嘉年华。",
       "sourceUrl": "https://www.njiexpo.com/",
       "tagName": "宠物",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "单人票19.9元/双人票36.9元"
     },
     {
       "id": "NJ_evt_f2c5b3",
@@ -1436,12 +1468,13 @@ window.APP_DATA = {
       "dateText": "2026.9.30-10.4",
       "startDate": "2026-09-30",
       "endDate": "2026-10-04",
-      "costId": "unknown",
+      "costId": "free",
       "description": "汽车展与AI终端展同台，机器人、智能生活等四大专区。",
       "sourceUrl": "http://www.js.xinhuanet.com/20260731/d1e03460be1540a1abeb82c2a6816b50/c.html",
       "tagName": "车展",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费（需预约登记，原价50元）"
     }
   ]
 };

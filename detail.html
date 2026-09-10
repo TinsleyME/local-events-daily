@@ -31,6 +31,10 @@
   .row.price{background:#fff5f3}
   .row.price .pv{color:#e8543f;font-weight:700;letter-spacing:.2px}
   .row.price .pv.unknown{color:#9aa1ab;font-weight:400}
+  /* 明星标记说明块（事件带 celebrity 字段时展示，高亮提示） */
+  .row.star-note{background:#fffaf0;border:1px solid #f6e0b5}
+  .row.star-note .k{color:#b7791f}
+  .row.star-note .v{color:#7c4a03;font-weight:600}
   .desc{font-size:14px;color:#374151;margin:16px 0 20px;white-space:pre-wrap;line-height:1.8;padding:14px 16px;background:#f7f8fa;border-radius:12px}
   .acts{display:flex;gap:18px;flex-wrap:wrap;border-top:1px dashed var(--line);padding-top:18px}
   .acts a{font-size:14px;color:var(--accent2);text-decoration:none;font-weight:600;display:inline-flex;align-items:center;gap:4px}
@@ -160,6 +164,13 @@
     return '<div class="row price"><span class="k">票价</span>'+ inner +'</div>';
   }
 
+  // 明星标记说明块：事件带 celebrity 字段时展示（字段内容即明星 / 嘉宾阵容说明）
+  function celebrityBlock(e){
+    if(!e.celebrity) return '';
+    var txt = (typeof e.celebrity === 'string' && e.celebrity) ? e.celebrity : '本活动有嘉宾 / 艺人到场';
+    return '<div class="row star-note"><span class="k">⭐</span><span class="v">'+ esc(txt) +'</span></div>';
+  }
+
   // 多地点：venueIds = 全部地点；缺省回退到主键 venue。只保留维表中真实存在的 id（脏 id 静默忽略）
   function venueIdsOf(e){
     var raw = (e.venueIds && e.venueIds.length) ? e.venueIds : (e.venueId ? [e.venueId] : []);
@@ -251,6 +262,7 @@
     return '<div class="evcard clickable" style="--c:'+ c.color +'" data-rid="'+ esc(x.id) +'" data-city="'+ esc(x.cityCode) +'">'
       + '<div class="chead"><span class="tag t-'+ esc(x.categoryId) +'">'+ esc(x.tagName || c.name) +'</span>'
       + '<span class="badges">'+ (extra || '')
+      + (x.celebrity ? '<span class="star m-celebrity">⭐</span>' : '')
       + '<span class="cost c-'+ esc(x.costId) +'">💰'+ costOf(x).name +'</span></span></div>'
       + '<h3>'+ esc(x.name) +'</h3>'
       + '<div class="row"><span class="k">日期</span><span>'+ esc(x.dateText) +'</span></div>'
@@ -385,6 +397,7 @@
     if(bl) bl.href = 'index.html?city=' + encodeURIComponent(e.cityCode);
     var html = '<div class="card">'
       + '<div class="chead"><span class="tag" style="background:'+ cat.color +'">'+ esc(e.tagName || cat.name) +'</span>'
+      + (e.celebrity ? '<span class="cost m-celebrity">⭐</span>' : '')
       + '<span class="cost c-'+e.costId+'">💰'+ costOf(e).name +'</span></div>'
       + '<h1>'+ esc(e.name) +'</h1>'
       + '<div class="row"><span class="k">类别</span><span class="v">'+ cat.name +'</span></div>'
@@ -392,6 +405,7 @@
       + '<div class="row"><span class="k">地点</span><span class="v">'+ vline +'</span></div>'
       + priceRow(e)
       + (e.description ? '<div class="desc">'+ esc(e.description) +'</div>' : '')
+      + celebrityBlock(e)
       + '<div class="acts">'
       + (e.sourceUrl ? '<a href="'+ esc(e.sourceUrl) +'" target="_blank" rel="noopener noreferrer">🔗 原文</a>' : '<a style="color:#9aa1ab">🔗 原文</a>')
       + '<a class="map" id="mapNavBtn" href="javascript:void(0)">📍 地图导航</a>'

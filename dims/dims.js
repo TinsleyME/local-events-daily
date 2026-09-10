@@ -514,6 +514,22 @@ window.APP_DIMS = {
       "address": ""
     },
     {
+      "id": "GZ_ven_taihk",
+      "cityCode": "GZ",
+      "name": "广州太古汇",
+      "latitude": 23.1356,
+      "longitude": 113.3242,
+      "address": ""
+    },
+    {
+      "id": "GZ_ven_tianhecheng",
+      "cityCode": "GZ",
+      "name": "天河城",
+      "latitude": 23.1352,
+      "longitude": 113.3215,
+      "address": ""
+    },
+    {
       "id": "GZ_ven_fd0ef16a",
       "cityCode": "GZ",
       "name": "广州美术学院大学城美术馆",

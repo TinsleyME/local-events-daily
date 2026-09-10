@@ -16,8 +16,8 @@ window.APP_DATA = {
       "dateText": "2026.9.25-10.7",
       "startDate": "2026-09-25",
       "endDate": "2026-10-07",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费（无需预约）",
       "description": "三博联动推出丝路乐游记音乐游园会、童心赴千年节庆游园会及六项非遗手作、丝绸之路主题展。",
       "sourceUrl": "",
       "tagName": "",
@@ -57,6 +57,7 @@ window.APP_DATA = {
       "description": "张德兰携《情义两心坚》等金曲重返华语乐坛黄金年代。",
       "sourceUrl": "",
       "tagName": "",
+      "celebrity": "张德兰",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-10"
     },
@@ -268,8 +269,8 @@ window.APP_DATA = {
       "dateText": "2026.9.24-10.7",
       "startDate": "2026-09-24",
       "endDate": "2026-10-07",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费（需预约）",
       "description": "以茶文化赋能文旅消费，与精品展销会同期举行。",
       "sourceUrl": "",
       "tagName": "",
@@ -381,6 +382,7 @@ window.APP_DATA = {
       "description": "王赫野“WINDY”巡回演唱会大湾区年度首唱，票价380/680/880/1080/1280元。",
       "sourceUrl": "https://m.fs.bendibao.com/jieri/102864.shtm",
       "tagName": "",
+      "celebrity": "王赫野",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -417,6 +419,7 @@ window.APP_DATA = {
       "description": "张德兰2026《情义两心坚》巡回演唱会佛山站，票价298/398/598/798/双人1888元。",
       "sourceUrl": "https://m.fs.bendibao.com/jieri/102864.shtm",
       "tagName": "",
+      "celebrity": "张德兰",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -538,13 +541,13 @@ window.APP_DATA = {
       "dateText": "2026.9.19-9.27",
       "startDate": "2026-09-19",
       "endDate": "2026-09-27",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "30元",
       "description": "14支队伍参赛，分小组赛、八强赛、半决赛和决赛四个阶段，在佛山顺德德胜体育中心开打。",
       "sourceUrl": "https://www.163.com/dy/article/L5ULE2CF0514G11E.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10"
     },
     {
       "id": "FS_evt_368212",
@@ -754,13 +757,13 @@ window.APP_DATA = {
       "dateText": "2026.9.9-9.12",
       "startDate": "2026-09-09",
       "endDate": "2026-09-12",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费（需预约）",
       "description": "集中展示暖通空调、热泵、通风、冷冻冷链及低碳设备的新技术新产品，展览面积30000㎡、600家展商。",
       "sourceUrl": "https://m.goodexpos.com/expo/1851",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10"
     },
     {
       "id": "FS_evt_3fa88a",
@@ -772,13 +775,13 @@ window.APP_DATA = {
       "dateText": "2026.9.18-9.27",
       "startDate": "2026-09-18",
       "endDate": "2026-09-27",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费（需预约）",
       "description": "展品品类千余种，邀请线下渠道经销商、礼品采购商、外贸公司、电商等专业客商到展，展览面积50000㎡、1000家展商。",
       "sourceUrl": "https://www.goodexpos.com/index.php/expo/1318",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10"
     },
     {
       "id": "FS_evt_99bc63",
@@ -790,13 +793,13 @@ window.APP_DATA = {
       "dateText": "2026.9.24-9.27",
       "startDate": "2026-09-24",
       "endDate": "2026-09-27",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费（需预约）",
       "description": "佛山(南海)茶业博览会，云集茶叶、茶器等相关展商，面向专业客商与市民。",
       "sourceUrl": "https://m.goodexpos.com/coming-article/9-all-guangdong",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10"
     },
     {
       "id": "FS_evt_7030f2",

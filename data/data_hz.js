@@ -16,8 +16,8 @@ window.APP_DATA = {
       "dateText": "2026.9.21-9.23",
       "startDate": "2026-09-21",
       "endDate": "2026-09-23",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费（需预约）",
       "description": "展览面积6万平方米，600多家企业参展，覆盖生物发酵、生物技术全产业链，预计超4.5万名买家到场。",
       "sourceUrl": "https://hz.bendibao.com/xiuxian/jieqinghd/",
       "tagName": "",
@@ -93,6 +93,7 @@ window.APP_DATA = {
       "description": "萧敬腾时隔11年重返杭州，「野生」巡回演唱会9月12日在黄龙体育中心体育场开唱。大麦、猫眼、纷玩岛、浙里票务售票。",
       "sourceUrl": "https://m.sohu.com/a/1067936756_121627717",
       "tagName": "",
+      "celebrity": "萧敬腾",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -111,6 +112,7 @@ window.APP_DATA = {
       "description": "张新成「新程 New Journey」巡回演唱会杭州站，9月19日开唱。可通过大麦、猫眼、携程旅行、票星球购票。",
       "sourceUrl": "https://m.sohu.com/a/1067936756_121627717",
       "tagName": "",
+      "celebrity": "张新成",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -129,6 +131,7 @@ window.APP_DATA = {
       "description": "何浩楠「HE ART」个人巡回演唱会杭州站，9月19日与张新成杭州站同日开唱，中秋档双场齐发。",
       "sourceUrl": "https://m.sohu.com/a/1067936756_121627717",
       "tagName": "",
+      "celebrity": "何浩楠",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -183,6 +186,7 @@ window.APP_DATA = {
       "description": "苏见信「尽兴而活」巡回演唱会杭州站，9月26日在黄龙体育中心体育馆开唱，以摇滚金曲点燃杭城秋夜。",
       "sourceUrl": "https://m.sohu.com/a/1067936756_121627717",
       "tagName": "",
+      "celebrity": "苏见信",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -201,6 +205,7 @@ window.APP_DATA = {
       "description": "周兴哲《Odyssey·Stars 旅程·星空》巡回演唱会登陆黄龙体育中心体育场，已上线纷玩岛、大麦、猫眼、浙里票务。",
       "sourceUrl": "https://m.sohu.com/a/1067936756_121627717",
       "tagName": "",
+      "celebrity": "周兴哲",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -219,6 +224,7 @@ window.APP_DATA = {
       "description": "马来西亚歌手茜拉「继续说爱我 Keep on Loving Me」杭州站，9月11日 SoFun Live 开唱，票价358-588元。",
       "sourceUrl": "https://www.dahepiao.com/yc/dengziqihangzhou",
       "tagName": "",
+      "celebrity": "茜拉 Shila Amzah",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -376,13 +382,13 @@ window.APP_DATA = {
       "dateText": "2026.9.24-27",
       "startDate": "2026-09-24",
       "endDate": "2026-09-27",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "需购票（早鸟39元）",
       "description": "做書图书市集杭州首场，落地浙江出版联合集团总部园区，独立出版、插画、艺术书与文创设计摊主集中出没。",
       "sourceUrl": "https://news.qq.com/rain/a/20260902A03RP700",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10"
     },
     {
       "id": "HZ_evt_5b92e9",
@@ -759,6 +765,7 @@ window.APP_DATA = {
       "description": "张杰2026世界巡回演唱会杭州站，连开三晚。380-1680元，大麦/猫眼售票。",
       "sourceUrl": "https://new.qq.com/rain/a/20260903A05F9Z00",
       "tagName": "",
+      "celebrity": "张杰",
       "createdAt": "2026-09-08",
       "updatedAt": "2026-09-08"
     },
@@ -776,6 +783,7 @@ window.APP_DATA = {
       "description": "大张伟2026大好时光-我们伟大的人生演唱会杭州站，9月12日开唱。",
       "sourceUrl": "https://new.qq.com/rain/a/20260903A05F9Z00",
       "tagName": "",
+      "celebrity": "大张伟",
       "createdAt": "2026-09-08",
       "updatedAt": "2026-09-08"
     },
@@ -793,6 +801,7 @@ window.APP_DATA = {
       "description": "Jason Derulo THE LAST DANCE China Tour 巡回演唱会杭州站，9月11日黄龙体育中心体育馆。",
       "sourceUrl": "https://hz.bendibao.com/xiuxian/202698/172783.shtm",
       "tagName": "",
+      "celebrity": "Jason Derulo",
       "createdAt": "2026-09-08",
       "updatedAt": "2026-09-08"
     },
@@ -859,12 +868,13 @@ window.APP_DATA = {
       "dateText": "2026.8.22-9.20",
       "startDate": "2026-08-22",
       "endDate": "2026-09-20",
-      "costId": "unknown",
+      "costId": "paid",
       "description": "故宫博物院国宝级名画《韩熙载夜宴图》(宋摹本)时隔15年首次出宫来杭，展期仅30天。",
       "sourceUrl": "https://www.toutiao.com/article/7682241813800927786/",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-08"
+      "updatedAt": "2026-09-10",
+      "priceText": "88元（需购票）"
     },
     {
       "id": "HZ_evt_cf3e28",
@@ -876,12 +886,13 @@ window.APP_DATA = {
       "dateText": "2026.7.30-10.18",
       "startDate": "2026-07-30",
       "endDate": "2026-10-18",
-      "costId": "unknown",
+      "costId": "free",
       "description": "圆明园虎首、猴首、猪首、牛首四尊兽首原件同框亮相，展期至10月18日。",
       "sourceUrl": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1316a9b7a7389752",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-08"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费（需预约）"
     },
     {
       "id": "HZ_evt_dd2f88",
@@ -893,12 +904,13 @@ window.APP_DATA = {
       "dateText": "2026.7.28-2027.6.20",
       "startDate": "2026-07-28",
       "endDate": "2027-06-20",
-      "costId": "unknown",
+      "costId": "paid",
       "description": "聚焦唐宋之交近百年纷乱时期，集结全国近百家文博机构近千件五代十国珍贵文物。",
       "sourceUrl": "https://www.toutiao.com/article/7681882209921286719/",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-08"
+      "updatedAt": "2026-09-10",
+      "priceText": "88元"
     },
     {
       "id": "HZ_evt_959c19",

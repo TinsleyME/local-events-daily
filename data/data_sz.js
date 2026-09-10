@@ -16,8 +16,8 @@ window.APP_DATA = {
       "dateText": "即日起至2026.10.25",
       "startDate": "2026-09-01",
       "endDate": "2026-10-25",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费（需预约）",
       "description": "聚焦人工智能驱动下视觉设计的转型，汇集跨地域跨领域前沿设计实践，需预约。",
       "sourceUrl": "",
       "tagName": "",
@@ -93,6 +93,7 @@ window.APP_DATA = {
       "description": "孙楠怀揣三十年初心将演唱会升级为体育场级超大现场。",
       "sourceUrl": "",
       "tagName": "",
+      "celebrity": "孙楠",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-10"
     },
@@ -111,6 +112,7 @@ window.APP_DATA = {
       "description": "美国歌手Jason Derulo首次中国巡演，配合最新专辑《Last Dance》打造。",
       "sourceUrl": "",
       "tagName": "",
+      "celebrity": "Jason Derulo",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-10"
     },
@@ -129,6 +131,7 @@ window.APP_DATA = {
       "description": "郭富城世界巡回演唱会深圳站，立体凯旋门舞台与标志性强劲舞现场。",
       "sourceUrl": "",
       "tagName": "",
+      "celebrity": "郭富城",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-10"
     },
@@ -358,13 +361,13 @@ window.APP_DATA = {
       "dateText": "2025.11.15-2026.10.9",
       "startDate": "2025-11-15",
       "endDate": "2026-10-09",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "28-48元",
       "description": "以“丝绸之路”为母题的数字艺术科技特展，融合沉浸投影、交互装置与山海APP内容，呈现文化与科技交融的视觉之旅。",
       "sourceUrl": "https://m.bendibao.com/show1012441.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10"
     },
     {
       "id": "SZ_evt_39f9de",
@@ -381,6 +384,7 @@ window.APP_DATA = {
       "description": "姚伟涛“浪漫满屋”2026巡回演唱会深圳站，单人早鸟票135元起，适合情侣与乐迷的浪漫现场。",
       "sourceUrl": "https://detail.damai.cn/item.htm?id=1064071270229",
       "tagName": "",
+      "celebrity": "姚伟涛",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -399,6 +403,7 @@ window.APP_DATA = {
       "description": "孙楠“给所有朋友们的歌”青春活力场深圳站登陆春茧体育场，299元起，重温华语金曲。",
       "sourceUrl": "https://www.163.com/dy/article/L43EIHBM0525CKB5.html",
       "tagName": "",
+      "celebrity": "孙楠",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -417,6 +422,7 @@ window.APP_DATA = {
       "description": "郭富城ICONIC世界巡回演唱会深圳站，480元起，经典舞曲与全新舞台设计燃爆现场。",
       "sourceUrl": "https://www.163.com/dy/article/L43EIHBM0525CKB5.html",
       "tagName": "",
+      "celebrity": "郭富城",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -435,6 +441,7 @@ window.APP_DATA = {
       "description": "陈小春BIGMAN人一個巡回演唱会深圳站，488元起，唱跳经典与全新编排齐发。",
       "sourceUrl": "https://www.163.com/dy/article/L43EIHBM0525CKB5.html",
       "tagName": "",
+      "celebrity": "陈小春",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -453,6 +460,7 @@ window.APP_DATA = {
       "description": "陆虎“想你这样的朋友3.0”巡演深圳站，399元起，以友情为主题的温暖Live现场。",
       "sourceUrl": "https://www.163.com/dy/article/L43EIHBM0525CKB5.html",
       "tagName": "",
+      "celebrity": "陆虎",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -718,13 +726,13 @@ window.APP_DATA = {
       "dateText": "2026.9.19",
       "startDate": "2026-09-19",
       "endDate": "2026-09-19",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费",
       "description": "福田区“五球联动”全民体育品牌赛事之一，24支战队团体对决，附设“羽毛球一球制胜”趣味挑战，市民可免费前往观赛助威。",
       "sourceUrl": "https://www.szplus.com/news/news/s6a86dd86e4b0a181ee228ffe.html",
       "tagName": "羽毛球",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10"
     },
     {
       "id": "SZ_evt_1aaa57",
@@ -826,13 +834,13 @@ window.APP_DATA = {
       "dateText": "2026.9.9-12",
       "startDate": "2026-09-09",
       "endDate": "2026-09-12",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费",
       "description": "国内三大专业珠宝交易展之一，1200+展商涵盖黄金、钻石、翡翠珍珠、珠宝设备全产业链，吸引4万+专业采购商。",
       "sourceUrl": "https://www.szcec.com/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10"
     },
     {
       "id": "SZ_evt_bc1fd7",
@@ -844,13 +852,13 @@ window.APP_DATA = {
       "dateText": "2026.9.11-13",
       "startDate": "2026-09-11",
       "endDate": "2026-09-13",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费",
       "description": "一站式家装消费展，汇聚瓷砖卫浴、地板门窗、家具软装、家电、全屋定制等全品类品牌，专享优惠与品质保障。",
       "sourceUrl": "https://www.szcec.com/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10"
     },
     {
       "id": "SZ_evt_6e269a",
@@ -862,13 +870,13 @@ window.APP_DATA = {
       "dateText": "2026.9.15-17",
       "startDate": "2026-09-15",
       "endDate": "2026-09-17",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费",
       "description": "主题“预见能源，智变未来”，聚焦源网荷储数碳，设新能源电力设备、AI能源赋能、电碳融合、APEC能源创新实践五大展区。",
       "sourceUrl": "https://www.szcec.com/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10"
     },
     {
       "id": "SZ_evt_d4f7fe",
@@ -880,13 +888,13 @@ window.APP_DATA = {
       "dateText": "2026.9.16-18",
       "startDate": "2026-09-16",
       "endDate": "2026-09-18",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费（需预登记）",
       "description": "亚洲医药行业标杆展，覆盖制药原料、药用辅料、制药装备、生物科技、医药外包全链条，800+企业参展。",
       "sourceUrl": "https://www.szcec.com/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10"
     },
     {
       "id": "SZ_evt_439aad",
@@ -898,13 +906,13 @@ window.APP_DATA = {
       "dateText": "2026.9.23-26",
       "startDate": "2026-09-23",
       "endDate": "2026-09-26",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费（需预登记）",
       "description": "国内宠业旗舰大展，700+展商覆盖主粮零食、洗护、医疗器械、异宠，兼顾经销零售与跨境电商出口，B端与爱好者同步开放。",
       "sourceUrl": "https://www.szcec.com/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10"
     },
     {
       "id": "SZ_evt_f853e3",
@@ -916,13 +924,13 @@ window.APP_DATA = {
       "dateText": "2026.9.9-11",
       "startDate": "2026-09-09",
       "endDate": "2026-09-11",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费",
       "description": "全球规模顶尖的光电全产业链展，4000+企业参展，设信息通信、精密光学、激光、红外传感、新型显示、AR/VR八大主题展区。",
       "sourceUrl": "https://www.shenzhen-world.com/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10"
     },
     {
       "id": "SZ_evt_22cb24",
@@ -934,13 +942,13 @@ window.APP_DATA = {
       "dateText": "2026.9.9-11",
       "startDate": "2026-09-09",
       "endDate": "2026-09-11",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费",
       "description": "以“All for AI,All for GREEN”为主题，聚焦嵌入式AI、边缘计算、功率半导体、存储、汽车电子、先进封装，三展联动。",
       "sourceUrl": "https://www.shenzhen-world.com/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10"
     },
     {
       "id": "SZ_evt_d3ce24",
@@ -952,13 +960,13 @@ window.APP_DATA = {
       "dateText": "2026.9.16-18",
       "startDate": "2026-09-16",
       "endDate": "2026-09-18",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费",
       "description": "华南头部跨境电商B2B选品大展，1500+源头工厂与品牌商，覆盖14大跨境热销品类，预计10万+专业观众。",
       "sourceUrl": "https://www.shenzhen-world.com/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10"
     },
     {
       "id": "SZ_evt_4cb94e",
@@ -970,13 +978,13 @@ window.APP_DATA = {
       "dateText": "2026.9.19-21",
       "startDate": "2026-09-19",
       "endDate": "2026-09-21",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费（需报名）",
       "description": "聚焦智慧环保、生态治理、循环经济、绿色低碳与城市精细化治理，集中呈现数字技术与绿色产业融合的实践成果。",
       "sourceUrl": "https://www.shenzhen-world.com/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-10"
     },
     {
       "id": "SZ_evt_398f5d",
@@ -992,6 +1000,7 @@ window.APP_DATA = {
       "description": "本轮巡演全球收官场，创下连开12场的重磅纪录。舞台全面升级，电影级沉浸式视听，现场唱响《光年之外》等经典。",
       "sourceUrl": "https://sina.cn/news/detail/5339712002195863.html",
       "tagName": "",
+      "celebrity": "G.E.M.邓紫棋",
       "createdAt": "2026-09-08",
       "updatedAt": "2026-09-08"
     },
@@ -1009,6 +1018,7 @@ window.APP_DATA = {
       "description": "中文说唱代表马思唯带来新专曲目及《花花公子》《黑马王子》等人气作品，万人体育馆沉浸式现场。",
       "sourceUrl": "https://www.nfnews.com/content/v6JNvDOY6G.html",
       "tagName": "",
+      "celebrity": "马思唯",
       "createdAt": "2026-09-08",
       "updatedAt": "2026-09-08"
     },
@@ -1026,6 +1036,7 @@ window.APP_DATA = {
       "description": "刘宪华首次个人世界巡演，沉浸式华丽舞台，标志性一人乐队Loop-Station即兴编曲，全开麦唱跳。",
       "sourceUrl": "https://www.nfnews.com/content/v6JNvDOY6G.html",
       "tagName": "",
+      "celebrity": "刘宪华",
       "createdAt": "2026-09-08",
       "updatedAt": "2026-09-08"
     },
@@ -1073,12 +1084,13 @@ window.APP_DATA = {
       "dateText": "2026.8.28-10.31",
       "startDate": "2026-08-28",
       "endDate": "2026-10-31",
-      "costId": "unknown",
+      "costId": "free",
       "description": "以“冰”为冷媒介切入材料、气候与感知的多重对话，从极地科考档案到艺术家驻地创作，从材料实验到装置呈现。",
       "sourceUrl": "https://www.nfnews.com/content/v6JNv0KY6G.html",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-08"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费"
     },
     {
       "id": "SZ_evt_00688a",
@@ -1090,12 +1102,13 @@ window.APP_DATA = {
       "dateText": "2026.7.12-11.1",
       "startDate": "2026-07-12",
       "endDate": "2026-11-01",
-      "costId": "unknown",
+      "costId": "free",
       "description": "30位中国当代设计师创造文字设计实验场，以另一种视角阐述我们所处的世界、我们与文字的丰富关系。",
       "sourceUrl": "https://www.nfnews.com/content/v6JNv0KY6G.html",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-08"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费"
     },
     {
       "id": "SZ_evt_36efc5",
@@ -1107,12 +1120,13 @@ window.APP_DATA = {
       "dateText": "2026.9.10-12.13",
       "startDate": "2026-09-10",
       "endDate": "2026-12-13",
-      "costId": "unknown",
+      "costId": "free",
       "description": "聚焦常沙娜八十余年创作生涯，全面呈现敦煌艺术临摹、传统图案研究、建筑装饰设计、花卉创作等领域的艺术成就。",
       "sourceUrl": "https://www.sohu.com/a/1071942005_121106875",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-08"
+      "updatedAt": "2026-09-10",
+      "priceText": "免费"
     },
     {
       "id": "SZ_evt_a8fa69",
