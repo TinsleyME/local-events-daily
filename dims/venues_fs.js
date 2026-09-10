@@ -1,338 +1,426 @@
 window.APP_VENUES_FS = [
   {
-    "id": "v_bce6622a",
-    "city": "fs",
+    "id": "FS_ven_bce6622a",
+    "cityCode": "FS",
     "name": "顺峰山公园",
-    "lat": 22.826,
-    "lng": 113.276
+    "latitude": 22.826,
+    "longitude": 113.276,
+    "address": ""
   },
   {
-    "id": "v_d1fc8c51",
-    "city": "fs",
+    "id": "FS_ven_d1fc8c51",
+    "cityCode": "FS",
     "name": "佛山国际体育文化演艺中心",
-    "lat": 23.023,
-    "lng": 113.106
+    "latitude": 23.023,
+    "longitude": 113.106,
+    "address": ""
   },
   {
-    "id": "v_96dd52eb",
-    "city": "fs",
+    "id": "FS_ven_96dd52eb",
+    "cityCode": "FS",
     "name": "佛山大剧院",
-    "lat": 23.022,
-    "lng": 113.118
+    "latitude": 23.022,
+    "longitude": 113.118,
+    "address": ""
   },
   {
-    "id": "v_c6a22a87",
-    "city": "fs",
+    "id": "FS_ven_c6a22a87",
+    "cityCode": "FS",
     "name": "佛山市文化馆",
-    "lat": 23.025,
-    "lng": 113.112
+    "latitude": 23.025,
+    "longitude": 113.112,
+    "address": ""
   },
   {
-    "id": "v_e90ad522",
-    "city": "fs",
+    "id": "FS_ven_e90ad522",
+    "cityCode": "FS",
     "name": "佛山市图书馆",
-    "lat": 23.023,
-    "lng": 113.115
+    "latitude": 23.023,
+    "longitude": 113.115,
+    "address": ""
   },
   {
-    "id": "v_4cdfdc25",
-    "city": "fs",
+    "id": "FS_ven_4cdfdc25",
+    "cityCode": "FS",
     "name": "顺德区博物馆",
-    "lat": 22.835,
-    "lng": 113.258
+    "latitude": 22.835,
+    "longitude": 113.258,
+    "address": ""
   },
   {
-    "id": "v_fb73d595",
-    "city": "fs",
+    "id": "FS_ven_fb73d595",
+    "cityCode": "FS",
     "name": "佛山中山公园",
-    "lat": 23.027,
-    "lng": 113.118
+    "latitude": 23.027,
+    "longitude": 113.118,
+    "address": ""
   },
   {
-    "id": "v_f57662d0",
-    "city": "fs",
+    "id": "FS_ven_f57662d0",
+    "cityCode": "FS",
     "name": "佛山市博物馆",
-    "lat": 23.02,
-    "lng": 113.12
+    "latitude": 23.02,
+    "longitude": 113.12,
+    "address": ""
   },
   {
-    "id": "v_5d4acb56",
-    "city": "fs",
+    "id": "FS_ven_5d4acb56",
+    "cityCode": "FS",
     "name": "西樵山镇官山涌",
-    "lat": 22.92,
-    "lng": 113.08
+    "latitude": 22.92,
+    "longitude": 113.08,
+    "address": ""
   },
   {
-    "id": "v_fdc644e7",
-    "city": "fs",
+    "id": "FS_ven_fdc644e7",
+    "cityCode": "FS",
     "name": "九江镇上东观龙台",
-    "lat": 22.79,
-    "lng": 113.1
+    "latitude": 22.79,
+    "longitude": 113.1,
+    "address": ""
   },
   {
-    "id": "v_fe81937d",
-    "city": "fs",
+    "id": "FS_ven_fe81937d",
+    "cityCode": "FS",
     "name": "梦里水乡艺术河畔",
-    "lat": 23.18,
-    "lng": 113.16
+    "latitude": 23.18,
+    "longitude": 113.16,
+    "address": ""
   },
   {
-    "id": "v_2bb43c84",
-    "city": "fs",
+    "id": "FS_ven_2bb43c84",
+    "cityCode": "FS",
     "name": "桂城滨江公园",
-    "lat": 23.04,
-    "lng": 113.15
+    "latitude": 23.04,
+    "longitude": 113.15,
+    "address": ""
   },
   {
-    "id": "v_98c6fec4",
-    "city": "fs",
+    "id": "FS_ven_98c6fec4",
+    "cityCode": "FS",
     "name": "狮山镇",
-    "lat": 23.11,
-    "lng": 113.18
+    "latitude": 23.11,
+    "longitude": 113.18,
+    "address": ""
   },
   {
-    "id": "v_00614aca",
-    "city": "fs",
+    "id": "FS_ven_00614aca",
+    "cityCode": "FS",
     "name": "丹灶镇仙岗村",
-    "lat": 23.08,
-    "lng": 112.99
+    "latitude": 23.08,
+    "longitude": 112.99,
+    "address": ""
   },
   {
-    "id": "v_2f37913d",
-    "city": "fs",
+    "id": "FS_ven_2f37913d",
+    "cityCode": "FS",
     "name": "大沥",
-    "lat": 23.1,
-    "lng": 113.17
+    "latitude": 23.1,
+    "longitude": 113.17,
+    "address": ""
   },
   {
-    "id": "v_aa01fs00",
-    "city": "fs",
+    "id": "FS_ven_aa01fs00",
+    "cityCode": "FS",
     "name": "佛山岭南明珠体育馆",
-    "lat": 23.01,
-    "lng": 113.13
+    "latitude": 23.01,
+    "longitude": 113.13,
+    "address": ""
   },
   {
-    "id": "v_aa02fs00",
-    "city": "fs",
+    "id": "FS_ven_aa02fs00",
+    "cityCode": "FS",
     "name": "南海体育馆(桂城)",
-    "lat": 23.045,
-    "lng": 113.13
+    "latitude": 23.045,
+    "longitude": 113.13,
+    "address": ""
   },
   {
-    "id": "v_aa03fs00",
-    "city": "fs",
+    "id": "FS_ven_aa03fs00",
+    "cityCode": "FS",
     "name": "顺德演艺中心大剧院",
-    "lat": 22.84,
-    "lng": 113.26
+    "latitude": 22.84,
+    "longitude": 113.26,
+    "address": ""
   },
   {
-    "id": "v_aa04fs00",
-    "city": "fs",
+    "id": "FS_ven_aa04fs00",
+    "cityCode": "FS",
     "name": "ALSO LIVE 佛山",
-    "lat": 22.86,
-    "lng": 113.29
+    "latitude": 22.86,
+    "longitude": 113.29,
+    "address": ""
   },
   {
-    "id": "v_aa05fs00",
-    "city": "fs",
+    "id": "FS_ven_aa05fs00",
+    "cityCode": "FS",
     "name": "广东潭洲国际会展中心",
-    "lat": 22.94,
-    "lng": 113.18
+    "latitude": 22.94,
+    "longitude": 113.18,
+    "address": ""
   },
   {
-    "id": "v_aa06fs00",
-    "city": "fs",
+    "id": "FS_ven_aa06fs00",
+    "cityCode": "FS",
     "name": "南海国际会展中心",
-    "lat": 23.1,
-    "lng": 113.18
+    "latitude": 23.1,
+    "longitude": 113.18,
+    "address": ""
   },
   {
-    "id": "v_aa07fs00",
-    "city": "fs",
+    "id": "FS_ven_aa07fs00",
+    "cityCode": "FS",
     "name": "陈村花卉世界展览中心",
-    "lat": 23.02,
-    "lng": 113.21
+    "latitude": 23.02,
+    "longitude": 113.21,
+    "address": ""
   },
   {
-    "id": "v_aa08fs00",
-    "city": "fs",
+    "id": "FS_ven_aa08fs00",
+    "cityCode": "FS",
     "name": "佛山市祖庙博物馆",
-    "lat": 23.025,
-    "lng": 113.12
+    "latitude": 23.025,
+    "longitude": 113.12,
+    "address": ""
   },
   {
-    "id": "v_aa09fs00",
-    "city": "fs",
+    "id": "FS_ven_aa09fs00",
+    "cityCode": "FS",
     "name": "佛山梁园",
-    "lat": 23.03,
-    "lng": 113.1
+    "latitude": 23.03,
+    "longitude": 113.1,
+    "address": ""
   },
   {
-    "id": "v_aa10fs00",
-    "city": "fs",
+    "id": "FS_ven_aa10fs00",
+    "cityCode": "FS",
     "name": "燃灯山房(创艺拾光艺术社区)",
-    "lat": 23.01,
-    "lng": 113.1
+    "latitude": 23.01,
+    "longitude": 113.1,
+    "address": ""
   },
   {
-    "id": "v_aa11fs00",
-    "city": "fs",
+    "id": "FS_ven_aa11fs00",
+    "cityCode": "FS",
     "name": "南海区博物馆",
-    "lat": 22.97,
-    "lng": 113.07
+    "latitude": 22.97,
+    "longitude": 113.07,
+    "address": ""
   },
   {
-    "id": "v_aa12fs00",
-    "city": "fs",
+    "id": "FS_ven_aa12fs00",
+    "cityCode": "FS",
     "name": "广东大观博物馆",
-    "lat": 23.03,
-    "lng": 113.16
+    "latitude": 23.03,
+    "longitude": 113.16,
+    "address": ""
   },
   {
-    "id": "v_aa13fs00",
-    "city": "fs",
+    "id": "FS_ven_aa13fs00",
+    "cityCode": "FS",
     "name": "顺德欢乐海岸PLUS",
-    "lat": 22.85,
-    "lng": 113.3
+    "latitude": 22.85,
+    "longitude": 113.3,
+    "address": ""
   },
   {
-    "id": "v_aa14fs00",
-    "city": "fs",
+    "id": "FS_ven_aa14fs00",
+    "cityCode": "FS",
     "name": "文华公园",
-    "lat": 23.02,
-    "lng": 113.12
+    "latitude": 23.02,
+    "longitude": 113.12,
+    "address": ""
   },
   {
-    "id": "v_aa15fs00",
-    "city": "fs",
+    "id": "FS_ven_aa15fs00",
+    "cityCode": "FS",
     "name": "半月岛湿地公园",
-    "lat": 23.02,
-    "lng": 113.16
+    "latitude": 23.02,
+    "longitude": 113.16,
+    "address": ""
   },
   {
-    "id": "v_aa16fs00",
-    "city": "fs",
+    "id": "FS_ven_aa16fs00",
+    "cityCode": "FS",
     "name": "顺德德胜体育中心",
-    "lat": 22.84,
-    "lng": 113.28
+    "latitude": 22.84,
+    "longitude": 113.28,
+    "address": ""
   },
   {
-    "id": "v_aa17fs00",
-    "city": "fs",
+    "id": "FS_ven_aa17fs00",
+    "cityCode": "FS",
     "name": "大草地音乐秀场(禅城)",
-    "lat": 23,
-    "lng": 113.13
+    "latitude": 23,
+    "longitude": 113.13,
+    "address": ""
   },
   {
-    "id": "v_aa18fs00",
-    "city": "fs",
+    "id": "FS_ven_aa18fs00",
+    "cityCode": "FS",
     "name": "YEX佛山潮立方",
-    "lat": 23.01,
-    "lng": 113.1
+    "latitude": 23.01,
+    "longitude": 113.1,
+    "address": ""
   },
   {
-    "id": "v_aa19fs00",
-    "city": "fs",
+    "id": "FS_ven_aa19fs00",
+    "cityCode": "FS",
     "name": "美陶湾·星光园",
-    "lat": 23.01,
-    "lng": 113.09
+    "latitude": 23.01,
+    "longitude": 113.09,
+    "address": ""
   },
   {
-    "id": "v_aa20fs00",
-    "city": "fs",
+    "id": "FS_ven_aa20fs00",
+    "cityCode": "FS",
     "name": "佛山创意产业园",
-    "lat": 23,
-    "lng": 113.12
+    "latitude": 23,
+    "longitude": 113.12,
+    "address": ""
   },
   {
-    "id": "v_aa21fs00",
-    "city": "fs",
+    "id": "FS_ven_aa21fs00",
+    "cityCode": "FS",
     "name": "青年公园",
-    "lat": 23.03,
-    "lng": 113.13
+    "latitude": 23.03,
+    "longitude": 113.13,
+    "address": ""
   },
   {
-    "id": "v_aa22fs00",
-    "city": "fs",
+    "id": "FS_ven_aa22fs00",
+    "cityCode": "FS",
     "name": "广东工业设计城",
-    "lat": 22.94,
-    "lng": 113.2
+    "latitude": 22.94,
+    "longitude": 113.2,
+    "address": ""
   },
   {
-    "id": "v_aa23fs00",
-    "city": "fs",
+    "id": "FS_ven_aa23fs00",
+    "cityCode": "FS",
     "name": "佛山市智慧新城",
-    "lat": 23.01,
-    "lng": 113.1
+    "latitude": 23.01,
+    "longitude": 113.1,
+    "address": ""
   },
   {
-    "id": "v_aa24fs00",
-    "city": "fs",
+    "id": "FS_ven_aa24fs00",
+    "cityCode": "FS",
     "name": "佛山科学馆",
-    "lat": 23.02,
-    "lng": 113.11
+    "latitude": 23.02,
+    "longitude": 113.11,
+    "address": ""
   },
   {
-    "id": "v_aa25fs00",
-    "city": "fs",
+    "id": "FS_ven_aa25fs00",
+    "cityCode": "FS",
     "name": "南海湾森林生态园",
-    "lat": 22.86,
-    "lng": 112.97
+    "latitude": 22.86,
+    "longitude": 112.97,
+    "address": ""
   },
   {
-    "id": "v_aa26fs00",
-    "city": "fs",
+    "id": "FS_ven_aa26fs00",
+    "cityCode": "FS",
     "name": "南丹山森林王国",
-    "lat": 23.28,
-    "lng": 112.92
+    "latitude": 23.28,
+    "longitude": 112.92,
+    "address": ""
   },
   {
-    "id": "v_aa27fs00",
-    "city": "fs",
+    "id": "FS_ven_aa27fs00",
+    "cityCode": "FS",
     "name": "皂幕山旅游风景区",
-    "lat": 22.79,
-    "lng": 112.78
+    "latitude": 22.79,
+    "longitude": 112.78,
+    "address": ""
   },
   {
-    "id": "v_aa28fs00",
-    "city": "fs",
+    "id": "FS_ven_aa28fs00",
+    "cityCode": "FS",
     "name": "云勇国家森林公园",
-    "lat": 22.75,
-    "lng": 112.7
+    "latitude": 22.75,
+    "longitude": 112.7,
+    "address": ""
   },
   {
-    "id": "v_aa29fs00",
-    "city": "fs",
+    "id": "FS_ven_aa29fs00",
+    "cityCode": "FS",
     "name": "三山森林公园",
-    "lat": 23.04,
-    "lng": 113.17
+    "latitude": 23.04,
+    "longitude": 113.17,
+    "address": ""
   },
   {
-    "id": "v_aa30fs00",
-    "city": "fs",
+    "id": "FS_ven_aa30fs00",
+    "cityCode": "FS",
     "name": "SALU青年社区D·空间",
-    "lat": 23.015,
-    "lng": 113.11
+    "latitude": 23.015,
+    "longitude": 113.11,
+    "address": ""
   },
   {
-    "id": "v_6e68882b",
+    "id": "FS_ven_6e68882b",
+    "cityCode": "FS",
     "name": "南海区图书馆",
-    "city": "fs",
-    "lat": 23.03,
-    "lng": 113.15
+    "latitude": 23.03,
+    "longitude": 113.15,
+    "address": ""
   },
   {
-    "id": "v_5edfabdd",
+    "id": "FS_ven_5edfabdd",
+    "cityCode": "FS",
     "name": "紫南芳华谷",
-    "city": "fs",
-    "lat": 23,
-    "lng": 113
+    "latitude": 23,
+    "longitude": 113,
+    "address": ""
   },
   {
-    "id": "v_a0e243ca",
+    "id": "FS_ven_a0e243ca",
+    "cityCode": "FS",
     "name": "南海体育中心",
-    "city": "fs",
-    "lat": 23.05,
-    "lng": 113.13
+    "latitude": 23.05,
+    "longitude": 113.13,
+    "address": ""
+  },
+  {
+    "id": "FS_ven_9cc101ff",
+    "cityCode": "FS",
+    "name": "佛山市儿童博物馆",
+    "latitude": 23.02,
+    "longitude": 113.11,
+    "address": ""
+  },
+  {
+    "id": "FS_ven_11a1a54e",
+    "cityCode": "FS",
+    "name": "南海印象汇",
+    "latitude": 23.04,
+    "longitude": 113.15,
+    "address": ""
+  },
+  {
+    "id": "FS_ven_3fafe9e6",
+    "cityCode": "FS",
+    "name": "孝德湖公园",
+    "latitude": 23.1,
+    "longitude": 113.15,
+    "address": ""
+  },
+  {
+    "id": "FS_ven_ddf8a6d2",
+    "cityCode": "FS",
+    "name": "半月岛生态公园",
+    "latitude": 23.02,
+    "longitude": 113.18,
+    "address": ""
+  },
+  {
+    "id": "FS_ven_0bc4a3a0",
+    "cityCode": "FS",
+    "name": "映月湖公园",
+    "latitude": 23.03,
+    "longitude": 113.15,
+    "address": ""
   }
 ];

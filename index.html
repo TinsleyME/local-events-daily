@@ -247,20 +247,20 @@
     <script src="dims/venues_xa.js"></script>
     <script src="dims/venues_cq.js"></script>
 <script>
-  // ===== v2.2 数据层：维表 dims/（cities/cats/costs/venues，慢变）+ 事实表 data/<city>.js（按城市拆分）=====
+  // ===== v3 数据层：维表 dims/（cities/categories/costTypes/venues，慢变）+ 事实表 data/<city>.js（按城市拆分）=====
   var D = (function(){
     var dim = window.APP_DIMS || {};
-    return { version: 2, meta: {},
-      cities: dim.cities || [], cats: dim.cats || [], costs: dim.costs || [], venues: [],
+    return { version: 3, meta: {},
+      cities: dim.cities || [], categories: dim.categories || [], costTypes: dim.costTypes || [], venues: [],
       events: [] };
   })();
   var CITY_MAP = {}, CAT_MAP = {}, COST_MAP = {}, VENUE_MAP = {};
-  D.cities.forEach(function(c){ CITY_MAP[c.id] = c; });
-  D.cats.forEach(function(c){ CAT_MAP[c.id] = c; });
-  D.costs.forEach(function(c){ COST_MAP[c.id] = c; });
+  D.cities.forEach(function(c){ CITY_MAP[c.code] = c; });
+  D.categories.forEach(function(c){ CAT_MAP[c.id] = c; });
+  D.costTypes.forEach(function(c){ COST_MAP[c.id] = c; });
   // 聚合各城市 venues 文件：每个文件暴露 window.APP_VENUES_<CITY>
   D.cities.forEach(function(c){
-    var key = 'APP_VENUES_' + c.id.toUpperCase();
+    var key = 'APP_VENUES_' + c.code.toUpperCase();
     if(Array.isArray(window[key])) D.venues = D.venues.concat(window[key]);
   });
   // 兼容旧格式（单一 window.APP_VENUES 数组）
@@ -275,19 +275,19 @@
   })();
   if(!D.venues.length) console.error('[venues] 场馆维表为空（dims/venues_*.js 未正确加载），地图点位将全部消失');
   D.venues.forEach(function(v){ VENUE_MAP[v.id] = v; });
-  var CAT_ORDER = D.cats.map(function(c){ return c.id; });
+  var CAT_ORDER = D.categories.map(function(c){ return c.id; });
 
   function getCityId(){
     var p = new URLSearchParams(location.search);
-    var c = p.get('city');
-    return (c && CITY_MAP[c]) ? c : D.cities[0].id;
+    var c = (p.get('city') || '').toUpperCase();
+    return (c && CITY_MAP[c]) ? c : D.cities[0].code;
   }
   var CITY = CITY_MAP[getCityId()];
   var events = [], byId = {}, stateDate = '', searchQuery = '', stateCat = '', stateCost = 'all';
 
   // 动态加载所有城市的数据文件，聚合到 D.events；城市切换时只重载数据
   function loadCityData(cityId, callback){
-    var all = D.cities.map(function(c){ return 'data/data_' + c.id + '.js'; });
+    var all = D.cities.map(function(c){ return 'data/data_' + c.code.toLowerCase() + '.js'; });
     var loaded = 0, total = all.length;
     var allEvents = [];
     function next(){
@@ -317,7 +317,7 @@
   function loadSingleCity(cityId){
     return new Promise(function(resolve, reject){
       var script = document.createElement('script');
-      script.src = 'data/data_' + cityId + '.js';
+      script.src = 'data/data_' + cityId.toLowerCase() + '.js';
       script.onload = function(){
         try {
           var fact = window.APP_DATA || {};
@@ -341,10 +341,10 @@
 
   // 初始加载
   showLoading(true);
-  loadCityData(CITY.id, function(){
+  loadCityData(CITY.code, function(){
     // 数据加载完成后的初始化
     // cityEvents = 当前城市全量；events = 叠加日期筛选后的结果（切日期时重算，卡片/统计/地图同步）
-    var cityEvents = D.events.filter(function(e){ return e.city === CITY.id; });
+    var cityEvents = D.events.filter(function(e){ return e.cityCode === CITY.code; });
     events = cityEvents.slice();
     byId = {};
     events.forEach(function(e){ if(e.id) byId[e.id] = e; });
@@ -352,9 +352,9 @@
   // 各分类区块的折叠状态（切日期/搜索重渲染时保留）
   var collapsedCats = {};
 
-  function catOf(e){ return CAT_MAP[e.cat] || { name:'其他', title:'其他', color:'#9aa1ab' }; }
-  function venueOf(e){ return VENUE_MAP[e.venue] || null; }
-  function costOf(e){ return COST_MAP[e.cost] || { name:'未知', label:'?' }; }
+  function catOf(e){ return CAT_MAP[e.categoryId] || { name:'其他', title:'其他', color:'#9aa1ab' }; }
+  function venueOf(e){ return VENUE_MAP[e.venueId] || null; }
+  function costOf(e){ return COST_MAP[e.costId] || { name:'未知', label:'?' }; }
 
   // ===== 日期筛选：未来两周按天过滤 =====
   var WEEK = ['周日','周一','周二','周三','周四','周五','周六'];
@@ -364,8 +364,8 @@
   // 活动在某天是否正在进行：start <= day <= end；起止都缺（长期/常设）视为天天都有
   function matchDay(e, day){
     if(!day) return true;
-    if(!e.start && !e.end) return true;
-    var s = e.start || e.end, en = e.end || e.start;
+    if(!e.startDate && !e.endDate) return true;
+    var s = e.startDate || e.endDate, en = e.endDate || e.startDate;
     return s <= day && day <= en;
   }
   function countOn(day){
@@ -388,13 +388,13 @@
       base = cityEvents.filter(function(e){
         return (e.name && e.name.toLowerCase().indexOf(q) > -1)
           || (e.venueText && e.venueText.toLowerCase().indexOf(q) > -1)
-          || (e.tag && e.tag.toLowerCase().indexOf(q) > -1);
+          || (e.tagName && e.tagName.toLowerCase().indexOf(q) > -1);
       });
     }
     events = base.filter(function(e){
       if(!matchDay(e, stateDate)) return false;
-      if(stateCat && e.cat !== stateCat) return false;        // 类别筛选
-      if(stateCost !== 'all' && e.cost !== stateCost) return false;  // 费用筛选
+      if(stateCat && e.categoryId !== stateCat) return false;        // 类别筛选
+      if(stateCost !== 'all' && e.costId !== stateCost) return false;  // 费用筛选
       return true;
     });
     renderSummary();
@@ -470,24 +470,24 @@
 
   // 票价行：仅付费活动展示。有 price 显示具体金额，无则「价格待定」（免费/未知不占位）
   function priceRow(e){
-    if(e.cost !== 'paid') return '';
-    var inner = e.price
-      ? '<span class="pv">'+ esc(e.price) +'</span>'
+    if(e.costId !== 'paid') return '';
+    var inner = e.priceText
+      ? '<span class="pv">'+ esc(e.priceText) +'</span>'
       : '<span class="pv unknown">价格待定</span>';
     return '<div class="row price"><span class="k">票价</span>'+ inner +'</div>';
   }
   // 纯文本版票价（地图气泡等单行场景）：'180-1280元' / '价格待定' / ''
   function priceText(e){
-    if(e.cost !== 'paid') return '';
-    return e.price || '价格待定';
+    if(e.costId !== 'paid') return '';
+    return e.priceText || '价格待定';
   }
 
   // 多地点：venueIds = 全部地点；缺省回退到主键 venue。只保留维表中真实存在的 id（脏 id 静默忽略）
   function venueIdsOf(e){
-    var raw = (e.venueIds && e.venueIds.length) ? e.venueIds : (e.venue ? [e.venue] : []);
+    var raw = (e.venueIds && e.venueIds.length) ? e.venueIds : (e.venueId ? [e.venueId] : []);
     var out = [], seen = {};
     raw.forEach(function(id){ if(VENUE_MAP[id] && !seen[id]){ seen[id] = 1; out.push(id); } });
-    if(!out.length && e.venue && VENUE_MAP[e.venue]) out.push(e.venue);
+    if(!out.length && e.venueId && VENUE_MAP[e.venueId]) out.push(e.venueId);
     return out;
   }
   function venuesOf(e){ return venueIdsOf(e).map(function(id){ return VENUE_MAP[id]; }); }
@@ -557,8 +557,8 @@
     if(!bar) return;
     if(D.cities.length < 2){ bar.style.display = 'none'; return; }
     bar.style.display = '';
-    var cur = D.cities.filter(function(c){ return c.id === CITY.id; })[0] || CITY;
-    var n = D.events.filter(function(e){ return e.city === cur.id; }).length;
+    var cur = D.cities.filter(function(c){ return c.code === CITY.code; })[0] || CITY;
+    var n = D.events.filter(function(e){ return e.cityCode === cur.code; }).length;
     bar.innerHTML = '📍 ' + cur.name + ' <b>' + n + '</b> ▾';
     bar.setAttribute('aria-expanded', 'false');
   }
@@ -569,9 +569,9 @@
     var list = document.getElementById('cityList');
     if(!modal || !list) return;
     list.innerHTML = D.cities.map(function(c){
-      var n = D.events.filter(function(e){ return e.city === c.id; }).length;
-      var on = (c.id === CITY.id) ? ' on' : '';
-      return '<button class="city-item'+ on +'" data-c="'+ c.id +'" aria-pressed="' + (c.id === CITY.id ? 'true':'false') + '">'
+      var n = D.events.filter(function(e){ return e.cityCode === c.code; }).length;
+      var on = (c.code === CITY.code) ? ' on' : '';
+      return '<button class="city-item'+ on +'" data-c="'+ c.code +'" aria-pressed="' + (c.code === CITY.code ? 'true':'false') + '">'
         + '<span>'+ c.name +'</span><span class="cnt">'+ n +' 场</span></button>';
     }).join('');
     modal.style.display = 'flex';
@@ -596,7 +596,7 @@
         var item = ev.target.closest('.city-item'); if(!item) return;
         var id = item.getAttribute('data-c');
         closeCityModal();
-        if(id !== CITY.id) switchCity(id);
+        if(id !== CITY.code) switchCity(id);
       });
       var closeBtn = document.getElementById('cityModalClose');
       if(closeBtn) closeBtn.addEventListener('click', closeCityModal);
@@ -606,7 +606,7 @@
 
   function renderSummary(){
     var byCat = {}, byCost = {free:0,paid:0,unknown:0};
-    events.forEach(function(e){ byCat[e.cat]=(byCat[e.cat]||0)+1; byCost[e.cost]=(byCost[e.cost]||0)+1; });
+    events.forEach(function(e){ byCat[e.categoryId]=(byCat[e.categoryId]||0)+1; byCost[e.costId]=(byCost[e.costId]||0)+1; });
     var md = (D.meta && D.meta.date) ? D.meta.date : '';
     var catNames = CAT_ORDER.map(function(c){ return CAT_MAP[c].name; }).join('·');
     var CN = ['零','一','二','三','四','五','六','七','八','九','十'];
@@ -660,7 +660,7 @@
     }
     CAT_ORDER.forEach(function(c){
       var cat = CAT_MAP[c];
-      var list = events.filter(function(e){ return e.cat===c; });
+      var list = events.filter(function(e){ return e.categoryId===c; });
       if(!list.length) return;
       var sec = document.createElement('section'); sec.className = 'c-'+c;
       var collapsed = collapsedCats[c];
@@ -685,19 +685,19 @@
         card.setAttribute('aria-label', esc(e.name));
         card.style.setProperty('--c', cat.color);
         card.addEventListener('keydown', function(ev){
-          if(ev.key === 'Enter') location.href = 'detail.html?id=' + encodeURIComponent(e.id) + '&city=' + encodeURIComponent(e.city);
+          if(ev.key === 'Enter') location.href = 'detail.html?id=' + encodeURIComponent(e.id) + '&city=' + encodeURIComponent(e.cityCode);
         });
         var v = venueOf(e);
         var nv = venueIdsOf(e).length;
-        var srcLink = e.link ? '<a href="'+ esc(e.link) +'" target="_blank" rel="noopener noreferrer">原文</a>' : '';
-        var detailLink = '<a class="detail" href="detail.html?id='+ encodeURIComponent(e.id) +'&city='+ encodeURIComponent(e.city) +'">查看详情</a>';
-        card.innerHTML = '<div class="chead"><span class="tag t-'+ e.cat +'">'+ esc(e.tag || cat.name) +'</span>'
-          + '<span class="badges"><span class="cost c-'+ e.cost +'">💰'+ costOf(e).name +'</span></span></div>'
+        var srcLink = e.sourceUrl ? '<a href="'+ esc(e.sourceUrl) +'" target="_blank" rel="noopener noreferrer">原文</a>' : '';
+        var detailLink = '<a class="detail" href="detail.html?id='+ encodeURIComponent(e.id) +'&city='+ encodeURIComponent(e.cityCode) +'">查看详情</a>';
+        card.innerHTML = '<div class="chead"><span class="tag t-'+ e.categoryId +'">'+ esc(e.tagName || cat.name) +'</span>'
+          + '<span class="badges"><span class="cost c-'+ e.costId +'">💰'+ costOf(e).name +'</span></span></div>'
           + '<h3>'+ esc(e.name) +'</h3>'
-          + '<div class="row"><span class="k">'+ (e.dkey||'时间') +'</span><span>'+ esc(e.date) +'</span></div>'
+          + '<div class="row"><span class="k">'+ '日期' +'</span><span>'+ esc(e.dateText) +'</span></div>'
           + '<div class="row"><span class="k">地点</span><span>'+ esc(e.venueText || (v ? v.name : '')) + (nv > 1 ? '（'+ nv +' 处）' : '') +'</span></div>'
           + priceRow(e)
-          + '<div class="desc">'+ esc(e.desc) +'</div>'
+          + '<div class="desc">'+ esc(e.description) +'</div>'
           + '<div class="links">'+ srcLink + detailLink +'<a class="map" href="javascript:void(0)" data-id="'+ e.id +'" onclick="pickVenueById(this.dataset.id)">📍 地图定位</a></div>';
         grid.appendChild(card);
       });
@@ -752,13 +752,13 @@
     }
 
     function initMap(){
-      var map = new TMap.Map('map', { zoom: CITY.zoom || 11, center: new TMap.LatLng(CITY.center[0], CITY.center[1]) });
+      var map = new TMap.Map('map', { zoom: CITY.zoom || 11, center: new TMap.LatLng(CITY.center.latitude, CITY.center.longitude) });
       window.__map = map;   // 存实例，切城时复用（只平移/缩放，不重复 new TMap.Map）
       var isMobile = window.innerWidth <= 640;
       var mw = isMobile ? 36 : 26, mh = isMobile ? 48 : 36;
       var styles = {};
       CAT_ORDER.forEach(function(c){
-        D.costs.forEach(function(k){
+        D.costTypes.forEach(function(k){
           styles[c+'_'+k.id] = new TMap.MarkerStyle({ width:mw, height:mh, anchor:{x:Math.round(mw/2),y:mh}, src: pin(CAT_MAP[c].color, k.label) });
         });
       });
@@ -776,8 +776,8 @@
         var vline = vs.length > 1
           ? (e.venueText ? esc(e.venueText) + '<br>' : '') + esc(names)
           : esc(e.venueText || (vs[0] ? vs[0].name : ''));
-        var detLine = (e.link ? '<a href="'+ esc(e.link) +'" target="_blank" rel="noopener noreferrer" style="color:#2563eb;font-weight:600;text-decoration:none;margin-right:12px">🔗 原文</a>' : '');
-        var detDetail = '<a href="detail.html?id='+ encodeURIComponent(e.id) +'&city='+ encodeURIComponent(e.city) +'" target="_blank" rel="noopener noreferrer" style="color:#2563eb;font-weight:600;text-decoration:none;margin-right:12px">🔗 查看详情</a>';
+        var detLine = (e.sourceUrl ? '<a href="'+ esc(e.sourceUrl) +'" target="_blank" rel="noopener noreferrer" style="color:#2563eb;font-weight:600;text-decoration:none;margin-right:12px">🔗 原文</a>' : '');
+        var detDetail = '<a href="detail.html?id='+ encodeURIComponent(e.id) +'&city='+ encodeURIComponent(e.cityCode) +'" target="_blank" rel="noopener noreferrer" style="color:#2563eb;font-weight:600;text-decoration:none;margin-right:12px">🔗 查看详情</a>';
         var navLine = vs.length > 1
           ? '<a href="javascript:void(0)" onclick="pickVenueById(\''+ e.id +'\')" style="color:#e8543f;font-weight:600;text-decoration:none">📍 地图导航（'+ vs.length +' 处，请选择）</a>'
           : '<a href="'+ navUrl +'" target="_blank" rel="noopener noreferrer" style="color:#e8543f;font-weight:600;text-decoration:none">📍 地图导航</a>';
@@ -793,9 +793,9 @@
           + '<div style="font-size:17px;font-weight:800;margin-bottom:8px;line-height:1.4">'+ esc(e.name) +'</div>'
           + '<div style="font-size:13px;color:#6b7280;margin-bottom:4px">💰 '+ costOf(e).name
           + (priceText(e) ? '（'+ esc(priceText(e)) +'）' : '')
-          + '　'+ esc(e.date) +'</div>'
+          + '　'+ esc(e.dateText) +'</div>'
           + '<div style="font-size:13px;color:#6b7280;margin-bottom:8px">📍 '+ vline +'</div>'
-          + (e.desc ? '<div style="font-size:13px;color:#374151;margin-bottom:12px;line-height:1.7;background:#f7f8fa;padding:10px 12px;border-radius:10px">'+ esc(e.desc) +'</div>' : '')
+          + (e.description ? '<div style="font-size:13px;color:#374151;margin-bottom:12px;line-height:1.7;background:#f7f8fa;padding:10px 12px;border-radius:10px">'+ esc(e.description) +'</div>' : '')
           + '<div style="display:flex;gap:10px;flex-wrap:wrap">'
           + detLine + detDetail + navLine
           + '</div>';
@@ -811,7 +811,7 @@
         var geoms = [];
         f.forEach(function(r){
           r.pts.forEach(function(p){
-            geoms.push({ id: p.gid, styleId: r.e.cat + '_' + r.e.cost, position: p.pos });
+            geoms.push({ id: p.gid, styleId: r.e.categoryId + '_' + r.e.costId, position: p.pos });
           });
         });
         markers.setGeometries(geoms);
@@ -824,9 +824,9 @@
           li.innerHTML = '<i style="background:'+ catOf(e).color +'"></i>'
             + '<span class="nm">'+ esc(e.name) +'</span>'
             + (r.pts.length > 1 ? '<span class="cost">'+ r.pts.length +'处</span>' : '')
-            + '<span class="cost c-'+ e.cost +'">'+ costOf(e).label +'</span>'
-            + (priceText(e) ? '<span class="pr'+ (e.price ? '' : ' unknown') +'">'+ esc(priceText(e)) +'</span>' : '')
-            + '<span class="dt">'+ e.date +'</span>';
+            + '<span class="cost c-'+ e.costId +'">'+ costOf(e).label +'</span>'
+            + (priceText(e) ? '<span class="pr'+ (e.priceText ? '' : ' unknown') +'">'+ esc(priceText(e)) +'</span>' : '')
+            + '<span class="dt">'+ e.dateText +'</span>';
           li.addEventListener('click', function(){ focusEvent(r); });
           listEl.appendChild(li);
         });
@@ -860,7 +860,7 @@
         events.forEach(function(e){
           var pts = venueIdsOf(e).map(function(vid){
             var v = VENUE_MAP[vid];
-            return { gid: e.id + '#' + vid, vid: vid, pos: new TMap.LatLng(v.lat, v.lng) };
+            return { gid: e.id + '#' + vid, vid: vid, pos: new TMap.LatLng(v.latitude, v.longitude) };
           });
           if(pts.length) resolved.push({ e: e, pts: pts });
         });
@@ -918,19 +918,19 @@
 
     // AJAX 城市切换：不刷新页面，只重载数据 + 更新 DOM
     function switchCity(newCityId){
-      if(newCityId === CITY.id) return;
+      if(newCityId === CITY.code) return;
       var scrollY = window.scrollY;
       showLoading(true);
       loadSingleCity(newCityId).then(function(newEvents){
         try {
-          D.events = (D.events || []).filter(function(e){ return e.city !== newCityId; }).concat(newEvents || []);
+          D.events = (D.events || []).filter(function(e){ return e.cityCode !== newCityId; }).concat(newEvents || []);
           D.meta = (window.APP_DATA && window.APP_DATA.meta) || {};
           CITY = CITY_MAP[newCityId];
           if(!CITY){ throw new Error('CITY_MAP 中找不到城市: ' + newCityId); }
           stateDate = '';
           stateCat = '';          // 切换城市时重置类别 / 费用筛选，避免沿用上一城
           stateCost = 'all';
-          cityEvents = D.events.filter(function(e){ return e.city === CITY.id; });  // 写入外层 cityEvents（勿用 var 遮蔽）
+          cityEvents = D.events.filter(function(e){ return e.cityCode === CITY.code; });  // 写入外层 cityEvents（勿用 var 遮蔽）
           events = cityEvents.slice();
           byId = {};
           events.forEach(function(e){ if(e.id) byId[e.id] = e; });
@@ -940,14 +940,14 @@
           if(window.__refreshMapPoints) window.__refreshMapPoints();
           if(window.__map){
             // 地图已初始化：平移 + 缩放到新城市，复用同一实例（避免重复 new TMap.Map 在已挂载容器上报错）
-            window.__map.setCenter(new TMap.LatLng(CITY.center[0], CITY.center[1]));
+            window.__map.setCenter(new TMap.LatLng(CITY.center.latitude, CITY.center.longitude));
             window.__map.setZoom(CITY.zoom || 11);
           } else if(window.TMap){
             initMap();   // 首次创建地图
           }
           if(history.pushState){
-            var url = '?city=' + encodeURIComponent(CITY.id);
-            history.pushState({city: CITY.id}, '', url);
+            var url = '?city=' + encodeURIComponent(CITY.code);
+            history.pushState({city: CITY.code}, '', url);
           }
           window.scrollTo(0, scrollY);
           showLoading(false);
@@ -965,8 +965,8 @@
 
     // 浏览器前进/后退时同步城市
     window.addEventListener('popstate', function(e){
-      if(e.state && e.state.city){
-        switchCity(e.state.city);
+      if(e.state && e.state.cityCode){
+        switchCity(e.state.cityCode);
       }
     });
   });

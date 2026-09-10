@@ -1,247 +1,354 @@
 window.APP_VENUES_SH = [
   {
-    "id": "v_7d179e92",
-    "city": "sh",
+    "id": "SH_ven_7d179e92",
+    "cityCode": "SH",
     "name": "上海大剧院",
-    "lat": 31.228,
-    "lng": 121.475
+    "latitude": 31.228,
+    "longitude": 121.475,
+    "address": ""
   },
   {
-    "id": "v_587a8df9",
-    "city": "sh",
+    "id": "SH_ven_587a8df9",
+    "cityCode": "SH",
     "name": "北外滩友邦大剧院",
-    "lat": 31.253,
-    "lng": 121.493
+    "latitude": 31.253,
+    "longitude": 121.493,
+    "address": ""
   },
   {
-    "id": "v_24cb1046",
-    "city": "sh",
+    "id": "SH_ven_24cb1046",
+    "cityCode": "SH",
     "name": "上海音乐厅",
-    "lat": 31.218,
-    "lng": 121.473
+    "latitude": 31.218,
+    "longitude": 121.473,
+    "address": ""
   },
   {
-    "id": "v_2192ad9d",
-    "city": "sh",
+    "id": "SH_ven_2192ad9d",
+    "cityCode": "SH",
     "name": "上海西岸大剧院",
-    "lat": 31.167,
-    "lng": 121.448
+    "latitude": 31.167,
+    "longitude": 121.448,
+    "address": ""
   },
   {
-    "id": "v_b81064bd",
-    "city": "sh",
+    "id": "SH_ven_b81064bd",
+    "cityCode": "SH",
     "name": "上海保利大剧院",
-    "lat": 31.272,
-    "lng": 121.395
+    "latitude": 31.272,
+    "longitude": 121.395,
+    "address": ""
   },
   {
-    "id": "v_1e872ac5",
-    "city": "sh",
+    "id": "SH_ven_1e872ac5",
+    "cityCode": "SH",
     "name": "上海刘海粟美术馆",
-    "lat": 31.248,
-    "lng": 121.488
+    "latitude": 31.248,
+    "longitude": 121.488,
+    "address": ""
   },
   {
-    "id": "v_c45a7875",
-    "city": "sh",
+    "id": "SH_ven_c45a7875",
+    "cityCode": "SH",
     "name": "龙美术馆(西岸馆)",
-    "lat": 31.165,
-    "lng": 121.447
+    "latitude": 31.165,
+    "longitude": 121.447,
+    "address": ""
   },
   {
-    "id": "v_0d9678ca",
-    "city": "sh",
+    "id": "SH_ven_0d9678ca",
+    "cityCode": "SH",
     "name": "虹桥南丰城",
-    "lat": 31.198,
-    "lng": 121.383
+    "latitude": 31.198,
+    "longitude": 121.383,
+    "address": ""
   },
   {
-    "id": "v_fa311011",
-    "city": "sh",
+    "id": "SH_ven_fa311011",
+    "cityCode": "SH",
     "name": "上海展览中心",
-    "lat": 31.222,
-    "lng": 121.448
+    "latitude": 31.222,
+    "longitude": 121.448,
+    "address": ""
   },
   {
-    "id": "v_ee25b3af",
-    "city": "sh",
+    "id": "SH_ven_ee25b3af",
+    "cityCode": "SH",
     "name": "国家会展中心(上海)",
-    "lat": 31.285,
-    "lng": 121.355
+    "latitude": 31.285,
+    "longitude": 121.355,
+    "address": ""
   },
   {
-    "id": "v_b8547895",
-    "city": "sh",
+    "id": "SH_ven_b8547895",
+    "cityCode": "SH",
     "name": "外滩",
-    "lat": 31.24,
-    "lng": 121.49
+    "latitude": 31.24,
+    "longitude": 121.49,
+    "address": ""
   },
   {
-    "id": "v_811df9c4",
-    "city": "sh",
+    "id": "SH_ven_811df9c4",
+    "cityCode": "SH",
     "name": "上海博物馆人民广场馆",
-    "lat": 31.23,
-    "lng": 121.47
+    "latitude": 31.23,
+    "longitude": 121.47,
+    "address": ""
   },
   {
-    "id": "v_b4c35a4d",
-    "city": "sh",
+    "id": "SH_ven_b4c35a4d",
+    "cityCode": "SH",
     "name": "中华艺术宫",
-    "lat": 31.19,
-    "lng": 121.49
+    "latitude": 31.19,
+    "longitude": 121.49,
+    "address": ""
   },
   {
-    "id": "v_6f008f51",
-    "city": "sh",
+    "id": "SH_ven_6f008f51",
+    "cityCode": "SH",
     "name": "世博会博物馆",
-    "lat": 31.19,
-    "lng": 121.47
+    "latitude": 31.19,
+    "longitude": 121.47,
+    "address": ""
   },
   {
-    "id": "v_23c3e19d",
-    "city": "sh",
+    "id": "SH_ven_23c3e19d",
+    "cityCode": "SH",
     "name": "上海动物园",
-    "lat": 31.2,
-    "lng": 121.36
+    "latitude": 31.2,
+    "longitude": 121.36,
+    "address": ""
   },
   {
-    "id": "v_62a44dc0",
-    "city": "sh",
+    "id": "SH_ven_62a44dc0",
+    "cityCode": "SH",
     "name": "上汽浦东足球场",
-    "lat": 31.27,
-    "lng": 121.55
+    "latitude": 31.27,
+    "longitude": 121.55,
+    "address": ""
   },
   {
-    "id": "v_db07a6f5",
-    "city": "sh",
+    "id": "SH_ven_db07a6f5",
+    "cityCode": "SH",
     "name": "上海体育场",
-    "lat": 31.18,
-    "lng": 121.44
+    "latitude": 31.18,
+    "longitude": 121.44,
+    "address": ""
   },
   {
-    "id": "v_185cd30e",
-    "city": "sh",
+    "id": "SH_ven_185cd30e",
+    "cityCode": "SH",
     "name": "上生·新所",
-    "lat": 31.22,
-    "lng": 121.41
+    "latitude": 31.22,
+    "longitude": 121.41,
+    "address": ""
   },
   {
-    "id": "v_e812fc30",
-    "city": "sh",
+    "id": "SH_ven_e812fc30",
+    "cityCode": "SH",
     "name": "上海国际赛车场",
-    "lat": 31.35,
-    "lng": 121.22
+    "latitude": 31.35,
+    "longitude": 121.22,
+    "address": ""
   },
   {
-    "id": "v_f0efdac5",
-    "city": "sh",
+    "id": "SH_ven_f0efdac5",
+    "cityCode": "SH",
     "name": "苏州河",
-    "lat": 31.24,
-    "lng": 121.47
+    "latitude": 31.24,
+    "longitude": 121.47,
+    "address": ""
   },
   {
-    "id": "v_230a375c",
-    "city": "sh",
+    "id": "SH_ven_230a375c",
+    "cityCode": "SH",
     "name": "徐汇区",
-    "lat": 31.19,
-    "lng": 121.44
+    "latitude": 31.19,
+    "longitude": 121.44,
+    "address": ""
   },
   {
-    "id": "v_a2b3c4d5",
-    "city": "sh",
+    "id": "SH_ven_a2b3c4d5",
+    "cityCode": "SH",
     "name": "新天地",
-    "lat": 31.22,
-    "lng": 121.475
+    "latitude": 31.22,
+    "longitude": 121.475,
+    "address": ""
   },
   {
-    "id": "v_a3b4c5d6",
-    "city": "sh",
+    "id": "SH_ven_a3b4c5d6",
+    "cityCode": "SH",
     "name": "上海图书馆东馆",
-    "lat": 31.22,
-    "lng": 121.55
+    "latitude": 31.22,
+    "longitude": 121.55,
+    "address": ""
   },
   {
-    "id": "v_a4b5c6d7",
-    "city": "sh",
+    "id": "SH_ven_a4b5c6d7",
+    "cityCode": "SH",
     "name": "东方体育中心",
-    "lat": 31.18,
-    "lng": 121.48
+    "latitude": 31.18,
+    "longitude": 121.48,
+    "address": ""
   },
   {
-    "id": "v_a5b6c7d8",
-    "city": "sh",
+    "id": "SH_ven_a5b6c7d8",
+    "cityCode": "SH",
     "name": "虹口足球场",
-    "lat": 31.27,
-    "lng": 121.49
+    "latitude": 31.27,
+    "longitude": 121.49,
+    "address": ""
   },
   {
-    "id": "v_a6b7c8d9",
-    "city": "sh",
+    "id": "SH_ven_a6b7c8d9",
+    "cityCode": "SH",
     "name": "上海体育馆",
-    "lat": 31.17,
-    "lng": 121.43
+    "latitude": 31.17,
+    "longitude": 121.43,
+    "address": ""
   },
   {
-    "id": "v_a7b8c9da",
-    "city": "sh",
+    "id": "SH_ven_a7b8c9da",
+    "cityCode": "SH",
     "name": "静安体育中心",
-    "lat": 31.23,
-    "lng": 121.45
+    "latitude": 31.23,
+    "longitude": 121.45,
+    "address": ""
   },
   {
-    "id": "v_a8b9c0db",
-    "city": "sh",
+    "id": "SH_ven_a8b9c0db",
+    "cityCode": "SH",
     "name": "梅赛德斯-奔驰文化中心",
-    "lat": 31.19,
-    "lng": 121.49
+    "latitude": 31.19,
+    "longitude": 121.49,
+    "address": ""
   },
   {
-    "id": "v_a9b0c1dc",
-    "city": "sh",
+    "id": "SH_ven_a9b0c1dc",
+    "cityCode": "SH",
     "name": "上海西岸穹顶艺术中心",
-    "lat": 31.17,
-    "lng": 121.46
+    "latitude": 31.17,
+    "longitude": 121.46,
+    "address": ""
   },
   {
-    "id": "v_b1c2d3de",
-    "city": "sh",
+    "id": "SH_ven_b1c2d3de",
+    "cityCode": "SH",
     "name": "上海辰山植物园",
-    "lat": 31.18,
-    "lng": 121.18
+    "latitude": 31.18,
+    "longitude": 121.18,
+    "address": ""
   },
   {
-    "id": "v_b2c3d4df",
-    "city": "sh",
+    "id": "SH_ven_b2c3d4df",
+    "cityCode": "SH",
     "name": "上海欢乐谷",
-    "lat": 31.1,
-    "lng": 121.32
+    "latitude": 31.1,
+    "longitude": 121.32,
+    "address": ""
   },
   {
-    "id": "v_b3c4d5e0",
-    "city": "sh",
+    "id": "SH_ven_b3c4d5e0",
+    "cityCode": "SH",
     "name": "青浦露营大会营地",
-    "lat": 31.15,
-    "lng": 121.12
+    "latitude": 31.15,
+    "longitude": 121.12,
+    "address": ""
   },
   {
-    "id": "v_b4c5d6e1",
-    "city": "sh",
+    "id": "SH_ven_b4c5d6e1",
+    "cityCode": "SH",
     "name": "上海海湾国家森林公园",
-    "lat": 30.9,
-    "lng": 121.45
+    "latitude": 30.9,
+    "longitude": 121.45,
+    "address": ""
   },
   {
-    "id": "v_b5c6d7e2",
-    "city": "sh",
+    "id": "SH_ven_b5c6d7e2",
+    "cityCode": "SH",
     "name": "周浦游泳馆",
-    "lat": 31.12,
-    "lng": 121.56
+    "latitude": 31.12,
+    "longitude": 121.56,
+    "address": ""
   },
   {
-    "id": "v_eccc8988",
-    "city": "sh",
+    "id": "SH_ven_eccc8988",
+    "cityCode": "SH",
     "name": "上海新国际博览中心",
-    "lat": 31.195,
-    "lng": 121.552
+    "latitude": 31.195,
+    "longitude": 121.552,
+    "address": ""
+  },
+  {
+    "id": "SH_ven_c5d32f66",
+    "cityCode": "SH",
+    "name": "西岸美术馆",
+    "latitude": 31.178622,
+    "longitude": 121.482505,
+    "address": ""
+  },
+  {
+    "id": "SH_ven_e9dd0706",
+    "cityCode": "SH",
+    "name": "复星艺术中心",
+    "latitude": 31.22701,
+    "longitude": 121.494467,
+    "address": ""
+  },
+  {
+    "id": "SH_ven_efbddab9",
+    "cityCode": "SH",
+    "name": "池社",
+    "latitude": 31.179021,
+    "longitude": 121.483003,
+    "address": ""
+  },
+  {
+    "id": "SH_ven_6587ac44",
+    "cityCode": "SH",
+    "name": "美琪大戏院",
+    "latitude": 31.22261,
+    "longitude": 121.455588,
+    "address": ""
+  },
+  {
+    "id": "SH_ven_30be0783",
+    "cityCode": "SH",
+    "name": "金山城市沙滩",
+    "latitude": 30.720802,
+    "longitude": 121.338513,
+    "address": ""
+  },
+  {
+    "id": "SH_ven_46701406",
+    "cityCode": "SH",
+    "name": "长风大悦城",
+    "latitude": 31.21816,
+    "longitude": 121.40465,
+    "address": ""
+  },
+  {
+    "id": "SH_ven_3c135359",
+    "cityCode": "SH",
+    "name": "思南公馆",
+    "latitude": 31.211082,
+    "longitude": 121.465561,
+    "address": ""
+  },
+  {
+    "id": "SH_ven_0914e475",
+    "cityCode": "SH",
+    "name": "前滩太古里",
+    "latitude": 31.166479,
+    "longitude": 121.49496,
+    "address": ""
+  },
+  {
+    "id": "SH_ven_51d4c091",
+    "cityCode": "SH",
+    "name": "上海迪士尼度假区",
+    "latitude": 31.140837,
+    "longitude": 121.671273,
+    "address": ""
   }
 ];

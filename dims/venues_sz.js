@@ -1,303 +1,402 @@
 window.APP_VENUES_SZ = [
   {
-    "id": "v_3d91c2f8",
-    "city": "sz",
+    "id": "SZ_ven_3d91c2f8",
+    "cityCode": "SZ",
     "name": "深圳大运中心体育场",
-    "lat": 22.6945,
-    "lng": 114.1345
+    "latitude": 22.6945,
+    "longitude": 114.1345,
+    "address": ""
   },
   {
-    "id": "v_4e72d9a1",
-    "city": "sz",
+    "id": "SZ_ven_4e72d9a1",
+    "cityCode": "SZ",
     "name": "深圳大运中心体育馆",
-    "lat": 22.6935,
-    "lng": 114.1355
+    "latitude": 22.6935,
+    "longitude": 114.1355,
+    "address": ""
   },
   {
-    "id": "v_5f83e0b2",
-    "city": "sz",
+    "id": "SZ_ven_5f83e0b2",
+    "cityCode": "SZ",
     "name": "深圳美术馆新馆",
-    "lat": 22.543,
-    "lng": 114.144
+    "latitude": 22.543,
+    "longitude": 114.144,
+    "address": ""
   },
   {
-    "id": "v_6a94f1c3",
-    "city": "sz",
+    "id": "SZ_ven_6a94f1c3",
+    "cityCode": "SZ",
     "name": "深圳湾文化广场(设计博物馆北馆)",
-    "lat": 22.478,
-    "lng": 113.979
+    "latitude": 22.478,
+    "longitude": 113.979,
+    "address": ""
   },
   {
-    "id": "v_7ba502d4",
-    "city": "sz",
+    "id": "SZ_ven_7ba502d4",
+    "cityCode": "SZ",
     "name": "湾区之眼(深圳图书馆北馆)",
-    "lat": 22.483,
-    "lng": 113.979
+    "latitude": 22.483,
+    "longitude": 113.979,
+    "address": ""
   },
   {
-    "id": "v_8cb613e5",
-    "city": "sz",
+    "id": "SZ_ven_8cb613e5",
+    "cityCode": "SZ",
     "name": "龙岗客家民俗博物馆",
-    "lat": 22.722,
-    "lng": 114.315
+    "latitude": 22.722,
+    "longitude": 114.315,
+    "address": ""
   },
   {
-    "id": "v_9dc724f6",
-    "city": "sz",
+    "id": "SZ_ven_9dc724f6",
+    "cityCode": "SZ",
     "name": "深圳图书馆中心馆",
-    "lat": 22.549,
-    "lng": 114.106
+    "latitude": 22.549,
+    "longitude": 114.106,
+    "address": ""
   },
   {
-    "id": "v_aed83507",
-    "city": "sz",
+    "id": "SZ_ven_aed83507",
+    "cityCode": "SZ",
     "name": "坪山图书馆",
-    "lat": 22.702,
-    "lng": 114.338
+    "latitude": 22.702,
+    "longitude": 114.338,
+    "address": ""
   },
   {
-    "id": "v_bfe94618",
-    "city": "sz",
+    "id": "SZ_ven_bfe94618",
+    "cityCode": "SZ",
     "name": "南山博物馆",
-    "lat": 22.535,
-    "lng": 113.935
+    "latitude": 22.535,
+    "longitude": 113.935,
+    "address": ""
   },
   {
-    "id": "v_d0fa5729",
-    "city": "sz",
+    "id": "SZ_ven_d0fa5729",
+    "cityCode": "SZ",
     "name": "深圳保利剧院",
-    "lat": 22.543,
-    "lng": 113.961
+    "latitude": 22.543,
+    "longitude": 113.961,
+    "address": ""
   },
   {
-    "id": "v_e1fb683a",
-    "city": "sz",
+    "id": "SZ_ven_e1fb683a",
+    "cityCode": "SZ",
     "name": "深圳湾体育中心(春茧)",
-    "lat": 22.48,
-    "lng": 113.977
+    "latitude": 22.48,
+    "longitude": 113.977,
+    "address": ""
   },
   {
-    "id": "v_f20c794b",
-    "city": "sz",
+    "id": "SZ_ven_f20c794b",
+    "cityCode": "SZ",
     "name": "深圳会展中心",
-    "lat": 22.543,
-    "lng": 114.058
+    "latitude": 22.543,
+    "longitude": 114.058,
+    "address": ""
   },
   {
-    "id": "v_30984240",
-    "city": "sz",
+    "id": "SZ_ven_30984240",
+    "cityCode": "SZ",
     "name": "宝安体育中心体育馆",
-    "lat": 22.62,
-    "lng": 113.83
+    "latitude": 22.62,
+    "longitude": 113.83,
+    "address": ""
   },
   {
-    "id": "v_7f88c848",
-    "city": "sz",
+    "id": "SZ_ven_7f88c848",
+    "cityCode": "SZ",
     "name": "深圳滨海艺术中心",
-    "lat": 22.53,
-    "lng": 113.93
+    "latitude": 22.53,
+    "longitude": 113.93,
+    "address": ""
   },
   {
-    "id": "v_c66df946",
-    "city": "sz",
+    "id": "SZ_ven_c66df946",
+    "cityCode": "SZ",
     "name": "深圳美术馆(龙华)",
-    "lat": 22.66,
-    "lng": 114.03
+    "latitude": 22.66,
+    "longitude": 114.03,
+    "address": ""
   },
   {
-    "id": "v_1ed11efe",
-    "city": "sz",
+    "id": "SZ_ven_1ed11efe",
+    "cityCode": "SZ",
     "name": "深圳美术馆东湖馆",
-    "lat": 22.56,
-    "lng": 114.13
+    "latitude": 22.56,
+    "longitude": 114.13,
+    "address": ""
   },
   {
-    "id": "v_b2838ecc",
-    "city": "sz",
+    "id": "SZ_ven_b2838ecc",
+    "cityCode": "SZ",
     "name": "龙华星河iCO",
-    "lat": 22.66,
-    "lng": 114.04
+    "latitude": 22.66,
+    "longitude": 114.04,
+    "address": ""
   },
   {
-    "id": "v_a346871f",
-    "city": "sz",
+    "id": "SZ_ven_a346871f",
+    "cityCode": "SZ",
     "name": "湾区之眼",
-    "lat": 22.53,
-    "lng": 113.93
+    "latitude": 22.53,
+    "longitude": 113.93,
+    "address": ""
   },
   {
-    "id": "v_eab486c6",
-    "city": "sz",
+    "id": "SZ_ven_eab486c6",
+    "cityCode": "SZ",
     "name": "深圳音乐厅",
-    "lat": 22.546,
-    "lng": 114.066
+    "latitude": 22.546,
+    "longitude": 114.066,
+    "address": ""
   },
   {
-    "id": "v_2b1c4d5e",
-    "city": "sz",
+    "id": "SZ_ven_2b1c4d5e",
+    "cityCode": "SZ",
     "name": "何香凝美术馆",
-    "lat": 22.53,
-    "lng": 113.99
+    "latitude": 22.53,
+    "longitude": 113.99,
+    "address": ""
   },
   {
-    "id": "v_3c2d5e6f",
-    "city": "sz",
+    "id": "SZ_ven_3c2d5e6f",
+    "cityCode": "SZ",
     "name": "深圳国际美术馆",
-    "lat": 22.75,
-    "lng": 113.91
+    "latitude": 22.75,
+    "longitude": 113.91,
+    "address": ""
   },
   {
-    "id": "v_4d3e6f7a",
-    "city": "sz",
+    "id": "SZ_ven_4d3e6f7a",
+    "cityCode": "SZ",
     "name": "深圳市当代艺术与城市规划馆",
-    "lat": 22.54,
-    "lng": 114.06
+    "latitude": 22.54,
+    "longitude": 114.06,
+    "address": ""
   },
   {
-    "id": "v_5e4f7a8b",
-    "city": "sz",
+    "id": "SZ_ven_5e4f7a8b",
+    "cityCode": "SZ",
     "name": "深圳海雅大剧院",
-    "lat": 22.55,
-    "lng": 113.88
+    "latitude": 22.55,
+    "longitude": 113.88,
+    "address": ""
   },
   {
-    "id": "v_6f5a8b9c",
-    "city": "sz",
+    "id": "SZ_ven_6f5a8b9c",
+    "cityCode": "SZ",
     "name": "深圳市体育中心体育馆主馆",
-    "lat": 22.56,
-    "lng": 114.1
+    "latitude": 22.56,
+    "longitude": 114.1,
+    "address": ""
   },
   {
-    "id": "v_7a6b9c0d",
-    "city": "sz",
+    "id": "SZ_ven_7a6b9c0d",
+    "cityCode": "SZ",
     "name": "华夏艺术中心",
-    "lat": 22.54,
-    "lng": 113.98
+    "latitude": 22.54,
+    "longitude": 113.98,
+    "address": ""
   },
   {
-    "id": "v_8b7c0d1e",
-    "city": "sz",
+    "id": "SZ_ven_8b7c0d1e",
+    "cityCode": "SZ",
     "name": "深圳戏院",
-    "lat": 22.54,
-    "lng": 114.12
+    "latitude": 22.54,
+    "longitude": 114.12,
+    "address": ""
   },
   {
-    "id": "v_9c8d1e2f",
-    "city": "sz",
+    "id": "SZ_ven_9c8d1e2f",
+    "cityCode": "SZ",
     "name": "光明文化艺术中心",
-    "lat": 22.75,
-    "lng": 113.9
+    "latitude": 22.75,
+    "longitude": 113.9,
+    "address": ""
   },
   {
-    "id": "v_1e0f3a4b",
-    "city": "sz",
+    "id": "SZ_ven_1e0f3a4b",
+    "cityCode": "SZ",
     "name": "妇儿剧场",
-    "lat": 22.55,
-    "lng": 114.07
+    "latitude": 22.55,
+    "longitude": 114.07,
+    "address": ""
   },
   {
-    "id": "v_2f1a4b5c",
-    "city": "sz",
+    "id": "SZ_ven_2f1a4b5c",
+    "cityCode": "SZ",
     "name": "深圳鹭湖艺术中心",
-    "lat": 22.69,
-    "lng": 114.05
+    "latitude": 22.69,
+    "longitude": 114.05,
+    "address": ""
   },
   {
-    "id": "v_3a2b5c6d",
-    "city": "sz",
+    "id": "SZ_ven_3a2b5c6d",
+    "cityCode": "SZ",
     "name": "坂田生涯Q-PARK篮球馆",
-    "lat": 22.66,
-    "lng": 114.06
+    "latitude": 22.66,
+    "longitude": 114.06,
+    "address": ""
   },
   {
-    "id": "v_4b3c6d7e",
-    "city": "sz",
+    "id": "SZ_ven_4b3c6d7e",
+    "cityCode": "SZ",
     "name": "华侨城创意文化园",
-    "lat": 22.54,
-    "lng": 113.97
+    "latitude": 22.54,
+    "longitude": 113.97,
+    "address": ""
   },
   {
-    "id": "v_5c4d7e8f",
-    "city": "sz",
+    "id": "SZ_ven_5c4d7e8f",
+    "cityCode": "SZ",
     "name": "前海卓悦INTOWN",
-    "lat": 22.53,
-    "lng": 113.89
+    "latitude": 22.53,
+    "longitude": 113.89,
+    "address": ""
   },
   {
-    "id": "v_6d5e8f90",
-    "city": "sz",
+    "id": "SZ_ven_6d5e8f90",
+    "cityCode": "SZ",
     "name": "卓悦中心",
-    "lat": 22.54,
-    "lng": 114.06
+    "latitude": 22.54,
+    "longitude": 114.06,
+    "address": ""
   },
   {
-    "id": "v_7e6f90a1",
-    "city": "sz",
+    "id": "SZ_ven_7e6f90a1",
+    "cityCode": "SZ",
     "name": "深圳印力中心",
-    "lat": 22.55,
-    "lng": 114.03
+    "latitude": 22.55,
+    "longitude": 114.03,
+    "address": ""
   },
   {
-    "id": "v_8f701b2c",
-    "city": "sz",
+    "id": "SZ_ven_8f701b2c",
+    "cityCode": "SZ",
     "name": "南头古城",
-    "lat": 22.53,
-    "lng": 113.93
+    "latitude": 22.53,
+    "longitude": 113.93,
+    "address": ""
   },
   {
-    "id": "v_901b2c3d",
-    "city": "sz",
+    "id": "SZ_ven_901b2c3d",
+    "cityCode": "SZ",
     "name": "蛇口太子湾",
-    "lat": 22.48,
-    "lng": 113.91
+    "latitude": 22.48,
+    "longitude": 113.91,
+    "address": ""
   },
   {
-    "id": "v_b23d4e5f",
-    "city": "sz",
+    "id": "SZ_ven_b23d4e5f",
+    "cityCode": "SZ",
     "name": "福田区(葡萄酒节)",
-    "lat": 22.54,
-    "lng": 114.06
+    "latitude": 22.54,
+    "longitude": 114.06,
+    "address": ""
   },
   {
-    "id": "v_c34e5f60",
-    "city": "sz",
+    "id": "SZ_ven_c34e5f60",
+    "cityCode": "SZ",
     "name": "深圳国际会展中心(宝安新馆)",
-    "lat": 22.66,
-    "lng": 113.79
+    "latitude": 22.66,
+    "longitude": 113.79,
+    "address": ""
   },
   {
-    "id": "v_d45f6071",
-    "city": "sz",
+    "id": "SZ_ven_d45f6071",
+    "cityCode": "SZ",
     "name": "塘朗山郊野公园",
-    "lat": 22.6,
-    "lng": 113.97
+    "latitude": 22.6,
+    "longitude": 113.97,
+    "address": ""
   },
   {
-    "id": "v_e56f7182",
-    "city": "sz",
+    "id": "SZ_ven_e56f7182",
+    "cityCode": "SZ",
     "name": "大鹏(西涌/天文台)",
-    "lat": 22.49,
-    "lng": 114.5
+    "latitude": 22.49,
+    "longitude": 114.5,
+    "address": ""
   },
   {
-    "id": "v_f67f8293",
-    "city": "sz",
+    "id": "SZ_ven_f67f8293",
+    "cityCode": "SZ",
     "name": "腾讯大厦",
-    "lat": 22.54,
-    "lng": 113.95
+    "latitude": 22.54,
+    "longitude": 113.95,
+    "address": ""
   },
   {
-    "id": "v_078a93b4",
-    "city": "sz",
+    "id": "SZ_ven_078a93b4",
+    "cityCode": "SZ",
     "name": "梅沙尖",
-    "lat": 22.58,
-    "lng": 114.3
+    "latitude": 22.58,
+    "longitude": 114.3,
+    "address": ""
   },
   {
-    "id": "v_bae83f9a",
+    "id": "SZ_ven_bae83f9a",
+    "cityCode": "SZ",
     "name": "光明虹桥公园",
-    "city": "sz",
-    "lat": 22.7475,
-    "lng": 113.9102
+    "latitude": 22.7475,
+    "longitude": 113.9102,
+    "address": ""
+  },
+  {
+    "id": "SZ_ven_3336cf45",
+    "cityCode": "SZ",
+    "name": "K11 HACC文化空间",
+    "latitude": 22.5372,
+    "longitude": 113.948,
+    "address": ""
+  },
+  {
+    "id": "SZ_ven_3be7c89d",
+    "cityCode": "SZ",
+    "name": "境在艺术馆(福田COCO Park)",
+    "latitude": 22.5405,
+    "longitude": 114.052,
+    "address": ""
+  },
+  {
+    "id": "SZ_ven_3884d36e",
+    "cityCode": "SZ",
+    "name": "莫高学堂(前海)",
+    "latitude": 22.53,
+    "longitude": 113.9,
+    "address": ""
+  },
+  {
+    "id": "SZ_ven_b2b9dd80",
+    "cityCode": "SZ",
+    "name": "鲘海·蓝湾综合体(深汕)",
+    "latitude": 22.85,
+    "longitude": 115.03,
+    "address": ""
+  },
+  {
+    "id": "SZ_ven_60778872",
+    "cityCode": "SZ",
+    "name": "KK TIME(罗湖)",
+    "latitude": 22.56,
+    "longitude": 114.13,
+    "address": ""
+  },
+  {
+    "id": "SZ_ven_38357826",
+    "cityCode": "SZ",
+    "name": "深圳东湖公园",
+    "latitude": 22.57,
+    "longitude": 114.13,
+    "address": ""
+  },
+  {
+    "id": "SZ_ven_bd6cc2d8",
+    "cityCode": "SZ",
+    "name": "四海公园自然教育中心",
+    "latitude": 22.52,
+    "longitude": 113.93,
+    "address": ""
   }
 ];

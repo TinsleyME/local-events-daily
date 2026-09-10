@@ -1,359 +1,426 @@
 window.APP_VENUES_XA = [
   {
-    "id": "v_d4d4a393",
-    "city": "xa",
+    "id": "XA_ven_d4d4a393",
+    "cityCode": "XA",
     "name": "陕西历史博物馆",
-    "lat": 34.2305,
-    "lng": 108.881
+    "latitude": 34.2305,
+    "longitude": 108.881,
+    "address": ""
   },
   {
-    "id": "v_de5d0b90",
-    "city": "xa",
+    "id": "XA_ven_de5d0b90",
+    "cityCode": "XA",
     "name": "陕西历史博物馆秦汉馆",
-    "lat": 34.33,
-    "lng": 108.95
+    "latitude": 34.33,
+    "longitude": 108.95,
+    "address": ""
   },
   {
-    "id": "v_227ea3ad",
-    "city": "xa",
+    "id": "XA_ven_227ea3ad",
+    "cityCode": "XA",
     "name": "长安画派艺术中心(陕西美术馆)",
-    "lat": 34.2627,
-    "lng": 108.9537
+    "latitude": 34.2627,
+    "longitude": 108.9537,
+    "address": ""
   },
   {
-    "id": "v_25f6a396",
-    "city": "xa",
+    "id": "XA_ven_25f6a396",
+    "cityCode": "XA",
     "name": "长安云·西安城市规划馆",
-    "lat": 34.267,
-    "lng": 108.95
+    "latitude": 34.267,
+    "longitude": 108.95,
+    "address": ""
   },
   {
-    "id": "v_678e1a3c",
-    "city": "xa",
+    "id": "XA_ven_678e1a3c",
+    "cityCode": "XA",
     "name": "西安美术馆",
-    "lat": 34.2187,
-    "lng": 108.966
+    "latitude": 34.2187,
+    "longitude": 108.966,
+    "address": ""
   },
   {
-    "id": "v_6ed0b70f",
-    "city": "xa",
+    "id": "XA_ven_6ed0b70f",
+    "cityCode": "XA",
     "name": "MOMOPARK MOMO·美术馆",
-    "lat": 34.232,
-    "lng": 108.941
+    "latitude": 34.232,
+    "longitude": 108.941,
+    "address": ""
   },
   {
-    "id": "v_d4bd76b6",
-    "city": "xa",
+    "id": "XA_ven_d4bd76b6",
+    "cityCode": "XA",
     "name": "西仓市集文创公园",
-    "lat": 34.271,
-    "lng": 108.939
+    "latitude": 34.271,
+    "longitude": 108.939,
+    "address": ""
   },
   {
-    "id": "v_19d74e15",
-    "city": "xa",
+    "id": "XA_ven_19d74e15",
+    "cityCode": "XA",
     "name": "西安美术学院美术馆",
-    "lat": 34.245,
-    "lng": 108.99
+    "latitude": 34.245,
+    "longitude": 108.99,
+    "address": ""
   },
   {
-    "id": "v_9042b034",
-    "city": "xa",
+    "id": "XA_ven_9042b034",
+    "cityCode": "XA",
     "name": "南湖美术馆",
-    "lat": 34.213,
-    "lng": 108.955
+    "latitude": 34.213,
+    "longitude": 108.955,
+    "address": ""
   },
   {
-    "id": "v_4b125a64",
-    "city": "xa",
+    "id": "XA_ven_4b125a64",
+    "cityCode": "XA",
     "name": "陕西省美术博物馆",
-    "lat": 34.247,
-    "lng": 108.96
+    "latitude": 34.247,
+    "longitude": 108.96,
+    "address": ""
   },
   {
-    "id": "v_f0e6bb87",
-    "city": "xa",
+    "id": "XA_ven_f0e6bb87",
+    "cityCode": "XA",
     "name": "西安SKP",
-    "lat": 34.257,
-    "lng": 108.947
+    "latitude": 34.257,
+    "longitude": 108.947,
+    "address": ""
   },
   {
-    "id": "v_8fbd22b3",
-    "city": "xa",
+    "id": "XA_ven_8fbd22b3",
+    "cityCode": "XA",
     "name": "山灰艺术社区",
-    "lat": 34.24,
-    "lng": 108.92
+    "latitude": 34.24,
+    "longitude": 108.92,
+    "address": ""
   },
   {
-    "id": "v_b366b6cb",
-    "city": "xa",
+    "id": "XA_ven_b366b6cb",
+    "cityCode": "XA",
     "name": "未来之瞳西安大剧院",
-    "lat": 34.19,
-    "lng": 108.87
+    "latitude": 34.19,
+    "longitude": 108.87,
+    "address": ""
   },
   {
-    "id": "v_6ef94e27",
-    "city": "xa",
+    "id": "XA_ven_6ef94e27",
+    "cityCode": "XA",
     "name": "西安市城市影像博物馆",
-    "lat": 34.26,
-    "lng": 108.96
+    "latitude": 34.26,
+    "longitude": 108.96,
+    "address": ""
   },
   {
-    "id": "v_e31c502d",
-    "city": "xa",
+    "id": "XA_ven_e31c502d",
+    "cityCode": "XA",
     "name": "西安浐灞丝路国际文化艺术中心美术馆",
-    "lat": 34.32,
-    "lng": 109.04
+    "latitude": 34.32,
+    "longitude": 109.04,
+    "address": ""
   },
   {
-    "id": "v_e51455d2",
-    "city": "xa",
+    "id": "XA_ven_e51455d2",
+    "cityCode": "XA",
     "name": "西安国际会展中心",
-    "lat": 34.31,
-    "lng": 109.035
+    "latitude": 34.31,
+    "longitude": 109.035,
+    "address": ""
   },
   {
-    "id": "v_0f3d4524",
-    "city": "xa",
+    "id": "XA_ven_0f3d4524",
+    "cityCode": "XA",
     "name": "西安大悦城",
-    "lat": 34.218,
-    "lng": 108.97
+    "latitude": 34.218,
+    "longitude": 108.97,
+    "address": ""
   },
   {
-    "id": "v_1f8cf02e",
-    "city": "xa",
+    "id": "XA_ven_1f8cf02e",
+    "cityCode": "XA",
     "name": "西安万象天地",
-    "lat": 34.23,
-    "lng": 108.92
+    "latitude": 34.23,
+    "longitude": 108.92,
+    "address": ""
   },
   {
-    "id": "v_1d65be52",
-    "city": "xa",
+    "id": "XA_ven_1d65be52",
+    "cityCode": "XA",
     "name": "王府井Discovery(永宁门店)",
-    "lat": 34.255,
-    "lng": 108.946
+    "latitude": 34.255,
+    "longitude": 108.946,
+    "address": ""
   },
   {
-    "id": "v_05310055",
-    "city": "xa",
+    "id": "XA_ven_05310055",
+    "cityCode": "XA",
     "name": "四海唐人街",
-    "lat": 34.28,
-    "lng": 108.97
+    "latitude": 34.28,
+    "longitude": 108.97,
+    "address": ""
   },
   {
-    "id": "v_a4156de4",
-    "city": "xa",
+    "id": "XA_ven_a4156de4",
+    "cityCode": "XA",
     "name": "西安大都荟",
-    "lat": 34.24,
-    "lng": 108.91
+    "latitude": 34.24,
+    "longitude": 108.91,
+    "address": ""
   },
   {
-    "id": "v_e47fca0d",
-    "city": "xa",
+    "id": "XA_ven_e47fca0d",
+    "cityCode": "XA",
     "name": "西安环贸中心(ICC)",
-    "lat": 34.23,
-    "lng": 108.95
+    "latitude": 34.23,
+    "longitude": 108.95,
+    "address": ""
   },
   {
-    "id": "v_2c1378fa",
-    "city": "xa",
+    "id": "XA_ven_2c1378fa",
+    "cityCode": "XA",
     "name": "曲江银泰百货",
-    "lat": 34.215,
-    "lng": 108.965
+    "latitude": 34.215,
+    "longitude": 108.965,
+    "address": ""
   },
   {
-    "id": "v_ce488de0",
-    "city": "xa",
+    "id": "XA_ven_ce488de0",
+    "cityCode": "XA",
     "name": "西安万象城",
-    "lat": 34.235,
-    "lng": 108.93
+    "latitude": 34.235,
+    "longitude": 108.93,
+    "address": ""
   },
   {
-    "id": "v_aaa603fd",
-    "city": "xa",
+    "id": "XA_ven_aaa603fd",
+    "cityCode": "XA",
     "name": "西影风雷年代影视基地",
-    "lat": 34.24,
-    "lng": 108.93
+    "latitude": 34.24,
+    "longitude": 108.93,
+    "address": ""
   },
   {
-    "id": "v_3d50753b",
-    "city": "xa",
+    "id": "XA_ven_3d50753b",
+    "cityCode": "XA",
     "name": "西安方所",
-    "lat": 34.27,
-    "lng": 108.93
+    "latitude": 34.27,
+    "longitude": 108.93,
+    "address": ""
   },
   {
-    "id": "v_574f2783",
-    "city": "xa",
+    "id": "XA_ven_574f2783",
+    "cityCode": "XA",
     "name": "国家大学科创园孵化基地",
-    "lat": 34.235,
-    "lng": 108.96
+    "latitude": 34.235,
+    "longitude": 108.96,
+    "address": ""
   },
   {
-    "id": "v_7459f9e2",
-    "city": "xa",
+    "id": "XA_ven_7459f9e2",
+    "cityCode": "XA",
     "name": "西安鹏瑞利知智照护家园",
-    "lat": 34.25,
-    "lng": 108.94
+    "latitude": 34.25,
+    "longitude": 108.94,
+    "address": ""
   },
   {
-    "id": "v_80dea29d",
-    "city": "xa",
+    "id": "XA_ven_80dea29d",
+    "cityCode": "XA",
     "name": "西安创新设计中心",
-    "lat": 34.25,
-    "lng": 108.96
+    "latitude": 34.25,
+    "longitude": 108.96,
+    "address": ""
   },
   {
-    "id": "v_e3d73497",
-    "city": "xa",
+    "id": "XA_ven_e3d73497",
+    "cityCode": "XA",
     "name": "西安阳光国际大酒店",
-    "lat": 34.27,
-    "lng": 108.96
+    "latitude": 34.27,
+    "longitude": 108.96,
+    "address": ""
   },
   {
-    "id": "v_0e738916",
-    "city": "xa",
+    "id": "XA_ven_0e738916",
+    "cityCode": "XA",
     "name": "西安奥体中心体育场",
-    "lat": 34.29,
-    "lng": 109.03
+    "latitude": 34.29,
+    "longitude": 109.03,
+    "address": ""
   },
   {
-    "id": "v_685a2dd4",
-    "city": "xa",
+    "id": "XA_ven_685a2dd4",
+    "cityCode": "XA",
     "name": "西安奥体中心体育馆",
-    "lat": 34.288,
-    "lng": 109.028
+    "latitude": 34.288,
+    "longitude": 109.028,
+    "address": ""
   },
   {
-    "id": "v_53962c12",
-    "city": "xa",
+    "id": "XA_ven_53962c12",
+    "cityCode": "XA",
     "name": "曲江竞技中心",
-    "lat": 34.2,
-    "lng": 108.98
+    "latitude": 34.2,
+    "longitude": 108.98,
+    "address": ""
   },
   {
-    "id": "v_61ea3a45",
-    "city": "xa",
+    "id": "XA_ven_61ea3a45",
+    "cityCode": "XA",
     "name": "陕西广电大剧院",
-    "lat": 34.25,
-    "lng": 108.92
+    "latitude": 34.25,
+    "longitude": 108.92,
+    "address": ""
   },
   {
-    "id": "v_ce6de991",
-    "city": "xa",
+    "id": "XA_ven_ce6de991",
+    "cityCode": "XA",
     "name": "西演SPACE·塞斯拾拾",
-    "lat": 34.27,
-    "lng": 108.94
+    "latitude": 34.27,
+    "longitude": 108.94,
+    "address": ""
   },
   {
-    "id": "v_f4f28961",
-    "city": "xa",
+    "id": "XA_ven_f4f28961",
+    "cityCode": "XA",
     "name": "光圈CLUB",
-    "lat": 34.27,
-    "lng": 108.94
+    "latitude": 34.27,
+    "longitude": 108.94,
+    "address": ""
   },
   {
-    "id": "v_c4fad1c3",
-    "city": "xa",
+    "id": "XA_ven_c4fad1c3",
+    "cityCode": "XA",
     "name": "西安人民剧院",
-    "lat": 34.27,
-    "lng": 108.95
+    "latitude": 34.27,
+    "longitude": 108.95,
+    "address": ""
   },
   {
-    "id": "v_e2213bf1",
-    "city": "xa",
+    "id": "XA_ven_e2213bf1",
+    "cityCode": "XA",
     "name": "陕西省民间艺术剧院",
-    "lat": 34.27,
-    "lng": 108.95
+    "latitude": 34.27,
+    "longitude": 108.95,
+    "address": ""
   },
   {
-    "id": "v_09511389",
-    "city": "xa",
+    "id": "XA_ven_09511389",
+    "cityCode": "XA",
     "name": "陕西中太天恩艺术剧院",
-    "lat": 34.27,
-    "lng": 108.95
+    "latitude": 34.27,
+    "longitude": 108.95,
+    "address": ""
   },
   {
-    "id": "v_12a92e77",
-    "city": "xa",
+    "id": "XA_ven_12a92e77",
+    "cityCode": "XA",
     "name": "西安千古情景区",
-    "lat": 34.23,
-    "lng": 109
+    "latitude": 34.23,
+    "longitude": 109,
+    "address": ""
   },
   {
-    "id": "v_7a3a1694",
-    "city": "xa",
+    "id": "XA_ven_7a3a1694",
+    "cityCode": "XA",
     "name": "西安浐灞保利大剧院",
-    "lat": 34.32,
-    "lng": 109.04
+    "latitude": 34.32,
+    "longitude": 109.04,
+    "address": ""
   },
   {
-    "id": "v_c3b787f1",
-    "city": "xa",
+    "id": "XA_ven_c3b787f1",
+    "cityCode": "XA",
     "name": "西安砂之船奥特莱斯UME影城",
-    "lat": 34.27,
-    "lng": 108.97
+    "latitude": 34.27,
+    "longitude": 108.97,
+    "address": ""
   },
   {
-    "id": "v_6a1737c8",
-    "city": "xa",
+    "id": "XA_ven_6a1737c8",
+    "cityCode": "XA",
     "name": "西安国际陆港影视传媒",
-    "lat": 34.31,
-    "lng": 109.03
+    "latitude": 34.31,
+    "longitude": 109.03,
+    "address": ""
   },
   {
-    "id": "v_47aaf3d9",
-    "city": "xa",
+    "id": "XA_ven_47aaf3d9",
+    "cityCode": "XA",
     "name": "西安话剧院新城剧场",
-    "lat": 34.27,
-    "lng": 108.945
+    "latitude": 34.27,
+    "longitude": 108.945,
+    "address": ""
   },
   {
-    "id": "v_811cc85c",
-    "city": "xa",
+    "id": "XA_ven_811cc85c",
+    "cityCode": "XA",
     "name": "西安奥斯卡阳光国际影城(长安)",
-    "lat": 34.17,
-    "lng": 108.88
+    "latitude": 34.17,
+    "longitude": 108.88,
+    "address": ""
   },
   {
-    "id": "v_083ebc6c",
-    "city": "xa",
+    "id": "XA_ven_083ebc6c",
+    "cityCode": "XA",
     "name": "陕西大剧院",
-    "lat": 34.218,
-    "lng": 108.965
+    "latitude": 34.218,
+    "longitude": 108.965,
+    "address": ""
   },
   {
-    "id": "v_d60abff1",
-    "city": "xa",
+    "id": "XA_ven_d60abff1",
+    "cityCode": "XA",
     "name": "西安城墙(永宁门)",
-    "lat": 34.255,
-    "lng": 108.946
+    "latitude": 34.255,
+    "longitude": 108.946,
+    "address": ""
   },
   {
-    "id": "v_0341bea8",
-    "city": "xa",
+    "id": "XA_ven_0341bea8",
+    "cityCode": "XA",
     "name": "秦岭子午峪",
-    "lat": 34.05,
-    "lng": 108.88
+    "latitude": 34.05,
+    "longitude": 108.88,
+    "address": ""
   },
   {
-    "id": "v_85db3391",
-    "city": "xa",
+    "id": "XA_ven_85db3391",
+    "cityCode": "XA",
     "name": "蓝田焦岱大集",
-    "lat": 34.13,
-    "lng": 109.2
+    "latitude": 34.13,
+    "longitude": 109.2,
+    "address": ""
   },
   {
-    "id": "v_a2b78c6a",
-    "city": "xa",
+    "id": "XA_ven_a2b78c6a",
+    "cityCode": "XA",
     "name": "小南门早市",
-    "lat": 34.258,
-    "lng": 108.94
+    "latitude": 34.258,
+    "longitude": 108.94,
+    "address": ""
   },
   {
-    "id": "v_678d8c93",
-    "city": "xa",
+    "id": "XA_ven_678d8c93",
+    "cityCode": "XA",
     "name": "大唐西市·西市城",
-    "lat": 34.259,
-    "lng": 108.91
+    "latitude": 34.259,
+    "longitude": 108.91,
+    "address": ""
+  },
+  {
+    "id": "XA_ven_eb0b6b3f",
+    "cityCode": "XA",
+    "name": "西安碑林博物馆",
+    "latitude": 34.256435,
+    "longitude": 108.958691,
+    "address": ""
+  },
+  {
+    "id": "XA_ven_2ce27629",
+    "cityCode": "XA",
+    "name": "索菲特人民大厦大剧院",
+    "latitude": 34.268431,
+    "longitude": 108.954679,
+    "address": ""
   }
 ];

@@ -1,282 +1,338 @@
 window.APP_VENUES_CQ = [
   {
-    "id": "v_cq0001",
-    "city": "cq",
+    "id": "CQ_ven_cq0001",
+    "cityCode": "CQ",
     "name": "重庆美术馆",
-    "lat": 29.561,
-    "lng": 106.575
+    "latitude": 29.561,
+    "longitude": 106.575,
+    "address": ""
   },
   {
-    "id": "v_cq0002",
-    "city": "cq",
+    "id": "CQ_ven_cq0002",
+    "cityCode": "CQ",
     "name": "重庆中国三峡博物馆",
-    "lat": 29.5655,
-    "lng": 106.5512
+    "latitude": 29.5655,
+    "longitude": 106.5512,
+    "address": ""
   },
   {
-    "id": "v_cq0003",
-    "city": "cq",
+    "id": "CQ_ven_cq0003",
+    "cityCode": "CQ",
     "name": "重庆图书馆",
-    "lat": 29.5512,
-    "lng": 106.4597
+    "latitude": 29.5512,
+    "longitude": 106.4597,
+    "address": ""
   },
   {
-    "id": "v_cq0004",
-    "city": "cq",
+    "id": "CQ_ven_cq0004",
+    "cityCode": "CQ",
     "name": "重庆市少年儿童图书馆",
-    "lat": 29.5568,
-    "lng": 106.5578
+    "latitude": 29.5568,
+    "longitude": 106.5578,
+    "address": ""
   },
   {
-    "id": "v_cq0005",
-    "city": "cq",
+    "id": "CQ_ven_cq0005",
+    "cityCode": "CQ",
     "name": "重庆奥体中心体育场",
-    "lat": 29.5086,
-    "lng": 106.5122
+    "latitude": 29.5086,
+    "longitude": 106.5122,
+    "address": ""
   },
   {
-    "id": "v_cq0006",
-    "city": "cq",
+    "id": "CQ_ven_cq0006",
+    "cityCode": "CQ",
     "name": "重庆悦来国际博览中心",
-    "lat": 29.6598,
-    "lng": 106.605
+    "latitude": 29.6598,
+    "longitude": 106.605,
+    "address": ""
   },
   {
-    "id": "v_cq0007",
-    "city": "cq",
+    "id": "CQ_ven_cq0007",
+    "cityCode": "CQ",
     "name": "重庆国际会议展览中心(南坪)",
-    "lat": 29.533,
-    "lng": 106.5736
+    "latitude": 29.533,
+    "longitude": 106.5736,
+    "address": ""
   },
   {
-    "id": "v_cq0008",
-    "city": "cq",
+    "id": "CQ_ven_cq0008",
+    "cityCode": "CQ",
     "name": "中国重庆·科学会堂",
-    "lat": 29.619,
-    "lng": 106.49
+    "latitude": 29.619,
+    "longitude": 106.49,
+    "address": ""
   },
   {
-    "id": "v_cq0009",
-    "city": "cq",
+    "id": "CQ_ven_cq0009",
+    "cityCode": "CQ",
     "name": "华熙LIVE·润百颜ECM中心",
-    "lat": 29.3985,
-    "lng": 106.512
+    "latitude": 29.3985,
+    "longitude": 106.512,
+    "address": ""
   },
   {
-    "id": "v_cq0010",
-    "city": "cq",
+    "id": "CQ_ven_cq0010",
+    "cityCode": "CQ",
     "name": "大田湾全民健身广场",
-    "lat": 29.5522,
-    "lng": 106.5525
+    "latitude": 29.5522,
+    "longitude": 106.5525,
+    "address": ""
   },
   {
-    "id": "v_cq0011",
-    "city": "cq",
+    "id": "CQ_ven_cq0011",
+    "cityCode": "CQ",
     "name": "重庆龙兴足球场",
-    "lat": 29.7065,
-    "lng": 106.7668
+    "latitude": 29.7065,
+    "longitude": 106.7668,
+    "address": ""
   },
   {
-    "id": "v_cq0012",
-    "city": "cq",
+    "id": "CQ_ven_cq0012",
+    "cityCode": "CQ",
     "name": "铜梁龙体育场",
-    "lat": 29.839,
-    "lng": 106.055
+    "latitude": 29.839,
+    "longitude": 106.055,
+    "address": ""
   },
   {
-    "id": "v_cq0013",
-    "city": "cq",
+    "id": "CQ_ven_cq0013",
+    "cityCode": "CQ",
     "name": "璧山玉泉湖公园",
-    "lat": 29.592,
-    "lng": 106.235
+    "latitude": 29.592,
+    "longitude": 106.235,
+    "address": ""
   },
   {
-    "id": "v_cq0014",
-    "city": "cq",
+    "id": "CQ_ven_cq0014",
+    "cityCode": "CQ",
     "name": "武隆(山地户外运动)",
-    "lat": 29.323,
-    "lng": 107.759
+    "latitude": 29.323,
+    "longitude": 107.759,
+    "address": ""
   },
   {
-    "id": "v_cq0015",
-    "city": "cq",
+    "id": "CQ_ven_cq0015",
+    "cityCode": "CQ",
     "name": "重庆大剧院",
-    "lat": 29.5722,
-    "lng": 106.5832
+    "latitude": 29.5722,
+    "longitude": 106.5832,
+    "address": ""
   },
   {
-    "id": "v_cq0016",
-    "city": "cq",
+    "id": "CQ_ven_cq0016",
+    "cityCode": "CQ",
     "name": "重庆国泰艺术中心",
-    "lat": 29.5602,
-    "lng": 106.5721
+    "latitude": 29.5602,
+    "longitude": 106.5721,
+    "address": ""
   },
   {
-    "id": "v_cq0017",
-    "city": "cq",
+    "id": "CQ_ven_cq0017",
+    "cityCode": "CQ",
     "name": "北碚图书馆",
-    "lat": 29.8285,
-    "lng": 106.427
+    "latitude": 29.8285,
+    "longitude": 106.427,
+    "address": ""
   },
   {
-    "id": "v_cq0018",
-    "city": "cq",
+    "id": "CQ_ven_cq0018",
+    "cityCode": "CQ",
     "name": "北碚区文化馆",
-    "lat": 29.828,
-    "lng": 106.43
+    "latitude": 29.828,
+    "longitude": 106.43,
+    "address": ""
   },
   {
-    "id": "v_cq0019",
-    "city": "cq",
+    "id": "CQ_ven_cq0019",
+    "cityCode": "CQ",
     "name": "重庆印象城",
-    "lat": 29.5535,
-    "lng": 106.5535
+    "latitude": 29.5535,
+    "longitude": 106.5535,
+    "address": ""
   },
   {
-    "id": "v_cq0020",
-    "city": "cq",
+    "id": "CQ_ven_cq0020",
+    "cityCode": "CQ",
     "name": "重庆新天地·滨江广场",
-    "lat": 29.547,
-    "lng": 106.567
+    "latitude": 29.547,
+    "longitude": 106.567,
+    "address": ""
   },
   {
-    "id": "v_cq0021",
-    "city": "cq",
+    "id": "CQ_ven_cq0021",
+    "cityCode": "CQ",
     "name": "中央公园光环花园城",
-    "lat": 29.73,
-    "lng": 106.533
+    "latitude": 29.73,
+    "longitude": 106.533,
+    "address": ""
   },
   {
-    "id": "v_cq0022",
-    "city": "cq",
+    "id": "CQ_ven_cq0022",
+    "cityCode": "CQ",
     "name": "龙湖重庆金沙天街",
-    "lat": 29.603,
-    "lng": 106.452
+    "latitude": 29.603,
+    "longitude": 106.452,
+    "address": ""
   },
   {
-    "id": "v_cq0023",
-    "city": "cq",
+    "id": "CQ_ven_cq0023",
+    "cityCode": "CQ",
     "name": "山城巷历史文化街区",
-    "lat": 29.546,
-    "lng": 106.565
+    "latitude": 29.546,
+    "longitude": 106.565,
+    "address": ""
   },
   {
-    "id": "v_cq0024",
-    "city": "cq",
+    "id": "CQ_ven_cq0024",
+    "cityCode": "CQ",
     "name": "南滨路",
-    "lat": 29.533,
-    "lng": 106.585
+    "latitude": 29.533,
+    "longitude": 106.585,
+    "address": ""
   },
   {
-    "id": "v_cq0025",
-    "city": "cq",
+    "id": "CQ_ven_cq0025",
+    "cityCode": "CQ",
     "name": "两江新区空港佳园广场",
-    "lat": 29.72,
-    "lng": 106.63
+    "latitude": 29.72,
+    "longitude": 106.63,
+    "address": ""
   },
   {
-    "id": "v_cq0026",
-    "city": "cq",
+    "id": "CQ_ven_cq0026",
+    "cityCode": "CQ",
     "name": "南滨路海棠烟雨园",
-    "lat": 29.54,
-    "lng": 106.59
+    "latitude": 29.54,
+    "longitude": 106.59,
+    "address": ""
   },
   {
-    "id": "v_cq0027",
-    "city": "cq",
+    "id": "CQ_ven_cq0027",
+    "cityCode": "CQ",
     "name": "大学城熙街中心广场",
-    "lat": 29.607,
-    "lng": 106.472
+    "latitude": 29.607,
+    "longitude": 106.472,
+    "address": ""
   },
   {
-    "id": "v_cq0028",
-    "city": "cq",
+    "id": "CQ_ven_cq0028",
+    "cityCode": "CQ",
     "name": "西部科学城种质创制大科学中心",
-    "lat": 29.62,
-    "lng": 106.49
+    "latitude": 29.62,
+    "longitude": 106.49,
+    "address": ""
   },
   {
-    "id": "v_cq0029",
-    "city": "cq",
+    "id": "CQ_ven_cq0029",
+    "cityCode": "CQ",
     "name": "稻香云谷农场",
-    "lat": 29.79,
-    "lng": 106.42
+    "latitude": 29.79,
+    "longitude": 106.42,
+    "address": ""
   },
   {
-    "id": "v_cq0030",
-    "city": "cq",
+    "id": "CQ_ven_cq0030",
+    "cityCode": "CQ",
     "name": "渝中区图书馆",
-    "lat": 29.556,
-    "lng": 106.57
+    "latitude": 29.556,
+    "longitude": 106.57,
+    "address": ""
   },
   {
-    "id": "v_cq0031",
-    "city": "cq",
+    "id": "CQ_ven_cq0031",
+    "cityCode": "CQ",
     "name": "重庆市群众艺术馆",
-    "lat": 29.548,
-    "lng": 106.555
+    "latitude": 29.548,
+    "longitude": 106.555,
+    "address": ""
   },
   {
-    "id": "v_cq0032",
-    "city": "cq",
+    "id": "CQ_ven_cq0032",
+    "cityCode": "CQ",
     "name": "重庆TCITY桃源天地",
-    "lat": 29.715,
-    "lng": 106.64
+    "latitude": 29.715,
+    "longitude": 106.64,
+    "address": ""
   },
   {
-    "id": "v_cq0033",
-    "city": "cq",
+    "id": "CQ_ven_cq0033",
+    "cityCode": "CQ",
     "name": "重庆动物园",
-    "lat": 29.5,
-    "lng": 106.527
+    "latitude": 29.5,
+    "longitude": 106.527,
+    "address": ""
   },
   {
-    "id": "v_cq0034",
-    "city": "cq",
+    "id": "CQ_ven_cq0034",
+    "cityCode": "CQ",
     "name": "重庆欢乐谷",
-    "lat": 29.671,
-    "lng": 106.607
+    "latitude": 29.671,
+    "longitude": 106.607,
+    "address": ""
   },
   {
-    "id": "v_cq0035",
-    "city": "cq",
+    "id": "CQ_ven_cq0035",
+    "cityCode": "CQ",
     "name": "解放碑",
-    "lat": 29.559,
-    "lng": 106.578
+    "latitude": 29.559,
+    "longitude": 106.578,
+    "address": ""
   },
   {
-    "id": "v_cq0036",
-    "city": "cq",
+    "id": "CQ_ven_cq0036",
+    "cityCode": "CQ",
     "name": "洪崖洞",
-    "lat": 29.563,
-    "lng": 106.579
+    "latitude": 29.563,
+    "longitude": 106.579,
+    "address": ""
   },
   {
-    "id": "v_cq0037",
-    "city": "cq",
+    "id": "CQ_ven_cq0037",
+    "cityCode": "CQ",
     "name": "磁器口古镇",
-    "lat": 29.586,
-    "lng": 106.456
+    "latitude": 29.586,
+    "longitude": 106.456,
+    "address": ""
   },
   {
-    "id": "v_cq0038",
-    "city": "cq",
+    "id": "CQ_ven_cq0038",
+    "cityCode": "CQ",
     "name": "长江索道",
-    "lat": 29.565,
-    "lng": 106.585
+    "latitude": 29.565,
+    "longitude": 106.585,
+    "address": ""
   },
   {
-    "id": "v_cq0039",
-    "city": "cq",
+    "id": "CQ_ven_cq0039",
+    "cityCode": "CQ",
     "name": "李子坝",
-    "lat": 29.553,
-    "lng": 106.544
+    "latitude": 29.553,
+    "longitude": 106.544,
+    "address": ""
   },
   {
-    "id": "v_cq0040",
-    "city": "cq",
+    "id": "CQ_ven_cq0040",
+    "cityCode": "CQ",
     "name": "渝中区两路口街道社区",
-    "lat": 29.548,
-    "lng": 106.555
+    "latitude": 29.548,
+    "longitude": 106.555,
+    "address": ""
+  },
+  {
+    "id": "CQ_ven_f6530501",
+    "cityCode": "CQ",
+    "name": "星耀天地",
+    "latitude": 29.58513,
+    "longitude": 106.573695,
+    "address": ""
+  },
+  {
+    "id": "CQ_ven_90ed4ccd",
+    "cityCode": "CQ",
+    "name": "重庆来福士",
+    "latitude": 29.561112,
+    "longitude": 106.583687,
+    "address": ""
   }
 ];
