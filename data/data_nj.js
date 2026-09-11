@@ -7,312 +7,6 @@ window.APP_DATA = {
   },
   "events": [
     {
-      "id": "NJ_evt_9a6941",
-      "cityCode": "NJ",
-      "categoryId": "show",
-      "name": "华晨宇 2026 火星演唱会南京站",
-      "venueId": "NJ_ven_3d24271b",
-      "venueText": "汤山音乐谷",
-      "dateText": "9.25-27、10.2-6",
-      "startDate": "2026-09-25",
-      "endDate": "2026-10-06",
-      "costId": "paid",
-      "priceText": "",
-      "description": "汤山音乐谷。",
-      "sourceUrl": "https://www.bing.com/search?q=%E5%8D%8E%E6%99%A8%E5%AE%87%202026%20%E7%81%AB%E6%98%9F%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%97%E4%BA%AC%E7%AB%99%20%E5%8D%97%E4%BA%AC%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "NJ_evt_5e9d35",
-      "cityCode": "NJ",
-      "categoryId": "show",
-      "name": "周杰伦「爱在南京」演唱会",
-      "venueId": "NJ_ven_d1340102",
-      "venueText": "南京奥体中心",
-      "dateText": "9.24-9.26",
-      "startDate": "2026-09-24",
-      "endDate": "2026-09-26",
-      "costId": "paid",
-      "priceText": "",
-      "description": "南京奥体中心。",
-      "sourceUrl": "https://www.bing.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E3%80%8C%E7%88%B1%E5%9C%A8%E5%8D%97%E4%BA%AC%E3%80%8D%E6%BC%94%E5%94%B1%E4%BC%9A%20%E5%8D%97%E4%BA%AC%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "NJ_evt_6063e2",
-      "cityCode": "NJ",
-      "categoryId": "show",
-      "name": "郭富城 2026 演唱会南京站",
-      "venueId": "NJ_ven_9abb5907",
-      "venueText": "梦之蓝青奥体育公园体育馆",
-      "dateText": "9.19",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "costId": "paid",
-      "priceText": "",
-      "description": "梦之蓝青奥体育公园体育馆。",
-      "sourceUrl": "https://www.bing.com/search?q=%E9%83%AD%E5%AF%8C%E5%9F%8E%202026%20%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%97%E4%BA%AC%E7%AB%99%20%E5%8D%97%E4%BA%AC%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "NJ_evt_655a6d",
-      "cityCode": "NJ",
-      "categoryId": "show",
-      "name": "张云雷 2026 巡演南京站",
-      "venueId": "NJ_ven_9abb5907",
-      "venueText": "梦之蓝青奥体育公园体育馆",
-      "dateText": "9.19",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "costId": "paid",
-      "priceText": "",
-      "description": "梦之蓝青奥体育公园体育馆。",
-      "sourceUrl": "https://www.bing.com/search?q=%E5%BC%A0%E4%BA%91%E9%9B%B7%202026%20%E5%B7%A1%E6%BC%94%E5%8D%97%E4%BA%AC%E7%AB%99%20%E5%8D%97%E4%BA%AC%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "NJ_evt_386706",
-      "cityCode": "NJ",
-      "categoryId": "show",
-      "name": "张靓颖 2026 演唱会南京站",
-      "venueId": "NJ_ven_9abb5907",
-      "venueText": "梦之蓝青奥体育公园体育馆",
-      "dateText": "9.26",
-      "startDate": "2026-09-26",
-      "endDate": "2026-09-26",
-      "costId": "paid",
-      "priceText": "",
-      "description": "梦之蓝青奥体育公园体育馆。",
-      "sourceUrl": "https://www.bing.com/search?q=%E5%BC%A0%E9%9D%93%E9%A2%96%202026%20%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%97%E4%BA%AC%E7%AB%99%20%E5%8D%97%E4%BA%AC%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "NJ_evt_ff81d0",
-      "cityCode": "NJ",
-      "categoryId": "show",
-      "name": "那英 2026 巡回演唱会南京站",
-      "venueId": "NJ_ven_9abb5907",
-      "venueText": "梦之蓝青奥体育公园体育馆",
-      "dateText": "9.12",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-12",
-      "costId": "paid",
-      "priceText": "",
-      "description": "梦之蓝青奥体育公园体育馆。",
-      "sourceUrl": "https://www.bing.com/search?q=%E9%82%A3%E8%8B%B1%202026%20%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%97%E4%BA%AC%E7%AB%99%20%E5%8D%97%E4%BA%AC%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "NJ_evt_d7f9f0",
-      "cityCode": "NJ",
-      "categoryId": "show",
-      "name": "门尼 2026 巡演南京站",
-      "venueId": "NJ_ven_9abb5907",
-      "venueText": "梦之蓝青奥体育公园体育馆",
-      "dateText": "9.12",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-12",
-      "costId": "paid",
-      "priceText": "",
-      "description": "梦之蓝青奥体育公园体育馆。",
-      "sourceUrl": "https://www.bing.com/search?q=%E9%97%A8%E5%B0%BC%202026%20%E5%B7%A1%E6%BC%94%E5%8D%97%E4%BA%AC%E7%AB%99%20%E5%8D%97%E4%BA%AC%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "NJ_evt_9d2c6c",
-      "cityCode": "NJ",
-      "categoryId": "show",
-      "name": "周华健 2026 巡回演唱会南京站",
-      "venueId": "NJ_ven_9abb5907",
-      "venueText": "梦之蓝青奥体育公园体育馆",
-      "dateText": "10.3-10.4",
-      "startDate": "2026-10-03",
-      "endDate": "2026-10-04",
-      "costId": "paid",
-      "priceText": "",
-      "description": "梦之蓝青奥体育公园体育馆。",
-      "sourceUrl": "https://www.bing.com/search?q=%E5%91%A8%E5%8D%8E%E5%81%A5%202026%20%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%97%E4%BA%AC%E7%AB%99%20%E5%8D%97%E4%BA%AC%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "NJ_evt_e286ae",
-      "cityCode": "NJ",
-      "categoryId": "show",
-      "name": "南京莱斯音乐节",
-      "venueId": "NJ_ven_9910bca2",
-      "venueText": "幕燕滨江上元门音乐草坪",
-      "dateText": "9.26-9.27",
-      "startDate": "2026-09-26",
-      "endDate": "2026-09-27",
-      "costId": "paid",
-      "priceText": "",
-      "description": "幕燕滨江上元门音乐草坪。",
-      "sourceUrl": "https://www.bing.com/search?q=%E5%8D%97%E4%BA%AC%E8%8E%B1%E6%96%AF%E9%9F%B3%E4%B9%90%E8%8A%82%20%E5%8D%97%E4%BA%AC%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "NJ_evt_6a236e",
-      "cityCode": "NJ",
-      "categoryId": "show",
-      "name": "越位音乐节",
-      "venueId": "NJ_ven_19711d14",
-      "venueText": "南京四方美术馆",
-      "dateText": "9.25-9.26",
-      "startDate": "2026-09-25",
-      "endDate": "2026-09-26",
-      "costId": "paid",
-      "priceText": "",
-      "description": "南京四方美术馆。",
-      "sourceUrl": "https://www.bing.com/search?q=%E8%B6%8A%E4%BD%8D%E9%9F%B3%E4%B9%90%E8%8A%82%20%E5%8D%97%E4%BA%AC%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "NJ_evt_0925e4",
-      "cityCode": "NJ",
-      "categoryId": "sports",
-      "name": "江苏省城市足球联赛（南京赛区）",
-      "venueId": "NJ_ven_d1340102",
-      "venueText": "南京奥体中心",
-      "dateText": "9.12",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-12",
-      "costId": "paid",
-      "priceText": "",
-      "description": "南京奥体中心。",
-      "sourceUrl": "https://www.bing.com/search?q=%E6%B1%9F%E8%8B%8F%E7%9C%81%E5%9F%8E%E5%B8%82%E8%B6%B3%E7%90%83%E8%81%94%E8%B5%9B%EF%BC%88%E5%8D%97%E4%BA%AC%E8%B5%9B%E5%8C%BA%EF%BC%89%20%E5%8D%97%E4%BA%AC%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "NJ_evt_dacdda",
-      "cityCode": "NJ",
-      "categoryId": "sports",
-      "name": "世界华人狮王争霸赛",
-      "venueId": "NJ_ven_a8fb63c5",
-      "venueText": "高淳老街",
-      "dateText": "9.25-9.28",
-      "startDate": "2026-09-25",
-      "endDate": "2026-09-28",
-      "costId": "free",
-      "priceText": "",
-      "description": "高淳老街狮王争霸赛。",
-      "sourceUrl": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E5%8D%8E%E4%BA%BA%E7%8B%AE%E7%8E%8B%E4%BA%89%E9%9C%B8%E8%B5%9B%20%E5%8D%97%E4%BA%AC%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "NJ_evt_b8319c",
-      "cityCode": "NJ",
-      "categoryId": "expo",
-      "name": "宁宠会宠物展",
-      "venueId": "NJ_ven_bbcc7d81",
-      "venueText": "南京国际展览中心",
-      "dateText": "9.25-9.27",
-      "startDate": "2026-09-25",
-      "endDate": "2026-09-27",
-      "costId": "paid",
-      "priceText": "",
-      "description": "南京国际展览中心宠物展。",
-      "sourceUrl": "https://www.bing.com/search?q=%E5%AE%81%E5%AE%A0%E4%BC%9A%E5%AE%A0%E7%89%A9%E5%B1%95%20%E5%8D%97%E4%BA%AC%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "NJ_evt_723028",
-      "cityCode": "NJ",
-      "categoryId": "expo",
-      "name": "2026 南京汽车展",
-      "venueId": "NJ_ven_30752729",
-      "venueText": "南京国际博览中心",
-      "dateText": "9.30-10.4",
-      "startDate": "2026-09-30",
-      "endDate": "2026-10-04",
-      "costId": "paid",
-      "priceText": "",
-      "description": "南京国际博览中心汽车展。",
-      "sourceUrl": "https://www.bing.com/search?q=2026%20%E5%8D%97%E4%BA%AC%E6%B1%BD%E8%BD%A6%E5%B1%95%20%E5%8D%97%E4%BA%AC%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "NJ_evt_13578f",
-      "cityCode": "NJ",
-      "categoryId": "sports",
-      "name": "大学生国际赛艇挑战赛",
-      "venueId": "NJ_ven_bd01ee31",
-      "venueText": "外秦淮河(南艺后街)",
-      "dateText": "9.12-9.13",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-13",
-      "costId": "free",
-      "priceText": "",
-      "description": "外秦淮河(南艺后街)赛艇赛。",
-      "sourceUrl": "https://www.bing.com/search?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%BD%E9%99%85%E8%B5%9B%E8%89%87%E6%8C%91%E6%88%98%E8%B5%9B%20%E5%8D%97%E4%BA%AC%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "NJ_evt_0d3885",
-      "cityCode": "NJ",
-      "categoryId": "sports",
-      "name": "环太湖自行车赛（南京段）",
-      "venueId": "NJ_ven_660d33da",
-      "venueText": "江宁园博园",
-      "dateText": "9.12",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-12",
-      "costId": "free",
-      "priceText": "",
-      "description": "江宁园博园自行车赛。",
-      "sourceUrl": "https://www.bing.com/search?q=%E7%8E%AF%E5%A4%AA%E6%B9%96%E8%87%AA%E8%A1%8C%E8%BD%A6%E8%B5%9B%EF%BC%88%E5%8D%97%E4%BA%AC%E6%AE%B5%EF%BC%89%20%E5%8D%97%E4%BA%AC%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "NJ_evt_0907b6",
-      "cityCode": "NJ",
-      "categoryId": "show",
-      "name": "江豚音乐节",
-      "venueId": "NJ_ven_c6769763",
-      "venueText": "江心洲",
-      "dateText": "10.4-10.5",
-      "startDate": "2026-10-04",
-      "endDate": "2026-10-05",
-      "costId": "paid",
-      "priceText": "",
-      "description": "江心洲江豚音乐节。",
-      "sourceUrl": "https://www.bing.com/search?q=%E6%B1%9F%E8%B1%9A%E9%9F%B3%E4%B9%90%E8%8A%82%20%E5%8D%97%E4%BA%AC%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
       "id": "NJ_evt_1a8f8d",
       "cityCode": "NJ",
       "categoryId": "show",
@@ -323,12 +17,12 @@ window.APP_DATA = {
       "startDate": "2026-09-25",
       "endDate": "2026-09-26",
       "costId": "paid",
-      "priceText": "待定",
+      "priceText": "328-558元",
       "description": "落地浦口四方艺术湖区的两天音乐节，纳入南京“乐享1+3”金秋文旅票根优惠体系。",
       "sourceUrl": "https://wlj.nanjing.gov.cn/whyw/202608/t20260821_5897660.html",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_bc4c78",
@@ -604,11 +298,12 @@ window.APP_DATA = {
       "startDate": "2026-09-12",
       "endDate": "2027-01-30",
       "costId": "paid",
+      "priceText": "9.9-99元（早鸟单人59/双人99）",
       "description": "以赫本生平与时尚为主题，含影像、戏服与跨界艺术装置。",
       "sourceUrl": "https://www.nanjing.gov.cn/",
       "tagName": "赫本",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_ad43e0",
@@ -621,11 +316,12 @@ window.APP_DATA = {
       "startDate": "2026-09-11",
       "endDate": "2026-10-30",
       "costId": "paid",
+      "priceText": "39-79元",
       "description": "百人共创编织展与沉浸式艺术疗愈工作坊、美学市集结合。",
       "sourceUrl": "https://www.nanjing.gov.cn/",
       "tagName": "编织",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_600ed2",
@@ -655,11 +351,12 @@ window.APP_DATA = {
       "startDate": "2026-08-07",
       "endDate": "2026-10-18",
       "costId": "paid",
+      "priceText": "39元起",
       "description": "当代影像艺术家蒋志个展，以“情书”为题探讨情感与媒介。",
       "sourceUrl": "https://www.nanjing.gov.cn/",
       "tagName": "影像",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_9d412a",
@@ -706,11 +403,12 @@ window.APP_DATA = {
       "startDate": "2026-06-05",
       "endDate": "2026-11-20",
       "costId": "paid",
+      "priceText": "29-99元（早鸟29元起）",
       "description": "机械恐龙与化石结合的科普特展，适合亲子参观。",
       "sourceUrl": "https://www.nanjing.gov.cn/",
       "tagName": "恐龙",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_406e01",
@@ -723,12 +421,13 @@ window.APP_DATA = {
       "startDate": "2026-09-12",
       "endDate": "2026-09-12",
       "costId": "paid",
+      "priceText": "380-1380元",
       "description": "那英2026巡回演唱会南京站，经典金曲现场呈现。",
       "sourceUrl": "https://www.thepaper.cn/newsDetail_forward_33684303",
       "tagName": "演唱会",
       "celebrity": "那英",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_7430ff",
@@ -741,12 +440,13 @@ window.APP_DATA = {
       "startDate": "2026-09-19",
       "endDate": "2026-09-19",
       "costId": "paid",
+      "priceText": "480-1680元",
       "description": "郭富城ICONIC世界巡回演唱会南京站，舞美与金曲盛宴。",
       "sourceUrl": "https://www.thepaper.cn/newsDetail_forward_33684303",
       "tagName": "演唱会",
       "celebrity": "郭富城",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_f40917",
@@ -759,12 +459,13 @@ window.APP_DATA = {
       "startDate": "2026-09-19",
       "endDate": "2026-09-19",
       "costId": "paid",
+      "priceText": "380-1780元",
       "description": "张云雷全新舞台美学重构距离的巡回演唱会南京站。",
       "sourceUrl": "https://www.dahepiao.com/yc/ymsnnjych",
       "tagName": "演唱会",
       "celebrity": "张云雷",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_05ac62",
@@ -777,12 +478,13 @@ window.APP_DATA = {
       "startDate": "2026-09-24",
       "endDate": "2026-09-26",
       "costId": "paid",
+      "priceText": "580-2380元",
       "description": "周杰伦世界巡回演唱会南京站，中秋万人大合唱。",
       "sourceUrl": "https://www.thepaper.cn/newsDetail_forward_33684303",
       "tagName": "演唱会",
       "celebrity": "周杰伦",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_18307e",
@@ -795,12 +497,13 @@ window.APP_DATA = {
       "startDate": "2026-09-25",
       "endDate": "2026-10-06",
       "costId": "paid",
+      "priceText": "380-1280元",
       "description": "华晨宇火星演唱会乐园2.0，多日沉浸式音乐现场。",
       "sourceUrl": "https://www.dahepiao.com/yc/ymsnnjych",
       "tagName": "演唱会",
       "celebrity": "华晨宇",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_35104a",
@@ -813,11 +516,12 @@ window.APP_DATA = {
       "startDate": "2026-09-26",
       "endDate": "2026-09-27",
       "costId": "paid",
+      "priceText": "298-668元",
       "description": "莱斯音乐节x声浪东方，秋日顶流音乐狂欢现场。",
       "sourceUrl": "https://www.dahepiao.com/yc/ymsnnjych",
       "tagName": "音乐节",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_f217a4",
@@ -830,12 +534,13 @@ window.APP_DATA = {
       "startDate": "2026-09-26",
       "endDate": "2026-09-26",
       "costId": "paid",
+      "priceText": "480-1380元",
       "description": "张靓颖“追”巡回演唱会南京站，全新舞台与金曲。",
       "sourceUrl": "https://www.dahepiao.com/yc/ymsnnjych",
       "tagName": "演唱会",
       "celebrity": "张靓颖",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_4a72c2",
@@ -848,12 +553,13 @@ window.APP_DATA = {
       "startDate": "2026-09-27",
       "endDate": "2026-09-27",
       "costId": "paid",
+      "priceText": "180-480元",
       "description": "蓝心羽2026巡回演唱会南京站，治愈系现场。",
       "sourceUrl": "https://www.dahepiao.com/yc/ymsnnjych",
       "tagName": "演唱会",
       "celebrity": "蓝心羽",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_7a5694",
@@ -866,11 +572,12 @@ window.APP_DATA = {
       "startDate": "2026-09-24",
       "endDate": "2026-09-26",
       "costId": "paid",
+      "priceText": "199-999元",
       "description": "中山陵音乐台户外音乐会，含《茶花女》、苏州芭蕾、爱尔兰室内乐等。",
       "sourceUrl": "http://www.nanjing.gov.cn/",
       "tagName": "森林音乐会",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_a5b5d7",
@@ -883,11 +590,12 @@ window.APP_DATA = {
       "startDate": "2026-09-11",
       "endDate": "2026-09-12",
       "costId": "paid",
+      "priceText": "80-880元",
       "description": "韩真&周莉亚执导，以舞武相融呈现东方哲思的舞剧。",
       "sourceUrl": "https://www.jsopera.com/",
       "tagName": "舞剧",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_775b59",
@@ -900,11 +608,12 @@ window.APP_DATA = {
       "startDate": "2026-09-11",
       "endDate": "2026-09-12",
       "costId": "paid",
+      "priceText": "180-680元",
       "description": "江苏省昆剧院经典昆剧《1699·桃花扇》二十周年纪念演出。",
       "sourceUrl": "https://njbldjy.polyt.cn/",
       "tagName": "昆剧",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_611863",
@@ -917,11 +626,12 @@ window.APP_DATA = {
       "startDate": "2026-09-24",
       "endDate": "2026-09-26",
       "costId": "paid",
+      "priceText": "80-880元",
       "description": "舞绘《千里江山图》的舞蹈诗剧，国庆档重返南京。",
       "sourceUrl": "https://www.jsopera.com/",
       "tagName": "舞剧",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_a2f888",
@@ -934,11 +644,12 @@ window.APP_DATA = {
       "startDate": "2026-09-25",
       "endDate": "2026-09-26",
       "costId": "paid",
+      "priceText": "180-880元",
       "description": "南京音乐剧节呈现百老汇经典摇滚音乐剧《海德薇》中文版。",
       "sourceUrl": "https://njbldjy.polyt.cn/",
       "tagName": "音乐剧",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_97b51c",
@@ -951,11 +662,12 @@ window.APP_DATA = {
       "startDate": "2026-09-11",
       "endDate": "2026-09-11",
       "costId": "paid",
+      "priceText": "80-580元",
       "description": "纪念北京京剧院梅兰芳京剧团成立八十周年系列·京剧《四郎探母》。",
       "sourceUrl": "https://www.jsopera.com/",
       "tagName": "京剧",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_2d4a5d",
@@ -968,11 +680,12 @@ window.APP_DATA = {
       "startDate": "2026-09-11",
       "endDate": "2026-09-11",
       "costId": "paid",
+      "priceText": "80-580元",
       "description": "南京市越剧团70周年团庆系列·李敏殷春蕾主演《孟丽君》。",
       "sourceUrl": "https://www.nanjing.gov.cn/",
       "tagName": "越剧",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_fba031",
@@ -985,11 +698,12 @@ window.APP_DATA = {
       "startDate": "2026-09-11",
       "endDate": "2026-09-12",
       "costId": "paid",
+      "priceText": "66-99元",
       "description": "夜游神剧团乌镇戏剧节青竞/三部曲作品南京首演。",
       "sourceUrl": "https://www.nanjing.gov.cn/",
       "tagName": "话剧",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_14320e",
@@ -1002,11 +716,12 @@ window.APP_DATA = {
       "startDate": "2026-09-26",
       "endDate": "2026-09-27",
       "costId": "paid",
+      "priceText": "80-280元",
       "description": "2026南京戏剧节话剧《无墙》江南剧院上演。",
       "sourceUrl": "https://www.nanjing.gov.cn/",
       "tagName": "话剧",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_4773d3",
@@ -1019,12 +734,13 @@ window.APP_DATA = {
       "startDate": "2026-09-12",
       "endDate": "2026-09-12",
       "costId": "paid",
+      "priceText": "80-680元",
       "description": "音乐剧演员洛朗·班Thousand Layers of Love巡演南京站。",
       "sourceUrl": "https://www.jsopera.com/",
       "tagName": "音乐会",
       "celebrity": "洛朗·班",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_03fbfd",
@@ -1037,11 +753,12 @@ window.APP_DATA = {
       "startDate": "2026-09-13",
       "endDate": "2026-09-13",
       "costId": "paid",
+      "priceText": "180-480元",
       "description": "文润建邺·艺美生活周末音乐会，经典电影配乐现场。",
       "sourceUrl": "https://njbldjy.polyt.cn/",
       "tagName": "音乐会",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_379809",
@@ -1054,11 +771,12 @@ window.APP_DATA = {
       "startDate": "2026-09-19",
       "endDate": "2026-09-19",
       "costId": "paid",
+      "priceText": "120-480元",
       "description": "中西浪漫名曲交汇的室内音乐会。",
       "sourceUrl": "https://www.nanjing.gov.cn/",
       "tagName": "音乐会",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_a3d5d2",
@@ -1071,11 +789,12 @@ window.APP_DATA = {
       "startDate": "2026-09-20",
       "endDate": "2026-09-20",
       "costId": "paid",
+      "priceText": "80-1680元",
       "description": "南京市文旅消费补贴剧目，安东尼奥·帕帕诺与伦敦交响乐团。",
       "sourceUrl": "https://www.jsopera.com/",
       "tagName": "音乐会",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_3c38a4",
@@ -1088,11 +807,12 @@ window.APP_DATA = {
       "startDate": "2026-09-24",
       "endDate": "2026-09-24",
       "costId": "paid",
+      "priceText": "80-580元",
       "description": "“幻想与变奏”陈萨钢琴独奏音乐会。",
       "sourceUrl": "https://www.jsopera.com/",
       "tagName": "音乐会",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_cee96b",
@@ -1105,11 +825,12 @@ window.APP_DATA = {
       "startDate": "2026-08-28",
       "endDate": "2026-09-26",
       "costId": "paid",
+      "priceText": "58元起",
       "description": "开心茶馆日常相声大会，传统曲艺轻松消夏。",
       "sourceUrl": "https://www.nanjing.gov.cn/",
       "tagName": "相声",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_eec932",
@@ -1122,11 +843,12 @@ window.APP_DATA = {
       "startDate": "2026-09-12",
       "endDate": "2026-09-12",
       "costId": "paid",
+      "priceText": "100-179元",
       "description": "胡莱单口喜剧个人专场《塑料袋》南京站。",
       "sourceUrl": "https://www.nanjing.gov.cn/",
       "tagName": "脱口秀",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_1b6fb6",
@@ -1404,11 +1126,12 @@ window.APP_DATA = {
       "startDate": "2026-09-27",
       "endDate": "2026-09-27",
       "costId": "paid",
+      "priceText": "需购票",
       "description": "22.31KM环紫金山越野认证赛，含ITRA积分。",
       "sourceUrl": "https://mp.weixin.qq.com/",
       "tagName": "越野",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_dd5bff",
@@ -1421,11 +1144,12 @@ window.APP_DATA = {
       "startDate": "2026-09-26",
       "endDate": "2026-09-26",
       "costId": "paid",
+      "priceText": "529-799元",
       "description": "4-14岁儿童山地障碍挑战，不竞速不排名的快乐泥泞冒险。",
       "sourceUrl": "https://mp.weixin.qq.com/",
       "tagName": "障碍赛",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_2e1220",
@@ -1438,11 +1162,12 @@ window.APP_DATA = {
       "startDate": "2026-09-19",
       "endDate": "2026-09-19",
       "costId": "paid",
+      "priceText": "需购票",
       "description": "6-13岁半日研学，探秘“争气桥”与火车主题公园、玻璃栈道。",
       "sourceUrl": "https://m.nj.bendibao.com/",
       "tagName": "研学",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_6d8e79",
@@ -1473,11 +1198,12 @@ window.APP_DATA = {
       "startDate": "2026-08-29",
       "endDate": "2026-10-18",
       "costId": "paid",
+      "priceText": "99元/组起（原价158，每组最多4人，超员20元/人）",
       "description": "亲子田园秋收，敲板栗、挖红薯、摘桃，顺游止马岭与平山。",
       "sourceUrl": "https://m.nj.bendibao.com/",
       "tagName": "亲子",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_00c47f",
@@ -1490,11 +1216,12 @@ window.APP_DATA = {
       "startDate": "2026-09-25",
       "endDate": "2026-09-27",
       "costId": "paid",
+      "priceText": "2988元/人（拼团2900）",
       "description": "6岁以上亲子地质科考营，野外采集橄榄石、雨花石、黄铁矿等。",
       "sourceUrl": "https://m.nj.bendibao.com/",
       "tagName": "科考",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_4a25b0",
@@ -1723,11 +1450,12 @@ window.APP_DATA = {
       "startDate": "2026-09-25",
       "endDate": "2026-09-27",
       "costId": "paid",
+      "priceText": "188-488元",
       "description": "《凡人》动画“星海天南”沉浸式嘉年华，场景还原+主创见面。",
       "sourceUrl": "https://www.nanjingexpo.com.cn/sy",
       "tagName": "动漫",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "NJ_evt_5460b3",

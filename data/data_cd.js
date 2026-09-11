@@ -7,366 +7,6 @@ window.APP_DATA = {
   },
   "events": [
     {
-      "id": "CD_evt_5e5ed7",
-      "cityCode": "CD",
-      "categoryId": "expo",
-      "name": "第26届四川中秋食品博览会",
-      "venueId": "CD_ven_cd_ep01",
-      "venueText": "成都世纪城新国际会展中心",
-      "dateText": "9.13-9.23",
-      "startDate": "2026-09-13",
-      "endDate": "2026-09-23",
-      "costId": "free",
-      "priceText": "",
-      "description": "成都世纪城新国际会展中心食品博览会。",
-      "sourceUrl": "https://www.bing.com/search?q=%E7%AC%AC26%E5%B1%8A%E5%9B%9B%E5%B7%9D%E4%B8%AD%E7%A7%8B%E9%A3%9F%E5%93%81%E5%8D%9A%E8%A7%88%E4%BC%9A%20%E6%88%90%E9%83%BD%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "CD_evt_676e7f",
-      "cityCode": "CD",
-      "categoryId": "expo",
-      "name": "第52届成都珠宝展",
-      "venueId": "CD_ven_cd_ep01",
-      "venueText": "成都世纪城新国际会展中心",
-      "dateText": "9.25-9.28",
-      "startDate": "2026-09-25",
-      "endDate": "2026-09-28",
-      "costId": "free",
-      "priceText": "",
-      "description": "成都世纪城新国际会展中心珠宝展。",
-      "sourceUrl": "https://www.bing.com/search?q=%E7%AC%AC52%E5%B1%8A%E6%88%90%E9%83%BD%E7%8F%A0%E5%AE%9D%E5%B1%95%20%E6%88%90%E9%83%BD%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "CD_evt_77187e",
-      "cityCode": "CD",
-      "categoryId": "expo",
-      "name": "TOPS 宠博会",
-      "venueId": "CD_ven_cd_ep01",
-      "venueText": "成都世纪城新国际会展中心",
-      "dateText": "9.10-9.13",
-      "startDate": "2026-09-10",
-      "endDate": "2026-09-13",
-      "costId": "paid",
-      "priceText": "",
-      "description": "成都世纪城新国际会展中心宠物展。",
-      "sourceUrl": "https://www.bing.com/search?q=TOPS%20%E5%AE%A0%E5%8D%9A%E4%BC%9A%20%E6%88%90%E9%83%BD%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "CD_evt_46a41d",
-      "cityCode": "CD",
-      "categoryId": "show",
-      "name": "艾志恒Asen 2026 巡演成都站",
-      "venueId": "CD_ven_cd_sh05",
-      "venueText": "成都东安湖体育公园多功能体育馆",
-      "dateText": "9.12-9.30",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-30",
-      "costId": "paid",
-      "priceText": "",
-      "description": "成都东安湖体育公园多功能体育馆。",
-      "sourceUrl": "https://www.bing.com/search?q=%E8%89%BE%E5%BF%97%E6%81%92Asen%202026%20%E5%B7%A1%E6%BC%94%E6%88%90%E9%83%BD%E7%AB%99%20%E6%88%90%E9%83%BD%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "CD_evt_5127ec",
-      "cityCode": "CD",
-      "categoryId": "show",
-      "name": "蒲熠星 2026 巡演成都站",
-      "venueId": "CD_ven_cd_sh05",
-      "venueText": "成都东安湖体育公园多功能体育馆",
-      "dateText": "9.12-9.30",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-30",
-      "costId": "paid",
-      "priceText": "",
-      "description": "成都东安湖体育公园多功能体育馆。",
-      "sourceUrl": "https://www.bing.com/search?q=%E8%92%B2%E7%86%A0%E6%98%9F%202026%20%E5%B7%A1%E6%BC%94%E6%88%90%E9%83%BD%E7%AB%99%20%E6%88%90%E9%83%BD%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "CD_evt_c7c81e",
-      "cityCode": "CD",
-      "categoryId": "show",
-      "name": "汉斯·季默 电影原声交响音乐会成都站",
-      "venueId": "CD_ven_cd_sh05",
-      "venueText": "成都东安湖体育公园多功能体育馆",
-      "dateText": "9.12-9.30",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-30",
-      "costId": "paid",
-      "priceText": "",
-      "description": "成都东安湖体育公园多功能体育馆。",
-      "sourceUrl": "https://www.bing.com/search?q=%E6%B1%89%E6%96%AF%C2%B7%E5%AD%A3%E9%BB%98%20%E7%94%B5%E5%BD%B1%E5%8E%9F%E5%A3%B0%E4%BA%A4%E5%93%8D%E9%9F%B3%E4%B9%90%E4%BC%9A%E6%88%90%E9%83%BD%E7%AB%99%20%E6%88%90%E9%83%BD%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "CD_evt_1269ef",
-      "cityCode": "CD",
-      "categoryId": "show",
-      "name": "单依纯 2026 巡演成都站",
-      "venueId": "CD_ven_cd_sh04",
-      "venueText": "五粮液文化体育中心综合体育馆",
-      "dateText": "9.12-9.26",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-26",
-      "costId": "paid",
-      "priceText": "",
-      "description": "五粮液文化体育中心综合体育馆。",
-      "sourceUrl": "https://www.bing.com/search?q=%E5%8D%95%E4%BE%9D%E7%BA%AF%202026%20%E5%B7%A1%E6%BC%94%E6%88%90%E9%83%BD%E7%AB%99%20%E6%88%90%E9%83%BD%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "CD_evt_590167",
-      "cityCode": "CD",
-      "categoryId": "show",
-      "name": "那英 2026 巡回演唱会成都站",
-      "venueId": "CD_ven_cd_sh04",
-      "venueText": "五粮液文化体育中心综合体育馆",
-      "dateText": "9.12-9.26",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-26",
-      "costId": "paid",
-      "priceText": "",
-      "description": "五粮液文化体育中心综合体育馆。",
-      "sourceUrl": "https://www.bing.com/search?q=%E9%82%A3%E8%8B%B1%202026%20%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E6%88%90%E9%83%BD%E7%AB%99%20%E6%88%90%E9%83%BD%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "CD_evt_324137",
-      "cityCode": "CD",
-      "categoryId": "show",
-      "name": "王源 2026 巡回演唱会成都站",
-      "venueId": "CD_ven_cd_sh01",
-      "venueText": "成都东安湖体育公园主体育场",
-      "dateText": "9.19-9.20",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-20",
-      "costId": "paid",
-      "priceText": "",
-      "description": "成都东安湖体育公园主体育场。",
-      "sourceUrl": "https://www.bing.com/search?q=%E7%8E%8B%E6%BA%90%202026%20%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E6%88%90%E9%83%BD%E7%AB%99%20%E6%88%90%E9%83%BD%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "CD_evt_dcf599",
-      "cityCode": "CD",
-      "categoryId": "show",
-      "name": "汪峰 2026 演唱会成都站",
-      "venueId": "CD_ven_cd_sh03",
-      "venueText": "成都金融城演艺中心",
-      "dateText": "9.19",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "costId": "paid",
-      "priceText": "",
-      "description": "成都金融城演艺中心。",
-      "sourceUrl": "https://www.bing.com/search?q=%E6%B1%AA%E5%B3%B0%202026%20%E6%BC%94%E5%94%B1%E4%BC%9A%E6%88%90%E9%83%BD%E7%AB%99%20%E6%88%90%E9%83%BD%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "CD_evt_6912cd",
-      "cityCode": "CD",
-      "categoryId": "sports",
-      "name": "2026 成都公开赛（ATP250）",
-      "venueId": "CD_ven_714c07bb",
-      "venueText": "四川川投国际网球中心",
-      "dateText": "9.22-9.29",
-      "startDate": "2026-09-22",
-      "endDate": "2026-09-29",
-      "costId": "paid",
-      "priceText": "",
-      "description": "四川川投国际网球中心。",
-      "sourceUrl": "https://www.bing.com/search?q=2026%20%E6%88%90%E9%83%BD%E5%85%AC%E5%BC%80%E8%B5%9B%EF%BC%88ATP250%EF%BC%89%20%E6%88%90%E9%83%BD%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "CD_evt_90834f",
-      "cityCode": "CD",
-      "categoryId": "show",
-      "name": "葫芦果音乐节",
-      "venueId": "CD_ven_cd_sh22",
-      "venueText": "成都非物质文化遗产博览园",
-      "dateText": "9.26-9.27",
-      "startDate": "2026-09-26",
-      "endDate": "2026-09-27",
-      "costId": "paid",
-      "priceText": "",
-      "description": "成都非物质文化遗产博览园。",
-      "sourceUrl": "https://www.bing.com/search?q=%E8%91%AB%E8%8A%A6%E6%9E%9C%E9%9F%B3%E4%B9%90%E8%8A%82%20%E6%88%90%E9%83%BD%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "CD_evt_cde8bc",
-      "cityCode": "CD",
-      "categoryId": "show",
-      "name": "舞剧《只此青绿》成都站",
-      "venueId": "CD_ven_cd_sh06",
-      "venueText": "成都城市音乐厅",
-      "dateText": "9.30-10.3",
-      "startDate": "2026-09-30",
-      "endDate": "2026-10-03",
-      "costId": "paid",
-      "priceText": "",
-      "description": "成都城市音乐厅。",
-      "sourceUrl": "https://www.bing.com/search?q=%E8%88%9E%E5%89%A7%E3%80%8A%E5%8F%AA%E6%AD%A4%E9%9D%92%E7%BB%BF%E3%80%8B%E6%88%90%E9%83%BD%E7%AB%99%20%E6%88%90%E9%83%BD%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "CD_evt_95311e",
-      "cityCode": "CD",
-      "categoryId": "expo",
-      "name": "世界线动漫展",
-      "venueId": "CD_ven_cd_ep02",
-      "venueText": "中国西部国际博览城",
-      "dateText": "10.1-10.4",
-      "startDate": "2026-10-01",
-      "endDate": "2026-10-04",
-      "costId": "paid",
-      "priceText": "",
-      "description": "中国西部国际博览城动漫展。",
-      "sourceUrl": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E7%BA%BF%E5%8A%A8%E6%BC%AB%E5%B1%95%20%E6%88%90%E9%83%BD%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "CD_evt_7d20fd",
-      "cityCode": "CD",
-      "categoryId": "show",
-      "name": "二狗脱口秀专场",
-      "venueId": "CD_ven_cd_sh19",
-      "venueText": "成都一支麦小剧场",
-      "dateText": "9.21",
-      "startDate": "2026-09-21",
-      "endDate": "2026-09-21",
-      "costId": "paid",
-      "priceText": "",
-      "description": "成都一支麦小剧场。",
-      "sourceUrl": "https://www.bing.com/search?q=%E4%BA%8C%E7%8B%97%E8%84%B1%E5%8F%A3%E7%A7%80%E4%B8%93%E5%9C%BA%20%E6%88%90%E9%83%BD%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "CD_evt_e2a0e1",
-      "cityCode": "CD",
-      "categoryId": "talk",
-      "name": "成都故事荟·中秋夜谈",
-      "venueId": "CD_ven_cd_tk01",
-      "venueText": "成都市文化馆",
-      "dateText": "9.24",
-      "startDate": "2026-09-24",
-      "endDate": "2026-09-24",
-      "costId": "free",
-      "priceText": "",
-      "description": "成都市文化馆中秋主题活动。",
-      "sourceUrl": "https://www.bing.com/search?q=%E6%88%90%E9%83%BD%E6%95%85%E4%BA%8B%E8%8D%9F%C2%B7%E4%B8%AD%E7%A7%8B%E5%A4%9C%E8%B0%88%20%E6%88%90%E9%83%BD%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "CD_evt_0ac05a",
-      "cityCode": "CD",
-      "categoryId": "talk",
-      "name": "「我们的节日·中秋」主题文化活动",
-      "venueId": "CD_ven_269c3371",
-      "venueText": "天府人文艺术图书馆",
-      "dateText": "9.22-9.30",
-      "startDate": "2026-09-22",
-      "endDate": "2026-09-30",
-      "costId": "free",
-      "priceText": "",
-      "description": "天府人文艺术图书馆中秋活动。",
-      "sourceUrl": "https://www.bing.com/search?q=%E3%80%8C%E6%88%91%E4%BB%AC%E7%9A%84%E8%8A%82%E6%97%A5%C2%B7%E4%B8%AD%E7%A7%8B%E3%80%8D%E4%B8%BB%E9%A2%98%E6%96%87%E5%8C%96%E6%B4%BB%E5%8A%A8%20%E6%88%90%E9%83%BD%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "CD_evt_ae1e2d",
-      "cityCode": "CD",
-      "categoryId": "show",
-      "name": "花好月圆中秋音乐会",
-      "venueId": "CD_ven_cd_sh06",
-      "venueText": "成都城市音乐厅",
-      "dateText": "9.22",
-      "startDate": "2026-09-22",
-      "endDate": "2026-09-22",
-      "costId": "paid",
-      "priceText": "",
-      "description": "成都城市音乐厅。",
-      "sourceUrl": "https://www.bing.com/search?q=%E8%8A%B1%E5%A5%BD%E6%9C%88%E5%9C%86%E4%B8%AD%E7%A7%8B%E9%9F%B3%E4%B9%90%E4%BC%9A%20%E6%88%90%E9%83%BD%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "CD_evt_8a1db2",
-      "cityCode": "CD",
-      "categoryId": "show",
-      "name": "香港周2026@成都",
-      "venueId": "CD_ven_cd_sh09",
-      "venueText": "中演·成都大剧院",
-      "dateText": "9.4-9.20",
-      "startDate": "2026-09-04",
-      "endDate": "2026-09-20",
-      "costId": "paid",
-      "priceText": "",
-      "description": "中演·成都大剧院香港周。",
-      "sourceUrl": "https://www.bing.com/search?q=%E9%A6%99%E6%B8%AF%E5%91%A82026%40%E6%88%90%E9%83%BD%20%E6%88%90%E9%83%BD%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "CD_evt_3bcc88",
-      "cityCode": "CD",
-      "categoryId": "show",
-      "name": "天空草地@成都",
-      "venueId": "CD_ven_cd_mk05",
-      "venueText": "东郊记忆",
-      "dateText": "9.12",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-12",
-      "costId": "free",
-      "priceText": "",
-      "description": "东郊记忆。",
-      "sourceUrl": "https://www.bing.com/search?q=%E5%A4%A9%E7%A9%BA%E8%8D%89%E5%9C%B0%40%E6%88%90%E9%83%BD%20%E6%88%90%E9%83%BD%202026%20%E9%97%A8%E7%A5%A8",
-      "tagName": "",
-      "createdAt": "2026-09-11",
-      "updatedAt": "2026-09-11"
-    },
-    {
       "id": "CD_evt_a1d6a7",
       "cityCode": "CD",
       "categoryId": "sports",
@@ -516,11 +156,12 @@ window.APP_DATA = {
       "startDate": "2026-09-09",
       "endDate": "2026-10-08",
       "costId": "paid",
+      "priceText": "免费（需杜甫草堂入馆门票50元）",
       "description": "全国首个聚焦杜甫与秦州的主题文物展，汇集八家文博单位 127 件(套)文物精品，循杜甫流寓秦州行迹勾勒盛唐陇右人文风貌。",
       "sourceUrl": "https://news.qq.com/rain/a/20260901A0AOPK00?adChannelId=chengdu",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_22d47c",
@@ -638,11 +279,12 @@ window.APP_DATA = {
       "startDate": "2026-09-09",
       "endDate": "2026-12-31",
       "costId": "paid",
+      "priceText": "98元起",
       "description": "王者荣耀首部 VR 沉浸式互动剧，游戏 IP 联动上海天文馆科普 IP，以 VR 大空间技术开启宇宙梦境冒险。",
       "sourceUrl": "https://news.qq.com/rain/a/20260901A0AOPK00?adChannelId=chengdu",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_5f1aed",
@@ -655,11 +297,12 @@ window.APP_DATA = {
       "startDate": "2026-09-11",
       "endDate": "2026-09-11",
       "costId": "paid",
+      "priceText": "180元",
       "description": "成都城市音乐厅交响乐团新乐季开季音乐会，以光影为题展开世纪末的音乐对话。",
       "sourceUrl": "https://cd.bendibao.com/yanchu/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_3c833b",
@@ -672,11 +315,12 @@ window.APP_DATA = {
       "startDate": "2026-09-11",
       "endDate": "2026-09-12",
       "costId": "paid",
+      "priceText": "180/280/380/480/580/680元",
       "description": "「香港周2026@成都」节目，香港芭蕾舞团演绎经典爱情悲剧《罗密欧+茱丽叶》。",
       "sourceUrl": "https://cd.bendibao.com/yanchu/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_9f7595",
@@ -689,11 +333,12 @@ window.APP_DATA = {
       "startDate": "2026-09-11",
       "endDate": "2026-09-13",
       "costId": "paid",
+      "priceText": "100/240/320元",
       "description": "「香港周2026@成都」实验戏曲，以金庸武侠为母题融合当代剧场语汇。",
       "sourceUrl": "https://cd.bendibao.com/yanchu/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_5238d5",
@@ -706,12 +351,13 @@ window.APP_DATA = {
       "startDate": "2026-09-12",
       "endDate": "2026-09-12",
       "costId": "paid",
+      "priceText": "380/580/780/980元",
       "description": "说唱歌手艾志恒Asen 2026 巡演登陆成都东安湖，继去年后再度开唱。",
       "sourceUrl": "https://www.toutiao.com/article/7680510082559263272/",
       "tagName": "",
       "celebrity": "艾志恒Asen",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_f53f8e",
@@ -724,11 +370,12 @@ window.APP_DATA = {
       "startDate": "2026-09-12",
       "endDate": "2026-09-12",
       "costId": "paid",
+      "priceText": "180/280/380/580/880/1080元",
       "description": "「香港周2026@成都」节目，香港管弦乐团携手指挥廖国敏、钢琴家陆逸轩带来专场音乐会。",
       "sourceUrl": "https://cd.bendibao.com/yanchu/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_6d2972",
@@ -741,12 +388,13 @@ window.APP_DATA = {
       "startDate": "2026-09-12",
       "endDate": "2026-09-12",
       "costId": "paid",
+      "priceText": "288/488/688元",
       "description": "歌手庆怜Caelan个人巡演成都站，以“舞所畏”为题释放舞台能量。",
       "sourceUrl": "https://cd.bendibao.com/yanchu/",
       "tagName": "",
       "celebrity": "庆怜Caelan",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_9ee6e7",
@@ -759,12 +407,13 @@ window.APP_DATA = {
       "startDate": "2026-09-12",
       "endDate": "2026-09-13",
       "costId": "paid",
+      "priceText": "380/680/980/1280/1580/1880元",
       "description": "“纯妹妹”升级归来，天籁嗓音搭配全新舞美编排，《在夜里跳舞》《爱的回归线》等金曲轮番唱响。",
       "sourceUrl": "https://www.toutiao.com/article/7680510082559263272/",
       "tagName": "",
       "celebrity": "单依纯",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_d66ae1",
@@ -777,11 +426,12 @@ window.APP_DATA = {
       "startDate": "2026-09-12",
       "endDate": "2026-09-13",
       "costId": "paid",
+      "priceText": "180/380/580/680/880元",
       "description": "以屈原《九歌》为灵感创作的舞蹈诗剧，将楚文化瑰丽想象与当代舞蹈美学相融合。",
       "sourceUrl": "https://cd.bendibao.com/yanchu/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_331a8e",
@@ -794,11 +444,12 @@ window.APP_DATA = {
       "startDate": "2026-09-12",
       "endDate": "2026-09-13",
       "costId": "paid",
+      "priceText": "80/180/280元",
       "description": "「香港周2026@成都」节目，绿叶剧团以形体剧场重构《山海经》神话宇宙。",
       "sourceUrl": "https://cd.bendibao.com/yanchu/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_ed79fa",
@@ -811,11 +462,12 @@ window.APP_DATA = {
       "startDate": "2026-09-12",
       "endDate": "2026-09-25",
       "costId": "paid",
+      "priceText": "100/180/280/380元",
       "description": "久石让经典配乐专场，以室内乐重现《天空之城》等宫崎骏动画名曲。",
       "sourceUrl": "https://cd.bendibao.com/yanchu/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_3bde1b",
@@ -828,11 +480,12 @@ window.APP_DATA = {
       "startDate": "2026-09-13",
       "endDate": "2026-09-13",
       "costId": "paid",
+      "priceText": "180/280/380/480元",
       "description": "百老汇原版授权互动科学剧，用趣味实验演绎化学的奇妙。",
       "sourceUrl": "https://cd.bendibao.com/yanchu/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_7087e2",
@@ -845,11 +498,12 @@ window.APP_DATA = {
       "startDate": "2026-09-15",
       "endDate": "2026-09-20",
       "costId": "paid",
+      "priceText": "280-1380元",
       "description": "韦伯传世经典《剧院魅影》英文原版首次登陆成都，连演六天，水晶吊灯、地下湖与魅影歌声震撼重现。",
       "sourceUrl": "https://cd.bendibao.com/yanchu/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_fad43c",
@@ -862,12 +516,13 @@ window.APP_DATA = {
       "startDate": "2026-09-19",
       "endDate": "2026-09-19",
       "costId": "paid",
+      "priceText": "380/480/580/680/780/980元",
       "description": "中国摇滚乐代表人物汪峰携“相信未来”巡演登陆成都，《飞得更高》《怒放的生命》《春天里》等时代金曲唱响。",
       "sourceUrl": "https://www.dahepiao.com/yc/lironhhcd",
       "tagName": "",
       "celebrity": "汪峰",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_547c63",
@@ -880,12 +535,13 @@ window.APP_DATA = {
       "startDate": "2026-09-19",
       "endDate": "2026-09-20",
       "costId": "paid",
+      "priceText": "380/580/880/1080/1380/1680元",
       "description": "王源携全新巡演登陆成都连开两场，从原创音乐到舞台创意全面升级，用青春与才华点燃东安湖之夜。",
       "sourceUrl": "https://www.toutiao.com/article/7680510082559263272/",
       "tagName": "",
       "celebrity": "王源",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_ab236e",
@@ -898,11 +554,12 @@ window.APP_DATA = {
       "startDate": "2026-09-19",
       "endDate": "2026-09-20",
       "costId": "paid",
+      "priceText": "180/280/380/580/780元",
       "description": "「香港周2026@成都」节目，谭盾以电影音乐为脉络谱写《声音河流》交响诗。",
       "sourceUrl": "https://cd.bendibao.com/yanchu/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_11a97e",
@@ -915,11 +572,12 @@ window.APP_DATA = {
       "startDate": "2026-09-19",
       "endDate": "2026-09-19",
       "costId": "paid",
+      "priceText": "100/180/280/380/580/680元",
       "description": "俄罗斯芭蕾国家剧院演绎经典芭蕾《胡桃夹子》，重现柴可夫斯基的梦幻童话。",
       "sourceUrl": "https://cd.bendibao.com/yanchu/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_52d1b6",
@@ -932,11 +590,12 @@ window.APP_DATA = {
       "startDate": "2026-09-19",
       "endDate": "2026-09-20",
       "costId": "paid",
+      "priceText": "需购票",
       "description": "国家艺术基金优秀剧目四川展演川剧专场《铁木高娃》。",
       "sourceUrl": "https://cd.bendibao.com/yanchu/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_864101",
@@ -949,11 +608,12 @@ window.APP_DATA = {
       "startDate": "2026-09-21",
       "endDate": "2026-09-21",
       "costId": "paid",
+      "priceText": "80/120/180/280元",
       "description": "管风琴家马丁·施梅丁以独奏串联巴赫到新世界的交响幻想。",
       "sourceUrl": "https://cd.bendibao.com/yanchu/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_a4cab0",
@@ -966,11 +626,12 @@ window.APP_DATA = {
       "startDate": "2026-09-21",
       "endDate": "2026-09-21",
       "costId": "paid",
+      "priceText": "380元",
       "description": "城市熄灯之前，一支麦小剧场里一场名为《一条名叫爱情的狗》的互动专场刚刚开场。",
       "sourceUrl": "https://www.dahepiao.com/yc/lironhhcd",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_a93e66",
@@ -983,11 +644,12 @@ window.APP_DATA = {
       "startDate": "2026-09-22",
       "endDate": "2026-09-22",
       "costId": "paid",
+      "priceText": "180/280/380元",
       "description": "以“月”为线索串联中外名曲，中秋之夜让音乐照亮团圆时刻。",
       "sourceUrl": "https://cd.bendibao.com/yanchu/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_d52356",
@@ -1000,11 +662,12 @@ window.APP_DATA = {
       "startDate": "2026-09-26",
       "endDate": "2026-09-27",
       "costId": "paid",
+      "priceText": "299-799元",
       "description": "超人气音乐节 IP“葫芦果”登陆成都，陶喆、范晓萱、万能青年旅店等多组艺人齐聚，兼顾艺术性与大众性。",
       "sourceUrl": "https://www.dahepiao.com/yc/lironhhcd",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_8694c3",
@@ -1017,12 +680,13 @@ window.APP_DATA = {
       "startDate": "2026-09-26",
       "endDate": "2026-09-26",
       "costId": "paid",
+      "priceText": "580/780/980/1280元",
       "description": "蒲熠星首度开启个人巡演，以“银河系旅行”为概念打造沉浸式舞台，在家乡讲述成长故事。",
       "sourceUrl": "https://www.dahepiao.com/yc/lironhhcd",
       "tagName": "",
       "celebrity": "蒲熠星",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_bc6867",
@@ -1035,12 +699,13 @@ window.APP_DATA = {
       "startDate": "2026-09-26",
       "endDate": "2026-09-26",
       "costId": "paid",
+      "priceText": "380/580/780/980/1180/1380元",
       "description": "华语乐坛天后那英重磅回归，《征服》《白天不懂夜的黑》《默》等传世金曲唱响蓉城。",
       "sourceUrl": "https://www.toutiao.com/article/7680510082559263272/",
       "tagName": "",
       "celebrity": "那英",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_6d3e5d",
@@ -1053,11 +718,12 @@ window.APP_DATA = {
       "startDate": "2026-09-30",
       "endDate": "2026-09-30",
       "costId": "paid",
+      "priceText": "480/780/980/1280/1480/2280元",
       "description": "奥斯卡、格莱美双料得主、电影配乐大师汉斯·季默携世界级巡演登陆成都，《星际穿越》《盗梦空间》《狮子王》等恢弘奏响。",
       "sourceUrl": "https://cd.bendibao.com/yanchu/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_db9ac2",
@@ -1070,11 +736,12 @@ window.APP_DATA = {
       "startDate": "2026-09-30",
       "endDate": "2026-10-03",
       "costId": "paid",
+      "priceText": "180/280/480/680/880/980元",
       "description": "现象级爆款舞蹈诗剧《只此青绿》返场，以《千里江山图》为蓝本勾勒宋代风雅。",
       "sourceUrl": "https://cd.bendibao.com/yanchu/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_795b3d",
@@ -1087,11 +754,12 @@ window.APP_DATA = {
       "startDate": "2026-09-30",
       "endDate": "2026-09-30",
       "costId": "paid",
+      "priceText": "160元",
       "description": "中国芭蕾“国家队”带来经典普及演出《走进芭蕾》，精选《红色娘子军》《天鹅湖》等中外经典片段。",
       "sourceUrl": "https://cd.bendibao.com/yanchu/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_25ca87",
@@ -1308,11 +976,12 @@ window.APP_DATA = {
       "startDate": "2026-09-12",
       "endDate": "2026-09-13",
       "costId": "paid",
+      "priceText": "280/380/480元",
       "description": "世界体育舞蹈季压轴赛事，3V3 混合团体赛为全球首次举办、成都为“首发城市”；两项赛事均属世界排名重要积分战。",
       "sourceUrl": "https://new.qq.com/rain/a/20260906A0C4CF00?refer=cp_1009",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_0b9162",
@@ -1343,11 +1012,12 @@ window.APP_DATA = {
       "startDate": "2026-09-26",
       "endDate": "2026-09-27",
       "costId": "paid",
+      "priceText": "亲子499元/组（一大一小），独立399元/人",
       "description": "面向 4-14 岁青少年的户外障碍挑战赛，设亲子组/初级组/中级组/高级组，完赛颁发 BD 完赛证书。",
       "sourceUrl": "https://cd.bendibao.com/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_fe37f9",
@@ -1377,11 +1047,12 @@ window.APP_DATA = {
       "startDate": "2026-09-27",
       "endDate": "2026-09-27",
       "costId": "paid",
+      "priceText": "儿童368元/人，成人198元/人",
       "description": "四大项目玩转户外：10 米岩壁绳降、牵绳爬坡、走扁带、3KM 轻徒步探秘暮光森林，亲子共练胆更练心。",
       "sourceUrl": "https://cdwglj.chengdu.gov.cn/cdwglj/c133208/2026-09/07/content_1d50e4b9d7614a018f6f18e8a56a2614.shtml",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_46804c",
@@ -1498,11 +1169,12 @@ window.APP_DATA = {
       "startDate": "2026-09-19",
       "endDate": "2026-10-05",
       "costId": "paid",
+      "priceText": "需购票",
       "description": "古法造纸体验结合汉服雅趣，亲子协作感受传统工艺与节俗之美（郫县畦田耕读园系列亲子日营）。",
       "sourceUrl": "https://cdwglj.chengdu.gov.cn/cdwglj/c133208/2026-09/07/content_1d50e4b9d7614a018f6f18e8a56a2614.shtml",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_07f4d1",
@@ -1515,11 +1187,12 @@ window.APP_DATA = {
       "startDate": "2026-09-09",
       "endDate": "2026-09-30",
       "costId": "paid",
+      "priceText": "前山门票80元、后山门票20元（索道/游船另购）",
       "description": "金秋九月青城山幽谷清凉，前山问道、后山探溪，是成都近郊经典徒步与道教文化寻访线路。",
       "sourceUrl": "https://news.qq.com/rain/a/20260907A03GC100",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_c3355f",
@@ -1617,11 +1290,12 @@ window.APP_DATA = {
       "startDate": "2026-10-01",
       "endDate": "2026-10-05",
       "costId": "paid",
+      "priceText": "2980-3680元/人（国庆团期）",
       "description": "九寨沟后花园经典徒步穿越 5 日，长海子、草海、红星海子、翡翠海等高原海子与彩林秘境，成都集合出发。",
       "sourceUrl": "https://news.qq.com/rain/a/20260907A03GC100",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_c4e5ac",
@@ -1651,11 +1325,12 @@ window.APP_DATA = {
       "startDate": "2026-09-10",
       "endDate": "2026-09-13",
       "costId": "paid",
+      "priceText": "单日票50元，三日联票70元",
       "description": "展览面积超 5 万㎡，近 600 家参展商、5000+ 海内外宠物品牌，覆盖食品、用品、医疗、洗护、异宠全产业链，同期多场专业赛事。",
       "sourceUrl": "https://www.toutiao.com/article/7683099349068349967/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-11"
     },
     {
       "id": "CD_evt_a5272c",
