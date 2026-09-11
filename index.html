@@ -140,11 +140,12 @@
     .map-filter .fl{width:100%;margin-bottom:2px}
     .map-filter button,.map-filter select{min-height:38px;padding:7px 13px}
     .map-filter .hint{width:100%;margin-top:2px}
-    /* date bar inline layout on mobile */
-    #dateBar{display:flex;align-items:center;flex-wrap:nowrap;}
-    #dateBar .fl{width:auto;margin-right:8px;margin-bottom:0;}
-    #dateBar select{margin-right:4px;}
-    #dateBar .hint{margin-right:4px;}
+    /* date bar inline layout on mobile：日期选择可收缩，两个筛选按钮始终可见，无需横滑 */
+    #dateBar{display:flex;align-items:center;flex-wrap:nowrap;gap:6px;}
+    #dateBar .fl{flex:0 0 auto;width:auto;margin:0;}
+    #dateBar select{flex:1 1 auto;min-width:0;margin:0;}
+    #dateBar .hint{display:none;}   /* 移动端隐藏长提示，给按钮腾空间 */
+    #dateBar button{flex:0 0 auto;margin:0;}
     .map-list{max-height:200px}
     section{margin-top:20px}
     .note{font-size:12px;padding:12px 14px;margin-top:14px;line-height:1.7}
@@ -214,6 +215,7 @@
       <span class="fl">日期：</span>
       <select id="dateSelect"></select>
       <span class="hint" id="dateHint"></span>
+      <button data-today="1">🔄 今更</button>
       <span id="starBar"><button data-star="1">⭐</button></span>
     </div>
     <div class="map-list" id="eventList" data-page-node-id="evtL"></div>
@@ -289,7 +291,7 @@
     return (c && CITY_MAP[c]) ? c : D.cities[0].code;
   }
   var CITY = CITY_MAP[getCityId()];
-  var events = [], byId = {}, stateDate = '', searchQuery = '', stateCat = '', stateCost = 'all', stateStar = false;
+  var events = [], byId = {}, stateDate = '', searchQuery = '', stateCat = '', stateCost = 'all', stateStar = false, stateToday = false;
 
   // 动态加载所有城市的数据文件，聚合到 D.events；城市切换时只重载数据
   function loadCityData(cityId, callback){
@@ -387,6 +389,9 @@
   }
 
   function applyFilters(){
+    // 今日新增：以 createdAt 为准，格式为 YYYY-MM-DD
+    var today = new Date();
+    var todayStart = isoOf(today);   // 本地日期，避免 toISOString() 的 UTC 偏移导致凌晨误判为前一天
     // 先搜索，再日期 / 类别 / 费用 筛选 —— 全页面数据统一由此计算
     var base = cityEvents;
     if(searchQuery){
@@ -402,6 +407,7 @@
       if(stateCat && e.categoryId !== stateCat) return false;        // 类别筛选
       if(stateCost !== 'all' && e.costId !== stateCost) return false;  // 费用筛选
       if(stateStar && !e.celebrity) return false;                      // 明星标记筛选
+      if(stateToday && (e.createdAt || '').slice(0,10) < todayStart) return false;   // 今日新增筛选
       return true;
     });
     renderSummary();
@@ -444,13 +450,18 @@
         applyFilters();
       });
     }
-    var sbar = document.getElementById('starBar');
-    if(sbar && !sbar.dataset.bound){
-      sbar.dataset.bound = '1';
-      sbar.addEventListener('click', function(ev){
+    var dbar = document.getElementById('dateBar');
+    if(dbar && !dbar.dataset.bound){
+      dbar.dataset.bound = '1';
+      dbar.addEventListener('click', function(ev){
         var btn = ev.target.closest('button'); if(!btn) return;
-        stateStar = (btn.getAttribute('data-star') === '1') ? !stateStar : false;
-        applyFilters();
+        if(btn.getAttribute('data-today') === '1'){
+          stateToday = !stateToday;
+          applyFilters();
+        }else if(btn.getAttribute('data-star') === '1'){
+          stateStar = !stateStar;
+          applyFilters();
+        }
       });
     }
   }
@@ -643,10 +654,14 @@
     if(fbar){ Array.prototype.forEach.call(fbar.querySelectorAll('button'), function(b){
       b.classList.toggle('on', b.getAttribute('data-f') === stateCost);
     }); }
-    // 同步明星筛选条「选中」状态
-    var sbar = document.getElementById('starBar');
-    if(sbar){ Array.prototype.forEach.call(sbar.querySelectorAll('button'), function(b){
-      b.classList.toggle('on', stateStar && b.getAttribute('data-star') === '1');
+    // 同步明星/今日筛选条「选中」状态（🔄 今 与 ⭐ 均在 #dateBar 内）
+    var dbar = document.getElementById('dateBar');
+    if(dbar){ Array.prototype.forEach.call(dbar.querySelectorAll('button'), function(b){
+      if(b.getAttribute('data-today') === '1'){
+        b.classList.toggle('on', stateToday);
+      }else if(b.getAttribute('data-star') === '1'){
+        b.classList.toggle('on', stateStar);
+      }
     }); }
   }
 
