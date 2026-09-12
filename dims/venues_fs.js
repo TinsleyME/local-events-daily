@@ -422,5 +422,29 @@ window.APP_VENUES_FS = [
     "latitude": 23.03,
     "longitude": 113.15,
     "address": ""
+  },
+  {
+    "id": "FS_ven_514b6b52",
+    "cityCode": "FS",
+    "name": "石肯村",
+    "latitude": 23.017389,
+    "longitude": 113.165429,
+    "address": ""
+  },
+  {
+    "id": "FS_ven_5d86a7e5",
+    "cityCode": "FS",
+    "name": "南庄",
+    "latitude": 22.977342,
+    "longitude": 113.035363,
+    "address": ""
+  },
+  {
+    "id": "FS_ven_a642d592",
+    "cityCode": "FS",
+    "name": "清晖园",
+    "latitude": 22.837199,
+    "longitude": 113.255305,
+    "address": ""
   }
 ];

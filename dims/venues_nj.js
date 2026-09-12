@@ -382,5 +382,13 @@ window.APP_VENUES_NJ = [
     "latitude": 32.069917,
     "longitude": 118.805179,
     "address": ""
+  },
+  {
+    "id": "NJ_ven_c677f328",
+    "cityCode": "NJ",
+    "name": "南京高淳国际慢城",
+    "latitude": 31.288089,
+    "longitude": 119.16533,
+    "address": ""
   }
 ];

@@ -430,5 +430,85 @@ window.APP_VENUES_GZ = [
     "latitude": 23.145,
     "longitude": 113.28,
     "address": ""
+  },
+  {
+    "id": "GZ_ven_taihk",
+    "cityCode": "GZ",
+    "name": "广州太古汇",
+    "latitude": 23.1356,
+    "longitude": 113.3242,
+    "address": ""
+  },
+  {
+    "id": "GZ_ven_tianhecheng",
+    "cityCode": "GZ",
+    "name": "天河城",
+    "latitude": 23.1352,
+    "longitude": 113.3215,
+    "address": ""
+  },
+  {
+    "id": "GZ_ven_3ef67c9d",
+    "cityCode": "GZ",
+    "name": "广州白云国际会议中心",
+    "latitude": 23.212262,
+    "longitude": 113.278042,
+    "address": ""
+  },
+  {
+    "id": "GZ_ven_f105e950",
+    "cityCode": "GZ",
+    "name": "云台花园",
+    "latitude": 23.143358,
+    "longitude": 113.297162,
+    "address": ""
+  },
+  {
+    "id": "GZ_ven_3eb213d6",
+    "cityCode": "GZ",
+    "name": "广州融创乐园",
+    "latitude": 23.47563,
+    "longitude": 113.220967,
+    "address": ""
+  },
+  {
+    "id": "GZ_ven_39439a5c",
+    "cityCode": "GZ",
+    "name": "鹤鸣涧营地",
+    "latitude": 23.194471,
+    "longitude": 113.460456,
+    "address": ""
+  },
+  {
+    "id": "GZ_ven_d7fecd63",
+    "cityCode": "GZ",
+    "name": "广州购书中心",
+    "latitude": 23.132403,
+    "longitude": 113.326416,
+    "address": ""
+  },
+  {
+    "id": "GZ_ven_c79993ec",
+    "cityCode": "GZ",
+    "name": "广州中山纪念堂",
+    "latitude": 23.130927,
+    "longitude": 113.272132,
+    "address": ""
+  },
+  {
+    "id": "GZ_ven_2a9cec93",
+    "cityCode": "GZ",
+    "name": "广州大学城体育中心体育场",
+    "latitude": 23.391585,
+    "longitude": 113.401543,
+    "address": ""
+  },
+  {
+    "id": "GZ_ven_c66a013d",
+    "cityCode": "GZ",
+    "name": "沙湾古镇",
+    "latitude": 22.913547,
+    "longitude": 113.34564,
+    "address": ""
   }
 ];

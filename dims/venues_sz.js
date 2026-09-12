@@ -398,5 +398,45 @@ window.APP_VENUES_SZ = [
     "latitude": 22.52,
     "longitude": 113.93,
     "address": ""
+  },
+  {
+    "id": "SZ_ven_5b49da35",
+    "cityCode": "SZ",
+    "name": "龙岗国际艺术中心",
+    "latitude": 22.726991,
+    "longitude": 114.219881,
+    "address": ""
+  },
+  {
+    "id": "SZ_ven_e1f50d14",
+    "cityCode": "SZ",
+    "name": "深圳人才公园",
+    "latitude": 22.513983,
+    "longitude": 113.947875,
+    "address": ""
+  },
+  {
+    "id": "SZ_ven_d6cde3e0",
+    "cityCode": "SZ",
+    "name": "深圳欢乐谷",
+    "latitude": 22.546517,
+    "longitude": 113.999682,
+    "address": ""
+  },
+  {
+    "id": "SZ_ven_1670e5d8",
+    "cityCode": "SZ",
+    "name": "深圳世界之窗",
+    "latitude": 22.53657,
+    "longitude": 113.983943,
+    "address": ""
+  },
+  {
+    "id": "SZ_ven_364b4e89",
+    "cityCode": "SZ",
+    "name": "锦绣中华民俗村",
+    "latitude": 22.531805,
+    "longitude": 113.995972,
+    "address": ""
   }
 ];

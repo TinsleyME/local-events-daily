@@ -334,5 +334,77 @@ window.APP_VENUES_CQ = [
     "latitude": 29.561112,
     "longitude": 106.583687,
     "address": ""
+  },
+  {
+    "id": "CQ_ven_0f5a8f73",
+    "cityCode": "CQ",
+    "name": "重庆市规划展览馆",
+    "latitude": 29.55712,
+    "longitude": 106.573693,
+    "address": ""
+  },
+  {
+    "id": "CQ_ven_dac8eac2",
+    "cityCode": "CQ",
+    "name": "海德大酒店(重庆)",
+    "latitude": 29.557153,
+    "longitude": 106.55372,
+    "address": ""
+  },
+  {
+    "id": "CQ_ven_28ba7c1d",
+    "cityCode": "CQ",
+    "name": "2077赛博城市",
+    "latitude": 29.5973,
+    "longitude": 106.503852,
+    "address": ""
+  },
+  {
+    "id": "CQ_ven_4dfd227f",
+    "cityCode": "CQ",
+    "name": "两江丽景酒店",
+    "latitude": 29.567124,
+    "longitude": 106.573694,
+    "address": ""
+  },
+  {
+    "id": "CQ_ven_dddfe2a6",
+    "cityCode": "CQ",
+    "name": "重庆美心2号洋人街",
+    "latitude": 29.507134,
+    "longitude": 106.553717,
+    "address": ""
+  },
+  {
+    "id": "CQ_ven_b5d63b19",
+    "cityCode": "CQ",
+    "name": "重庆长寿湖景区",
+    "latitude": 29.847432,
+    "longitude": 107.184416,
+    "address": ""
+  },
+  {
+    "id": "CQ_ven_cd191188",
+    "cityCode": "CQ",
+    "name": "重庆万州体育中心体育场",
+    "latitude": 30.797733,
+    "longitude": 108.414589,
+    "address": ""
+  },
+  {
+    "id": "CQ_ven_d2e9d72a",
+    "cityCode": "CQ",
+    "name": "重庆开州壹圆剧场",
+    "latitude": 31.157933,
+    "longitude": 108.394613,
+    "address": ""
+  },
+  {
+    "id": "CQ_ven_3f2d50ad",
+    "cityCode": "CQ",
+    "name": "重庆蚩尤九黎城",
+    "latitude": 29.547351,
+    "longitude": 108.204368,
+    "address": ""
   }
 ];

@@ -398,5 +398,53 @@ window.APP_VENUES_BJ = [
     "latitude": 39.915125,
     "longitude": 116.233449,
     "address": ""
+  },
+  {
+    "id": "BJ_ven_5a72895e",
+    "cityCode": "BJ",
+    "name": "北京音乐厅",
+    "latitude": 39.931383,
+    "longitude": 116.376222,
+    "address": ""
+  },
+  {
+    "id": "BJ_ven_edea22a3",
+    "cityCode": "BJ",
+    "name": "首都剧场",
+    "latitude": 39.921404,
+    "longitude": 116.411245,
+    "address": ""
+  },
+  {
+    "id": "BJ_ven_6e69eed8",
+    "cityCode": "BJ",
+    "name": "紫竹院公园",
+    "latitude": 39.941262,
+    "longitude": 116.306078,
+    "address": ""
+  },
+  {
+    "id": "BJ_ven_db4c9a6d",
+    "cityCode": "BJ",
+    "name": "王府井",
+    "latitude": 39.916403,
+    "longitude": 116.416243,
+    "address": ""
+  },
+  {
+    "id": "BJ_ven_69f6b8b1",
+    "cityCode": "BJ",
+    "name": "亮马河",
+    "latitude": 39.946309,
+    "longitude": 116.476121,
+    "address": ""
+  },
+  {
+    "id": "BJ_ven_8eb7f96d",
+    "cityCode": "BJ",
+    "name": "白塔寺",
+    "latitude": 39.937399,
+    "longitude": 116.392241,
+    "address": ""
   }
 ];

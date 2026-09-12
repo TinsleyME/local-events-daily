@@ -174,5 +174,29 @@ window.APP_VENUES_HZ = [
     "latitude": 30.233523,
     "longitude": 119.727894,
     "address": ""
+  },
+  {
+    "id": "HZ_ven_36b6cb39",
+    "cityCode": "HZ",
+    "name": "杭州奥体中心体育馆",
+    "latitude": 30.177557,
+    "longitude": 120.22451,
+    "address": ""
+  },
+  {
+    "id": "HZ_ven_c3d98d53",
+    "cityCode": "HZ",
+    "name": "SoFun Live(杭州)",
+    "latitude": 30.26768,
+    "longitude": 120.154709,
+    "address": ""
+  },
+  {
+    "id": "HZ_ven_d9f9829a",
+    "cityCode": "HZ",
+    "name": "吴越文化博物馆",
+    "latitude": 30.227519,
+    "longitude": 119.724892,
+    "address": ""
   }
 ];

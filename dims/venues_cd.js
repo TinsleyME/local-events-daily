@@ -486,5 +486,13 @@ window.APP_VENUES_CD = [
     "latitude": 30.56955,
     "longitude": 104.072511,
     "address": ""
+  },
+  {
+    "id": "CD_ven_269c3371",
+    "cityCode": "CD",
+    "name": "天府人文艺术图书馆",
+    "latitude": 30.66759,
+    "longitude": 104.072516,
+    "address": ""
   }
 ];

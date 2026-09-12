@@ -112,15 +112,13 @@
   D.cities.forEach(function(c){ CITY_MAP[c.code] = c; });
   D.categories.forEach(function(c){ CAT_MAP[c.id] = c; });
   D.costTypes.forEach(function(c){ COST_MAP[c.id] = c; });
-  // 聚合各城市 venues 文件：每个文件暴露 window.APP_VENUES_<CITY>
+  // 聚合各城市 venues 文件：每个文件暴露 window.APP_VENUES_<CITY>（场馆唯一真源）
   D.cities.forEach(function(c){
     var key = 'APP_VENUES_' + c.code.toUpperCase();
     if(Array.isArray(window[key])) D.venues = D.venues.concat(window[key]);
   });
   // 兼容旧格式（单一 window.APP_VENUES 数组）
   if(Array.isArray(window.APP_VENUES)) D.venues = D.venues.concat(window.APP_VENUES);
-  // 与维表自带 venues 取并集：两份来源可能不同步，缺一不可，否则部分活动打不出点位
-  if(Array.isArray((window.APP_DIMS||{}).venues)) D.venues = D.venues.concat(window.APP_DIMS.venues);
   // 按 id 去重（先出现的优先）
   (function(){
     var seen = {}, uniq = [];

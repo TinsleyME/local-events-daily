@@ -422,5 +422,45 @@ window.APP_VENUES_XA = [
     "latitude": 34.268431,
     "longitude": 108.954679,
     "address": ""
+  },
+  {
+    "id": "XA_ven_0711e947",
+    "cityCode": "XA",
+    "name": "西安青曲社阿房宫大戏院",
+    "latitude": 34.258409,
+    "longitude": 108.94465,
+    "address": ""
+  },
+  {
+    "id": "XA_ven_2ddddb0e",
+    "cityCode": "XA",
+    "name": "西演SPACE·福星现场",
+    "latitude": 34.248424,
+    "longitude": 108.954678,
+    "address": ""
+  },
+  {
+    "id": "XA_ven_5d164b3d",
+    "cityCode": "XA",
+    "name": "西安易俗大剧院",
+    "latitude": 34.268431,
+    "longitude": 108.954679,
+    "address": ""
+  },
+  {
+    "id": "XA_ven_cd7cee2f",
+    "cityCode": "XA",
+    "name": "西安MARS艺术展演空间",
+    "latitude": 34.208409,
+    "longitude": 108.954674,
+    "address": ""
+  },
+  {
+    "id": "XA_ven_138b67cb",
+    "cityCode": "XA",
+    "name": "大唐不夜城",
+    "latitude": 34.158415,
+    "longitude": 108.964704,
+    "address": ""
   }
 ];

@@ -350,5 +350,53 @@ window.APP_VENUES_SH = [
     "latitude": 31.140837,
     "longitude": 121.671273,
     "address": ""
+  },
+  {
+    "id": "SH_ven_c18139b7",
+    "cityCode": "SH",
+    "name": "上海植物园",
+    "latitude": 31.148108,
+    "longitude": 121.434624,
+    "address": ""
+  },
+  {
+    "id": "SH_ven_14bd3dd6",
+    "cityCode": "SH",
+    "name": "虹桥艺术中心",
+    "latitude": 31.19304,
+    "longitude": 121.324522,
+    "address": ""
+  },
+  {
+    "id": "SH_ven_20631c01",
+    "cityCode": "SH",
+    "name": "上海宝山滨江",
+    "latitude": 31.408077,
+    "longitude": 121.494483,
+    "address": ""
+  },
+  {
+    "id": "SH_ven_ded1af4a",
+    "cityCode": "SH",
+    "name": "吴淞口国际邮轮港",
+    "latitude": 31.408077,
+    "longitude": 121.494483,
+    "address": ""
+  },
+  {
+    "id": "SH_ven_176d1769",
+    "cityCode": "SH",
+    "name": "长滩音乐厅",
+    "latitude": 31.413084,
+    "longitude": 121.49249,
+    "address": ""
+  },
+  {
+    "id": "SH_ven_878247c1",
+    "cityCode": "SH",
+    "name": "C·PARK海粟文化广场",
+    "latitude": 31.218153,
+    "longitude": 121.424642,
+    "address": ""
   }
 ];
