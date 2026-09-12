@@ -127,7 +127,7 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "当代艺术群展，免费向公众开放，持续至10月15日。",
-      "sourceUrl": "",
+      "sourceUrl": "https://www.arthing.org/archives/2026/08/4667794.html",
       "tagName": "",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-10"
@@ -145,7 +145,7 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "98-480元",
       "description": "以张爱玲文学世界为蓝本的话剧，9月18日美琪大戏院上演。",
-      "sourceUrl": "",
+      "sourceUrl": "https://detail.damai.cn/item.htm?id=1073650296495",
       "tagName": "",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-10"
@@ -181,7 +181,7 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "宠物友好主题市集，集结萌宠周边、手作与轻食。",
-      "sourceUrl": "",
+      "sourceUrl": "https://www.sina.cn/media/2274423984",
       "tagName": "",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-10"
@@ -217,7 +217,7 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "横跨中秋与国庆的开放式街区嘉年华，含市集、爵士现场与亲子活动。",
-      "sourceUrl": "",
+      "sourceUrl": "http://jjdf.chinadevelopment.com.cn/ly/2026/09/2013055.shtml",
       "tagName": "",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-10"

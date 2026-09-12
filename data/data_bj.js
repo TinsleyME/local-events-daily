@@ -1,5 +1,4 @@
 window.APP_DATA = {
-  "version": 3,
   "meta": {
     "date": "2026-09-12",
     "weekday": "周六",
@@ -21,24 +20,6 @@ window.APP_DATA = {
       "description": "2026 WTT 中国大满贯在北京石景山首钢园举行，接待来自全球近 250 名顶尖球员，设男单、女单、男双、女双、混双五个项目，争夺 2000 分世界排名积分。",
       "sourceUrl": "https://bj.bendibao.com/news/2020923/281339.shtm",
       "tagName": "国庆",
-      "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-12"
-    },
-    {
-      "id": "BJ_evt_541614",
-      "cityCode": "BJ",
-      "categoryId": "sports",
-      "name": "2026 中国网球公开赛",
-      "venueId": "BJ_ven_6b7b72a5",
-      "venueText": "国家网球中心",
-      "dateText": "9.28-10.11",
-      "startDate": "2026-09-28",
-      "endDate": "2026-10-11",
-      "costId": "paid",
-      "priceText": "中网票务",
-      "description": "2026 中国网球公开赛在北京国家网球中心举行，赛期跨越中秋与国庆，汇聚世界级网球选手，是金秋北京重磅体育赛事。",
-      "sourceUrl": "https://bj.bendibao.com/news/2020923/281339.shtm",
-      "tagName": "中秋国庆",
       "createdAt": "2026-09-12",
       "updatedAt": "2026-09-12"
     },
@@ -163,7 +144,7 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "",
       "description": "保利出品亲子儿童剧《童游山海之守护兽狐小九》，取材山海经神话。",
-      "sourceUrl": "",
+      "sourceUrl": "https://www.goupiaotong.cn/Product/51502.shtml",
       "tagName": "",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-10"
@@ -199,7 +180,7 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "以酸味主题串联餐饮、手作与复古汽车的周末市集。",
-      "sourceUrl": "",
+      "sourceUrl": "https://m.bj.bendibao.com/xiuxian/381045_10.html",
       "tagName": "",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-10"
@@ -217,7 +198,7 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "免费",
       "description": "潮流汽车与生活方式主题展，汇集改装、摩托与户外装备。",
-      "sourceUrl": "",
+      "sourceUrl": "https://m.bj.bendibao.com/xiuxian/381045_9.html",
       "tagName": "",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-10"
@@ -235,7 +216,7 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "结合演艺街区与老北京风物的主题市集，配套快闪演出。",
-      "sourceUrl": "",
+      "sourceUrl": "https://m.bj.bendibao.com/xiuxian/381045_8.html",
       "tagName": "",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-10"
@@ -253,7 +234,7 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "手帐爱好者聚会，集印章、市集与创作者分享。",
-      "sourceUrl": "",
+      "sourceUrl": "https://m.bj.bendibao.com/xiuxian/381045_7.html",
       "tagName": "",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-10"
@@ -271,7 +252,7 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "60-150元",
       "description": "俄罗斯主题娃娃与收藏玩具专场展，设限定藏品专区。",
-      "sourceUrl": "",
+      "sourceUrl": "https://detail.damai.cn/item.htm?id=1078848065167",
       "tagName": "",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-10"
@@ -289,7 +270,7 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "每周末的儿童剧、手作与文创市集组合活动，免费参与。",
-      "sourceUrl": "",
+      "sourceUrl": "https://m.sohu.com/a/1065998878_122066679",
       "tagName": "",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-10"
@@ -363,24 +344,6 @@ window.APP_DATA = {
       "description": "汇集20家文博科研机构270余件古文字类文物，从甲骨金文到简帛玺印，系统呈现汉字承载的中华文明基因密码。",
       "sourceUrl": "https://www.visitbeijing.com.cn/article/4T2mSLLMibO",
       "tagName": "古文字",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "BJ_evt_45822f",
-      "cityCode": "BJ",
-      "categoryId": "exhi",
-      "name": "归心一园——故宫乾隆花园沉浸式光影展",
-      "venueId": "BJ_ven_b1000008",
-      "venueText": "国家典籍博物馆",
-      "dateText": "2026.7.9-12.6",
-      "startDate": "2026-07-09",
-      "endDate": "2026-12-06",
-      "costId": "free",
-      "priceText": "",
-      "description": "以数字科技活化文化遗产，将宁寿宫花园倦勤斋通景画、禊赏亭曲水流觞化作可触摸、可沉浸的光影之旅。",
-      "sourceUrl": "https://www.visitbeijing.com.cn/article/4T2mSLLMibO",
-      "tagName": "光影",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -1062,23 +1025,6 @@ window.APP_DATA = {
       "costId": "free",
       "description": "国家级大型综合展会，设数字艺术、文创设计、文化服务九大专题展。",
       "sourceUrl": "https://www.ciftis.org/",
-      "tagName": "",
-      "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-08"
-    },
-    {
-      "id": "BJ_evt_a6d22e",
-      "cityCode": "BJ",
-      "categoryId": "expo",
-      "name": "第26届北京艺术博览会",
-      "venueId": "BJ_ven_fe39b3b9",
-      "venueText": "北京展览馆",
-      "dateText": "2026.9.11-14",
-      "startDate": "2026-09-11",
-      "endDate": "2026-09-14",
-      "costId": "paid",
-      "description": "国内老牌综合性艺术博览会，十余国上百家画廊机构，国画油画雕塑装置同台。",
-      "sourceUrl": "http://www.bjiae.net/",
       "tagName": "",
       "createdAt": "2026-09-08",
       "updatedAt": "2026-09-08"

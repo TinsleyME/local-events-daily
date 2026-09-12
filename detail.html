@@ -99,6 +99,18 @@
 </script>
 <script src="https://map.qq.com/api/gljs?v=1.exp"></script>
 <script src="dims/dims.js"></script>
+<!-- 场馆维表：分城文件单一真源，必须逐个加载（与 index.html 保持一致），否则 VENUE_MAP 为空，地图点位 / 同地点 / 附近均不显示 -->
+<script src="dims/venues_gz.js"></script>
+<script src="dims/venues_sz.js"></script>
+<script src="dims/venues_fs.js"></script>
+<script src="dims/venues_bj.js"></script>
+<script src="dims/venues_sh.js"></script>
+<script src="dims/venues_hz.js"></script>
+<script src="dims/venues_nj.js"></script>
+<script src="dims/venues_cd.js"></script>
+<script src="dims/venues_wh.js"></script>
+<script src="dims/venues_xa.js"></script>
+<script src="dims/venues_cq.js"></script>
 <script>
   // 维表 dims/（cities/cats/costs/venues）+ 事实表 data/<city>.js（按城市拆分）
   var D = (function(){

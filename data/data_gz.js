@@ -1,5 +1,4 @@
 window.APP_DATA = {
-  "version": 3,
   "meta": {
     "date": "2026-09-12",
     "weekday": "周六",
@@ -191,7 +190,7 @@ window.APP_DATA = {
     {
       "id": "GZ_evt_faa221",
       "celebrity": "韦礼安",
-"cityCode": "GZ",
+      "cityCode": "GZ",
       "categoryId": "show",
       "name": "韦礼安「HI WE1 韦，您好」巡回演唱会-广州站",
       "venueId": "GZ_ven_df4b6ef0",
@@ -275,24 +274,6 @@ window.APP_DATA = {
       "priceText": "",
       "description": "梳理广东千年外贸史专题展。",
       "sourceUrl": "https://whly.gd.gov.cn/service_newwwbwg/content/post_4950591.html",
-      "tagName": "",
-      "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-12"
-    },
-    {
-      "id": "GZ_evt_b2ee62",
-      "cityCode": "GZ",
-      "categoryId": "exhi",
-      "name": "小王子：星旅奇遇 VR沉浸式大空间展",
-      "venueId": "GZ_ven_96635df3",
-      "venueText": "广州K11购物艺术中心",
-      "dateText": "9月4日-11月4日",
-      "startDate": "2026-09-04",
-      "endDate": "2026-11-04",
-      "costId": "paid",
-      "priceText": "需购票",
-      "description": "以前沿VR技术重现小王子的浪漫星空宇宙。",
-      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-12",
       "updatedAt": "2026-09-12"
@@ -408,7 +389,7 @@ window.APP_DATA = {
     {
       "id": "GZ_evt_fec502",
       "celebrity": "郭静",
-"cityCode": "GZ",
+      "cityCode": "GZ",
       "categoryId": "show",
       "name": "郭静 2026“刚刚好的自己”巡回演唱会广州站",
       "venueId": "GZ_ven_df4b6ef0",
@@ -427,7 +408,7 @@ window.APP_DATA = {
     {
       "id": "GZ_evt_1e215e",
       "celebrity": "李玉刚",
-"cityCode": "GZ",
+      "cityCode": "GZ",
       "categoryId": "show",
       "name": "李玉刚《刚好遇见你》2026巡回演唱会-广州站",
       "venueId": "GZ_ven_282686d2",
@@ -446,7 +427,7 @@ window.APP_DATA = {
     {
       "id": "GZ_evt_3290cc",
       "celebrity": "欧阳娜娜",
-"cityCode": "GZ",
+      "cityCode": "GZ",
       "categoryId": "show",
       "name": "欧阳娜娜 Playlist嘉年华 演唱会",
       "venueId": "GZ_ven_282686d2",
@@ -610,7 +591,7 @@ window.APP_DATA = {
     {
       "id": "GZ_evt_141922",
       "celebrity": "姚晨",
-"cityCode": "GZ",
+      "cityCode": "GZ",
       "categoryId": "show",
       "name": "姚晨领衔话剧《非穷尽列举》",
       "venueId": "GZ_ven_b09f1260",
@@ -657,7 +638,7 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "540元起",
       "description": "荷兰殿堂级交响金属巨擘亚洲巡演广州站。",
-      "sourceUrl": "",
+      "sourceUrl": "https://detail.damai.cn/item.htm?id=984339473462",
       "tagName": "",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-10"
@@ -675,7 +656,7 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "预售320/全价380元",
       "description": "爱尔兰殿堂级后摇劲旅全球巡演广州站。",
-      "sourceUrl": "",
+      "sourceUrl": "https://www.showstart.com/event/304296",
       "tagName": "",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-11"
@@ -929,25 +910,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-09"
     },
     {
-      "id": "GZ_evt_0017eb",
-      "cityCode": "GZ",
-      "categoryId": "show",
-      "name": "话剧《农庄馆客人》 黄磊、何炅领衔",
-      "venueId": "GZ_ven_b09f1260",
-      "venueText": "广州大剧院 歌剧厅",
-      "dateText": "2026.9.11-12 19:30",
-      "startDate": "2026-09-11",
-      "endDate": "2026-09-12",
-      "costId": "paid",
-      "priceText": "180-1280元",
-      "description": "杨婷导演，黄磊、何炅领衔主演话剧。票价180-1280元。",
-      "celebrity": "黄磊、何炅",
-      "sourceUrl": "https://3w.gzdjy.org/list.html?detailTime=2026-9-1:2026-9-30",
-      "tagName": "",
-      "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-09"
-    },
-    {
       "id": "GZ_evt_df87c9",
       "cityCode": "GZ",
       "categoryId": "show",
@@ -986,7 +948,7 @@ window.APP_DATA = {
     {
       "id": "GZ_evt_abedd4",
       "celebrity": "姚晨",
-"cityCode": "GZ",
+      "cityCode": "GZ",
       "categoryId": "show",
       "name": "话剧《非穷尽列举》 姚晨领衔",
       "venueId": "GZ_ven_b09f1260",
@@ -1994,25 +1956,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-09"
     },
     {
-      "id": "GZ_evt_efcfb5",
-      "cityCode": "GZ",
-      "categoryId": "show",
-      "name": "韦礼安「HI WE1 韦,您好」巡回演唱会-广州站",
-      "venueId": "GZ_ven_df4b6ef0",
-      "venueText": "广州亚运城综合体育馆",
-      "dateText": "2026.9.19 19:00",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "costId": "paid",
-      "priceText": "380元起",
-      "description": "韦礼安2026巡演广州站，380元起售票中。",
-      "sourceUrl": "https://www.ososhow.com/month/guangzhou-concert-9.html",
-      "tagName": "演唱会",
-      "celebrity": "韦礼安",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
       "id": "GZ_evt_8b49b5",
       "cityCode": "GZ",
       "categoryId": "show",
@@ -2107,7 +2050,7 @@ window.APP_DATA = {
     {
       "id": "GZ_evt_74d21a",
       "celebrity": "邓典",
-"cityCode": "GZ",
+      "cityCode": "GZ",
       "categoryId": "show",
       "name": "啾啾咩咩DD秀 邓典D.D.巡演-广州站",
       "venueId": "GZ_ven_69a40d3f",
@@ -2611,7 +2554,7 @@ window.APP_DATA = {
       "endDate": "2026-09-18",
       "costId": "free",
       "description": "五金电器与工业品跨境出口主题展会，落地广交会展馆A区。票价与登记方式以主办方公告为准。",
-      "sourceUrl": "",
+      "sourceUrl": "http://meirongexpo.com/",
       "tagName": "",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-10",

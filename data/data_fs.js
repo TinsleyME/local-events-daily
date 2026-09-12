@@ -1,5 +1,4 @@
 window.APP_DATA = {
-  "version": 3,
   "meta": {
     "date": "2026-09-12",
     "weekday": "周六",
@@ -127,7 +126,7 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "免费（无需预约）",
       "description": "三博联动推出丝路乐游记音乐游园会、童心赴千年节庆游园会及六项非遗手作、丝绸之路主题展。",
-      "sourceUrl": "",
+      "sourceUrl": "https://news.qq.com/rain/a/20260908A0DGL900",
       "tagName": "",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-10"
@@ -145,7 +144,7 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "解码城市里的万物诗行，推介佛山地理标志产品。",
-      "sourceUrl": "",
+      "sourceUrl": "https://news.qq.com/rain/a/20260903A0A48200",
       "tagName": "",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-10"
@@ -163,7 +162,7 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "298-1888元",
       "description": "张德兰携《情义两心坚》等金曲重返华语乐坛黄金年代。",
-      "sourceUrl": "",
+      "sourceUrl": "https://news.qq.com/rain/a/20260719A08TFF00",
       "tagName": "",
       "celebrity": "张德兰",
       "createdAt": "2026-09-10",
@@ -182,7 +181,7 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "推动粤剧粤曲非遗从剧场走进商业综合体，非遗进商圈文化润民心。",
-      "sourceUrl": "",
+      "sourceUrl": "https://news.qq.com/rain/a/20260908A0DGL900",
       "tagName": "",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-10"
@@ -200,7 +199,7 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "立足中秋团圆传统文化，聚焦老少、新市民、独居长者的公益节庆茶话会。",
-      "sourceUrl": "",
+      "sourceUrl": "https://news.qq.com/rain/a/20260909A0CVUK00",
       "tagName": "",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-10"
@@ -218,7 +217,7 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "连续10天免费音乐嘉年华，含主舞台演出、影视打卡区、非遗市集、亲子玩乐与无人机表演。",
-      "sourceUrl": "",
+      "sourceUrl": "https://www.shundecity.com/a/2026/293336.html",
       "tagName": "",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-10"
@@ -236,7 +235,7 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "设造物集、微醺街区、美食区、星夜露营、IP艺术区五大板块，双舞台全天候乐队演出。",
-      "sourceUrl": "",
+      "sourceUrl": "https://fs.bendibao.com/xiuxian/202699/142054.shtm",
       "tagName": "",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-10"
@@ -254,7 +253,7 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "美食市集、湖畔音乐派对、亲子露营互动，规划50-60个展位。",
-      "sourceUrl": "",
+      "sourceUrl": "https://news.qq.com/rain/a/20260908A0DGL900",
       "tagName": "",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-10"
@@ -272,7 +271,7 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "古村光影艺术装置氛围感十足，文创集市精彩不断，全程免费开放。",
-      "sourceUrl": "",
+      "sourceUrl": "https://www.nfnews.com/content/mom4DWvJ6V.html",
       "tagName": "",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-10"
@@ -290,7 +289,7 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "湾区多支龙舟队伍集结，传承龙舟民俗文化，打造本土特色龙舟赛事IP。",
-      "sourceUrl": "",
+      "sourceUrl": "https://www.nfnews.com/content/mom4DWvJ6V.html",
       "tagName": "",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-10"
@@ -308,7 +307,7 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "48支龙舟劲旅竞逐200米直道，展现中国龙舟名镇风采。",
-      "sourceUrl": "",
+      "sourceUrl": "https://www.nfnews.com/content/mom4DWvJ6V.html",
       "tagName": "",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-10"
@@ -326,7 +325,7 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "51支龙舟队伍380米直道竞速，融合传统竞渡、非遗展演、文旅市集与民俗巡游。",
-      "sourceUrl": "",
+      "sourceUrl": "https://www.nfnews.com/content/mom4DWvJ6V.html",
       "tagName": "",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-10"
@@ -344,7 +343,7 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "配套玻璃彩绘、螺钿拼贴、石塑粘土等六项非遗手作的亲子游园会。",
-      "sourceUrl": "",
+      "sourceUrl": "https://news.qq.com/rain/a/20260908A0DGL900",
       "tagName": "",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-10"
@@ -380,7 +379,7 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "免费（需预约）",
       "description": "以茶文化赋能文旅消费，与精品展销会同期举行。",
-      "sourceUrl": "",
+      "sourceUrl": "https://m.goodexpos.com/coming-article/9-all-guangdong",
       "tagName": "",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-10"
@@ -497,7 +496,7 @@ window.APP_DATA = {
     {
       "id": "FS_evt_b7395d",
       "celebrity": "王栎鑫",
-"cityCode": "FS",
+      "cityCode": "FS",
       "categoryId": "show",
       "name": "王栎鑫不管“三七”二十一生日会",
       "venueId": "FS_ven_d1fc8c51",
@@ -510,25 +509,6 @@ window.APP_DATA = {
       "description": "王栎鑫2026不管“三七”二十一生日会，以“快乐至上”为主题，票价319/619/919/1199元。",
       "sourceUrl": "https://m.fs.bendibao.com/jieri/102864.shtm",
       "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "FS_evt_241c11",
-      "cityCode": "FS",
-      "categoryId": "show",
-      "name": "张德兰2026《情义两心坚》巡回演唱会-佛山站",
-      "venueId": "FS_ven_aa02fs00",
-      "venueText": "南海体育馆(桂城)",
-      "dateText": "2026.9.26",
-      "startDate": "2026-09-26",
-      "endDate": "2026-09-26",
-      "costId": "paid",
-      "priceText": "298元起",
-      "description": "张德兰2026《情义两心坚》巡回演唱会佛山站，票价298/398/598/798/双人1888元。",
-      "sourceUrl": "https://m.fs.bendibao.com/jieri/102864.shtm",
-      "tagName": "",
-      "celebrity": "张德兰",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
