@@ -1100,23 +1100,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-08"
     },
     {
-      "id": "FS_evt_367cdd",
-      "cityCode": "FS",
-      "categoryId": "sports",
-      "name": "梦里水乡锦龙盛会",
-      "venueId": "FS_ven_fe81937d",
-      "venueText": "梦里水乡艺术河畔",
-      "dateText": "2026.9.24",
-      "startDate": "2026-09-24",
-      "endDate": "2026-09-24",
-      "costId": "free",
-      "description": "51支龙舟队伍380米直道竞速，融合龙舟竞渡、非遗展演、文旅市集。",
-      "sourceUrl": "https://www.nfnews.com/content/mom4DWvJ6V.html",
-      "tagName": "",
-      "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-08"
-    },
-    {
       "id": "FS_evt_3efbcf",
       "cityCode": "FS",
       "categoryId": "sports",

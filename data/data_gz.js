@@ -545,11 +545,11 @@ window.APP_DATA = {
       "endDate": null,
       "costId": "free",
       "priceText": "免费（需预约）",
-      "description": "带观众走进百年前的课堂，读懂那时少年的成长课。",
+      "description": "带观众走进百年前的课堂，读懂那时少年的成长课。配合中秋手作体验(花灯、织锦灯笼、马赛克月亮灯等)。",
       "sourceUrl": "https://news.dayoo.com/gzrbrmt/202608/31/170615_54998577.htm",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-12"
     },
     {
       "id": "GZ_evt_aaed4f",
@@ -870,23 +870,6 @@ window.APP_DATA = {
       "endDate": "2026-10-07",
       "costId": "free",
       "description": "免费开放13天，30余组大中型彩灯与逾千盏气氛灯笼，配套中秋嘉年华市集、灯谜会、讲古。",
-      "sourceUrl": "https://k.sina.com.cn/article_5787187353_158f178990200284ny.html",
-      "tagName": "",
-      "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "GZ_evt_d18942",
-      "cityCode": "GZ",
-      "categoryId": "exhi",
-      "name": "那些年的老课本展",
-      "venueId": "GZ_ven_91f73547",
-      "venueText": "荔湾博物馆",
-      "dateText": "2026.9月起",
-      "startDate": "2026-09-01",
-      "endDate": null,
-      "costId": "free",
-      "description": "荔湾博物馆\"那些年的老课本\"展，配合中秋手作体验(花灯、织锦灯笼、马赛克月亮灯等)。",
       "sourceUrl": "https://k.sina.com.cn/article_5787187353_158f178990200284ny.html",
       "tagName": "",
       "createdAt": "2026-09-08",
