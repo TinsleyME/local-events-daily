@@ -4400,6 +4400,310 @@ window.APP_DIMS = {
       "latitude": 29.561112,
       "longitude": 106.583687,
       "address": ""
+    },
+    {
+      "id": "SZ_ven_5b49da35",
+      "cityCode": "SZ",
+      "name": "龙岗国际艺术中心",
+      "latitude": 22.726991,
+      "longitude": 114.219881,
+      "address": ""
+    },
+    {
+      "id": "FS_ven_514b6b52",
+      "cityCode": "FS",
+      "name": "石肯村",
+      "latitude": 23.017389,
+      "longitude": 113.165429,
+      "address": ""
+    },
+    {
+      "id": "BJ_ven_5a72895e",
+      "cityCode": "BJ",
+      "name": "北京音乐厅",
+      "latitude": 39.931383,
+      "longitude": 116.376222,
+      "address": ""
+    },
+    {
+      "id": "BJ_ven_edea22a3",
+      "cityCode": "BJ",
+      "name": "首都剧场",
+      "latitude": 39.921404,
+      "longitude": 116.411245,
+      "address": ""
+    },
+    {
+      "id": "BJ_ven_6e69eed8",
+      "cityCode": "BJ",
+      "name": "紫竹院公园",
+      "latitude": 39.941262,
+      "longitude": 116.306078,
+      "address": ""
+    },
+    {
+      "id": "BJ_ven_db4c9a6d",
+      "cityCode": "BJ",
+      "name": "王府井",
+      "latitude": 39.916403,
+      "longitude": 116.416243,
+      "address": ""
+    },
+    {
+      "id": "SH_ven_c18139b7",
+      "cityCode": "SH",
+      "name": "上海植物园",
+      "latitude": 31.148108,
+      "longitude": 121.434624,
+      "address": ""
+    },
+    {
+      "id": "SH_ven_14bd3dd6",
+      "cityCode": "SH",
+      "name": "虹桥艺术中心",
+      "latitude": 31.19304,
+      "longitude": 121.324522,
+      "address": ""
+    },
+    {
+      "id": "HZ_ven_36b6cb39",
+      "cityCode": "HZ",
+      "name": "杭州奥体中心体育馆",
+      "latitude": 30.177557,
+      "longitude": 120.22451,
+      "address": ""
+    },
+    {
+      "id": "HZ_ven_c3d98d53",
+      "cityCode": "HZ",
+      "name": "SoFun Live(杭州)",
+      "latitude": 30.26768,
+      "longitude": 120.154709,
+      "address": ""
+    },
+    {
+      "id": "CD_ven_269c3371",
+      "cityCode": "CD",
+      "name": "天府人文艺术图书馆",
+      "latitude": 30.66759,
+      "longitude": 104.072516,
+      "address": ""
+    },
+    {
+      "id": "XA_ven_0711e947",
+      "cityCode": "XA",
+      "name": "西安青曲社阿房宫大戏院",
+      "latitude": 34.258409,
+      "longitude": 108.94465,
+      "address": ""
+    },
+    {
+      "id": "XA_ven_2ddddb0e",
+      "cityCode": "XA",
+      "name": "西演SPACE·福星现场",
+      "latitude": 34.248424,
+      "longitude": 108.954678,
+      "address": ""
+    },
+    {
+      "id": "CQ_ven_0f5a8f73",
+      "cityCode": "CQ",
+      "name": "重庆市规划展览馆",
+      "latitude": 29.55712,
+      "longitude": 106.573693,
+      "address": ""
+    },
+    {
+      "id": "CQ_ven_dac8eac2",
+      "cityCode": "CQ",
+      "name": "海德大酒店(重庆)",
+      "latitude": 29.557153,
+      "longitude": 106.55372,
+      "address": ""
+    },
+    {
+      "id": "CQ_ven_28ba7c1d",
+      "cityCode": "CQ",
+      "name": "2077赛博城市",
+      "latitude": 29.5973,
+      "longitude": 106.503852,
+      "address": ""
+    },
+    {
+      "id": "CQ_ven_4dfd227f",
+      "cityCode": "CQ",
+      "name": "两江丽景酒店",
+      "latitude": 29.567124,
+      "longitude": 106.573694,
+      "address": ""
+    },
+    {
+      "id": "GZ_ven_3ef67c9d",
+      "cityCode": "GZ",
+      "name": "广州白云国际会议中心",
+      "latitude": 23.212262,
+      "longitude": 113.278042,
+      "address": ""
+    },
+    {
+      "id": "GZ_ven_f105e950",
+      "cityCode": "GZ",
+      "name": "云台花园",
+      "latitude": 23.143358,
+      "longitude": 113.297162,
+      "address": ""
+    },
+    {
+      "id": "GZ_ven_3eb213d6",
+      "cityCode": "GZ",
+      "name": "广州融创乐园",
+      "latitude": 23.47563,
+      "longitude": 113.220967,
+      "address": ""
+    },
+    {
+      "id": "GZ_ven_39439a5c",
+      "cityCode": "GZ",
+      "name": "鹤鸣涧营地",
+      "latitude": 23.194471,
+      "longitude": 113.460456,
+      "address": ""
+    },
+    {
+      "id": "GZ_ven_d7fecd63",
+      "cityCode": "GZ",
+      "name": "广州购书中心",
+      "latitude": 23.132403,
+      "longitude": 113.326416,
+      "address": ""
+    },
+    {
+      "id": "GZ_ven_c79993ec",
+      "cityCode": "GZ",
+      "name": "广州中山纪念堂",
+      "latitude": 23.130927,
+      "longitude": 113.272132,
+      "address": ""
+    },
+    {
+      "id": "GZ_ven_2a9cec93",
+      "cityCode": "GZ",
+      "name": "广州大学城体育中心体育场",
+      "latitude": 23.391585,
+      "longitude": 113.401543,
+      "address": ""
+    },
+    {
+      "id": "GZ_ven_c66a013d",
+      "cityCode": "GZ",
+      "name": "沙湾古镇",
+      "latitude": 22.913547,
+      "longitude": 113.34564,
+      "address": ""
+    },
+    {
+      "id": "SZ_ven_e1f50d14",
+      "cityCode": "SZ",
+      "name": "深圳人才公园",
+      "latitude": 22.513983,
+      "longitude": 113.947875,
+      "address": ""
+    },
+    {
+      "id": "SZ_ven_d6cde3e0",
+      "cityCode": "SZ",
+      "name": "深圳欢乐谷",
+      "latitude": 22.546517,
+      "longitude": 113.999682,
+      "address": ""
+    },
+    {
+      "id": "SZ_ven_1670e5d8",
+      "cityCode": "SZ",
+      "name": "深圳世界之窗",
+      "latitude": 22.53657,
+      "longitude": 113.983943,
+      "address": ""
+    },
+    {
+      "id": "SZ_ven_364b4e89",
+      "cityCode": "SZ",
+      "name": "锦绣中华民俗村",
+      "latitude": 22.531805,
+      "longitude": 113.995972,
+      "address": ""
+    },
+    {
+      "id": "FS_ven_5d86a7e5",
+      "cityCode": "FS",
+      "name": "南庄",
+      "latitude": 22.977342,
+      "longitude": 113.035363,
+      "address": ""
+    },
+    {
+      "id": "FS_ven_a642d592",
+      "cityCode": "FS",
+      "name": "清晖园",
+      "latitude": 22.837199,
+      "longitude": 113.255305,
+      "address": ""
+    },
+    {
+      "id": "BJ_ven_69f6b8b1",
+      "cityCode": "BJ",
+      "name": "亮马河",
+      "latitude": 39.946309,
+      "longitude": 116.476121,
+      "address": ""
+    },
+    {
+      "id": "BJ_ven_8eb7f96d",
+      "cityCode": "BJ",
+      "name": "白塔寺",
+      "latitude": 39.937399,
+      "longitude": 116.392241,
+      "address": ""
+    },
+    {
+      "id": "SH_ven_20631c01",
+      "cityCode": "SH",
+      "name": "上海宝山滨江",
+      "latitude": 31.408077,
+      "longitude": 121.494483,
+      "address": ""
+    },
+    {
+      "id": "SH_ven_ded1af4a",
+      "cityCode": "SH",
+      "name": "吴淞口国际邮轮港",
+      "latitude": 31.408077,
+      "longitude": 121.494483,
+      "address": ""
+    },
+    {
+      "id": "SH_ven_176d1769",
+      "cityCode": "SH",
+      "name": "长滩音乐厅",
+      "latitude": 31.413084,
+      "longitude": 121.49249,
+      "address": ""
+    },
+    {
+      "id": "SH_ven_878247c1",
+      "cityCode": "SH",
+      "name": "C·PARK海粟文化广场",
+      "latitude": 31.218153,
+      "longitude": 121.424642,
+      "address": ""
+    },
+    {
+      "id": "HZ_ven_d9f9829a",
+      "cityCode": "HZ",
+      "name": "吴越文化博物馆",
+      "latitude": 30.227519,
+      "longitude": 119.724892,
+      "address": ""
     }
   ]
 };

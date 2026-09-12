@@ -129,7 +129,6 @@
   })();
   if(!D.venues.length) console.error('[venues] 场馆维表为空（dims/venues_*.js 未正确加载），地图点位将全部消失');
   D.venues.forEach(function(v){ VENUE_MAP[v.id] = v; });
-  var CAT_ORDER = D.categories.map(function(c){ return c.code; });
 
   function getId(){ var p = new URLSearchParams(location.search); return p.get('id'); }
 

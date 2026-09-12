@@ -77,6 +77,19 @@ section.collapsed .ev-grid{display:none}
 .c-unknown{background:#eef0f3;color:#9aa1ab}
 
 /* 明星标记徽标（事件级标记，与 cost 同级；有明星则高亮） */
+/* 节日徽章样式 */
+.badge-festival{display:inline-flex;align-items:center;justify-content:center;font-size:14px;line-height:1.2;vertical-align:middle;margin-left:4px;}
+.festival-newyear{filter:saturate(1.1) brightness(1.05);}       /* 🎆 元旦/新年/跨年 */
+.festival-spring{filter:saturate(1.2) brightness(1.05);}        /* 🧧 春节/春运 */
+.festival-lantern{filter:saturate(1.15) hue-rotate(-5deg);}     /* 🏮 元宵/灯会 */
+.festival-qingming{filter:saturate(1.1) brightness(1.05);}      /* 🌿 清明 */
+.festival-labor{filter:saturate(1.1);}                          /* 🛠️ 劳动/五一 */
+.festival-dragon-boat{filter:saturate(1.15);}                   /* 🛶 端午 */
+.festival-qixi{filter:saturate(1.15) brightness(1.05);}         /* 💕 七夕/情人节 */
+.festival-mid-autumn{filter:saturate(1.2) brightness(1.1);}     /* 🌕 中秋 */
+.festival-national-day{filter:saturate(1.1);}                   /* 🇨🇳 国庆 */
+.festival-doubleninth{filter:saturate(1.2) hue-rotate(10deg);}  /* 🍁 重阳/敬老/登高 */
+.festival-christmas{filter:saturate(1.1) brightness(1.05);}     /* 🎄 圣诞/平安夜 */
 .m-celebrity{background:#fff7e6;color:#b7791f;border:1px solid #f6e0b5}
 
 .evcard .dist{
