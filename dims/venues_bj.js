@@ -430,5 +430,13 @@ window.APP_VENUES_BJ = [
     "latitude": 39.924875,
     "longitude": 116.363361,
     "address": "西城区阜成门内大街171号"
+  },
+  {
+    "id": "BJ_ven_ab7baf",
+    "cityCode": "BJ",
+    "name": "国家体育馆",
+    "latitude": 39.996238,
+    "longitude": 116.391001,
+    "address": "朝阳区奥运村街道天辰东路9号"
   }
 ];

@@ -99,8 +99,8 @@ window.APP_VENUES_SH = [
     "id": "SH_ven_b4c35a4d",
     "cityCode": "SH",
     "name": "中华艺术宫",
-    "latitude": 31.19,
-    "longitude": 121.49,
+    "latitude": 31.1864,
+    "longitude": 121.4902,
     "address": ""
   },
   {
@@ -219,8 +219,8 @@ window.APP_VENUES_SH = [
     "id": "SH_ven_a8b9c0db",
     "cityCode": "SH",
     "name": "梅赛德斯-奔驰文化中心",
-    "latitude": 31.19,
-    "longitude": 121.49,
+    "latitude": 31.1908,
+    "longitude": 121.4963,
     "address": ""
   },
   {
@@ -371,16 +371,16 @@ window.APP_VENUES_SH = [
     "id": "SH_ven_20631c01",
     "cityCode": "SH",
     "name": "上海宝山滨江",
-    "latitude": 31.408077,
-    "longitude": 121.494483,
+    "latitude": 31.4055,
+    "longitude": 121.4872,
     "address": ""
   },
   {
     "id": "SH_ven_ded1af4a",
     "cityCode": "SH",
     "name": "吴淞口国际邮轮港",
-    "latitude": 31.408077,
-    "longitude": 121.494483,
+    "latitude": 31.3692,
+    "longitude": 121.5123,
     "address": ""
   },
   {

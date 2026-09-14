@@ -243,8 +243,8 @@ window.APP_VENUES_CQ = [
     "id": "CQ_ven_cq0031",
     "cityCode": "CQ",
     "name": "重庆市群众艺术馆",
-    "latitude": 29.548,
-    "longitude": 106.555,
+    "latitude": 29.5495,
+    "longitude": 106.5562,
     "address": ""
   },
   {
@@ -315,8 +315,8 @@ window.APP_VENUES_CQ = [
     "id": "CQ_ven_cq0040",
     "cityCode": "CQ",
     "name": "渝中区两路口街道社区",
-    "latitude": 29.548,
-    "longitude": 106.555,
+    "latitude": 29.5468,
+    "longitude": 106.5535,
     "address": ""
   },
   {

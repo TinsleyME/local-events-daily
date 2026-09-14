@@ -1,11 +1,47 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-09-12",
-    "weekday": "周六",
+    "date": "2026-09-14",
+    "weekday": "周一",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "WH_evt_b2ddf1",
+      "cityCode": "WH",
+      "categoryId": "show",
+      "name": "2026长江文化艺术季·灵动长江舞台艺术精品展（武汉）",
+      "venueId": "WH_ven_33a2b3c6",
+      "venueText": "琴台大剧院",
+      "dateText": "9月19日-10月30日",
+      "startDate": "2026-09-19",
+      "endDate": "2026-10-30",
+      "costId": "paid",
+      "priceText": "需购票（部分特价票）",
+      "description": "邀请央华戏剧、中国儿童艺术剧院、浙江小百花越剧院、俄罗斯芭蕾国家剧院等院团，在琴台大剧院、琴台音乐厅、湖北剧院等场馆奉献15台剧目25场演出。",
+      "sourceUrl": "https://wh.bendibao.com/xiuxian/202698/200532.shtm",
+      "tagName": "",
+      "createdAt": "2026-09-14",
+      "updatedAt": "2026-09-14"
+    },
+    {
+      "id": "WH_evt_3ccf61",
+      "cityCode": "WH",
+      "categoryId": "outdoor",
+      "name": "武汉花博汇金秋花火大会",
+      "venueId": "WH_ven_4dcd4756",
+      "venueText": "武汉花博汇",
+      "dateText": "9月23日-10月7日（15天）",
+      "startDate": "2026-09-23",
+      "endDate": "2026-10-07",
+      "costId": "paid",
+      "priceText": "需购票",
+      "description": "以「百合栖花屿·星火燃金秋」为主题，千亩百合花海+六大核心节目：花漾女团见面会、Surprise大巡游、星域音乐嘉年华、《盛世楚歌》实景大秀、《千灯大会》、《金秋花火彝族盛会》非遗火秀。",
+      "sourceUrl": "https://www.toutiao.com/article/7684549207805461007/",
+      "tagName": "",
+      "createdAt": "2026-09-14",
+      "updatedAt": "2026-09-14"
+    },
     {
       "id": "WH_evt_c7c33c",
       "cityCode": "WH",
@@ -27,7 +63,7 @@ window.APP_DATA = {
     {
       "id": "WH_evt_a5d368",
       "celebrity": "李荣浩、黄子弘凡",
-"cityCode": "WH",
+      "cityCode": "WH",
       "categoryId": "show",
       "name": "武商67周年「歌者归来」演唱会（李荣浩×黄子弘凡）",
       "venueId": "WH_ven_03a2b3d5",
@@ -46,7 +82,7 @@ window.APP_DATA = {
     {
       "id": "WH_evt_6e42c5",
       "celebrity": "杨丞琳",
-"cityCode": "WH",
+      "cityCode": "WH",
       "categoryId": "show",
       "name": "杨丞琳《房间里的大象》巡回演唱会武汉站",
       "venueId": "WH_ven_03a2b3d5",
@@ -65,7 +101,7 @@ window.APP_DATA = {
     {
       "id": "WH_evt_e01e41",
       "celebrity": "孙楠",
-"cityCode": "WH",
+      "cityCode": "WH",
       "categoryId": "show",
       "name": "孙楠「给所有朋友们的歌」巡回演唱会武汉站",
       "venueId": "WH_ven_04a2b3d6",
@@ -84,7 +120,7 @@ window.APP_DATA = {
     {
       "id": "WH_evt_f0c0cb",
       "celebrity": "李玉刚",
-"cityCode": "WH",
+      "cityCode": "WH",
       "categoryId": "show",
       "name": "李玉刚《刚好遇见你》2026巡回演唱会武汉站",
       "venueId": "WH_ven_25a2b3eb",
@@ -394,23 +430,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-09"
     },
     {
-      "id": "WH_evt_02e40a",
-      "cityCode": "WH",
-      "categoryId": "show",
-      "name": "X-Eden X乐园音乐节",
-      "venueId": "WH_ven_13a2b3df",
-      "venueText": "黄陂空港音乐广场",
-      "dateText": "2026.9.12-9.13",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-13",
-      "costId": "paid",
-      "description": "任嘉伦、欧豪、宝石Gem、张远、王栎鑫、陆虎等实力艺人齐聚，露天沉浸式舞台打造江城初秋最火热的青春音乐现场。",
-      "sourceUrl": "https://news.hubeidaily.net/pc/z_856481.html",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
       "id": "WH_evt_f534ce",
       "cityCode": "WH",
       "categoryId": "show",
@@ -518,24 +537,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-09"
     },
     {
-      "id": "WH_evt_eee0a2",
-      "celebrity": "陈妍希",
-"cityCode": "WH",
-      "categoryId": "show",
-      "name": "话剧《镜花水月》陈妍希×窦进",
-      "venueId": "WH_ven_33a2b3c6",
-      "venueText": "武汉琴台大剧院",
-      "dateText": "2026.9.12-9.13",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-13",
-      "costId": "paid",
-      "description": "赖声川专属剧场作品《水月》，陈妍希、窦进主演，一场关于命运选择的东方寓言。",
-      "sourceUrl": "https://weibo.com/2127403275/5337215505793351",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
       "id": "WH_evt_3b8f7f",
       "cityCode": "WH",
       "categoryId": "show",
@@ -548,24 +549,6 @@ window.APP_DATA = {
       "costId": "paid",
       "description": "原版《剧院魅影》《天鹅湖》等国际顶级精品剧目登陆琴台大剧院、湖北剧院，带来高规格沉浸式艺术盛宴。",
       "sourceUrl": "https://news.hubeidaily.net/pc/z_856481.html",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "WH_evt_8593e6",
-      "celebrity": "金润吉",
-"cityCode": "WH",
-      "categoryId": "show",
-      "name": "金润吉 金声之年 特别场",
-      "venueId": "WH_ven_09a2b3db",
-      "venueText": "青山·沙丁音乐秀场",
-      "dateText": "2026.9.12",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-12",
-      "costId": "paid",
-      "description": "金润吉「金声之年」特别专场，醇厚嗓音演绎经典金曲。",
-      "sourceUrl": "https://www.163.com/dy/article/L4P07KHI0530PS59.html",
       "tagName": "",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
@@ -585,23 +568,6 @@ window.APP_DATA = {
       "sourceUrl": "https://www.163.com/dy/article/L4P07KHI0530PS59.html",
       "tagName": "",
       "celebrity": "布瑞吉",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "WH_evt_771b8d",
-      "cityCode": "WH",
-      "categoryId": "show",
-      "name": "冯翔方言民谣不插电原声音乐会",
-      "venueId": "WH_ven_99a2b3cc",
-      "venueText": "光谷（具体场馆以官方为准）",
-      "dateText": "2026.9.13",
-      "startDate": "2026-09-13",
-      "endDate": "2026-09-13",
-      "costId": "paid",
-      "description": "冯翔方言民谣不插电原声音乐会，9月13日19:30，光谷畅玩季重磅演出，用方言吟唱武汉烟火。",
-      "sourceUrl": "https://www.toutiao.com/article/7682257212786262579/",
-      "tagName": "",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -726,23 +692,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-09"
     },
     {
-      "id": "WH_evt_128d08",
-      "cityCode": "WH",
-      "categoryId": "sports",
-      "name": "楚超第十六轮 武汉华工科技 vs 恩施小土豆",
-      "venueId": "WH_ven_04a2b3d6",
-      "venueText": "武汉五环体育中心",
-      "dateText": "2026.9.13",
-      "startDate": "2026-09-13",
-      "endDate": "2026-09-13",
-      "costId": "paid",
-      "description": "2026湖北城市足球联赛（楚超）第十六轮，武汉华工科技主场迎战恩施小土豆，武汉队目前积分榜第一。",
-      "sourceUrl": "https://m.wh.bendibao.com/news/200498.shtm",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
       "id": "WH_evt_9099d8",
       "cityCode": "WH",
       "categoryId": "sports",
@@ -752,13 +701,13 @@ window.APP_DATA = {
       "dateText": "2026年9月",
       "startDate": "2026-09-12",
       "endDate": "2026-09-14",
-      "costId": "unknown",
+      "costId": "free",
       "description": "2026中国·武汉国际风筝邀请赛暨全国运动风筝锦标赛9月在汉举办，各色风筝竞舞长空，打造金秋户外体育盛宴。",
       "sourceUrl": "https://3g.wuhan.gov.cn/ztzl/sszx/ssxw/202604/t20260416_2753577.shtml",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-10",
-      "priceText": ""
+      "updatedAt": "2026-09-14",
+      "priceText": "免费"
     },
     {
       "id": "WH_evt_142f94",
@@ -777,23 +726,6 @@ window.APP_DATA = {
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-10",
       "priceText": "需购票"
-    },
-    {
-      "id": "WH_evt_7e1dfa",
-      "cityCode": "WH",
-      "categoryId": "family",
-      "name": "新生萌宝见面会·动物幼儿园开学季",
-      "venueId": "WH_ven_14a2b3e0",
-      "venueText": "武汉九峰森林动物园",
-      "dateText": "2026.9.5-6、9.12-13",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-13",
-      "costId": "paid",
-      "description": "开学季，武汉九峰森林动物园“动物幼儿园”迎来东北虎、环尾狐猴、小熊猫等新生宝宝与大家见面。",
-      "sourceUrl": "https://www.toutiao.com/article/7682257212786262579/",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
     },
     {
       "id": "WH_evt_82c6dc",
@@ -862,24 +794,6 @@ window.APP_DATA = {
       "tagName": "",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "WH_evt_b9a75b",
-      "cityCode": "WH",
-      "categoryId": "expo",
-      "name": "2026华夏家博会（武汉）",
-      "venueId": "WH_ven_12a2b3de",
-      "venueText": "武汉国际博览中心",
-      "dateText": "2026.9.11-9.13",
-      "startDate": "2026-09-11",
-      "endDate": "2026-09-13",
-      "costId": "free",
-      "description": "家居装修一站式采购盛会，涵盖家具、建材、家电、软装等，助力安心焕新家。",
-      "sourceUrl": "https://www.zhanxun.cn/news/11613.html",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-10",
-      "priceText": "免费（需预约）"
     },
     {
       "id": "WH_evt_66a2a4",

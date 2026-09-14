@@ -75,8 +75,8 @@ window.APP_VENUES_NJ = [
     "id": "NJ_ven_938200a2",
     "cityCode": "NJ",
     "name": "童寯建筑馆",
-    "latitude": 32.035,
-    "longitude": 118.785,
+    "latitude": 32.0572,
+    "longitude": 118.7762,
     "address": ""
   },
   {
@@ -187,8 +187,8 @@ window.APP_VENUES_NJ = [
     "id": "NJ_ven_f8442b48",
     "cityCode": "NJ",
     "name": "南京开心茶馆(国展店)",
-    "latitude": 32.072,
-    "longitude": 118.81,
+    "latitude": 32.0715,
+    "longitude": 118.8108,
     "address": ""
   },
   {
@@ -211,8 +211,8 @@ window.APP_VENUES_NJ = [
     "id": "NJ_ven_afdae65a",
     "cityCode": "NJ",
     "name": "南京万象天地",
-    "latitude": 32.035,
-    "longitude": 118.785,
+    "latitude": 32.0453,
+    "longitude": 118.7843,
     "address": ""
   },
   {
@@ -235,8 +235,8 @@ window.APP_VENUES_NJ = [
     "id": "NJ_ven_bbcc7d81",
     "cityCode": "NJ",
     "name": "南京国际展览中心",
-    "latitude": 32.072,
-    "longitude": 118.81,
+    "latitude": 32.0728,
+    "longitude": 118.812,
     "address": ""
   },
   {
@@ -283,8 +283,8 @@ window.APP_VENUES_NJ = [
     "id": "NJ_ven_d77bbda4",
     "cityCode": "NJ",
     "name": "紫金·钟爱里",
-    "latitude": 32.068,
-    "longitude": 118.855,
+    "latitude": 32.0585,
+    "longitude": 118.8505,
     "address": ""
   },
   {
@@ -331,8 +331,8 @@ window.APP_VENUES_NJ = [
     "id": "NJ_ven_330c5af6",
     "cityCode": "NJ",
     "name": "紫金山",
-    "latitude": 32.068,
-    "longitude": 118.855,
+    "latitude": 32.0635,
+    "longitude": 118.8532,
     "address": ""
   },
   {

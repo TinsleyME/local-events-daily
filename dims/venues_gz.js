@@ -510,5 +510,13 @@ window.APP_VENUES_GZ = [
     "latitude": 22.902515,
     "longitude": 113.33656,
     "address": "番禺区大夫第路"
+  },
+  {
+    "id": "GZ_ven_ed7b8e60",
+    "cityCode": "GZ",
+    "name": "广州塔广场",
+    "latitude": 23.1056,
+    "longitude": 113.3238,
+    "address": "广东省广州市海珠区广州塔路8号广州塔广场西广场"
   }
 ];

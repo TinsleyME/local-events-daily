@@ -430,5 +430,21 @@ window.APP_VENUES_FS = [
     "latitude": 22.835683,
     "longitude": 113.255117,
     "address": "顺德区清晖路23号"
+  },
+  {
+    "id": "FS_ven_cf807f",
+    "cityCode": "FS",
+    "name": "西樵山镇官山涌",
+    "latitude": 22.9335,
+    "longitude": 112.9675,
+    "address": "佛山市南海区西樵镇官山涌"
+  },
+  {
+    "id": "FS_ven_b319c0",
+    "cityCode": "FS",
+    "name": "大沥镇九龙公园",
+    "latitude": 23.109501,
+    "longitude": 113.147832,
+    "address": "南海区大沥镇广佛路12号"
   }
 ];

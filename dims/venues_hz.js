@@ -3,8 +3,8 @@ window.APP_VENUES_HZ = [
     "id": "HZ_ven_a1b2c3d4",
     "cityCode": "HZ",
     "name": "杭州大剧院",
-    "latitude": 30.25,
-    "longitude": 120.21,
+    "latitude": 30.2483,
+    "longitude": 120.2115,
     "address": ""
   },
   {
@@ -35,8 +35,8 @@ window.APP_VENUES_HZ = [
     "id": "HZ_ven_e5f6g7h8",
     "cityCode": "HZ",
     "name": "杭州国际会议中心",
-    "latitude": 30.25,
-    "longitude": 120.21,
+    "latitude": 30.2468,
+    "longitude": 120.2138,
     "address": ""
   },
   {
@@ -123,8 +123,8 @@ window.APP_VENUES_HZ = [
     "id": "HZ_ven_p6q7r8s9",
     "cityCode": "HZ",
     "name": "钱江新城灯光秀广场",
-    "latitude": 30.25,
-    "longitude": 120.21,
+    "latitude": 30.2452,
+    "longitude": 120.2098,
     "address": ""
   },
   {

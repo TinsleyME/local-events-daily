@@ -114,7 +114,7 @@
   .skip-link{position:absolute;top:-40px;left:0;background:var(--accent);color:#fff;padding:8px 16px;z-index:10000;text-decoration:none;font-weight:600;border-radius:0 0 8px 0;transition:top .2s}
   .skip-link:focus{top:0}
 
-  /* ===== 回到顶部 ===== */
+  /* ===== 回到顶部（左下角，下滑一定距离后出现） ===== */
   .back-to-top{position:fixed;right:16px;bottom:20px;width:44px;height:44px;border-radius:50%;background:var(--accent);color:#fff;border:none;font-size:20px;font-weight:700;cursor:pointer;box-shadow:0 4px 12px rgba(232,84,63,.3);z-index:999;display:flex;align-items:center;justify-content:center;transition:opacity .2s,transform .2s;opacity:0;transform:translateY(10px);pointer-events:none}
   .back-to-top.visible{opacity:1;transform:translateY(0);pointer-events:auto}
   .back-to-top:hover{background:#d14a35;transform:translateY(-2px)}
@@ -238,7 +238,7 @@
 
   <footer data-page-node-id="5WKF1igVQZwossh89b5cVh"><span id="footCity"></span>本地活动每日收集 · 自动化任务 ID 3ca156ea · 数据日期：<span id="footDate"></span> · 由自动化每日 09:00 刷新</footer>
 
-  <button id="backToTop" class="back-to-top" style="display:none" aria-label="回到顶部">↑</button>
+  <button id="backToTop" class="back-to-top" aria-label="回到顶部">↑</button>
 </div>
 
 <script type="text/javascript">

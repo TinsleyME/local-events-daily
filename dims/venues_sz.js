@@ -382,5 +382,29 @@ window.APP_VENUES_SZ = [
     "latitude": 22.530399,
     "longitude": 113.992991,
     "address": "广东省深圳市南山区锦绣中华民俗村"
+  },
+  {
+    "id": "SZ_ven_ebf591",
+    "cityCode": "SZ",
+    "name": "深圳湾体育中心(春茧)体育馆",
+    "latitude": 22.51848,
+    "longitude": 113.949699,
+    "address": "南山区粤海街道滨海大道3001号"
+  },
+  {
+    "id": "SZ_ven_95b6a8",
+    "cityCode": "SZ",
+    "name": "深圳大运中心体育馆",
+    "latitude": 22.698212,
+    "longitude": 114.21698,
+    "address": "龙岗区龙城街道黄阁路99号"
+  },
+  {
+    "id": "SZ_ven_14e811",
+    "cityCode": "SZ",
+    "name": "深圳美术馆东湖馆",
+    "latitude": 22.571066,
+    "longitude": 114.147268,
+    "address": "罗湖区爱国路东湖公园东湖一街32号"
   }
 ];

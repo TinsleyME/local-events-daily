@@ -115,8 +115,8 @@ window.APP_VENUES_XA = [
     "id": "XA_ven_e31c502d",
     "cityCode": "XA",
     "name": "西安浐灞丝路国际文化艺术中心美术馆",
-    "latitude": 34.32,
-    "longitude": 109.04,
+    "latitude": 34.3188,
+    "longitude": 109.0382,
     "address": ""
   },
   {
@@ -147,8 +147,8 @@ window.APP_VENUES_XA = [
     "id": "XA_ven_1d65be52",
     "cityCode": "XA",
     "name": "王府井Discovery(永宁门店)",
-    "latitude": 34.255,
-    "longitude": 108.946,
+    "latitude": 34.2555,
+    "longitude": 108.9465,
     "address": ""
   },
   {
@@ -275,40 +275,40 @@ window.APP_VENUES_XA = [
     "id": "XA_ven_ce6de991",
     "cityCode": "XA",
     "name": "西演SPACE·塞斯拾拾",
-    "latitude": 34.27,
-    "longitude": 108.94,
+    "latitude": 34.2705,
+    "longitude": 108.9405,
     "address": ""
   },
   {
     "id": "XA_ven_f4f28961",
     "cityCode": "XA",
     "name": "光圈CLUB",
-    "latitude": 34.27,
-    "longitude": 108.94,
+    "latitude": 34.2685,
+    "longitude": 108.9392,
     "address": ""
   },
   {
     "id": "XA_ven_c4fad1c3",
     "cityCode": "XA",
     "name": "西安人民剧院",
-    "latitude": 34.27,
-    "longitude": 108.95,
+    "latitude": 34.2705,
+    "longitude": 108.9505,
     "address": ""
   },
   {
     "id": "XA_ven_e2213bf1",
     "cityCode": "XA",
     "name": "陕西省民间艺术剧院",
-    "latitude": 34.27,
-    "longitude": 108.95,
+    "latitude": 34.2718,
+    "longitude": 108.9522,
     "address": ""
   },
   {
     "id": "XA_ven_09511389",
     "cityCode": "XA",
     "name": "陕西中太天恩艺术剧院",
-    "latitude": 34.27,
-    "longitude": 108.95,
+    "latitude": 34.2692,
+    "longitude": 108.9482,
     "address": ""
   },
   {
@@ -323,8 +323,8 @@ window.APP_VENUES_XA = [
     "id": "XA_ven_7a3a1694",
     "cityCode": "XA",
     "name": "西安浐灞保利大剧院",
-    "latitude": 34.32,
-    "longitude": 109.04,
+    "latitude": 34.3205,
+    "longitude": 109.0418,
     "address": ""
   },
   {
@@ -371,8 +371,8 @@ window.APP_VENUES_XA = [
     "id": "XA_ven_d60abff1",
     "cityCode": "XA",
     "name": "西安城墙(永宁门)",
-    "latitude": 34.255,
-    "longitude": 108.946,
+    "latitude": 34.2545,
+    "longitude": 108.9452,
     "address": ""
   },
   {
@@ -419,8 +419,8 @@ window.APP_VENUES_XA = [
     "id": "XA_ven_2ce27629",
     "cityCode": "XA",
     "name": "索菲特人民大厦大剧院",
-    "latitude": 34.268431,
-    "longitude": 108.954679,
+    "latitude": 34.2684,
+    "longitude": 108.9547,
     "address": ""
   },
   {
@@ -443,8 +443,8 @@ window.APP_VENUES_XA = [
     "id": "XA_ven_5d164b3d",
     "cityCode": "XA",
     "name": "西安易俗大剧院",
-    "latitude": 34.268431,
-    "longitude": 108.954679,
+    "latitude": 34.2672,
+    "longitude": 108.9532,
     "address": ""
   },
   {
@@ -462,5 +462,21 @@ window.APP_VENUES_XA = [
     "latitude": 34.158415,
     "longitude": 108.964704,
     "address": ""
+  },
+  {
+    "id": "XA_ven_abdb2884",
+    "cityCode": "XA",
+    "name": "华清宫",
+    "latitude": 34.368339,
+    "longitude": 109.28839,
+    "address": "西安市临潼区华清路38号"
+  },
+  {
+    "id": "XA_ven_71499a04",
+    "cityCode": "XA",
+    "name": "白鹿原影视城",
+    "latitude": 34.179066,
+    "longitude": 109.293685,
+    "address": "西安市蓝田县前卫镇"
   }
 ];

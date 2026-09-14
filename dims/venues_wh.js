@@ -51,16 +51,16 @@ window.APP_VENUES_WH = [
     "id": "WH_ven_77a2b3ca",
     "cityCode": "WH",
     "name": "江汉路步行街",
-    "latitude": 30.587,
-    "longitude": 114.286,
+    "latitude": 30.5875,
+    "longitude": 114.2865,
     "address": ""
   },
   {
     "id": "WH_ven_88a2b3cb",
     "cityCode": "WH",
     "name": "楚河汉街",
-    "latitude": 30.565,
-    "longitude": 114.351,
+    "latitude": 30.5652,
+    "longitude": 114.3512,
     "address": ""
   },
   {
@@ -171,8 +171,8 @@ window.APP_VENUES_WH = [
     "id": "WH_ven_07a2b3d9",
     "cityCode": "WH",
     "name": "MAO Livehouse武汉",
-    "latitude": 30.59,
-    "longitude": 114.3,
+    "latitude": 30.5855,
+    "longitude": 114.3305,
     "address": ""
   },
   {
@@ -251,8 +251,8 @@ window.APP_VENUES_WH = [
     "id": "WH_ven_17a2b3e3",
     "cityCode": "WH",
     "name": "武汉大悦城",
-    "latitude": 30.49,
-    "longitude": 114.4,
+    "latitude": 30.4905,
+    "longitude": 114.4005,
     "address": ""
   },
   {
@@ -267,16 +267,16 @@ window.APP_VENUES_WH = [
     "id": "WH_ven_19a2b3e5",
     "cityCode": "WH",
     "name": "上海三联READWAY·江汉路店",
-    "latitude": 30.587,
-    "longitude": 114.286,
+    "latitude": 30.5865,
+    "longitude": 114.2848,
     "address": ""
   },
   {
     "id": "WH_ven_20a2b3e6",
     "cityCode": "WH",
     "name": "武汉民众乐园",
-    "latitude": 30.59,
-    "longitude": 114.29,
+    "latitude": 30.5905,
+    "longitude": 114.2895,
     "address": ""
   },
   {
@@ -299,8 +299,8 @@ window.APP_VENUES_WH = [
     "id": "WH_ven_23a2b3e9",
     "cityCode": "WH",
     "name": "武汉K11 Select(光谷)",
-    "latitude": 30.49,
-    "longitude": 114.4,
+    "latitude": 30.4888,
+    "longitude": 114.3985,
     "address": ""
   },
   {
@@ -347,8 +347,8 @@ window.APP_VENUES_WH = [
     "id": "WH_ven_29a2b3ef",
     "cityCode": "WH",
     "name": "汉街万达",
-    "latitude": 30.565,
-    "longitude": 114.351,
+    "latitude": 30.5638,
+    "longitude": 114.35,
     "address": ""
   },
   {
@@ -363,8 +363,8 @@ window.APP_VENUES_WH = [
     "id": "WH_ven_31a2b3f1",
     "cityCode": "WH",
     "name": "江汉关博物馆",
-    "latitude": 30.59,
-    "longitude": 114.3,
+    "latitude": 30.5895,
+    "longitude": 114.2985,
     "address": ""
   },
   {
@@ -395,8 +395,16 @@ window.APP_VENUES_WH = [
     "id": "WH_ven_35a2b3f5",
     "cityCode": "WH",
     "name": "武汉中瑛街Formula Art",
-    "latitude": 30.59,
-    "longitude": 114.29,
+    "latitude": 30.5888,
+    "longitude": 114.2915,
     "address": ""
+  },
+  {
+    "id": "WH_ven_4dcd4756",
+    "cityCode": "WH",
+    "name": "武汉花博汇",
+    "latitude": 30.44836,
+    "longitude": 114.078029,
+    "address": "武汉市蔡甸区大集街花博汇"
   }
 ];

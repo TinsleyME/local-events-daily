@@ -51,8 +51,8 @@ window.APP_VENUES_CD = [
     "id": "CD_ven_cd_ex07",
     "cityCode": "CD",
     "name": "中演·成都大剧院艺术馆",
-    "latitude": 30.639,
-    "longitude": 104.083,
+    "latitude": 30.6412,
+    "longitude": 104.0858,
     "address": ""
   },
   {
@@ -131,8 +131,8 @@ window.APP_VENUES_CD = [
     "id": "CD_ven_cd_sh09",
     "cityCode": "CD",
     "name": "中演·成都大剧院",
-    "latitude": 30.639,
-    "longitude": 104.083,
+    "latitude": 30.637,
+    "longitude": 104.0805,
     "address": ""
   },
   {
@@ -187,8 +187,8 @@ window.APP_VENUES_CD = [
     "id": "CD_ven_cd_sh26",
     "cityCode": "CD",
     "name": "成都空港国际会议中心",
-    "latitude": 30.58,
-    "longitude": 103.95,
+    "latitude": 30.5795,
+    "longitude": 103.9482,
     "address": ""
   },
   {
@@ -307,8 +307,8 @@ window.APP_VENUES_CD = [
     "id": "CD_ven_cd_sp04",
     "cityCode": "CD",
     "name": "成都市空港花田",
-    "latitude": 30.58,
-    "longitude": 103.95,
+    "latitude": 30.5752,
+    "longitude": 103.9452,
     "address": ""
   },
   {
@@ -331,8 +331,8 @@ window.APP_VENUES_CD = [
     "id": "CD_ven_cd_fm03",
     "cityCode": "CD",
     "name": "彭州市天彭街道百里一·龙兴集",
-    "latitude": 30.98,
-    "longitude": 103.95,
+    "latitude": 30.9885,
+    "longitude": 103.9478,
     "address": ""
   },
   {
@@ -355,8 +355,8 @@ window.APP_VENUES_CD = [
     "id": "CD_ven_cd_fm06",
     "cityCode": "CD",
     "name": "龙泉龙椅山",
-    "latitude": 30.57,
-    "longitude": 104.29,
+    "latitude": 30.5715,
+    "longitude": 104.288,
     "address": ""
   },
   {
@@ -371,8 +371,8 @@ window.APP_VENUES_CD = [
     "id": "CD_ven_cd_fm08",
     "cityCode": "CD",
     "name": "彭州园中山纪念堂",
-    "latitude": 30.98,
-    "longitude": 103.95,
+    "latitude": 30.9865,
+    "longitude": 103.9445,
     "address": ""
   },
   {
@@ -427,8 +427,8 @@ window.APP_VENUES_CD = [
     "id": "CD_ven_cd_od05",
     "cityCode": "CD",
     "name": "龙椅山植物园",
-    "latitude": 30.57,
-    "longitude": 104.29,
+    "latitude": 30.5685,
+    "longitude": 104.2925,
     "address": ""
   },
   {
