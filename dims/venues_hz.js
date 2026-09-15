@@ -3,200 +3,200 @@ window.APP_VENUES_HZ = [
     "id": "HZ_ven_a1b2c3d4",
     "cityCode": "HZ",
     "name": "杭州大剧院",
-    "latitude": 30.2483,
-    "longitude": 120.2115,
-    "address": ""
+    "latitude": 30.24404,
+    "longitude": 120.215108,
+    "address": "上城区四季青街道钱江新城新业路39号"
   },
   {
     "id": "HZ_ven_b2c3d4e5",
     "cityCode": "HZ",
     "name": "浙江美术馆",
-    "latitude": 30.25,
-    "longitude": 120.15,
-    "address": ""
+    "latitude": 30.231566,
+    "longitude": 120.156801,
+    "address": "西湖区南山路138号(长桥公园对面)"
   },
   {
     "id": "HZ_ven_c3d4e5f6",
     "cityCode": "HZ",
     "name": "中国美术学院象山校区",
-    "latitude": 30.15,
-    "longitude": 120.08,
-    "address": ""
+    "latitude": 30.155446,
+    "longitude": 120.07669,
+    "address": "西湖区转塘镇象山352号中国美术学院象山校区内"
   },
   {
     "id": "HZ_ven_d4e5f6g7",
     "cityCode": "HZ",
     "name": "浙江省博物馆之江馆区",
-    "latitude": 30.17,
-    "longitude": 120.09,
-    "address": ""
+    "latitude": 30.160026,
+    "longitude": 120.100932,
+    "address": "西湖区转塘街道碧波路之江文化中心内浙江省博物馆(之江馆区)"
   },
   {
     "id": "HZ_ven_e5f6g7h8",
     "cityCode": "HZ",
     "name": "杭州国际会议中心",
-    "latitude": 30.2468,
-    "longitude": 120.2138,
-    "address": ""
+    "latitude": 30.242462,
+    "longitude": 120.213718,
+    "address": "上城区四季青街道解放东路2号"
   },
   {
     "id": "HZ_ven_f6g7h8i9",
     "cityCode": "HZ",
     "name": "天目里",
-    "latitude": 30.23,
-    "longitude": 120.14,
-    "address": ""
+    "latitude": 30.266327,
+    "longitude": 120.099086,
+    "address": "西湖区天目山路与古墩路交叉口西北230米"
   },
   {
     "id": "HZ_ven_g7h8i9j0",
     "cityCode": "HZ",
-    "name": "良渚文化艺术中心",
-    "latitude": 30.37,
-    "longitude": 120,
-    "address": ""
+    "name": "良渚文化艺术中心(大屋顶)",
+    "latitude": 30.365111,
+    "longitude": 120.032341,
+    "address": "余杭区玉鸟路12号良渚文化村"
   },
   {
     "id": "HZ_ven_h8i9j0k1",
     "cityCode": "HZ",
     "name": "杭州奥体中心体育场",
-    "latitude": 30.23,
-    "longitude": 120.21,
-    "address": ""
+    "latitude": 30.231985,
+    "longitude": 120.226131,
+    "address": "滨江区飞虹路3号"
   },
   {
     "id": "HZ_ven_i9j0k1l2",
     "cityCode": "HZ",
     "name": "杭州体育馆",
-    "latitude": 30.28,
-    "longitude": 120.16,
-    "address": ""
+    "latitude": 30.270698,
+    "longitude": 120.172978,
+    "address": "西湖区黄龙路3号体育场东北侧"
   },
   {
     "id": "HZ_ven_j0k1l2m3",
     "cityCode": "HZ",
     "name": "杭州图书馆",
-    "latitude": 30.24,
-    "longitude": 120.18,
-    "address": ""
+    "latitude": 30.246364,
+    "longitude": 120.208214,
+    "address": "上城区解放东路58杭州钱江新城市民中心J座"
   },
   {
     "id": "HZ_ven_k1l2m3n4",
     "cityCode": "HZ",
     "name": "西湖文化广场",
-    "latitude": 30.28,
-    "longitude": 120.15,
-    "address": ""
+    "latitude": 30.276863,
+    "longitude": 120.163791,
+    "address": "拱墅区中山北路附近"
   },
   {
     "id": "HZ_ven_l2m3n4o5",
     "cityCode": "HZ",
     "name": "西溪湿地",
-    "latitude": 30.26,
-    "longitude": 120.06,
-    "address": ""
+    "latitude": 30.25619,
+    "longitude": 120.060816,
+    "address": "西湖区西溪湿地"
   },
   {
     "id": "HZ_ven_m3n4o5p6",
     "cityCode": "HZ",
     "name": "云栖小镇",
-    "latitude": 30.08,
-    "longitude": 119.92,
-    "address": ""
+    "latitude": 30.128235,
+    "longitude": 120.083649,
+    "address": "西湖区科海路市委党校旁"
   },
   {
     "id": "HZ_ven_n4o5p6q7",
     "cityCode": "HZ",
-    "name": "MAO Livehouse 杭州",
-    "latitude": 30.26,
-    "longitude": 120.17,
-    "address": ""
+    "name": "MAO Livehouse杭州(尚城1157·利星店)",
+    "latitude": 30.227611,
+    "longitude": 120.168658,
+    "address": "上城区中山南路77号尚城1157·利星F3"
   },
   {
     "id": "HZ_ven_o5p6q7r8",
     "cityCode": "HZ",
-    "name": "杭州国博中心",
-    "latitude": 30.18,
-    "longitude": 120.22,
-    "address": ""
+    "name": "杭州国际博览中心",
+    "latitude": 30.22963,
+    "longitude": 120.238972,
+    "address": "萧山区奔竞大道353号"
   },
   {
     "id": "HZ_ven_p6q7r8s9",
     "cityCode": "HZ",
     "name": "钱江新城灯光秀广场",
-    "latitude": 30.2452,
-    "longitude": 120.2098,
-    "address": ""
+    "latitude": 30.24359,
+    "longitude": 120.21471,
+    "address": "上城区新业路39号(市民中心地铁站M1口或N2口)"
   },
   {
     "id": "HZ_ven_8896996e",
     "cityCode": "HZ",
     "name": "武林广场",
-    "latitude": 30.276,
-    "longitude": 120.166,
-    "address": ""
+    "latitude": 30.271001,
+    "longitude": 120.163325,
+    "address": "拱墅区展览西路与体育场路交叉口东北角"
   },
   {
     "id": "HZ_ven_d3248436",
     "cityCode": "HZ",
     "name": "杭州奥体中心网球中心",
-    "latitude": 30.228,
-    "longitude": 120.219,
-    "address": ""
+    "latitude": 30.227381,
+    "longitude": 120.233841,
+    "address": "滨江区西兴街道滨盛路下穿隧道杭州奥体博览城"
   },
   {
     "id": "HZ_ven_323877ae",
     "cityCode": "HZ",
     "name": "杭州金沙湖大剧院",
-    "latitude": 30.311,
-    "longitude": 120.342,
-    "address": ""
+    "latitude": 30.308523,
+    "longitude": 120.32048,
+    "address": "浙江省杭州市钱塘区杭州金沙湖大剧院"
   },
   {
     "id": "HZ_ven_c90e28e2",
     "cityCode": "HZ",
-    "name": "相信有戏剧场",
-    "latitude": 30.27,
-    "longitude": 120.16,
-    "address": ""
+    "name": "六点下班·音乐剧(相信有戏小剧场)",
+    "latitude": 30.270697,
+    "longitude": 120.162695,
+    "address": "拱墅区天水街道武林广场11号B1层B155"
   },
   {
     "id": "HZ_ven_b92655f0",
     "cityCode": "HZ",
     "name": "千岛湖华美胜地",
-    "latitude": 29.579614,
-    "longitude": 119.063209,
-    "address": ""
+    "latitude": 29.542897,
+    "longitude": 118.848664,
+    "address": "淳安县界首乡姜洪线"
   },
   {
     "id": "HZ_ven_2fb4ee38",
     "cityCode": "HZ",
     "name": "青山湖科技城Link Park",
-    "latitude": 30.233523,
-    "longitude": 119.727894,
-    "address": ""
+    "latitude": 30.271846,
+    "longitude": 119.825226,
+    "address": "临安区未来科技城民宿公寓杭州临安市青山湖街道"
   },
   {
     "id": "HZ_ven_36b6cb39",
     "cityCode": "HZ",
-    "name": "杭州奥体中心体育馆",
-    "latitude": 30.177557,
-    "longitude": 120.22451,
-    "address": ""
+    "name": "杭州奥体中心体育场",
+    "latitude": 30.229127,
+    "longitude": 120.228811,
+    "address": "滨江区飞虹路3号"
   },
   {
     "id": "HZ_ven_c3d98d53",
     "cityCode": "HZ",
     "name": "SoFun Live(杭州)",
-    "latitude": 30.26768,
-    "longitude": 120.154709,
-    "address": ""
+    "latitude": 30.182419,
+    "longitude": 120.295061,
+    "address": "萧山区新街街道通货路918号粮仓艺术公园7号楼701室"
   },
   {
     "id": "HZ_ven_d9f9829a",
     "cityCode": "HZ",
     "name": "吴越文化博物馆",
-    "latitude": 30.227519,
-    "longitude": 119.724892,
-    "address": ""
+    "latitude": 30.226258,
+    "longitude": 119.728974,
+    "address": "临安区锦城街道天目路800号"
   }
 ];
