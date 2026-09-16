@@ -406,5 +406,13 @@ window.APP_VENUES_SZ = [
     "latitude": 22.571066,
     "longitude": 114.147268,
     "address": "罗湖区爱国路东湖公园东湖一街32号"
+  },
+  {
+    "id": "SZ_ven_upperhills",
+    "cityCode": "SZ",
+    "name": "深业上城",
+    "latitude": 22.556804,
+    "longitude": 114.070159,
+    "address": "福田区华富街道皇岗路5001号"
   }
 ];

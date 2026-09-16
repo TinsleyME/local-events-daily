@@ -382,5 +382,21 @@ window.APP_VENUES_SH = [
     "latitude": 31.210782,
     "longitude": 121.419184,
     "address": "长宁区昭化路618号、638号、658号、666号"
+  },
+  {
+    "id": "SH_ven_a6b7c8d9",
+    "cityCode": "SH",
+    "name": "上海体育馆",
+    "latitude": 31.182035,
+    "longitude": 121.438353,
+    "address": "徐汇区中山南二路1111号"
+  },
+  {
+    "id": "SH_ven_b3c4d5e0",
+    "cityCode": "SH",
+    "name": "练塘Nordisk Campsite大白熊东厍营地",
+    "latitude": 30.962239,
+    "longitude": 121.0363,
+    "address": "青浦区练塘镇东厍村"
   }
 ];

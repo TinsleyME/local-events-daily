@@ -518,5 +518,21 @@ window.APP_VENUES_GZ = [
     "latitude": 23.1056,
     "longitude": 113.3238,
     "address": "广东省广州市海珠区广州塔路8号广州塔广场西广场"
+  },
+  {
+    "id": "GZ_ven_yajunhy",
+    "cityCode": "GZ",
+    "name": "琶洲街道雅郡花园社区",
+    "latitude": 23.091902,
+    "longitude": 113.389252,
+    "address": "海珠区琶洲街道新港东路48号雅郡花园雅宁街54号首层"
+  },
+  {
+    "id": "GZ_ven_party_pier",
+    "cityCode": "GZ",
+    "name": "珠江琶醍啤酒文化创意艺术区",
+    "latitude": 23.107245,
+    "longitude": 113.339433,
+    "address": "海珠区阅江西路磨碟沙大街118号"
   }
 ];
