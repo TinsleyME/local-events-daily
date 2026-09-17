@@ -1,11 +1,47 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-09-16",
-    "weekday": "周三",
+    "date": "2026-09-17",
+    "weekday": "周四",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "SZ_evt_f80c82",
+      "cityCode": "SZ",
+      "categoryId": "market",
+      "name": "深圳前海壹方城双节IP主题快闪展",
+      "venueId": "SZ_ven_08f3118d",
+      "venueText": "前海壹方城",
+      "dateText": "2026年9月17日-10月8日（双节期间）",
+      "startDate": "2026-09-17",
+      "endDate": "2026-10-08",
+      "costId": "free",
+      "priceText": "",
+      "description": "前海壹方城双节期间集中落地IP快闪：ZO&FRIENDS云端漫游记全国首展（权志龙IP主题）、怪奇物语深圳主题快闪店华南首展、原神仲夏派对快闪华南首站（9.17-10.7）、BOOM翻滚土豆节深圳首届土豆主题创意市集（9.24-27）、HELLO KITTY夏日甜心派对深圳首展等。",
+      "sourceUrl": "https://www.toutiao.com/article/7684863878710313524/",
+      "tagName": "深圳 前海壹方城 快闪 IP 市集 中秋国庆",
+      "createdAt": "2026-09-17",
+      "updatedAt": "2026-09-17"
+    },
+    {
+      "id": "SZ_evt_7ae457",
+      "cityCode": "SZ",
+      "categoryId": "market",
+      "name": "福田南园好市·亚太非遗文化周",
+      "venueId": "SZ_ven_360444dc",
+      "venueText": "iN城市广场",
+      "dateText": "2026年9月24日-10月4日",
+      "startDate": "2026-09-24",
+      "endDate": "2026-10-04",
+      "costId": "free",
+      "priceText": "",
+      "description": "南园街道iN城市广场举办“南园好市·亚太非遗文化周”，设置陶艺、鱼灯、拓印、竹编、扎染、折扇等10个非遗体验摊位及15个非遗产品摊位，并安排宫灯舞、火技表演、药发木偶戏等传统文化展示。",
+      "sourceUrl": "https://www.toutiao.com/article/7684184005876531752/",
+      "tagName": "福田 iN城市广场 非遗 市集 中秋国庆",
+      "createdAt": "2026-09-17",
+      "updatedAt": "2026-09-17"
+    },
     {
       "id": "SZ_evt_704fc2",
       "cityCode": "SZ",

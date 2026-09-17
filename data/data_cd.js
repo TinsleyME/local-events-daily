@@ -1,11 +1,65 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-09-16",
-    "weekday": "周三",
+    "date": "2026-09-17",
+    "weekday": "周四",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "CD_evt_1ee357",
+      "cityCode": "CD",
+      "categoryId": "family",
+      "name": "武侯祠“月映古祠·风雅三国”中秋主题活动",
+      "venueId": "CD_ven_cd_ex02",
+      "venueText": "成都武侯祠博物馆",
+      "dateText": "2026年9月25日-27日",
+      "startDate": "2026-09-25",
+      "endDate": "2026-09-27",
+      "costId": "paid",
+      "priceText": "武侯祠博物馆门票",
+      "description": "成都武侯祠博物馆开启“月映古祠·风雅三国”中秋主题活动：创意市集淘选三国主题好物、沉浸式演艺与蜀汉英雄跨时空对话、民俗互动、精品展览。",
+      "sourceUrl": "https://www.toutiao.com/article/7686068490432512554/",
+      "tagName": "武侯祠 中秋 三国 市集",
+      "createdAt": "2026-09-17",
+      "updatedAt": "2026-09-17"
+    },
+    {
+      "id": "CD_evt_efc18e",
+      "cityCode": "CD",
+      "categoryId": "family",
+      "name": "杜甫草堂“月满草堂”中秋戏剧主题体验",
+      "venueId": "CD_ven_cd_ex03",
+      "venueText": "成都杜甫草堂博物馆",
+      "dateText": "2026年9月25日-27日",
+      "startDate": "2026-09-25",
+      "endDate": "2026-09-27",
+      "costId": "paid",
+      "priceText": "杜甫草堂博物馆门票",
+      "description": "杜甫草堂博物馆开启“月满草堂”中秋戏剧主题体验，专业演员化身诗圣杜甫，以实景情景剧再现千年前诗人笔下的月下山河。",
+      "sourceUrl": "https://www.toutiao.com/article/7686068490432512554/",
+      "tagName": "杜甫草堂 中秋 戏剧 月满草堂",
+      "createdAt": "2026-09-17",
+      "updatedAt": "2026-09-17"
+    },
+    {
+      "id": "CD_evt_b6e802",
+      "cityCode": "CD",
+      "categoryId": "outdoor",
+      "name": "青城山—都江堰景区中秋国庆系列活动",
+      "venueId": "CD_ven_cd_od01",
+      "venueText": "青城山",
+      "dateText": "2026年9月25日-10月7日",
+      "startDate": "2026-09-25",
+      "endDate": "2026-10-07",
+      "costId": "paid",
+      "priceText": "景区门票",
+      "description": "青城山—都江堰景区按“日+夜”双线布局，整合市集、演艺、互动、惠民、宠客五大核心内容，搭配夜间沉浸式游园体验，于9月25日至10月7日举办系列活动。",
+      "sourceUrl": "https://www.chengdu.gov.cn/cdsrmzf/c174536/2026-09/01/content_eec0f3dc947f4425a6f87dde9d0748c8.shtml",
+      "tagName": "青城山 都江堰 中秋国庆 夜游",
+      "createdAt": "2026-09-17",
+      "updatedAt": "2026-09-17"
+    },
     {
       "id": "CD_evt_5617d2",
       "cityCode": "CD",
@@ -129,10 +183,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "30-1530元",
       "description": "ATP亚洲赛季最具影响力的250级别赛事之一，各国好手齐聚双流。",
-      "sourceUrl": "https://cd.bendibao.com/xiuxian/jieqinghd/",
+      "sourceUrl": "https://cd.bendibao.com/xiuxian/2026827/212983.shtm",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-17"
     },
     {
       "id": "CD_evt_592c7c",

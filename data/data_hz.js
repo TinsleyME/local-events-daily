@@ -145,10 +145,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "免费（需预约）",
       "description": "展览面积6万平方米，600多家企业参展，覆盖生物发酵、生物技术全产业链，预计超4.5万名买家到场。",
-      "sourceUrl": "https://hz.bendibao.com/xiuxian/jieqinghd/",
+      "sourceUrl": "https://www.zhanxunwang.com/news/2922.html",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-17"
     },
     {
       "id": "HZ_evt_67af45",
@@ -163,10 +163,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "青山湖科技城中秋游园会，飞花令、手作、驻唱等玩法轮番上线，玩游戏攒币兑换好礼。",
-      "sourceUrl": "https://m.hz.bendibao.com/xiuxian",
+      "sourceUrl": "https://m.hz.bendibao.com/xiuxian/172771.shtm",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-17"
     },
     {
       "id": "HZ_evt_111b13",

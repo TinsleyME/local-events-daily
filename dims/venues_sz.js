@@ -414,5 +414,21 @@ window.APP_VENUES_SZ = [
     "latitude": 22.556804,
     "longitude": 114.070159,
     "address": "福田区华富街道皇岗路5001号"
+  },
+  {
+    "id": "SZ_ven_08f3118d",
+    "cityCode": "SZ",
+    "name": "前海壹方城",
+    "latitude": 22.530947,
+    "longitude": 113.899871,
+    "address": ""
+  },
+  {
+    "id": "SZ_ven_360444dc",
+    "cityCode": "SZ",
+    "name": "iN城市广场",
+    "latitude": 22.538286,
+    "longitude": 114.065116,
+    "address": ""
   }
 ];

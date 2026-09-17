@@ -1,11 +1,29 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-09-16",
-    "weekday": "周三",
+    "date": "2026-09-17",
+    "weekday": "周四",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "WH_evt_3033ae",
+      "cityCode": "WH",
+      "categoryId": "sports",
+      "name": "2026武汉网球公开赛",
+      "venueId": "WH_ven_99a2b3cc",
+      "venueText": "光谷",
+      "dateText": "2026年10月10日-18日",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-18",
+      "costId": "paid",
+      "priceText": "需购票（WTA1000）",
+      "description": "武汉网球公开赛于光谷国际网球中心开拍，作为WTA1000顶级赛事吸引世界排名顶尖女子选手参赛。",
+      "sourceUrl": "https://sw.wuhan.gov.cn/xwdt/mtbd/202609/t20260910_2845750.shtml",
+      "tagName": "武汉 光谷 网球公开赛 WTA1000",
+      "createdAt": "2026-09-17",
+      "updatedAt": "2026-09-17"
+    },
     {
       "id": "WH_evt_9103f3",
       "cityCode": "WH",

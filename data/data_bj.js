@@ -1,11 +1,47 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-09-16",
-    "weekday": "周三",
+    "date": "2026-09-17",
+    "weekday": "周四",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "BJ_evt_ca7013",
+      "cityCode": "BJ",
+      "categoryId": "market",
+      "name": "首钢园中秋国庆游园灯会",
+      "venueId": "BJ_ven_9a41ec78",
+      "venueText": "首钢园",
+      "dateText": "2026年中秋国庆期间（9月25日-10月7日）",
+      "startDate": "2026-09-25",
+      "endDate": "2026-10-07",
+      "costId": "free",
+      "priceText": "",
+      "description": "首钢园举办中秋国庆游园灯会，推出“陆地+水上”双市集，在工业遗存中营造浓郁节日氛围。",
+      "sourceUrl": "https://city.news.cctv.com/2026/09/16/ARTIjHfuvbRAmXWfRXsSNpeR260916.shtml",
+      "tagName": "首钢园 中秋国庆 灯会 市集",
+      "createdAt": "2026-09-17",
+      "updatedAt": "2026-09-17"
+    },
+    {
+      "id": "BJ_evt_55b74d",
+      "cityCode": "BJ",
+      "categoryId": "show",
+      "name": "第十届中国戏曲文化周",
+      "venueId": "BJ_ven_87c7595f",
+      "venueText": "北京园博园",
+      "dateText": "2026年9月29日-10月5日",
+      "startDate": "2026-09-29",
+      "endDate": "2026-10-05",
+      "costId": "free",
+      "priceText": "免费预约",
+      "description": "第十届中国戏曲文化周于北京园博园举办，观众可现场观看园林中的戏曲演出、参加戏曲妆造体验、戏曲音乐会、诗词吟唱、戏精吉市、戏曲科技体验等活动，沉浸式感受戏曲氛围。",
+      "sourceUrl": "https://bj.people.com.cn/n2/2026/0917/c14540-41698873.html",
+      "tagName": "北京园博园 戏曲文化周 中秋国庆",
+      "createdAt": "2026-09-17",
+      "updatedAt": "2026-09-17"
+    },
     {
       "id": "BJ_evt_fdda03",
       "cityCode": "BJ",
@@ -73,10 +109,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "需购票",
       "description": "国家大剧院与北京艺术中心上演8场演出，涵盖开幕音乐会、亲子音乐会和非遗鼓乐展演等，双节夜间文化消费新去处。",
-      "sourceUrl": "https://dy.163.com/article/L6FKH1D80556N3RZ.html",
+      "sourceUrl": "https://m.chncpa.org/zxdt/rdjjx/202609/t20260908_294360.shtml",
       "tagName": "中秋",
       "createdAt": "2026-09-14",
-      "updatedAt": "2026-09-14"
+      "updatedAt": "2026-09-17"
     },
     {
       "id": "BJ_evt_86f33d",

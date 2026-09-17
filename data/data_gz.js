@@ -1,11 +1,47 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-09-16",
-    "weekday": "周三",
+    "date": "2026-09-17",
+    "weekday": "周四",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "GZ_evt_ca9d06",
+      "cityCode": "GZ",
+      "categoryId": "show",
+      "name": "白云“粤上白云间”石井河水上观演",
+      "venueId": "GZ_ven_aef2b9ca",
+      "venueText": "白云山",
+      "dateText": "2026年中秋国庆期间（9月25日-10月8日）",
+      "startDate": "2026-09-25",
+      "endDate": "2026-10-08",
+      "costId": "free",
+      "priceText": "",
+      "description": "白云区“粤上白云间”布局石井河水上观演，延伸广州夜游版图，双节期间以日间工业研学与夜间水上光影构建全时段沉浸场景。",
+      "sourceUrl": "https://culture.southcn.com/node_b02a77b893/5aa4b81af8.shtml",
+      "tagName": "白云 中秋 国庆 水上观演",
+      "createdAt": "2026-09-17",
+      "updatedAt": "2026-09-17"
+    },
+    {
+      "id": "GZ_evt_24bb5a",
+      "cityCode": "GZ",
+      "categoryId": "show",
+      "name": "黄埔“扶胥十二时辰”国庆限定版",
+      "venueId": "GZ_ven_4ddf1aa2",
+      "venueText": "南海神庙",
+      "dateText": "2026年国庆期间（10月1日-8日）",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-08",
+      "costId": "free",
+      "priceText": "",
+      "description": "黄埔“扶胥十二时辰”深挖海丝古港文脉，国庆限定版扶胥夜话，水幕喷泉搭配大湾区首个超高清球形屏再现扶胥从千年古港到现代新城的历史变迁；国庆期间搭配扶胥特别版芭蕾舞、现代舞、古典舞融合及NPC全程讲述。",
+      "sourceUrl": "https://culture.southcn.com/node_b02a77b893/5aa4b81af8.shtml",
+      "tagName": "黄埔 国庆 扶胥十二时辰 光影 国庆节",
+      "createdAt": "2026-09-17",
+      "updatedAt": "2026-09-17"
+    },
     {
       "id": "GZ_evt_eb0009",
       "cityCode": "GZ",
@@ -1947,10 +1983,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "免费（商场公共区域活动）",
       "description": "正佳广场举办为期97天的超级艺术节，汇聚多元音乐盛会、奇幻街头表演、潮流艺术展与艺术表演，面向公众免费开放。",
-      "sourceUrl": "https://www.toutiao.com/article/7284375262236639783",
+      "sourceUrl": "https://www.toutiao.com/article/7280408727357080098",
       "tagName": "商场活动",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-17"
     },
     {
       "id": "GZ_evt_395a6d",
@@ -1983,10 +2019,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "免费入场",
       "description": "天河城户外东北广场举办以自然酒和精酿为主题的微醺市集，联合酒类主理人分享会、音乐派对与乐队表演，将微醺文化进行到底。",
-      "sourceUrl": "https://www.toutiao.com/article/7284375262236639783",
+      "sourceUrl": "https://huacheng.gz-cmc.com/pages/2023/09/20/SF10810217bbd6030c93354d25a02513.html",
       "tagName": "商场活动",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-17"
     }
   ]
 };

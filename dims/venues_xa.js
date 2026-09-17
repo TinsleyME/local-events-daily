@@ -478,5 +478,13 @@ window.APP_VENUES_XA = [
     "latitude": 34.179066,
     "longitude": 109.293685,
     "address": "西安市蓝田县前卫镇"
+  },
+  {
+    "id": "XA_ven_50a04007",
+    "cityCode": "XA",
+    "name": "西安钟鼓楼",
+    "latitude": 34.259418,
+    "longitude": 108.949664,
+    "address": ""
   }
 ];

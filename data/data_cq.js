@@ -567,10 +567,10 @@ window.APP_DATA = {
       "endDate": "2026-09-27",
       "costId": "free",
       "description": "吹江风看夜景，逛夜市小摊位，氛围感拉满。免费入场，消费自理。",
-      "sourceUrl": "https://www.toutiao.com/w/1759856347886600/",
+      "sourceUrl": "https://zgcxtc.cn/news/250364.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-14"
+      "updatedAt": "2026-09-17"
     },
     {
       "id": "CQ_evt_08d47e",

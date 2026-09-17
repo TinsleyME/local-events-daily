@@ -534,5 +534,13 @@ window.APP_VENUES_GZ = [
     "latitude": 23.107245,
     "longitude": 113.339433,
     "address": "海珠区阅江西路磨碟沙大街118号"
+  },
+  {
+    "id": "GZ_ven_4ddf1aa2",
+    "cityCode": "GZ",
+    "name": "南海神庙",
+    "latitude": 23.092979,
+    "longitude": 113.480988,
+    "address": ""
   }
 ];

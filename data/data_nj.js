@@ -1,11 +1,29 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-09-16",
-    "weekday": "周三",
+    "date": "2026-09-17",
+    "weekday": "周四",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "NJ_evt_1ce7da",
+      "cityCode": "NJ",
+      "categoryId": "exhi",
+      "name": "牛首山佛顶骨舍利公开瞻礼",
+      "venueId": "NJ_ven_82b2b9a3",
+      "venueText": "牛首山文化旅游区",
+      "dateText": "2026年10月1日-7日",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-07",
+      "costId": "paid",
+      "priceText": "牛首山景区门票",
+      "description": "中秋国庆期间，牛首山文化旅游区举办佛顶骨舍利公开瞻礼活动。",
+      "sourceUrl": "https://m.nj.bendibao.com/tour/ly172419.shtm",
+      "tagName": "牛首山 佛顶骨舍利 瞻礼 国庆 国庆节",
+      "createdAt": "2026-09-17",
+      "updatedAt": "2026-09-17"
+    },
     {
       "id": "NJ_evt_2d843f",
       "cityCode": "NJ",
@@ -19,10 +37,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "需购票",
       "description": "2026年9月24日至26日中秋佳节，周杰伦「爱在南京」专属场次登陆南京奥体中心体育场。",
-      "sourceUrl": "https://m.nj.bendibao.com/xiuxian/jieqinghd/",
+      "sourceUrl": "https://m.nj.bendibao.com/xiuxian/181900.shtm",
       "tagName": "",
       "createdAt": "2026-09-14",
-      "updatedAt": "2026-09-14"
+      "updatedAt": "2026-09-17"
     },
     {
       "id": "NJ_evt_6e9a85",

@@ -446,5 +446,21 @@ window.APP_VENUES_FS = [
     "latitude": 23.109501,
     "longitude": 113.147832,
     "address": "南海区大沥镇广佛路12号"
+  },
+  {
+    "id": "FS_ven_c8d49387",
+    "cityCode": "FS",
+    "name": "大沥九龙公园",
+    "latitude": 23.117413,
+    "longitude": 113.175418,
+    "address": ""
+  },
+  {
+    "id": "FS_ven_a575fab0",
+    "cityCode": "FS",
+    "name": "南庄吉利河",
+    "latitude": 22.977314,
+    "longitude": 113.02533,
+    "address": ""
   }
 ];

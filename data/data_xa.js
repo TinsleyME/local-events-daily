@@ -1,11 +1,65 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-09-16",
-    "weekday": "周三",
+    "date": "2026-09-17",
+    "weekday": "周四",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "XA_evt_1f6ea0",
+      "cityCode": "XA",
+      "categoryId": "family",
+      "name": "西安钟鼓楼双节系列活动",
+      "venueId": "XA_ven_50a04007",
+      "venueText": "西安钟鼓楼",
+      "dateText": "2026年9月19日-10月7日",
+      "startDate": "2026-09-19",
+      "endDate": "2026-10-07",
+      "costId": "paid",
+      "priceText": "钟鼓楼博物馆门票",
+      "description": "西安钟鼓楼结合开学季及双节契机，策划沉浸式、互动性、趣味性文化假期活动：钟鼓楼中秋节气趣味体验活动（9.19）、迎国庆主题活动（9.25）、古建筑系列科普互动讲堂（10.2-10.7）等。",
+      "sourceUrl": "https://qidian.sxtvs.com/timing/share/content/10653394",
+      "tagName": "西安 钟鼓楼 中秋国庆 科普",
+      "createdAt": "2026-09-17",
+      "updatedAt": "2026-09-17"
+    },
+    {
+      "id": "XA_evt_f3e196",
+      "cityCode": "XA",
+      "categoryId": "show",
+      "name": "西安城墙中秋赏月暨国庆灯光秀",
+      "venueId": "XA_ven_d60abff1",
+      "venueText": "西安城墙(永宁门)",
+      "dateText": "2026年中秋国庆期间",
+      "startDate": "2026-09-25",
+      "endDate": "2026-10-07",
+      "costId": "paid",
+      "priceText": "城墙门票",
+      "description": "中秋国庆期间，西安城墙举办中秋赏月活动（赏月、猜灯谜、吃月饼）与国庆主题灯光秀（以红色为主题的灯光秀庆祝国庆），节日氛围浓厚。",
+      "sourceUrl": "https://m.toutiao.com/article/7680777972671857215",
+      "tagName": "西安 城墙 中秋赏月 国庆灯光秀",
+      "createdAt": "2026-09-17",
+      "updatedAt": "2026-09-17"
+    },
+    {
+      "id": "XA_evt_28395a",
+      "cityCode": "XA",
+      "categoryId": "expo",
+      "name": "第二十一届西安国际车展",
+      "venueId": "XA_ven_e51455d2",
+      "venueText": "西安国际会展中心",
+      "dateText": "2026年10月1日-7日",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-07",
+      "costId": "paid",
+      "priceText": "需购票",
+      "description": "第二十一届西安国际车展于西安国际会展中心举办，以“以车为媒，万象共生”为主题，立足陕西汽车产业基础，集中展示汽车产业电动化、智能化最新成果。",
+      "sourceUrl": "https://www.cnr.cn/sxpd/c/yl/20260901/t20260901_527801122.shtml",
+      "tagName": "西安 国际会展中心 车展 国庆 国庆节",
+      "createdAt": "2026-09-17",
+      "updatedAt": "2026-09-17"
+    },
     {
       "id": "XA_evt_754835",
       "cityCode": "XA",
@@ -239,10 +293,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "大唐不夜城国庆升级玩法，不倒翁小姐姐、盛唐密盒等免费演出常态化，曲江飞行剧院、大悦城国风乐游季同步上新。",
-      "sourceUrl": "https://hk.trip.com/moments/theme/destination-xi-an-7-nightlife-1002791",
+      "sourceUrl": "https://www.toutiao.com/article/7670433142901899818/",
       "tagName": "国庆 国庆节",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-12"
+      "updatedAt": "2026-09-17"
     },
     {
       "id": "XA_evt_9c3c99",
@@ -275,10 +329,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "88元",
       "description": "借助XR扩增现实打造全景沉浸式体验，结合珂罗版敦煌特窟壁画，走进莫高窟神秘世界。",
-      "sourceUrl": "https://hk.trip.com/events/14348798-2026-xi-an-collection",
+      "sourceUrl": "https://huodong.com/event/detail/eydao",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-17"
     },
     {
       "id": "XA_evt_518072",
@@ -822,23 +876,6 @@ window.APP_DATA = {
       "description": "合肥票圈出品儿童剧，西安国际陆港影视传媒巨幕厅，9月20日4场演出。",
       "sourceUrl": "https://zwfw.xa.gov.cn/chanbaguojigang/zwgk/tzgg/spxxgs/fdzdgk/2091808237014245377.html",
       "tagName": "儿童剧",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "XA_evt_c5a7c2",
-      "cityCode": "XA",
-      "categoryId": "talk",
-      "name": "燕妮·埃彭贝克西安分享会《她把一个世纪抱在怀中》",
-      "venueId": "XA_ven_3d50753b",
-      "venueText": "西安方所",
-      "dateText": "9月16日 19:00",
-      "startDate": "2026-09-16",
-      "endDate": "2026-09-16",
-      "costId": "free",
-      "description": "2024年国际布克奖得主、德国作家燕妮·埃彭贝克携新作做客西安方所，与侯健、余雅琴对谈女性笔下的历史与创痛。免费报名。",
-      "sourceUrl": "https://new.qq.com/rain/a/20260904A0784Y00",
-      "tagName": "文学分享",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },

@@ -390,5 +390,13 @@ window.APP_VENUES_NJ = [
     "latitude": 31.411679,
     "longitude": 119.093291,
     "address": "高淳区桠溪镇生态路6号游客中心停车场"
+  },
+  {
+    "id": "NJ_ven_82b2b9a3",
+    "cityCode": "NJ",
+    "name": "牛首山文化旅游区",
+    "latitude": 31.967981,
+    "longitude": 118.765216,
+    "address": ""
   }
 ];

@@ -438,5 +438,13 @@ window.APP_VENUES_BJ = [
     "latitude": 39.996238,
     "longitude": 116.391001,
     "address": "朝阳区奥运村街道天辰东路9号"
+  },
+  {
+    "id": "BJ_ven_87c7595f",
+    "cityCode": "BJ",
+    "name": "北京园博园",
+    "latitude": 39.862069,
+    "longitude": 116.198116,
+    "address": ""
   }
 ];

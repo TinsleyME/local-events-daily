@@ -652,10 +652,10 @@ window.APP_DATA = {
       "endDate": "2026-10-18",
       "costId": "free",
       "description": "路威酩轩香水化妆品呈现的感官炼金术艺术装置展，落地新天地时尚1期中庭，以沉浸式嗅觉与视觉装置演绎香水美学。",
-      "sourceUrl": "https://expo.sww.sh.gov.cn/browser/search-entp-index.jspx?code=SEARCH",
+      "sourceUrl": "https://expo.sww.sh.gov.cn/browser/search-entp-expo.jspx?code=a41d634e-228c-4b55-a797-14f2df7abca4",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-10",
+      "updatedAt": "2026-09-17",
       "priceText": "免费（需预约）"
     },
     {
@@ -670,10 +670,10 @@ window.APP_DATA = {
       "endDate": "2026-09-23",
       "costId": "free",
       "description": "爱马仕高级珠宝鉴赏展亮相上海西岸穹顶艺术中心，呈献高级珠宝臻品与匠心工艺，为期一周。",
-      "sourceUrl": "https://expo.sww.sh.gov.cn/browser/search-entp-index.jspx?code=SEARCH",
+      "sourceUrl": "https://expo.sww.sh.gov.cn/browser/search-entp-expo.jspx?code=c7fdf271-abe2-4447-b54e-3e9fd9b6536a",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-14",
+      "updatedAt": "2026-09-17",
       "priceText": "免费"
     },
     {

@@ -1,11 +1,47 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-09-16",
-    "weekday": "周三",
+    "date": "2026-09-17",
+    "weekday": "周四",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "FS_evt_10a2ec",
+      "cityCode": "FS",
+      "categoryId": "market",
+      "name": "“健康南海·双节福沥”南海区文体旅智造精品展销会",
+      "venueId": "FS_ven_c8d49387",
+      "venueText": "大沥九龙公园",
+      "dateText": "2026年9月24日-10月7日",
+      "startDate": "2026-09-24",
+      "endDate": "2026-10-07",
+      "costId": "free",
+      "priceText": "",
+      "description": "“健康南海·双节福沥”2026年南海区文体旅智造精品展销会于大沥镇九龙公园启幕，创新打造“5+3+N”文体旅智造精品展销模式，约200个摊位聚焦运动风尚、康养食物、健康家居、智造精品、户外生活五大方向。",
+      "sourceUrl": "https://www.fsonline.com.cn/FS_PLUS/1067780.html",
+      "tagName": "南海 大沥九龙公园 展销会 中秋国庆",
+      "createdAt": "2026-09-17",
+      "updatedAt": "2026-09-17"
+    },
+    {
+      "id": "FS_evt_80fe95",
+      "cityCode": "FS",
+      "categoryId": "sports",
+      "name": "禅城南庄第四届“车水马龙”系列活动",
+      "venueId": "FS_ven_a575fab0",
+      "venueText": "南庄吉利河",
+      "dateText": "2026年9月下旬-10月中旬",
+      "startDate": "2026-09-27",
+      "endDate": "2026-10-15",
+      "costId": "free",
+      "priceText": "",
+      "description": "禅城南庄以龙舟马拉松赛、惠民汽车展、金秋舞火龙为主线，呈现“百艘共渡吉利河、千人共享龙船饭”的水乡盛景，并发布广东首个五人龙舟团体标准；9月27日吉利河畔迎来重要场次，水上运动、乡村美食及金秋舞火龙等内容陆续展开。",
+      "sourceUrl": "https://www.fsonline.com.cn/FS_PLUS/1069186.html",
+      "tagName": "禅城 南庄 龙舟 舞火龙 中秋国庆",
+      "createdAt": "2026-09-17",
+      "updatedAt": "2026-09-17"
+    },
     {
       "id": "FS_evt_3989a4",
       "cityCode": "FS",
@@ -867,10 +903,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "门票另计",
       "description": "浑然天成的群峰层峦，佛山第一峰登高徒步，配套粉砂溪畔、手作项目与特色濑粉体验。",
-      "sourceUrl": "https://m.ctrip.com/webapp/tnt/list?allianceid=6032594&sid=170732500&pagetype=city&citytype=dt&keyword=%E6%88%B7%E5%A4%96%20%E9%9C%B2%E8%90%A5%20%E5%BE%92%E6%AD%A5%20%E5%85%AC%E5%9B%AD&id=207",
+      "sourceUrl": "https://news.qq.com/rain/a/20260309A0539Q00",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-17"
     },
     {
       "id": "FS_evt_f50931",
@@ -885,10 +921,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "巨大避暑森林，可户外徒步、天然氧吧，免费开放。",
-      "sourceUrl": "https://m.ctrip.com/webapp/tnt/list?allianceid=6032594&sid=170732500&pagetype=city&citytype=dt&keyword=%E6%88%B7%E5%A4%96%20%E9%9C%B2%E8%90%A5%20%E5%BE%92%E6%AD%A5%20%E5%85%AC%E5%9B%AD&id=207",
+      "sourceUrl": "https://news.qq.com/rain/a/20260418A03V5900",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-17"
     },
     {
       "id": "FS_evt_be8381",
@@ -903,10 +939,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "1500亩超大原始次生林，低难度徒步、露营野餐、遛娃玩水一站式，免费入场。",
-      "sourceUrl": "https://tw.trip.com/moments/theme/poi-san-mountain-forest-park-79150923-guides-993135",
+      "sourceUrl": "https://news.qq.com/rain/a/20260729A061F600",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-17"
     },
     {
       "id": "FS_evt_304bc9",
