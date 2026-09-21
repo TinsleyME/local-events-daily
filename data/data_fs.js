@@ -1,11 +1,155 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-09-17",
-    "weekday": "周四",
+    "date": "2026-09-21",
+    "weekday": "周一",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "FS_evt_66bed5",
+      "cityCode": "FS",
+      "categoryId": "market",
+      "name": "佛山秋色在祖庙举行",
+      "venueId": "FS_ven_aa08fs00",
+      "venueText": "佛山市祖庙博物馆",
+      "dateText": "2026.10.23-2026.10.24",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-24",
+      "costId": "free",
+      "priceText": "",
+      "description": "10 月 23 日至 24 日，佛山秋色在祖庙举办，约 60 个省内外非遗集中亮相。包含秋祭、乡饮酒礼、秋色巡游，新疆伽师、西藏墨脱艺术团献演歌舞。",
+      "sourceUrl": "https://www.foshannews.net/h/7131/20260916/8847043.html",
+      "tagName": "秋色 非遗 民俗 巡游 重阳",
+      "createdAt": "2026-09-21",
+      "updatedAt": "2026-09-21"
+    },
+    {
+      "id": "FS_evt_43a683",
+      "cityCode": "FS",
+      "categoryId": "family",
+      "name": "长鹿旅游休博园宋韵国庆主题活动",
+      "venueId": "FS_ven_c1a2b3d4",
+      "venueText": "长鹿旅游休博园",
+      "dateText": "2026.10.01-2026.10.07",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-07",
+      "costId": "paid",
+      "priceText": "穿汉服可享特定时段免票入园",
+      "description": "双节期间推出「宋韵成章·岁华同庆」活动，还原《清明上河图》场景，身着古风服饰的游客可免费入园。",
+      "sourceUrl": "https://www.foshan.gov.cn/zwgk/zwdt/wqdt/sdq/content/post_7307313.html",
+      "tagName": "宋韵 汉服 国庆 亲子 国庆节",
+      "createdAt": "2026-09-21",
+      "updatedAt": "2026-09-21"
+    },
+    {
+      "id": "FS_evt_fdc2ef",
+      "cityCode": "FS",
+      "categoryId": "market",
+      "name": "顺德鱼灯会民俗大巡游",
+      "venueId": "FS_ven_d5e6f7a8",
+      "venueText": "大良",
+      "dateText": "2026.09.25-2026.10.07",
+      "startDate": "2026-09-25",
+      "endDate": "2026-10-07",
+      "costId": "free",
+      "priceText": "",
+      "description": "中秋国庆期间，大良鱼灯会将组织超 200 人规模的鱼灯民俗大巡游，搭配全国鱼灯艺术展、鱼灯宴和「全城吃鱼」系列活动。",
+      "sourceUrl": "https://www.foshan.gov.cn/zwgk/zwdt/wqdt/sdq/content/post_7307313.html",
+      "tagName": "鱼灯 民俗 巡游 中秋",
+      "createdAt": "2026-09-21",
+      "updatedAt": "2026-09-21"
+    },
+    {
+      "id": "FS_evt_f3ae20",
+      "cityCode": "FS",
+      "categoryId": "market",
+      "name": "陈村花卉世界首届花园美好生活季",
+      "venueId": "FS_ven_aa07fs00",
+      "venueText": "陈村花卉世界展览中心",
+      "dateText": "2026.09.30-2026.10.15",
+      "startDate": "2026-09-30",
+      "endDate": "2026-10-15",
+      "costId": "free",
+      "priceText": "",
+      "description": "9 月 30 日启幕，将实景落地 20 座主理人设计大赛的获奖作品，实现白天赏花品咖、夜间观演逛吃的沉浸式体验。",
+      "sourceUrl": "https://www.foshan.gov.cn/zwgk/zwdt/wqdt/sdq/content/post_7307313.html",
+      "tagName": "花卉 市集 咖啡 主理人",
+      "createdAt": "2026-09-21",
+      "updatedAt": "2026-09-21"
+    },
+    {
+      "id": "FS_evt_2c531d",
+      "cityCode": "FS",
+      "categoryId": "market",
+      "name": "佛山禅城万象天地开业",
+      "venueId": "FS_ven_3dbf125d",
+      "venueText": "佛山万象天地",
+      "dateText": "2026年9月28日起",
+      "startDate": "2026-09-28",
+      "endDate": "2026-10-07",
+      "costId": "free",
+      "priceText": "免费（开业活动）",
+      "description": "约18万㎡万象天地开业，醒狮坐镇主舞台、超长金龙穿行室内、默剧魔术街头音乐巡游接连上演。",
+      "sourceUrl": "https://epaper.fsonline.com.cn/fsrb/html/2026-09/16/content_72931_334442.htm",
+      "tagName": "",
+      "createdAt": "2026-09-20",
+      "updatedAt": "2026-09-20"
+    },
+    {
+      "id": "FS_evt_b9355a",
+      "cityCode": "FS",
+      "categoryId": "market",
+      "name": "2026中国南庄第四届车水马龙节",
+      "venueId": "FS_ven_5d86a7e5",
+      "venueText": "南庄镇",
+      "dateText": "2026年9月下旬-10月中旬 南庄镇",
+      "startDate": "2026-09-25",
+      "endDate": "2026-10-15",
+      "costId": "free",
+      "priceText": "",
+      "description": "以龙舟马拉松赛、惠民汽车展、金秋舞火龙为主线，呈现「百艘共渡吉利河、千人共享龙船饭」的水乡盛景，发布广东首个五人龙舟团体标准，争创吉尼斯世界纪录。",
+      "sourceUrl": "https://www.foshan.gov.cn/gzjg/fswenhua/wltdt/content/post_7308980.html",
+      "tagName": "中秋 国庆",
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-09-18"
+    },
+    {
+      "id": "FS_evt_32272f",
+      "cityCode": "FS",
+      "categoryId": "exhi",
+      "name": "佛山秋色(2026)",
+      "venueId": "FS_ven_aa08fs00",
+      "venueText": "佛山市祖庙博物馆",
+      "dateText": "2026-10-23至24日 祖庙",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-24",
+      "costId": "free",
+      "priceText": "",
+      "description": "「潮玩秋色 乐游佛山」佛山秋色在祖庙举办，含秋祭、乡饮酒礼、秋色巡游，新疆伽师、西藏墨脱艺术团献演歌舞，约60个省内外非遗项目集中亮相。",
+      "sourceUrl": "https://local.cctv.com/2026/09/16/ARTIrpoeFugteQrtklEI5ApO260916.shtml",
+      "tagName": "国庆 重阳",
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-09-18"
+    },
+    {
+      "id": "FS_evt_3c8264",
+      "cityCode": "FS",
+      "categoryId": "show",
+      "name": "时光哲旅2026六哲巡回音乐会佛山站",
+      "venueId": "FS_ven_aa01fs00",
+      "venueText": "佛山岭南明珠体育馆",
+      "dateText": "2026-10-17 佛山岭南明珠体育馆",
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-17",
+      "costId": "paid",
+      "priceText": "需购票",
+      "description": "六哲经典金曲专场，《错错错》《被伤过的心还可以爱谁》等代表作重温青春记忆。",
+      "sourceUrl": "https://www.nfnews.com/content/16VLmDAeyr.html",
+      "tagName": "国庆",
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-09-18"
+    },
     {
       "id": "FS_evt_10a2ec",
       "cityCode": "FS",
@@ -52,13 +196,13 @@ window.APP_DATA = {
       "dateText": "双节期间每日8场黄飞鸿醒狮表演",
       "startDate": "2026-09-25",
       "endDate": "2026-10-07",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "成人20元/优惠10元",
       "description": "祖庙博物馆假日期间每日8场黄飞鸿醒狮表演，万福台经典粤剧持续唱响，贝类科普展、晋式童帽专题展同步开放。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260914A08TWI00",
+      "sourceUrl": "https://m.fs.bendibao.com/mip/103227.shtm",
       "tagName": "祖庙 醒狮 中秋",
       "createdAt": "2026-09-16",
-      "updatedAt": "2026-09-16"
+      "updatedAt": "2026-09-18"
     },
     {
       "id": "FS_evt_b8d886",
@@ -70,13 +214,13 @@ window.APP_DATA = {
       "dateText": "9月-10月",
       "startDate": "2026-09-01",
       "endDate": "2026-10-31",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费",
       "description": "中秋主题活动，月满创产，古筝国风秀、嫦娥古典舞蹈等；全球华语榜中榜歌手大赛战队赛、港声你听cantonlive、佛山功夫音乐节等轮番上演。",
       "sourceUrl": "https://www.sohu.com/a/1073446910_100116740",
       "tagName": "",
       "createdAt": "2026-09-15",
-      "updatedAt": "2026-09-15"
+      "updatedAt": "2026-09-18"
     },
     {
       "id": "FS_evt_d00009",
@@ -127,10 +271,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "门票8折",
       "description": "祖庙博物馆假日每日8场黄飞鸿醒狮表演，万福台粤剧持续唱响，贝类科普展、晋式童帽专题展同步开放，含公益亲子社教活动。",
-      "sourceUrl": "",
+      "sourceUrl": "https://content.foshanplus.com/simpleNewsDetails.html?newsId=300088822",
       "tagName": "中秋",
       "createdAt": "2026-09-14",
-      "updatedAt": "2026-09-14"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "FS_evt_1aff54",
@@ -166,7 +310,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.toutiao.com/article/7683119633938809350/",
       "tagName": "中秋国庆",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-12"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "FS_evt_dd5e65",
@@ -184,7 +328,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.toutiao.com/article/7683119633938809350/",
       "tagName": "中秋国庆",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-15"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "FS_evt_b74c4f",
@@ -202,7 +346,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.toutiao.com/article/7683119633938809350/",
       "tagName": "",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-12"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "FS_evt_0a8359",
@@ -220,7 +364,7 @@ window.APP_DATA = {
       "sourceUrl": "https://xxsb.gz-cmc.com/pages/2026/09/09/ae5cb6d10e954dce866d60e53f634079.html",
       "tagName": "",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-14"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "FS_evt_54d555",
@@ -238,7 +382,7 @@ window.APP_DATA = {
       "sourceUrl": "https://xxsb.gz-cmc.com/pages/2026/09/09/ae5cb6d10e954dce866d60e53f634079.html",
       "tagName": "",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-12"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "FS_evt_564e27",
@@ -253,10 +397,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "免费（无需预约）",
       "description": "三博联动推出丝路乐游记音乐游园会、童心赴千年节庆游园会及六项非遗手作、丝绸之路主题展。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260908A0DGL900",
+      "sourceUrl": "https://fs.bendibao.com/xiuxian/2026916/142173.shtm",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "FS_evt_2613bd",
@@ -271,10 +415,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "解码城市里的万物诗行，推介佛山地理标志产品。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260903A0A48200",
+      "sourceUrl": "https://fs.bendibao.com/xiuxian/",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "FS_evt_5b595c",
@@ -289,11 +433,11 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "298-1888元",
       "description": "张德兰携《情义两心坚》等金曲重返华语乐坛黄金年代。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260719A08TFF00",
+      "sourceUrl": "https://m.fs.bendibao.com/xiuxian/141943.shtm",
       "tagName": "",
       "celebrity": "张德兰",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-18"
     },
     {
       "id": "FS_evt_ea0945",
@@ -308,10 +452,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "推动粤剧粤曲非遗从剧场走进商业综合体，非遗进商圈文化润民心。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260908A0DGL900",
+      "sourceUrl": "https://fs.bendibao.com/xiuxian/",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "FS_evt_156fc5",
@@ -326,10 +470,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "立足中秋团圆传统文化，聚焦老少、新市民、独居长者的公益节庆茶话会。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260909A0CVUK00",
+      "sourceUrl": "http://www.fsxcb.gov.cn/tt/content/post_894107.html",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-18"
     },
     {
       "id": "FS_evt_f167fd",
@@ -347,7 +491,7 @@ window.APP_DATA = {
       "sourceUrl": "https://fs.bendibao.com/xiuxian/202699/142054.shtm",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "FS_evt_8206bf",
@@ -362,10 +506,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "美食市集、湖畔音乐派对、亲子露营互动，规划50-60个展位。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260908A0DGL900",
+      "sourceUrl": "https://fs.bendibao.com/jieri/guoqing/2026920/142249.shtm",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "FS_evt_0d62f1",
@@ -383,7 +527,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.nfnews.com/content/mom4DWvJ6V.html",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "FS_evt_e65ed1",
@@ -401,7 +545,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.nfnews.com/content/mom4DWvJ6V.html",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "FS_evt_6932ee",
@@ -416,10 +560,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "配套玻璃彩绘、螺钿拼贴、石塑粘土等六项非遗手作的亲子游园会。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260908A0DGL900",
+      "sourceUrl": "https://fs.bendibao.com/xiuxian/2026916/142173.shtm",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "FS_evt_9a4a2e",
@@ -437,7 +581,7 @@ window.APP_DATA = {
       "sourceUrl": "https://fs.bendibao.com/xiuxian/202699/142070.shtm",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "FS_evt_01b7f1",
@@ -452,10 +596,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "设置童年藏宝阁、名作漫画廊、全系列漫画书墙、拍照打卡墙和时空穿梭隧道5个展区，参与打卡有机会免费领限定海报、盖限定印章。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260902A0DMHX00",
+      "sourceUrl": "https://www.sina.cn/news/detail/5338745588155105.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "FS_evt_397496",
@@ -470,10 +614,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "以268件(套)贝类标本、远古化石、人文文物及非遗工艺展品为载体，设识贝、赏贝、用贝、护贝四大主题展区，适合亲子科普。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260902A0DMHX00",
+      "sourceUrl": "https://fs.bendibao.com/xiuxian/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "FS_evt_9f1efe",
@@ -488,10 +632,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "聚焦康雍乾三朝官窑瓷器，看宫廷瓷器从雄浑走向精雅再到华美的风格流变。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260903A09VRU00",
+      "sourceUrl": "https://whly.gd.gov.cn/service_newwwbwg/content/post_4936395.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "FS_evt_bfaa1a",
@@ -506,29 +650,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "全景呈现香云纱数百年工艺脉络，展出民国香云纱服饰、宋庆龄同款旗袍等珍贵实物。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260903A09VRU00",
+      "sourceUrl": "https://fs.bendibao.com/xiuxian/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "FS_evt_b7395d",
-      "celebrity": "王栎鑫",
-      "cityCode": "FS",
-      "categoryId": "show",
-      "name": "王栎鑫不管“三七”二十一生日会",
-      "venueId": "FS_ven_d1fc8c51",
-      "venueText": "佛山国际体育文化演艺中心",
-      "dateText": "2026.9.19",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "costId": "paid",
-      "priceText": "319元起",
-      "description": "王栎鑫2026不管“三七”二十一生日会，以“快乐至上”为主题，票价319/619/919/1199元。",
-      "sourceUrl": "https://m.fs.bendibao.com/jieri/102864.shtm",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "FS_evt_4a8a16",
@@ -546,7 +671,7 @@ window.APP_DATA = {
       "sourceUrl": "https://m.fs.bendibao.com/jieri/102864.shtm",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "FS_evt_2f2a48",
@@ -564,7 +689,7 @@ window.APP_DATA = {
       "sourceUrl": "https://m.fs.bendibao.com/jieri/102864.shtm",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "FS_evt_1e147e",
@@ -579,10 +704,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "277元起",
       "description": "集音乐、视觉与沉浸式体验的大型音乐现场，朱正廷、颜人中、姚琛、张星特等艺人阵容，预计超2万人参加。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260908A0DGL900",
+      "sourceUrl": "https://www.dahepiao.com/yanchupiaowu1/ych/20260914549736.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "FS_evt_3f7572",
@@ -654,7 +779,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.nfnews.com/content/mom4DWvJ6V.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "FS_evt_f70923",
@@ -672,7 +797,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.nfnews.com/content/16VLmDAeyr.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "FS_evt_3f9b7f",
@@ -690,7 +815,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.nfnews.com/content/16VLmDAeyr.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "FS_evt_ee10d6",
@@ -708,7 +833,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.nfnews.com/content/16VLmDAeyr.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "FS_evt_6f6d19",
@@ -759,10 +884,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "策划“迎中秋 贺国庆”系列活动，含广东音乐经典名曲音乐会、中秋卡牌探索沙龙、少儿非遗绘本手作、家庭教育通识课等全龄活动。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260908A0DGL900",
+      "sourceUrl": "https://fs.bendibao.com/xiuxian/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "FS_evt_8fd0fe",
@@ -774,13 +899,13 @@ window.APP_DATA = {
       "dateText": "2026.9.25-10.7",
       "startDate": "2026-09-25",
       "endDate": "2026-10-07",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费入园(项目自费)",
       "description": "白天亲子狂欢三大乐园，夜晚水舞灯光秀、舞火龙、佤族绝技篝火晚会、花灯会猜灯谜与拜月仪式，NPC互动沉浸感十足。",
       "sourceUrl": "https://fs.bendibao.com/xiuxian/202697/141984.shtm",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "FS_evt_5214cf",
@@ -903,10 +1028,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "门票另计",
       "description": "浑然天成的群峰层峦，佛山第一峰登高徒步，配套粉砂溪畔、手作项目与特色濑粉体验。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260309A0539Q00",
+      "sourceUrl": "https://www.fsonline.com.cn/FS_PLUS/300328978.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-17"
+      "updatedAt": "2026-09-18"
     },
     {
       "id": "FS_evt_f50931",
@@ -921,10 +1046,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "巨大避暑森林，可户外徒步、天然氧吧，免费开放。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260418A03V5900",
+      "sourceUrl": "https://m.ctrip.com/webapp/you/community/detail?articleId=197304325&isHideNavBar=YES&seo=0&sid=29927766",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-17"
+      "updatedAt": "2026-09-18"
     },
     {
       "id": "FS_evt_be8381",
@@ -939,10 +1064,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "1500亩超大原始次生林，低难度徒步、露营野餐、遛娃玩水一站式，免费入场。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260729A061F600",
+      "sourceUrl": "https://gs.ctrip.com/html5/you/sight/2087/5701223.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-17"
+      "updatedAt": "2026-09-18"
     },
     {
       "id": "FS_evt_304bc9",
@@ -956,10 +1081,10 @@ window.APP_DATA = {
       "endDate": "2026-10-08",
       "costId": "free",
       "description": "石湾陶塑与顺德书画联合呈现，岭南文脉的深情对话，非遗为纽带、艺术为桥梁。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260903A0A48F00",
+      "sourceUrl": "https://huacheng.gz-cmc.com/pages/2026/09/02/ed66487cbdc2488d9aa798f645e3667a.html",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-08"
+      "updatedAt": "2026-09-18"
     },
     {
       "id": "FS_evt_3658e7",
@@ -973,10 +1098,10 @@ window.APP_DATA = {
       "endDate": "2026-10-18",
       "costId": "free",
       "description": "佛山市博物馆一楼临展厅，唐代洛阳文物精品展。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260903A0A48200",
+      "sourceUrl": "https://whly.gd.gov.cn/service_newwwbwg/content/post_4936395.html",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-08"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "FS_evt_188469",
@@ -1010,7 +1135,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.nfnews.com/content/mom4DWvJ6V.html",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-08"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "FS_evt_36bce9",
@@ -1027,7 +1152,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.nfnews.com/content/mom4DWvJ6V.html",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-08"
+      "updatedAt": "2026-09-20"
     }
   ]
 };

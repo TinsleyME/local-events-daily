@@ -1,11 +1,101 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-09-17",
-    "weekday": "周四",
+    "date": "2026-09-21",
+    "weekday": "周一",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "SZ_evt_b64e11",
+      "cityCode": "SZ",
+      "categoryId": "exhi",
+      "name": "文心清韵——中国当代书画名家走进光明作品展",
+      "venueId": "SZ_ven_a7b8c9d0",
+      "venueText": "茅洲河体育艺术中心",
+      "dateText": "2026.09.15-2026.10.31",
+      "startDate": "2026-09-15",
+      "endDate": "2026-10-31",
+      "costId": "free",
+      "priceText": "",
+      "description": "国家级顶尖书画名家精品力作集中亮相，展出唐辉、孙克、郜宗远、刘曦林、范扬、林容生、梁宇等三十余位南北顶尖书画名家作品共60幅，涵盖山水、花鸟、人物、书法四大品类。展览打造「笔墨传承—时代新象—光明意蕴」三大递进式叙事单元。配套举办美育讲座《让艺术走进生活》。免费开放，无需购票、无需预约。",
+      "sourceUrl": "https://sz.people.com.cn/BIG5/n2/2026/0917/c202846-41699453.html",
+      "tagName": "书画 展览 免费 艺术",
+      "createdAt": "2026-09-21",
+      "updatedAt": "2026-09-21"
+    },
+    {
+      "id": "SZ_evt_bcb01f",
+      "cityCode": "SZ",
+      "categoryId": "show",
+      "name": "深圳世界之窗1500架无人机大秀",
+      "venueId": "SZ_ven_1670e5d8",
+      "venueText": "深圳世界之窗",
+      "dateText": "2026年9月25日、10月1日-4日",
+      "startDate": "2026-09-25",
+      "endDate": "2026-10-04",
+      "costId": "paid",
+      "priceText": "夜场票120-180元，全日票220元",
+      "description": "1500架无人机大秀、铁塔科技烟花秀、环球大巡游、荒野之国巡游展等双节活动。",
+      "sourceUrl": "https://sz.bendibao.com/news/2026916/1013297.htm",
+      "tagName": "中秋",
+      "createdAt": "2026-09-20",
+      "updatedAt": "2026-09-20"
+    },
+    {
+      "id": "SZ_evt_1a70d1",
+      "cityCode": "SZ",
+      "categoryId": "market",
+      "name": "锦绣中华中秋千灯会",
+      "venueId": "SZ_ven_364b4e89",
+      "venueText": "锦绣中华民俗村",
+      "dateText": "2026年9月25日-10月7日",
+      "startDate": "2026-09-25",
+      "endDate": "2026-10-07",
+      "costId": "paid",
+      "priceText": "夜场双人票138元起",
+      "description": "中秋千灯会、孔明灯祈福、国庆晒秋玩丰乐等沉浸式国风活动。",
+      "sourceUrl": "http://www.szwwco.com/index.html",
+      "tagName": "中秋",
+      "createdAt": "2026-09-20",
+      "updatedAt": "2026-09-20"
+    },
+    {
+      "id": "SZ_evt_cfc211",
+      "cityCode": "SZ",
+      "categoryId": "show",
+      "name": "深圳欢乐谷惊奇潮玩节",
+      "venueId": "SZ_ven_d6cde3e0",
+      "venueText": "深圳欢乐谷",
+      "dateText": "2026年9月19日-10月15日",
+      "startDate": "2026-09-19",
+      "endDate": "2026-10-15",
+      "costId": "paid",
+      "priceText": "夜场单人票119元",
+      "description": "7大独立场景、10大惊奇屋、沉浸剧场与夜间烟火狂欢。",
+      "sourceUrl": "https://m.bendibao.com/show1012877.html",
+      "tagName": "",
+      "createdAt": "2026-09-20",
+      "updatedAt": "2026-09-20"
+    },
+    {
+      "id": "SZ_evt_4de537",
+      "cityCode": "SZ",
+      "categoryId": "show",
+      "name": "秋韵古今·四大名著国乐新声音乐会",
+      "venueId": "SZ_ven_efac95b8",
+      "venueText": "坪山大剧院",
+      "dateText": "2026-09-25 15:00 坪山大剧院大剧场",
+      "startDate": "2026-09-25",
+      "endDate": "2026-09-25",
+      "costId": "paid",
+      "priceText": "80-480元",
+      "description": "广东民族乐团倾情呈现，以《西游记》《三国演义》《水浒传》《红楼梦》为灵感，精选许镜清、王立平、谷建芬、赵季平等大师经典影视金曲，由蔡龙龙全新编配，中秋限定共谱团圆。",
+      "sourceUrl": "https://www.xinruipiao.com/yinlehui/33996.html",
+      "tagName": "中秋",
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-09-18"
+    },
     {
       "id": "SZ_evt_f80c82",
       "cityCode": "SZ",
@@ -58,7 +148,7 @@ window.APP_DATA = {
       "sourceUrl": "https://sz.bendibao.com/xiuxian/2026914/1013152.shtm",
       "tagName": "南头古城 双节 国庆节",
       "createdAt": "2026-09-16",
-      "updatedAt": "2026-09-16"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "SZ_evt_3a9ec0",
@@ -94,7 +184,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.dutenews.com/n/article/60068092",
       "tagName": "",
       "createdAt": "2026-09-14",
-      "updatedAt": "2026-09-14"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "SZ_evt_d5e477",
@@ -109,10 +199,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "需购票",
       "description": "华侨城惊奇潮玩节覆盖世界之窗等园区，以“潮玩IP+惊奇域+惊奇屋+NPC梗秀+变装玩法”为特色，含巨型机甲风巡游与无人机编队光影秀。",
-      "sourceUrl": "https://www.dutenews.com/n/article/60068092",
+      "sourceUrl": "https://m.bendibao.com/show1013434.html",
       "tagName": "中秋",
       "createdAt": "2026-09-14",
-      "updatedAt": "2026-09-14"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "SZ_evt_816153",
@@ -127,10 +217,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "深圳以 APEC「中国年」为契机发布「深圳秋日心动」系列文旅活动，一口气推出 282 项秋日文商旅体活动、24 条参访线路与 4 大主题研学，覆盖中秋国庆假期。",
-      "sourceUrl": "https://www.sohu.com/a/1066689712_121384220",
+      "sourceUrl": "https://sz.bendibao.com/xiuxian/huodonggonglve/list1.htm",
       "tagName": "中秋国庆",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-12"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "SZ_evt_8492e2",
@@ -145,10 +235,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "以「快乐+健康」为主题的 2026 深圳国际糖果嘉年华正式启动，融合糖果体验、行业论坛、经销商大会与糖果梦工场等多元内容，搭建文旅产业商贸对话平台。",
-      "sourceUrl": "https://www.sohu.com/a/1066689712_121384220",
+      "sourceUrl": "https://sz.bendibao.com/xiuxian/huodonggonglve/list1.htm",
       "tagName": "中秋国庆",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-12"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "SZ_evt_d09137",
@@ -166,7 +256,7 @@ window.APP_DATA = {
       "sourceUrl": "https://huacheng.gz-cmc.com/pages/2025/09/25/SF14453009481547bda9ff43eab69709.html",
       "tagName": "中秋国庆",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-12"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "SZ_evt_c90400",
@@ -184,7 +274,7 @@ window.APP_DATA = {
       "sourceUrl": "https://huacheng.gz-cmc.com/pages/2025/09/25/SF14453009481547bda9ff43eab69709.html",
       "tagName": "国庆",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-12"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "SZ_evt_d05de6",
@@ -202,7 +292,7 @@ window.APP_DATA = {
       "sourceUrl": "https://huacheng.gz-cmc.com/pages/2025/09/25/SF14453009481547bda9ff43eab69709.html",
       "tagName": "中秋国庆",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-12"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "SZ_evt_a5e89c",
@@ -235,10 +325,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "遴选荷包珍品140余件，围绕功能形制、纹样吉祥寓意、刺绣技法与南北地域特色四大板块呈现。",
-      "sourceUrl": "",
+      "sourceUrl": "https://www.163.com/dy/article/L6QFSMMC0525CKB5.html",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "SZ_evt_562c9e",
@@ -271,10 +361,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "49-129元",
       "description": "展出超现实主义大师达利以但丁《神曲》为灵感创作的百幅版画真迹，分地狱、炼狱、天堂三大篇章。",
-      "sourceUrl": "https://utravel.com.hk/news/detail/20108593",
+      "sourceUrl": "https://utravel.com.hk/news/detail/20108593/深圳福田最新大師級展覽-達利的神蹟-登場-三大篇章重現-神曲-百幅真跡",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-17"
     },
     {
       "id": "SZ_evt_58e5ad",
@@ -327,24 +417,6 @@ window.APP_DATA = {
       "priceText": "",
       "description": "3公里闯关派对赛道，沿途互动障碍与主题打卡点，配套奇趣市集嘉年华，报名免报名费(代收保险8元)。",
       "sourceUrl": "https://www.szlh.gov.cn/lhlh/yjlh/xzlh/content/post_12960578.html",
-      "tagName": "",
-      "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
-    },
-    {
-      "id": "SZ_evt_a6b01f",
-      "cityCode": "SZ",
-      "categoryId": "outdoor",
-      "name": "自然有奇遇·依法护鸟科学助鸟 科普课堂",
-      "venueId": "SZ_ven_bd6cc2d8",
-      "venueText": "四海公园自然教育中心",
-      "dateText": "2026.9.19",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "costId": "free",
-      "priceText": "",
-      "description": "南山区红领巾护鸟队小小讲解员分享观鸟知识，实地观察鸟类形态与习性，需预约。",
-      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-10"
@@ -419,7 +491,7 @@ window.APP_DATA = {
       "sourceUrl": "https://m.bendibao.com/show1012441.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "SZ_evt_7baa01",
@@ -437,7 +509,7 @@ window.APP_DATA = {
       "sourceUrl": "https://m.bendibao.com/show1012441.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "SZ_evt_057c7e",
@@ -455,7 +527,7 @@ window.APP_DATA = {
       "sourceUrl": "https://m.bendibao.com/show1012441.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "SZ_evt_d40933",
@@ -473,7 +545,7 @@ window.APP_DATA = {
       "sourceUrl": "https://m.bendibao.com/show1012441.html",
       "tagName": "亲子",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "SZ_evt_a38c00",
@@ -488,10 +560,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "28-48元",
       "description": "以“丝绸之路”为母题的数字艺术科技特展，融合沉浸投影、交互装置与山海APP内容，呈现文化与科技交融的视觉之旅。",
-      "sourceUrl": "https://m.bendibao.com/show1012441.html",
+      "sourceUrl": "https://m.dutenews.com/n/ctedia/722682",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "SZ_evt_9c8c12",
@@ -506,66 +578,11 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "488元起",
       "description": "陈小春BIGMAN人一個巡回演唱会深圳站，488元起，唱跳经典与全新编排齐发。",
-      "sourceUrl": "https://www.163.com/dy/article/L43EIHBM0525CKB5.html",
+      "sourceUrl": "https://www.huanghepiao.com/article/1787620156161654.html",
       "tagName": "",
       "celebrity": "陈小春",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-15"
-    },
-    {
-      "id": "SZ_evt_41d649",
-      "cityCode": "SZ",
-      "categoryId": "show",
-      "name": "陆虎「想你这样的朋友3.0」巡演-深圳站",
-      "venueId": "SZ_ven_6f5a8b9c",
-      "venueText": "深圳市体育中心体育馆主馆",
-      "dateText": "2026.9.19",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "costId": "paid",
-      "priceText": "399元起",
-      "description": "陆虎“想你这样的朋友3.0”巡演深圳站，399元起，以友情为主题的温暖Live现场。",
-      "sourceUrl": "https://www.163.com/dy/article/L43EIHBM0525CKB5.html",
-      "tagName": "",
-      "celebrity": "陆虎",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "SZ_evt_429ff2",
-      "cityCode": "SZ",
-      "categoryId": "show",
-      "name": "《图兰朵》首演100周年纪念音乐会",
-      "venueId": "SZ_ven_eab486c6",
-      "venueText": "深圳音乐厅二楼演奏大厅",
-      "dateText": "2026.9.17 19:30",
-      "startDate": "2026-09-17",
-      "endDate": "2026-09-17",
-      "costId": "paid",
-      "priceText": "80-880元",
-      "description": "深圳交响乐团呈献《图兰朵》首演100周年纪念音乐会（音乐会版歌剧），马林斯基剧院等艺术家联袂献演。",
-      "sourceUrl": "https://szyyt.com/performance/show_100001047298239.html",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "SZ_evt_9f974e",
-      "cityCode": "SZ",
-      "categoryId": "show",
-      "name": "中国东方演艺集团儿童音乐剧《小东东奇幻之旅》",
-      "venueId": "SZ_ven_2f1a4b5c",
-      "venueText": "深圳鹭湖艺术中心小剧场",
-      "dateText": "2026.9.12-19",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-19",
-      "costId": "paid",
-      "priceText": "",
-      "description": "中国东方演艺集团出品，艺术总监任冬生领衔，融合多媒体互动、影子戏与偶戏的沉浸式儿童音乐剧，约70分钟。",
-      "sourceUrl": "https://huodong.com/event/detail/eyefR",
-      "tagName": "亲子",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "SZ_evt_bd1872",
@@ -580,10 +597,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "汇聚贝雕、螺钿、渔网花、海泥陶、鱼绳结、鱼拓、渔民画等滨海民艺，呈现一万八千公里海岸线的手艺长卷，免费入场。",
-      "sourceUrl": "",
+      "sourceUrl": "https://sz.bendibao.com/xiuxian/huodonggonglve/list1.htm",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-16"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "SZ_evt_42a966",
@@ -619,7 +636,7 @@ window.APP_DATA = {
       "sourceUrl": "https://sz.bendibao.com/xiuxian/2026915/1013188.shtm",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-16"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "SZ_evt_e2128d",
@@ -640,60 +657,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-09"
     },
     {
-      "id": "SZ_evt_6850bc",
-      "cityCode": "SZ",
-      "categoryId": "talk",
-      "name": "腾讯云架构师城市沙龙：AI和云原生架构方案研讨",
-      "venueId": "SZ_ven_f67f8293",
-      "venueText": "腾讯大厦411会议室",
-      "dateText": "2026.9.19 14:00-18:20",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "costId": "free",
-      "priceText": "",
-      "description": "腾讯云架构师技术同盟深圳站，围绕多租户智能客服、云原生集成、AI Coding、智算底座等议题展开深度研讨。",
-      "sourceUrl": "https://cloud.tencent.com/developer/salon/salon-2512",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "SZ_evt_d77473",
-      "cityCode": "SZ",
-      "categoryId": "sports",
-      "name": "2026年第二届深圳杯篮球联赛",
-      "venueId": "SZ_ven_3a2b5c6d",
-      "venueText": "坂田生涯Q-PARK篮球馆",
-      "dateText": "2026.9.12-19",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-19",
-      "costId": "free",
-      "priceText": "免费",
-      "description": "深圳市文化广电旅游体育局主办、市篮球协会承办的五人制男子公开组联赛，呼应APEC“开放、创新、合作”主题，限报32队。",
-      "sourceUrl": "https://www.sohu.com/a/1062087129_121119503",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-14"
-    },
-    {
-      "id": "SZ_evt_347797",
-      "cityCode": "SZ",
-      "categoryId": "sports",
-      "name": "2026五球联动福田争霸赛·羽毛球争霸赛",
-      "venueId": "SZ_ven_6f5a8b9c",
-      "venueText": "深圳市体育中心运动健身空间羽毛球馆",
-      "dateText": "2026.9.19",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "costId": "free",
-      "priceText": "免费",
-      "description": "福田区“五球联动”全民体育品牌赛事之一，24支战队团体对决，附设“羽毛球一球制胜”趣味挑战，市民可免费前往观赛助威。",
-      "sourceUrl": "https://www.szplus.com/news/news/s6a86dd86e4b0a181ee228ffe.html",
-      "tagName": "羽毛球",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-10"
-    },
-    {
       "id": "SZ_evt_1aaa57",
       "cityCode": "SZ",
       "categoryId": "outdoor",
@@ -709,43 +672,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.toutiao.com/article/7680861016783946283/",
       "tagName": "中秋",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "SZ_evt_a2d00e",
-      "cityCode": "SZ",
-      "categoryId": "outdoor",
-      "name": "2026“光明杯”两岸骑行赛",
-      "venueId": "SZ_ven_bae83f9a",
-      "venueText": "光明虹桥公园红飘带步道",
-      "dateText": "2026.9.19",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "costId": "paid",
-      "priceText": "68元/人（报名费）",
-      "description": "以虹桥公园4公里红色空中栈桥为赛道，山野林间为底色，沿途设置自然打卡点、补给站与趣味互动，用车轮丈量光明山水风光。",
-      "sourceUrl": "https://www.toutiao.com/article/7680861016783946283/",
-      "tagName": "骑行",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-14"
-    },
-    {
-      "id": "SZ_evt_3b2bfa",
-      "cityCode": "SZ",
-      "categoryId": "family",
-      "name": "沉浸式海洋科幻舞台剧《海底两万里》深圳站",
-      "venueId": "SZ_ven_7a6b9c0d",
-      "venueText": "华夏艺术中心",
-      "dateText": "2026.9.19 10:30/14:00",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "costId": "paid",
-      "priceText": "108-480元",
-      "description": "儒勒·凡尔纳经典科幻改编，舞台变身巨大“海底世界”，360°沉浸体验蓝鲸旋转，适合4-16岁亲子家庭，早鸟288元起。",
-      "sourceUrl": "https://huodong.com/event/detail/eyaLU",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "SZ_evt_2c16f1",
@@ -766,42 +693,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-09"
     },
     {
-      "id": "SZ_evt_6e269a",
-      "cityCode": "SZ",
-      "categoryId": "expo",
-      "name": "2026国际数字能源展",
-      "venueId": "SZ_ven_f20c794b",
-      "venueText": "深圳会展中心(福田)",
-      "dateText": "2026.9.15-17",
-      "startDate": "2026-09-15",
-      "endDate": "2026-09-17",
-      "costId": "free",
-      "priceText": "免费",
-      "description": "主题“预见能源，智变未来”，聚焦源网荷储数碳，设新能源电力设备、AI能源赋能、电碳融合、APEC能源创新实践五大展区。",
-      "sourceUrl": "https://www.szcec.com/",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-10"
-    },
-    {
-      "id": "SZ_evt_d4f7fe",
-      "cityCode": "SZ",
-      "categoryId": "expo",
-      "name": "CPHI&PMEC制药工业展(深圳)",
-      "venueId": "SZ_ven_f20c794b",
-      "venueText": "深圳会展中心(福田)",
-      "dateText": "2026.9.16-18",
-      "startDate": "2026-09-16",
-      "endDate": "2026-09-18",
-      "costId": "free",
-      "priceText": "免费（需预登记）",
-      "description": "亚洲医药行业标杆展，覆盖制药原料、药用辅料、制药装备、生物科技、医药外包全链条，800+企业参展。",
-      "sourceUrl": "https://www.szcec.com/",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-10"
-    },
-    {
       "id": "SZ_evt_439aad",
       "cityCode": "SZ",
       "categoryId": "expo",
@@ -814,28 +705,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "免费（需预登记）",
       "description": "国内宠业旗舰大展，700+展商覆盖主粮零食、洗护、医疗器械、异宠，兼顾经销零售与跨境电商出口，B端与爱好者同步开放。",
-      "sourceUrl": "https://www.szcec.com/",
+      "sourceUrl": "https://sz.bendibao.com/xiuxian/huodonggonglve/list1.htm",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-10"
-    },
-    {
-      "id": "SZ_evt_d3ce24",
-      "cityCode": "SZ",
-      "categoryId": "expo",
-      "name": "2026第六届CCBEC深圳跨境电商展",
-      "venueId": "SZ_ven_c34e5f60",
-      "venueText": "深圳国际会展中心(宝安新馆)9-12号馆",
-      "dateText": "2026.9.16-18",
-      "startDate": "2026-09-16",
-      "endDate": "2026-09-18",
-      "costId": "free",
-      "priceText": "免费",
-      "description": "华南头部跨境电商B2B选品大展，1500+源头工厂与品牌商，覆盖14大跨境热销品类，预计10万+专业观众。",
-      "sourceUrl": "https://www.shenzhen-world.com/",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "SZ_evt_4cb94e",
@@ -850,10 +723,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "免费（需报名）",
       "description": "聚焦智慧环保、生态治理、循环经济、绿色低碳与城市精细化治理，集中呈现数字技术与绿色产业融合的实践成果。",
-      "sourceUrl": "https://www.shenzhen-world.com/",
+      "sourceUrl": "https://sz.bendibao.com/xiuxian/huodonggonglve/list1.htm",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "SZ_evt_398f5d",
@@ -874,24 +747,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-15"
     },
     {
-      "id": "SZ_evt_346ac5",
-      "cityCode": "SZ",
-      "categoryId": "show",
-      "name": "马思唯 乐透人生The Lottery TOUR巡回演唱会-深圳站",
-      "venueId": "SZ_ven_95b6a8",
-      "venueText": "深圳大运中心体育馆",
-      "dateText": "2026.9.19 18:30",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "costId": "paid",
-      "description": "中文说唱代表马思唯带来新专曲目及《花花公子》《黑马王子》等人气作品，万人体育馆沉浸式现场。",
-      "sourceUrl": "https://www.nfnews.com/content/v6JNvDOY6G.html",
-      "tagName": "",
-      "celebrity": "马思唯",
-      "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-08"
-    },
-    {
       "id": "SZ_evt_9182bb",
       "cityCode": "SZ",
       "categoryId": "show",
@@ -903,11 +758,11 @@ window.APP_DATA = {
       "endDate": "2026-09-26",
       "costId": "paid",
       "description": "刘宪华首次个人世界巡演，沉浸式华丽舞台，标志性一人乐队Loop-Station即兴编曲，全开麦唱跳。",
-      "sourceUrl": "https://www.nfnews.com/content/v6JNvDOY6G.html",
+      "sourceUrl": "https://www.huanghepiao.com/article/1786408590161325.html",
       "tagName": "",
       "celebrity": "刘宪华",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-08"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "SZ_evt_03b6f3",
@@ -924,7 +779,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.nfnews.com/content/v6JNvDOY6G.html",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-08"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "SZ_evt_e68516",
@@ -958,7 +813,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.nfnews.com/content/v6JNv0KY6G.html",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-10",
+      "updatedAt": "2026-09-20",
       "priceText": "免费"
     },
     {
@@ -976,7 +831,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.nfnews.com/content/v6JNv0KY6G.html",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-10",
+      "updatedAt": "2026-09-20",
       "priceText": "免费"
     },
     {
@@ -1009,10 +864,10 @@ window.APP_DATA = {
       "endDate": "2026-10-04",
       "costId": "paid",
       "description": "赵心童、丁俊晖、马克·威廉姆斯等世界名将齐聚宝安体育中心体育馆。",
-      "sourceUrl": "https://sz.bendibao.com/xiuxian/202697/1012318.shtm",
+      "sourceUrl": "https://m.bendibao.com/show1012318.html",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-08"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "SZ_evt_7a8bb7",
@@ -1063,7 +918,7 @@ window.APP_DATA = {
       "sourceUrl": "https://m.bendibao.com/show992269_2.html",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-08"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "SZ_evt_561961",
@@ -1097,7 +952,7 @@ window.APP_DATA = {
       "sourceUrl": "https://sz.bendibao.com/xiuxian/2026810/1009771.shtm",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-08"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "SZ_evt_33c27d",
@@ -1132,6 +987,42 @@ window.APP_DATA = {
       "tagName": "",
       "createdAt": "2026-09-08",
       "updatedAt": "2026-09-08"
+    },
+    {
+      "id": "SZ_evt_4aaf71",
+      "cityCode": "SZ",
+      "categoryId": "show",
+      "name": "电影《我的妈耶》深圳路演（收官站）",
+      "venueId": "",
+      "venueText": "深圳（映后见面会）",
+      "dateText": "2026年9月（热映中·深圳路演收官站）",
+      "startDate": null,
+      "endDate": "2026-09-30",
+      "costId": "free",
+      "priceText": "",
+      "celebrity": "马思纯/白客/黄明昊",
+      "description": "电影《我的妈耶》全国路演收官站落地深圳，导演肖麓西携主演马思纯、白客、黄明昊映后交流。",
+      "sourceUrl": "https://www.maoyan.com/films/news/19723891",
+      "tagName": "",
+      "createdAt": "2026-09-21T07:26:25.726Z",
+      "updatedAt": "2026-09-21T08:35:44.481Z"
+    },
+    {
+      "id": "SZ_evt_f7807b",
+      "cityCode": "SZ",
+      "categoryId": "market",
+      "name": "麦当劳×《燕云十六声》「金拱门中秋奇遇雅集」深圳快闪",
+      "venueId": "",
+      "venueText": "福田区田面国际文创小镇 T11（华富街道振华西路31号）",
+      "dateText": "2026.9.24-10.7",
+      "startDate": "2026-09-24",
+      "endDate": "2026-10-07",
+      "costId": "free",
+      "priceText": "免费入场（限定产品/周边另购）",
+      "sourceUrl": "https://www.sznews.com/news/content/2026-09/15/content_32171878.htm",
+      "description": "麦当劳携手《燕云十六声》中秋主题快闪，深圳站9月24日至10月7日落地福田田面，古风场景打卡互动。",
+      "createdAt": "2026-09-21T07:38:33.665Z",
+      "updatedAt": "2026-09-21T08:35:44.481Z"
     }
   ]
 };

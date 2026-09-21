@@ -398,5 +398,29 @@ window.APP_VENUES_SH = [
     "latitude": 30.962239,
     "longitude": 121.0363,
     "address": "青浦区练塘镇东厍村"
+  },
+  {
+    "id": "SH_ven_84271377",
+    "cityCode": "SH",
+    "name": "龙华会",
+    "latitude": 31.168091,
+    "longitude": 121.451593,
+    "address": ""
+  },
+  {
+    "id": "SH_ven_99f1a2b3",
+    "cityCode": "SH",
+    "name": "浦东美术馆",
+    "latitude": 31.23812,
+    "longitude": 121.495877,
+    "address": "浦东新区滨江大道2777号"
+  },
+  {
+    "id": "SH_ven_sm2f3g4",
+    "cityCode": "SH",
+    "name": "龙茗路十尚坊",
+    "latitude": 31.1689,
+    "longitude": 121.4131,
+    "address": "闵行区古美路街道龙茗路"
   }
 ];

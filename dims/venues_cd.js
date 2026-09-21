@@ -494,5 +494,29 @@ window.APP_VENUES_CD = [
     "latitude": 30.66759,
     "longitude": 104.072516,
     "address": ""
+  },
+  {
+    "id": "CD_ven_bdf7f7a7",
+    "cityCode": "CD",
+    "name": "彭州百里一·龙兴集",
+    "latitude": 30.975459,
+    "longitude": 103.956166,
+    "address": ""
+  },
+  {
+    "id": "CD_ven_lt1y2y3",
+    "cityCode": "CD",
+    "name": "成都露天音乐公园",
+    "latitude": 30.726433,
+    "longitude": 104.078748,
+    "address": "金牛区凤凰山街道北星大道一段1500号"
+  },
+  {
+    "id": "CD_ven_ct4j5s6",
+    "cityCode": "CD",
+    "name": "祠堂街艺术街区",
+    "latitude": 30.657293,
+    "longitude": 104.059873,
+    "address": "青羊区少城街道东城根南街17号(近人民公园)"
   }
 ];

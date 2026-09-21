@@ -67,6 +67,7 @@ section.collapsed .ev-grid{display:none}
 .t-market{background:var(--market)} .t-talk{background:var(--talk)}
 .t-sports{background:var(--sports)} .t-family{background:var(--family)}
 .t-outdoor{background:var(--outdoor)} .t-expo{background:var(--expo)}
+.t-stamp{background:var(--stamp)}     /* 盖章分类标签配色（此前缺失 → 白字不可见，已修复） */
 
 .evcard .cost{
   display:inline-block;font-size:11px;font-weight:700;

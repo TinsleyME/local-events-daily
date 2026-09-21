@@ -406,5 +406,45 @@ window.APP_VENUES_CQ = [
     "latitude": 29.547351,
     "longitude": 108.204368,
     "address": ""
+  },
+  {
+    "id": "CQ_ven_c956a81d",
+    "cityCode": "CQ",
+    "name": "安陶小镇",
+    "latitude": 29.279953,
+    "longitude": 105.582341,
+    "address": ""
+  },
+  {
+    "id": "CQ_ven_a69e5ae1",
+    "cityCode": "CQ",
+    "name": "安居古城",
+    "latitude": 29.947399,
+    "longitude": 106.023806,
+    "address": ""
+  },
+  {
+    "id": "CQ_ven_sj3y4z5",
+    "cityCode": "CQ",
+    "name": "双江古镇",
+    "latitude": 30.214591,
+    "longitude": 105.748369,
+    "address": "潼南区双江镇正街15号"
+  },
+  {
+    "id": "CQ_ven_wl6z7x8",
+    "cityCode": "CQ",
+    "name": "万灵古镇",
+    "latitude": 29.48748,
+    "longitude": 105.647814,
+    "address": "荣昌区万灵镇学府路万灵福邸"
+  },
+  {
+    "id": "CQ_ven_xb9x0c1",
+    "cityCode": "CQ",
+    "name": "中国夏布小镇",
+    "latitude": 29.419184,
+    "longitude": 105.59704,
+    "address": "荣昌区昌州街道宝城东路155号梅斗桥"
   }
 ];

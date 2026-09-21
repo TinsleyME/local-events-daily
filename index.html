@@ -10,7 +10,7 @@
     --bg:#f5f6f8; --card:#ffffff; --ink:#1d2129; --sub:#6b7280;
     --line:#e9ebee; --accent:#e8543f; --accent2:#2f6df0;
     --exhi:#e8543f; --show:#7c4dff; --market:#11a87a; --talk:#f0991c;
-    --sports:#0ea5e9; --family:#ec4899; --outdoor:#14b8a6; --expo:#d4a017;
+    --sports:#0ea5e9; --family:#ec4899; --outdoor:#14b8a6; --expo:#d4a017; --stamp:#b45309;
     --shadow:0 1px 2px rgba(16,24,40,.04), 0 8px 24px rgba(16,24,40,.06);
   }
   *{box-sizing:border-box;margin:0;padding:0}
@@ -114,7 +114,7 @@
   .skip-link{position:absolute;top:-40px;left:0;background:var(--accent);color:#fff;padding:8px 16px;z-index:10000;text-decoration:none;font-weight:600;border-radius:0 0 8px 0;transition:top .2s}
   .skip-link:focus{top:0}
 
-  /* ===== 回到顶部（左下角，下滑一定距离后出现） ===== */
+  /* ===== 回到顶部 ===== */
   .back-to-top{position:fixed;right:16px;bottom:20px;width:44px;height:44px;border-radius:50%;background:var(--accent);color:#fff;border:none;font-size:20px;font-weight:700;cursor:pointer;box-shadow:0 4px 12px rgba(232,84,63,.3);z-index:999;display:flex;align-items:center;justify-content:center;transition:opacity .2s,transform .2s;opacity:0;transform:translateY(10px);pointer-events:none}
   .back-to-top.visible{opacity:1;transform:translateY(0);pointer-events:auto}
   .back-to-top:hover{background:#d14a35;transform:translateY(-2px)}
@@ -238,7 +238,7 @@
 
   <footer data-page-node-id="5WKF1igVQZwossh89b5cVh"><span id="footCity"></span>本地活动每日收集 · 自动化任务 ID 3ca156ea · 数据日期：<span id="footDate"></span> · 由自动化每日 09:00 刷新</footer>
 
-  <button id="backToTop" class="back-to-top" aria-label="回到顶部">↑</button>
+  <button id="backToTop" class="back-to-top" style="display:none" aria-label="回到顶部">↑</button>
 </div>
 
 <script type="text/javascript">

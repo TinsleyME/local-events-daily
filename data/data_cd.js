@@ -1,11 +1,119 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-09-17",
-    "weekday": "周四",
+    "date": "2026-09-21",
+    "weekday": "周一",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "CD_evt_c334ae",
+      "cityCode": "CD",
+      "categoryId": "show",
+      "name": "第32届「蓉城之秋」成都国际音乐季",
+      "venueId": "CD_ven_lt1y2y3",
+      "venueText": "成都露天音乐公园",
+      "dateText": "2026.09.27",
+      "startDate": "2026-09-27",
+      "endDate": "2026-09-27",
+      "costId": "paid",
+      "priceText": "",
+      "description": "第32届「蓉城之秋」成都国际音乐季携手中国音乐金钟奖，于9月27日在成都露天音乐公园启幕。第十四届白鹿·中法古典音乐艺术季、第三届成渝戏剧双城记系列活动接续上演。",
+      "sourceUrl": "https://news.chengdu.cn/2026/0920/6aaf191144deea573f26f56b.shtml",
+      "tagName": "音乐季 交响 古典 国庆",
+      "createdAt": "2026-09-21",
+      "updatedAt": "2026-09-21"
+    },
+    {
+      "id": "CD_evt_ad7423",
+      "cityCode": "CD",
+      "categoryId": "exhi",
+      "name": "「花的姿态——维也纳美景宫百年花卉名作展」",
+      "venueId": "CD_ven_cd_ex01",
+      "venueText": "成都市美术馆A区(成都市天府美术馆)",
+      "dateText": "2026.09-2026.10",
+      "startDate": "2026-09-20",
+      "endDate": "2026-10-31",
+      "costId": "free",
+      "priceText": "",
+      "description": "「花的姿态——维也纳美景宫百年花卉名作展」在成都美术馆展出，是「博翠万象」文博展览精彩上新的一部分。",
+      "sourceUrl": "https://news.chengdu.cn/2026/0920/6aaf191144deea573f26f56b.shtml",
+      "tagName": "展览 花卉 维也纳 免费",
+      "createdAt": "2026-09-21",
+      "updatedAt": "2026-09-21"
+    },
+    {
+      "id": "CD_evt_78c559",
+      "cityCode": "CD",
+      "categoryId": "market",
+      "name": "「马上入川·蜀你好玩」国庆文旅消费嘉年华",
+      "venueId": "CD_ven_cd_ep03",
+      "venueText": "天府国际会议中心",
+      "dateText": "2026.10.01-2026.10.03",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-03",
+      "costId": "free",
+      "priceText": "",
+      "description": "「马上入川·蜀你好玩」国庆文旅消费嘉年华在天府国际会议中心广场精彩开幕，打造稻田音乐会、丰收光影秀、乡村市集、田园美食等沉浸式乡村消费场景。",
+      "sourceUrl": "https://news.chengdu.cn/2026/0920/6aaf191144deea573f26f56b.shtml",
+      "tagName": "嘉年华 市集 国庆 免费 国庆节",
+      "createdAt": "2026-09-21",
+      "updatedAt": "2026-09-21"
+    },
+    {
+      "id": "CD_evt_1de102",
+      "cityCode": "CD",
+      "categoryId": "market",
+      "name": "成都非遗生活季",
+      "venueId": "CD_ven_ct4j5s6",
+      "venueText": "祠堂街艺术街区",
+      "dateText": "2026.09-2026.10",
+      "startDate": "2026-09-20",
+      "endDate": "2026-10-31",
+      "costId": "free",
+      "priceText": "",
+      "description": "成都非遗生活季进驻祠堂街艺术街区，集中展示蜀绣、银花丝、道明竹编、新繁棕编等本土非遗技艺。",
+      "sourceUrl": "https://news.chengdu.cn/2026/0920/6aaf191144deea573f26f56b.shtml",
+      "tagName": "非遗 市集 蜀绣 免费",
+      "createdAt": "2026-09-21",
+      "updatedAt": "2026-09-21"
+    },
+    {
+      "id": "CD_evt_9af5a8",
+      "cityCode": "CD",
+      "categoryId": "sports",
+      "name": "成都网球公开赛 ATP250",
+      "venueId": "CD_ven_cd_sh01",
+      "venueText": "成都东安湖体育公园主体育场",
+      "dateText": "2026.09-2026.10",
+      "startDate": "2026-09-20",
+      "endDate": "2026-10-15",
+      "costId": "paid",
+      "priceText": "",
+      "description": "成都网球公开赛—ATP250在国庆假期举办，是「博翠万象」文博展览精彩上新的一部分。",
+      "sourceUrl": "https://news.chengdu.cn/2026/0920/6aaf191144deea573f26f56b.shtml",
+      "tagName": "网球 ATP 体育 国庆",
+      "createdAt": "2026-09-21",
+      "updatedAt": "2026-09-21"
+    },
+    {
+      "id": "CD_evt_e2a0e1",
+      "cityCode": "CD",
+      "categoryId": "talk",
+      "name": "成都故事荟·中秋夜谈",
+      "venueId": "CD_ven_cd_tk01",
+      "venueText": "成都市文化馆",
+      "dateText": "2026-09-24 成都市文化馆5楼多功能厅",
+      "startDate": "2026-09-24",
+      "endDate": "2026-09-24",
+      "costId": "free",
+      "priceText": "",
+      "description": "邀请主讲嘉宾进行讲授，融合互动、沉浸等形式，结合中秋的时间节点，用幽默接地气的讲述方式为观众带来轻松愉快的精神享受。",
+      "sourceUrl": "https://www.toutiao.com/article/7680874246020628992",
+      "tagName": "中秋",
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-09-18"
+    },
     {
       "id": "CD_evt_1ee357",
       "cityCode": "CD",
@@ -22,7 +130,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.toutiao.com/article/7686068490432512554/",
       "tagName": "武侯祠 中秋 三国 市集",
       "createdAt": "2026-09-17",
-      "updatedAt": "2026-09-17"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_efc18e",
@@ -40,7 +148,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.toutiao.com/article/7686068490432512554/",
       "tagName": "杜甫草堂 中秋 戏剧 月满草堂",
       "createdAt": "2026-09-17",
-      "updatedAt": "2026-09-17"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_b6e802",
@@ -110,10 +218,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "317-1717元",
       "description": "薛之谦「万兽之王」巡回演唱会成都站落地东安湖体育公园主体育场，国庆档连开多场，沉浸式四面台舞美。",
-      "sourceUrl": "https://cd.bendibao.com/xiuxian/2026910/213629.shtm",
+      "sourceUrl": "https://www.huanghepiao.com/article/1787535621161627.html",
       "tagName": "国庆 国庆节",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-15"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_33ed9b",
@@ -129,10 +237,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "380-1880元",
       "description": "李健「万物安生时」巡回演唱会成都站登陆五粮液文化体育中心综合体育馆，四面舞台设计叠加全息投影与环形屏幕。",
-      "sourceUrl": "https://cd.bendibao.com/xiuxian/2026910/213629.shtm",
+      "sourceUrl": "https://m.cd.bendibao.com/xiuxian/212506.shtm",
       "tagName": "国庆",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-15"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_fb3e80",
@@ -147,10 +255,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "需购票",
       "description": "成都葫芦果音乐节在中秋档落地国际非物质文化遗产博览园，陶喆、沙一汀、GALI、痛仰等阵容，摇滚、说唱、流行齐备。",
-      "sourceUrl": "https://cd.bendibao.com/xiuxian/2026910/213629.shtm",
+      "sourceUrl": "https://zwfw.mct.gov.cn/wycx/qgswyyxychd/qgswyyxychdjg/xq?id=9aa3a7f82498dd0456a4f6419ddd4902",
       "tagName": "中秋",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-12"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_21faf3",
@@ -165,10 +273,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "69.9-88元",
       "description": "第二十五届世界线动漫展·狂撒福利节在中国西部国际博览城举办，嘉宾Coser、作者与配音演员持续解锁，含随舞、电竞与自由行招募。",
-      "sourceUrl": "https://cd.bendibao.com/xiuxian/2026831/213093.shtm",
+      "sourceUrl": "https://m.cd.bendibao.com/mip/213093.shtm",
       "tagName": "国庆 国庆节",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-12"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_a1d6a7",
@@ -186,7 +294,7 @@ window.APP_DATA = {
       "sourceUrl": "https://cd.bendibao.com/xiuxian/2026827/212983.shtm",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-17"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_592c7c",
@@ -201,10 +309,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "免费（西岭后山免门票，索道另购）",
       "description": "中秋三天西岭雪山推出国风NPC巡游、魔术杂技与互动小游戏，山野秋意正浓。",
-      "sourceUrl": "https://www.sohu.com/a/1073378000_122729304",
+      "sourceUrl": "https://cdwglj.chengdu.gov.cn/cdwglj/c182064/2026-09/02/content_52c506582a14494b88dfcda97f4f1ed1.shtml",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-14"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "CD_evt_6b7897",
@@ -219,10 +327,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "需购景区门票（青城山前山/都江堰80元，后山20元）",
       "description": "古风市集、汉服巡游与日夜双场演艺一站式体验，适合近郊短途过节。",
-      "sourceUrl": "https://www.sohu.com/a/1073378000_122729304",
+      "sourceUrl": "https://cdwglj.chengdu.gov.cn/cdwglj/c182064/2026-09/02/content_52c506582a14494b88dfcda97f4f1ed1.shtml",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-14"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_461a85",
@@ -239,7 +347,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.toutiao.com/article/7680873488059531828",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_856045",
@@ -256,7 +364,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.toutiao.com/article/7680873488059531828",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_b7b556",
@@ -273,7 +381,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.toutiao.com/article/7680873488059531828",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_968c1c",
@@ -290,7 +398,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.toutiao.com/article/7680873488059531828",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_b3f5b8",
@@ -307,7 +415,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.toutiao.com/article/7680873488059531828",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_92ef79",
@@ -322,10 +430,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "免费（需杜甫草堂入馆门票50元）",
       "description": "全国首个聚焦杜甫与秦州的主题文物展，汇集八家文博单位 127 件(套)文物精品，循杜甫流寓秦州行迹勾勒盛唐陇右人文风貌。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260901A0AOPK00?adChannelId=chengdu",
+      "sourceUrl": "https://wwj.sc.gov.cn/scwwj/xzsd/2026/7/28/609aa193648b434e9de1833ec47506ba.shtml",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-11"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_22d47c",
@@ -339,10 +447,10 @@ window.APP_DATA = {
       "endDate": "2026-12-06",
       "costId": "free",
       "description": "永乐宫建筑艺术与传承巡展火热进行，呈现元代永乐宫的营造智慧、壁画艺术与保护传承成果。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260901A0AOPK00?adChannelId=chengdu",
+      "sourceUrl": "https://www.chengdu.gov.cn/cdsrmzf/c174536/2026-08/03/content_87cad7ea58854e2486164a6029667af0.shtml",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "CD_evt_1b2246",
@@ -356,10 +464,10 @@ window.APP_DATA = {
       "endDate": "2026-10-31",
       "costId": "paid",
       "description": "展出八组大型装置，展现艺术家标志性的“秩序美学”，以几何与重复的语言探讨隐匿于结构之下的感知。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260901A0AOPK00?adChannelId=chengdu",
+      "sourceUrl": "https://cdwglj.chengdu.gov.cn/cdwglj/c182064/2026-08/31/content_4fb6c0cf93ee4460a8d8d093e7da5717.shtml",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-10",
+      "updatedAt": "2026-09-20",
       "priceText": "79元起"
     },
     {
@@ -374,10 +482,10 @@ window.APP_DATA = {
       "endDate": "2026-09-30",
       "costId": "free",
       "description": "展出 212 幅摄影作品，展现云南新时代下的生态图景、文化肌理与社会变迁。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260901A0AOPK00?adChannelId=chengdu",
+      "sourceUrl": "https://cd.bendibao.com/xiuxian/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "CD_evt_61f4f0",
@@ -391,10 +499,10 @@ window.APP_DATA = {
       "endDate": "2026-10-16",
       "costId": "free",
       "description": "融合古蜀文明与现代航天文化，展出 198 件(套)涵盖绘画、数字艺术、装置、非遗手作等品类的群众共创文艺作品。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260901A0AOPK00?adChannelId=chengdu",
+      "sourceUrl": "https://cd.bendibao.com/xiuxian/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "CD_evt_8d3e1e",
@@ -408,10 +516,10 @@ window.APP_DATA = {
       "endDate": "2026-10-08",
       "costId": "free",
       "description": "展出齐白石、李可染等名家 32 幅典藏真迹，呈现现当代中国画人物画的创作流变。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260901A0AOPK00?adChannelId=chengdu",
+      "sourceUrl": "https://cd.bendibao.com/xiuxian/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-10",
+      "updatedAt": "2026-09-21T08:17:59.818Z",
       "priceText": "免费（需预约）"
     },
     {
@@ -426,10 +534,10 @@ window.APP_DATA = {
       "endDate": "2026-10-07",
       "costId": "paid",
       "description": "借由角色故事探讨年轻人的情绪与自我表达，以沉浸式的角色叙事打造中国首展。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260901A0AOPK00?adChannelId=chengdu",
+      "sourceUrl": "https://cdwglj.chengdu.gov.cn/cdwglj/c182064/2026-08/31/content_4fb6c0cf93ee4460a8d8d093e7da5717.shtml",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-10",
+      "updatedAt": "2026-09-20",
       "priceText": "69-119元"
     },
     {
@@ -445,10 +553,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "98元起",
       "description": "王者荣耀首部 VR 沉浸式互动剧，游戏 IP 联动上海天文馆科普 IP，以 VR 大空间技术开启宇宙梦境冒险。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260901A0AOPK00?adChannelId=chengdu",
+      "sourceUrl": "https://cdwglj.chengdu.gov.cn/cdwglj/c182064/2026-08/31/content_4fb6c0cf93ee4460a8d8d093e7da5717.shtml",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-11"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_ed79fa",
@@ -466,117 +574,7 @@ window.APP_DATA = {
       "sourceUrl": "https://cd.bendibao.com/yanchu/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "CD_evt_7087e2",
-      "cityCode": "CD",
-      "categoryId": "show",
-      "name": "英文原版音乐剧《剧院魅影》成都站",
-      "venueId": "CD_ven_cd_sh09",
-      "venueText": "中演·成都大剧院·大剧场",
-      "dateText": "2026.9.15-9.20 14:30/19:30",
-      "startDate": "2026-09-15",
-      "endDate": "2026-09-20",
-      "costId": "paid",
-      "priceText": "280-1380元",
-      "description": "韦伯传世经典《剧院魅影》英文原版首次登陆成都，连演六天，水晶吊灯、地下湖与魅影歌声震撼重现。",
-      "sourceUrl": "https://cd.bendibao.com/yanchu/",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "CD_evt_fad43c",
-      "cityCode": "CD",
-      "categoryId": "show",
-      "name": "汪峰「相信未来」巡回演唱会-成都站",
-      "venueId": "CD_ven_cd_sh03",
-      "venueText": "成都金融城演艺中心",
-      "dateText": "2026.9.19 19:00",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "costId": "paid",
-      "priceText": "380/480/580/680/780/980元",
-      "description": "中国摇滚乐代表人物汪峰携“相信未来”巡演登陆成都，《飞得更高》《怒放的生命》《春天里》等时代金曲唱响。",
-      "sourceUrl": "https://www.dahepiao.com/yc/lironhhcd",
-      "tagName": "",
-      "celebrity": "汪峰",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-15"
-    },
-    {
-      "id": "CD_evt_547c63",
-      "cityCode": "CD",
-      "categoryId": "show",
-      "name": "王源 2026 宇宙超级无敌大大狂欢巡回演唱会-成都站",
-      "venueId": "CD_ven_cd_sh01",
-      "venueText": "成都东安湖体育公园主体育场",
-      "dateText": "2026.9.19-9.20 19:00",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-20",
-      "costId": "paid",
-      "priceText": "380/580/880/1080/1380/1680元",
-      "description": "王源携全新巡演登陆成都连开两场，从原创音乐到舞台创意全面升级，用青春与才华点燃东安湖之夜。",
-      "sourceUrl": "https://www.toutiao.com/article/7680510082559263272/",
-      "tagName": "",
-      "celebrity": "王源",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-15"
-    },
-    {
-      "id": "CD_evt_ab236e",
-      "cityCode": "CD",
-      "categoryId": "show",
-      "name": "谭盾：16部电影的交响诗《声音河流》",
-      "venueId": "CD_ven_cd_sh06",
-      "venueText": "成都城市音乐厅·音乐厅",
-      "dateText": "2026.9.19-9.20 19:30",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-20",
-      "costId": "paid",
-      "priceText": "180/280/380/580/780元",
-      "description": "「香港周2026@成都」节目，谭盾以电影音乐为脉络谱写《声音河流》交响诗。",
-      "sourceUrl": "https://cd.bendibao.com/yanchu/",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "CD_evt_11a97e",
-      "cityCode": "CD",
-      "categoryId": "show",
-      "name": "俄罗斯芭蕾国家剧院芭蕾舞《胡桃夹子》成都站",
-      "venueId": "CD_ven_cd_sh06",
-      "venueText": "成都城市音乐厅·歌剧厅",
-      "dateText": "2026.9.19 19:30",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "costId": "paid",
-      "priceText": "100/180/280/380/580/680元",
-      "description": "俄罗斯芭蕾国家剧院演绎经典芭蕾《胡桃夹子》，重现柴可夫斯基的梦幻童话。",
-      "sourceUrl": "https://cd.bendibao.com/yanchu/",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "CD_evt_52d1b6",
-      "cityCode": "CD",
-      "categoryId": "show",
-      "name": "川剧《铁木高娃》",
-      "venueId": "CD_ven_cd_sh24",
-      "venueText": "锦江剧场",
-      "dateText": "2026.9.19-9.20 19:30",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-20",
-      "costId": "paid",
-      "priceText": "需购票",
-      "description": "国家艺术基金优秀剧目四川展演川剧专场《铁木高娃》。",
-      "sourceUrl": "https://cd.bendibao.com/yanchu/",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-11"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_864101",
@@ -594,7 +592,7 @@ window.APP_DATA = {
       "sourceUrl": "https://cd.bendibao.com/yanchu/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-11"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_a4cab0",
@@ -612,7 +610,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.dahepiao.com/yc/lironhhcd",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-11"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_a93e66",
@@ -627,10 +625,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "180/280/380元",
       "description": "以“月”为线索串联中外名曲，中秋之夜让音乐照亮团圆时刻。",
-      "sourceUrl": "https://cd.bendibao.com/yanchu/",
+      "sourceUrl": "https://cdwglj.chengdu.gov.cn/cdwglj/c182064/2026-08/31/content_9186329bfe684f58907bb44b96dc79dc.shtml",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-11"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_8694c3",
@@ -645,11 +643,11 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "580/780/980/1280元",
       "description": "蒲熠星首度开启个人巡演，以“银河系旅行”为概念打造沉浸式舞台，在家乡讲述成长故事。",
-      "sourceUrl": "https://www.dahepiao.com/yc/lironhhcd",
+      "sourceUrl": "https://www.huanghepiao.com/article/1786699656161446.html",
       "tagName": "",
       "celebrity": "蒲熠星",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-15"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_bc6867",
@@ -664,11 +662,11 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "380/580/780/980/1180/1380元",
       "description": "华语乐坛天后那英重磅回归，《征服》《白天不懂夜的黑》《默》等传世金曲唱响蓉城。",
-      "sourceUrl": "https://www.toutiao.com/article/7680510082559263272/",
+      "sourceUrl": "https://zwfw.mct.gov.cn/wycx/qgswyyxychd/qgswyyxychdjg/xq?id=a0506b94026c6fd10689f9ceeeed5bdc",
       "tagName": "",
       "celebrity": "那英",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-15"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_6d3e5d",
@@ -683,10 +681,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "480/780/980/1280/1480/2280元",
       "description": "奥斯卡、格莱美双料得主、电影配乐大师汉斯·季默携世界级巡演登陆成都，《星际穿越》《盗梦空间》《狮子王》等恢弘奏响。",
-      "sourceUrl": "https://cd.bendibao.com/yanchu/",
+      "sourceUrl": "https://cdwglj.chengdu.gov.cn/cdwglj/c138816/2026-07/17/content_09fcc2afd961450995cd5e010e13ad52.shtml",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-11"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_db9ac2",
@@ -701,10 +699,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "180/280/480/680/880/980元",
       "description": "现象级爆款舞蹈诗剧《只此青绿》返场，以《千里江山图》为蓝本勾勒宋代风雅。",
-      "sourceUrl": "https://cd.bendibao.com/yanchu/",
+      "sourceUrl": "https://cdwglj.chengdu.gov.cn/cdwglj/c133208/2026-08/24/content_db4a4f62d18442ceb6a6aaab5898a612.shtml",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-15"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_795b3d",
@@ -722,41 +720,7 @@ window.APP_DATA = {
       "sourceUrl": "https://cd.bendibao.com/yanchu/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "CD_evt_4a9371",
-      "cityCode": "CD",
-      "categoryId": "market",
-      "name": "2026 天府熊猫文创集市（二期·音乐生活节）",
-      "venueId": "CD_ven_cd_mk01",
-      "venueText": "四川省文化馆南区·外广场(高新区)",
-      "dateText": "2026.9.10-9.19 18:00-21:00",
-      "startDate": "2026-09-10",
-      "endDate": "2026-09-19",
-      "costId": "free",
-      "description": "以熊猫 IP 为笔墨铺展沉浸式视觉氛围，打造多元体验场景；二期为音乐生活节，每日 18:00-21:00 开放。",
-      "sourceUrl": "http://www.sc.news.cn/20260829/e347181ae4bf4a10addadba439aabb66/c.html",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-14"
-    },
-    {
-      "id": "CD_evt_d9b2df",
-      "cityCode": "CD",
-      "categoryId": "market",
-      "name": "成都时装周配套艺术集市",
-      "venueId": "CD_ven_cd_mk10",
-      "venueText": "成都东八区影视基地(成华区)",
-      "dateText": "2026.9.11-9.17 14:00-21:00",
-      "startDate": "2026-09-11",
-      "endDate": "2026-09-17",
-      "costId": "free",
-      "description": "非遗传统工艺、独立艺术文创、个性原创手作，7 日七境主题联动，每日场景更新。",
-      "sourceUrl": "https://www.sohu.com/a/1074946627_498271",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-14"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_f0e15b",
@@ -770,10 +734,10 @@ window.APP_DATA = {
       "endDate": "2026-09-26",
       "costId": "free",
       "description": "五大板块玩法：充气堡、10+ 自助小游戏、中秋心愿派对、小小市集、孕妈课堂，零门槛免费畅玩。",
-      "sourceUrl": "https://www.sohu.com/a/1074946627_498271",
+      "sourceUrl": "https://www.sohu.com/a/1078297424_498271",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-14"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "CD_evt_be77cd",
@@ -787,10 +751,10 @@ window.APP_DATA = {
       "endDate": "2026-09-27",
       "costId": "free",
       "description": "原创设计、文创民艺、烟火美味、舞台走秀、山凹凹小谣草坪民族音乐会、中秋礼物 DIY、集章好礼。",
-      "sourceUrl": "https://www.sohu.com/a/1074946627_498271",
+      "sourceUrl": "https://www.sohu.com/a/1078297424_498271",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-14"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "CD_evt_bd60b9",
@@ -804,10 +768,10 @@ window.APP_DATA = {
       "endDate": "2026-09-27",
       "costId": "free",
       "description": "五湖四海的咖啡风味齐聚成都，中秋月圆之时打造一场精彩的咖啡市集。",
-      "sourceUrl": "https://www.sohu.com/a/1074946627_498271",
+      "sourceUrl": "https://www.sohu.com/a/1078297424_498271",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-14"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "CD_evt_f9e89d",
@@ -821,10 +785,10 @@ window.APP_DATA = {
       "endDate": "2026-09-26",
       "costId": "free",
       "description": "120+ 手帐 & 20+ 手作艺术家，设纽扣盖章区和素材互换站，超多共创伴手礼。",
-      "sourceUrl": "https://www.sohu.com/a/1074946627_498271",
+      "sourceUrl": "https://www.sohu.com/a/1078297424_498271",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-14"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "CD_evt_64728d",
@@ -838,10 +802,10 @@ window.APP_DATA = {
       "endDate": "2026-09-27",
       "costId": "free",
       "description": "集结 50 家全国精品巧克力与高品质甜品，以“可可地图”串联东中庭&ing巷，与国庆咖啡节共造双节欢庆。",
-      "sourceUrl": "https://www.sohu.com/a/1074946627_498271",
+      "sourceUrl": "https://www.sohu.com/a/1078297424_498271",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-14"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "CD_evt_689f90",
@@ -856,27 +820,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "亲子499元/组（一大一小），独立399元/人",
       "description": "面向 4-14 岁青少年的户外障碍挑战赛，设亲子组/初级组/中级组/高级组，完赛颁发 BD 完赛证书。",
-      "sourceUrl": "https://cd.bendibao.com/",
+      "sourceUrl": "https://sports.cctv.cn/2026/09/15/ARTI50AQZ3SNkUEh7U6VFmPA260915.shtml",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-11"
-    },
-    {
-      "id": "CD_evt_fe37f9",
-      "cityCode": "CD",
-      "categoryId": "family",
-      "name": "“乡”约广福·“才”聚中秋 郫都区专家人才亲子活动",
-      "venueId": "CD_ven_cd_fm04",
-      "venueText": "郫都区广福村·三农纪田咖",
-      "dateText": "2026.9.19 10:30-15:30",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "costId": "free",
-      "description": "下田割韭菜、亲子包饺子、土窑烤披萨与中秋香包手作，在田园风光中感受丰收喜悦与团圆温情。",
-      "sourceUrl": "https://cdwglj.chengdu.gov.cn/cdwglj/c133208/2026-09/07/content_1d50e4b9d7614a018f6f18e8a56a2614.shtml",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_481878",
@@ -894,7 +841,7 @@ window.APP_DATA = {
       "sourceUrl": "https://cdwglj.chengdu.gov.cn/cdwglj/c133208/2026-09/07/content_1d50e4b9d7614a018f6f18e8a56a2614.shtml",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-11"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_46804c",
@@ -911,7 +858,7 @@ window.APP_DATA = {
       "sourceUrl": "https://cdwglj.chengdu.gov.cn/cdwglj/c133208/2026-09/07/content_1d50e4b9d7614a018f6f18e8a56a2614.shtml",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-10",
+      "updatedAt": "2026-09-20",
       "priceText": "148-318元"
     },
     {
@@ -929,7 +876,7 @@ window.APP_DATA = {
       "sourceUrl": "https://cdwglj.chengdu.gov.cn/cdwglj/c133208/2026-09/07/content_1d50e4b9d7614a018f6f18e8a56a2614.shtml",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-10",
+      "updatedAt": "2026-09-20",
       "priceText": "免费"
     },
     {
@@ -947,7 +894,7 @@ window.APP_DATA = {
       "sourceUrl": "https://cdwglj.chengdu.gov.cn/cdwglj/c133208/2026-09/07/content_1d50e4b9d7614a018f6f18e8a56a2614.shtml",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_780502",
@@ -964,7 +911,7 @@ window.APP_DATA = {
       "sourceUrl": "https://cdwglj.chengdu.gov.cn/cdwglj/c133208/2026-09/07/content_1d50e4b9d7614a018f6f18e8a56a2614.shtml",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_f0c0c4",
@@ -981,7 +928,7 @@ window.APP_DATA = {
       "sourceUrl": "https://cdwglj.chengdu.gov.cn/cdwglj/c133208/2026-09/07/content_1d50e4b9d7614a018f6f18e8a56a2614.shtml",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_ea9d8b",
@@ -998,7 +945,7 @@ window.APP_DATA = {
       "sourceUrl": "https://cdwglj.chengdu.gov.cn/cdwglj/c133208/2026-09/07/content_1d50e4b9d7614a018f6f18e8a56a2614.shtml",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_757aff",
@@ -1016,7 +963,7 @@ window.APP_DATA = {
       "sourceUrl": "https://cdwglj.chengdu.gov.cn/cdwglj/c133208/2026-09/07/content_1d50e4b9d7614a018f6f18e8a56a2614.shtml",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-11"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_07f4d1",
@@ -1031,10 +978,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "前山门票80元、后山门票20元（索道/游船另购）",
       "description": "金秋九月青城山幽谷清凉，前山问道、后山探溪，是成都近郊经典徒步与道教文化寻访线路。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260907A03GC100",
+      "sourceUrl": "https://cd.bendibao.com/xiuxian/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-11"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "CD_evt_c3355f",
@@ -1048,10 +995,10 @@ window.APP_DATA = {
       "endDate": "2026-09-30",
       "costId": "free",
       "description": "秋季西岭雪山免费徒步线路（山门至半山），推窗见雪山的成都周边轻徒步之选。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260907A03GC100",
+      "sourceUrl": "https://cd.bendibao.com/xiuxian/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "CD_evt_70a2c8",
@@ -1065,10 +1012,10 @@ window.APP_DATA = {
       "endDate": "2026-09-30",
       "costId": "free",
       "description": "毗邻街子古镇，林木幽深、光严禅院千年古刹，秋日登山漫步翠林，尽享探幽之乐与山野禅意。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260907A03GC100",
+      "sourceUrl": "https://cd.bendibao.com/xiuxian/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "CD_evt_3a0fb2",
@@ -1082,10 +1029,10 @@ window.APP_DATA = {
       "endDate": "2026-09-30",
       "costId": "free",
       "description": "森林覆盖率超 90%、约 4600 亩成片水杉林，7 公里平缓木栈道环线，是成都热门森系治愈徒步秘境。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260907A03GC100",
+      "sourceUrl": "https://cd.bendibao.com/xiuxian/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "CD_evt_3952e3",
@@ -1102,7 +1049,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.toutiao.com/article/7678882669513474600/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_a71ee4",
@@ -1119,7 +1066,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.toutiao.com/article/7678882669513474600/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_14ffde",
@@ -1134,10 +1081,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "2980-3680元/人（国庆团期）",
       "description": "九寨沟后花园经典徒步穿越 5 日，长海子、草海、红星海子、翡翠海等高原海子与彩林秘境，成都集合出发。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260907A03GC100",
+      "sourceUrl": "https://xzyhwtb.360jlb.cn/m/event?id=865830&mid=73639",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-11"
+      "updatedAt": "2026-09-21"
     },
     {
       "id": "CD_evt_a5272c",
@@ -1151,10 +1098,10 @@ window.APP_DATA = {
       "endDate": "2026-09-23",
       "costId": "free",
       "description": "联动重庆同步开展，囊括全品类月饼、名酒好茶、川渝地标农特产、非遗文创、节庆伴手礼等上万款产品。",
-      "sourceUrl": "https://www.sohu.com/a/1072156364_121106884",
+      "sourceUrl": "https://cd.bendibao.com/xiuxian/zhanhui/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "CD_evt_7325b5",
@@ -1168,10 +1115,10 @@ window.APP_DATA = {
       "endDate": "2026-09-22",
       "costId": "free",
       "description": "以“补丘陵农机短板 提装备支撑效能”为主题，展示适用于丘陵山区的耕、种、管、收、运、初加工等机械设备。",
-      "sourceUrl": "https://www.sohu.com/a/1072156364_121106884",
+      "sourceUrl": "https://cd.bendibao.com/xiuxian/zhanhui/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "CD_evt_be71b4",
@@ -1185,10 +1132,10 @@ window.APP_DATA = {
       "endDate": "2026-09-23",
       "costId": "free",
       "description": "聚焦石油石化、化工技术装备、天然气、管道储运、油气数字化、页岩气、安全防护、自动化仪器仪表等产业板块。",
-      "sourceUrl": "https://www.sohu.com/a/1072156364_121106884",
+      "sourceUrl": "https://cd.bendibao.com/xiuxian/zhanhui/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "CD_evt_9aad9c",
@@ -1202,10 +1149,10 @@ window.APP_DATA = {
       "endDate": "2026-09-24",
       "costId": "free",
       "description": "涵盖美育素养、科学教育、营地教育、AI 教育和教育加盟等主题展示。",
-      "sourceUrl": "https://www.sohu.com/a/1072156364_121106884",
+      "sourceUrl": "https://cd.bendibao.com/xiuxian/zhanhui/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "CD_evt_c4612d",
@@ -1219,10 +1166,10 @@ window.APP_DATA = {
       "endDate": "2026-09-28",
       "costId": "free",
       "description": "集中展示各类高品质珠宝玉器等首饰，是珠宝企业开拓市场、传播珠宝文化的展示与交流平台。",
-      "sourceUrl": "https://www.sohu.com/a/1072156364_121106884",
+      "sourceUrl": "https://cd.bendibao.com/xiuxian/zhanhui/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "CD_evt_cafb0e",
@@ -1236,10 +1183,10 @@ window.APP_DATA = {
       "endDate": "2026-09-30",
       "costId": "free",
       "description": "以“发展新质生产力 赋能都市现代农业”为主题，集中展示现代都市农业全产业链成果，打造产销对接平台。",
-      "sourceUrl": "https://www.sohu.com/a/1072156364_121106884",
+      "sourceUrl": "https://cd.bendibao.com/xiuxian/zhanhui/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-21T08:17:59.818Z"
     },
     {
       "id": "CD_evt_50ccda",
@@ -1256,95 +1203,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.zhanxun.cn/news/11637.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "CD_evt_2a8297",
-      "cityCode": "CD",
-      "categoryId": "expo",
-      "name": "第6届成都国际环博会暨循环经济与绿色制造展览会",
-      "venueId": "CD_ven_cd_ep02",
-      "venueText": "中国西部国际博览城 5/6/9 号馆",
-      "dateText": "2026.9.16-9.18",
-      "startDate": "2026-09-16",
-      "endDate": "2026-09-18",
-      "costId": "free",
-      "description": "慕尼黑 IFAT 系列中国西部子展，聚焦资源化、循环化、低碳化、数智化，呈现绿色制造与环保全产业链技术创新。",
-      "sourceUrl": "https://www.zhanxun.cn/news/11637.html",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "CD_evt_9ab40c",
-      "cityCode": "CD",
-      "categoryId": "expo",
-      "name": "2026·成都秋季高校毕业生就业促进暨“蓉漂人才荟”青年人才大型招聘会",
-      "venueId": "CD_ven_cd_ep02",
-      "venueText": "中国西部国际博览城 2 号馆、1-2 连接厅",
-      "dateText": "2026.9.19",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "costId": "free",
-      "description": "推动产业高质量发展提供人力资源保障，引导各类人才按需流动，促进重点人才、青年人才、高校毕业生来蓉就业创业。",
-      "sourceUrl": "https://www.zhanxun.cn/news/11637.html",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "CD_evt_926db4",
-      "cityCode": "CD",
-      "categoryId": "expo",
-      "name": "2026 国际防务技术大会(2026 ICDT)",
-      "venueId": "CD_ven_cd_sh26",
-      "venueText": "成都空港国际会议中心",
-      "dateText": "2026.9.15-9.18",
-      "startDate": "2026-09-15",
-      "endDate": "2026-09-18",
-      "costId": "paid",
-      "description": "展示国防科学领域最前沿技术成果，提供与全球国防科学顶尖专家交流互动、展示科研进展的舞台。",
-      "sourceUrl": "https://www.zhanxun.cn/news/11637.html",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-10",
-      "priceText": "2200-3000元"
-    },
-    {
-      "id": "CD_evt_0cd2cc",
-      "cityCode": "CD",
-      "categoryId": "expo",
-      "name": "成都市代理记账协会年会",
-      "venueId": "CD_ven_cd_ep03",
-      "venueText": "天府国际会议中心",
-      "dateText": "2026.9.15-9.17",
-      "startDate": "2026-09-15",
-      "endDate": "2026-09-17",
-      "costId": "paid",
-      "description": "由全国 100 余家代理记账行业协会共同发起，发布行业标准及发展报告，举办多场平行论坛，展示 AI 财务工厂系统等前沿成果。",
-      "sourceUrl": "https://www.zhanxun.cn/news/11637.html",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-10",
-      "priceText": "需购票"
-    },
-    {
-      "id": "CD_evt_b69efe",
-      "cityCode": "CD",
-      "categoryId": "expo",
-      "name": "第五届成渝美食工业博览会",
-      "venueId": "CD_ven_cd_ep04",
-      "venueText": "天府农业博览园",
-      "dateText": "2026.9.17-9.19",
-      "startDate": "2026-09-17",
-      "endDate": "2026-09-19",
-      "costId": "free",
-      "description": "川渝两地联合主办的食品工业年度重点展会，打造展览展示、产销对接、产业交流、品牌推广于一体的综合性美食工业平台。",
-      "sourceUrl": "https://www.zhanxun.cn/news/11637.html",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-10",
-      "priceText": "免费（需预约）"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_dbb902",
@@ -1361,7 +1220,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.zhanxun.cn/news/11637.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-10",
+      "updatedAt": "2026-09-20",
       "priceText": "免费（需预约）"
     },
     {
@@ -1379,7 +1238,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.zhanxun.cn/news/11637.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-10",
+      "updatedAt": "2026-09-20",
       "priceText": "免费（需预约）"
     },
     {
@@ -1397,7 +1256,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.zhanxun.cn/news/11637.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-14",
+      "updatedAt": "2026-09-20",
       "priceText": "免费（公众可参与配套文旅活动）"
     },
     {
@@ -1415,7 +1274,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.zhanxun.cn/news/11637.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-14",
+      "updatedAt": "2026-09-20",
       "priceText": "9.9元起（大麦网）"
     },
     {
@@ -1433,8 +1292,43 @@ window.APP_DATA = {
       "sourceUrl": "https://www.zhanxun.cn/news/11637.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-10",
+      "updatedAt": "2026-09-20",
       "priceText": "1000-2200元"
+    },
+    {
+      "id": "CD_evt_dd2934",
+      "cityCode": "CD",
+      "categoryId": "market",
+      "name": "巴黎卡诗「元气出发站」限时快闪（成都仁和新城）",
+      "venueId": "",
+      "venueText": "成都仁和新城购物中心 1F 中庭",
+      "dateText": "2026.9.12-9.18",
+      "startDate": "2026-09-12",
+      "endDate": "2026-09-18",
+      "costId": "free",
+      "priceText": "免费入场（1V1 头皮检测/体验，商品另购）",
+      "sourceUrl": "https://www.sina.cn/news/detail/5342686560911770.html",
+      "description": "巴黎卡诗头皮护理主题快闪，9月12日至18日落地仁和新城，含头皮检测与打卡福利。",
+      "createdAt": "2026-09-21T07:38:33.665Z",
+      "updatedAt": "2026-09-21T08:35:44.481Z"
+    },
+    {
+      "id": "CD_evt_6b75aa",
+      "cityCode": "CD",
+      "categoryId": "market",
+      "name": "ROY6 主题快闪成都站（上城天街）",
+      "venueId": "",
+      "venueText": "龙湖成都上城天街 1 号门中庭（金牛区）",
+      "dateText": "2026.9.11-9.27",
+      "startDate": "2026-09-11",
+      "endDate": "2026-09-27",
+      "costId": "free",
+      "priceText": "免费需预约（LINE FRIENDS SQUARE 小程序）",
+      "sourceUrl": "https://sina.cn/news/detail/5340831331385600.html",
+      "celebrity": "王源（ROY6）",
+      "description": "LINE FRIENDS × 王源 ROY6 主题快闪成都站，万圣主题，城市限定纪念章与限定扭蛋。",
+      "createdAt": "2026-09-21T07:38:33.665Z",
+      "updatedAt": "2026-09-21T08:35:44.481Z"
     }
   ]
 };

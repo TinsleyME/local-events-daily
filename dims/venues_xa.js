@@ -486,5 +486,21 @@ window.APP_VENUES_XA = [
     "latitude": 34.259418,
     "longitude": 108.949664,
     "address": ""
+  },
+  {
+    "id": "XA_ven_3854ba94",
+    "cityCode": "XA",
+    "name": "长安中央公园",
+    "latitude": 34.168377,
+    "longitude": 108.944642,
+    "address": ""
+  },
+  {
+    "id": "XA_ven_dt8f9r0",
+    "cityCode": "XA",
+    "name": "大唐芙蓉园",
+    "latitude": 34.2203,
+    "longitude": 108.9676,
+    "address": "曲江新区芙蓉西路99号"
   }
 ];

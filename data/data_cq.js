@@ -1,11 +1,101 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-09-16",
-    "weekday": "周三",
+    "date": "2026-09-21",
+    "weekday": "周一",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "CQ_evt_eb220f",
+      "cityCode": "CQ",
+      "categoryId": "market",
+      "name": "潼南双江古镇沉浸式体验季",
+      "venueId": "CQ_ven_sj3y4z5",
+      "venueText": "双江古镇",
+      "dateText": "2026.09.25-2026.10.07",
+      "startDate": "2026-09-25",
+      "endDate": "2026-10-07",
+      "costId": "free",
+      "priceText": "",
+      "description": "双江古镇是潼南红色文化与千年文脉的交汇之地。这个双节，古镇以「沉浸式」为关键词，献出六道文旅大餐。糍粑飘香、情浓双江——在蔡家院子开展打糍粑、手作「双江团圆饼」、团圆寄语等活动。",
+      "sourceUrl": "https://www.cqtn.com/web/article/1549503549813772288/web/content_1549503549813772288.html",
+      "tagName": "古镇 民俗 中秋 国庆 免费",
+      "createdAt": "2026-09-21",
+      "updatedAt": "2026-09-21"
+    },
+    {
+      "id": "CQ_evt_cf4374",
+      "cityCode": "CQ",
+      "categoryId": "market",
+      "name": "万灵古镇古风演艺民俗闯关",
+      "venueId": "CQ_ven_wl6z7x8",
+      "venueText": "万灵古镇",
+      "dateText": "2026.09.25-2026.10.07",
+      "startDate": "2026-09-25",
+      "endDate": "2026-10-07",
+      "costId": "free",
+      "priceText": "",
+      "description": "万灵古镇打造古风演艺、民俗闯关、非遗手作等古韵体验活动，是荣昌历史文化周四大核心旅游景区之一。",
+      "sourceUrl": "https://cq.people.com.cn/BIG5/n2/2026/0916/c367650-41698163.html",
+      "tagName": "古镇 古风 非遗 中秋 国庆 免费",
+      "createdAt": "2026-09-21",
+      "updatedAt": "2026-09-21"
+    },
+    {
+      "id": "CQ_evt_28603f",
+      "cityCode": "CQ",
+      "categoryId": "market",
+      "name": "夏布小镇夜间特色展演",
+      "venueId": "CQ_ven_xb9x0c1",
+      "venueText": "中国夏布小镇",
+      "dateText": "2026.09.25-2026.10.07",
+      "startDate": "2026-09-25",
+      "endDate": "2026-10-07",
+      "costId": "free",
+      "priceText": "",
+      "description": "夏布小镇白天推出折扇手绘、月饼DIY等亲子项目，夜间上演夏布走秀、汉服巡游、川剧变脸等特色展演，是荣昌历史文化周四大核心旅游景区之一。",
+      "sourceUrl": "https://cq.people.com.cn/BIG5/n2/2026/0916/c367650-41698163.html",
+      "tagName": "夏布 汉服 川剧 非遗 中秋 国庆 免费",
+      "createdAt": "2026-09-21",
+      "updatedAt": "2026-09-21"
+    },
+    {
+      "id": "CQ_evt_139f1d",
+      "cityCode": "CQ",
+      "categoryId": "market",
+      "name": "2026重庆安居古城民俗文化季",
+      "venueId": "CQ_ven_a69e5ae1",
+      "venueText": "安居古城",
+      "dateText": "2026年9月25日-10月6日",
+      "startDate": "2026-09-25",
+      "endDate": "2026-10-06",
+      "costId": "free",
+      "priceText": "免费",
+      "description": "五大主题：翰林巡游、相思糍粑PK赛、祭孔大典、江景焰火实景秀、全域常态演艺。",
+      "sourceUrl": "https://difang.gmw.cn/cq/2026-09/18/content_39007634.htm",
+      "tagName": "中秋",
+      "createdAt": "2026-09-20",
+      "updatedAt": "2026-09-20"
+    },
+    {
+      "id": "CQ_evt_00e27f",
+      "cityCode": "CQ",
+      "categoryId": "market",
+      "name": "2026千年荣昌·历史文化周",
+      "venueId": "CQ_ven_c956a81d",
+      "venueText": "安陶小镇",
+      "dateText": "2026-09-21至11-10 安陶小镇等",
+      "startDate": "2026-09-21",
+      "endDate": "2026-11-10",
+      "costId": "free",
+      "priceText": "",
+      "description": "第四届荣昌历史文化周，以荣昌陶为核心IP，9月22日安陶小镇开幕式展出首届荣昌陶创意设计大赛获奖作品；中秋国庆假期四大核心景区全域焕新，全区A级旅游景区免门票。",
+      "sourceUrl": "https://cq.cri.cn/n/20260916/0a232901-679f-4eca-9a57-bfdba04d113b.html",
+      "tagName": "中秋 国庆",
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-09-18"
+    },
     {
       "id": "CQ_evt_2aa57e",
       "cityCode": "CQ",
@@ -19,10 +109,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "380-1680元",
       "description": "谢霆锋进化演唱会重庆站，重庆奥体中心体育场。",
-      "sourceUrl": "https://api.cqyc.net/wap/thread/view-thread/tid/2172108",
+      "sourceUrl": "https://cq.bendibao.com/xiuxian/2026710/165748.shtm",
       "tagName": "",
       "createdAt": "2026-09-15",
-      "updatedAt": "2026-09-15"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CQ_evt_3610fc",
@@ -40,7 +130,7 @@ window.APP_DATA = {
       "sourceUrl": "https://api.cqyc.net/wap/thread/view-thread/tid/2172108",
       "tagName": "中秋",
       "createdAt": "2026-09-15",
-      "updatedAt": "2026-09-15"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CQ_evt_8c6fee",
@@ -58,7 +148,7 @@ window.APP_DATA = {
       "sourceUrl": "http://city.ce.cn/yw/202609/t20260911_3206228.shtml",
       "tagName": "国庆节",
       "createdAt": "2026-09-14",
-      "updatedAt": "2026-09-15"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CQ_evt_4466c3",
@@ -76,7 +166,7 @@ window.APP_DATA = {
       "sourceUrl": "http://city.ce.cn/yw/202609/t20260911_3206228.shtml",
       "tagName": "中秋",
       "createdAt": "2026-09-14",
-      "updatedAt": "2026-09-15"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CQ_evt_56756e",
@@ -148,7 +238,7 @@ window.APP_DATA = {
       "sourceUrl": "https://api.cqyc.net/wap/thread/view-thread/tid/2172108",
       "tagName": "中秋",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-12"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CQ_evt_9c5d2b",
@@ -166,7 +256,7 @@ window.APP_DATA = {
       "sourceUrl": "https://m.cq.bendibao.com/xiuxian/167061.shtm",
       "tagName": "国庆 国庆节",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-12"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CQ_evt_20c3ed",
@@ -201,10 +291,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "188-688元",
       "description": "「潮起星辰·星耀万州」群星演唱会落地万州体育场，张靓颖、詹雯婷、希林娜依·高、郭静四位实力女声同台，横跨华语乐坛二十年。",
-      "sourceUrl": "https://cq.bendibao.com/xiuxian/2026910/167791.shtm",
+      "sourceUrl": "https://www.cq.chinanews.com.cn/news/2026/0911/39-53500.html",
       "tagName": "国庆",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-12"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CQ_evt_a95e24",
@@ -222,7 +312,7 @@ window.APP_DATA = {
       "sourceUrl": "https://whlyw.cq.gov.cn/zwgk_221/zfxxgkml/ggwhfwlyjczwgk_390142/ggfw_390145/qwhd/202608/t20260828_15992449.html",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CQ_evt_0428cf",
@@ -240,7 +330,7 @@ window.APP_DATA = {
       "sourceUrl": "https://m.cq.bendibao.com/xiuxian/167056.shtm",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-11"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CQ_evt_a84daf",
@@ -273,11 +363,11 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "380-1680元",
       "description": "谢霆锋进化演唱会重庆站，看台380/580/780/980元，内场1380/1680元。",
-      "sourceUrl": "https://api.cqyc.net/wap/thread/view-thread/tid/2172108",
+      "sourceUrl": "https://cq.bendibao.com/xiuxian/2026710/165748.shtm",
       "tagName": "",
       "celebrity": "谢霆锋",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CQ_evt_758235",
@@ -345,27 +435,10 @@ window.APP_DATA = {
       "endDate": "2026-10-08",
       "costId": "free",
       "description": "以廉洁文化为主题的美术作品基层巡展，汇集书画等艺术形式弘扬清风正气。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260830A08L2L00",
+      "sourceUrl": "https://www.cqrb.cn/2023qliancq/wenhua/2026-09-03/2766330_pc.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "CQ_evt_c239a8",
-      "cityCode": "CQ",
-      "categoryId": "exhi",
-      "name": "岁月的回响——中国20世纪遗产摄影展重庆巡展暨长江文明摄影展",
-      "venueId": "CQ_ven_cq0001",
-      "venueText": "重庆美术馆 1号厅",
-      "dateText": "2026.9.8-9.20",
-      "startDate": "2026-09-08",
-      "endDate": "2026-09-20",
-      "costId": "free",
-      "description": "以摄影影像回顾20世纪遗产与长江文明，呈现山城与母亲河的历史时光。免票参观。",
-      "sourceUrl": "https://whlyw.cq.gov.cn/zjwl/yzq_486357/zlyjzyg/202609/t20260901_16016189.html",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-17"
     },
     {
       "id": "CQ_evt_413303",
@@ -382,7 +455,7 @@ window.APP_DATA = {
       "sourceUrl": "https://whlyw.cq.gov.cn/zjwl/yzq_486357/zlyjzyg/202609/t20260901_16016189.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CQ_evt_29c2c2",
@@ -399,7 +472,7 @@ window.APP_DATA = {
       "sourceUrl": "https://whlyw.cq.gov.cn/zjwl/yzq_486357/zlyjzyg/202609/t20260901_16016189.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CQ_evt_579502",
@@ -416,7 +489,7 @@ window.APP_DATA = {
       "sourceUrl": "https://whlyw.cq.gov.cn/zjwl/yzq_486357/zlyjzyg/202609/t20260901_16016189.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CQ_evt_720509",
@@ -434,7 +507,7 @@ window.APP_DATA = {
       "sourceUrl": "https://whlyw.cq.gov.cn/zjwl/yzq_486357/zlyjzyg/202609/t20260901_16016189.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CQ_evt_cbb2b6",
@@ -451,7 +524,7 @@ window.APP_DATA = {
       "sourceUrl": "https://whlyw.cq.gov.cn/zjwl/yzq_486357/zlyjzyg/202609/t20260901_16016189.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CQ_evt_ce42c9",
@@ -468,7 +541,7 @@ window.APP_DATA = {
       "sourceUrl": "https://whlyw.cq.gov.cn/zjwl/yzq_486357/zlyjzyg/202609/t20260901_16016189.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CQ_evt_2e1bc4",
@@ -485,7 +558,7 @@ window.APP_DATA = {
       "sourceUrl": "https://whlyw.cq.gov.cn/zjwl/yzq_486357/zlyjzyg/202609/t20260901_16016189.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CQ_evt_09838b",
@@ -502,7 +575,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.beibei.gov.cn/bm/qwhlyw/zwgk_58246/zfxxgk_bm/jczfxxgk/ggwhfwly_134095/ggfw/zyxx/202608/t20260828_15997278.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CQ_evt_fb109b",
@@ -519,7 +592,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.beibei.gov.cn/bm/qwhlyw/zwgk_58246/zfxxgk_bm/jczfxxgk/ggwhfwly_134095/ggfw/zyxx/202608/t20260828_15997278.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CQ_evt_90c3f5",
@@ -536,7 +609,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.beibei.gov.cn/bm/qwhlyw/zwgk_58246/zfxxgk_bm/jczfxxgk/ggwhfwly_134095/ggfw/zyxx/202608/t20260828_15997278.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CQ_evt_318b5e",
@@ -607,23 +680,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-14"
     },
     {
-      "id": "CQ_evt_499a1c",
-      "cityCode": "CQ",
-      "categoryId": "talk",
-      "name": "重图讲座:听山说话,遇险不慌——重庆人身边的地质安全课",
-      "venueId": "CQ_ven_cq0003",
-      "venueText": "重庆图书馆四楼多功能厅",
-      "dateText": "2026.9.19 10:00",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "costId": "free",
-      "description": "重庆市地矿局川东南地质大队工程师徐腾蛟主讲，用身边事讲滑坡、崩塌、泥石流前兆与科学避险常识。",
-      "sourceUrl": "https://weibo.com/ttarticle/p/show?id=2309405338292643561563",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
       "id": "CQ_evt_a86952",
       "cityCode": "CQ",
       "categoryId": "talk",
@@ -636,109 +692,6 @@ window.APP_DATA = {
       "costId": "free",
       "description": "中秋主题社区文化宣传活动，体验传统节日民俗、增进邻里互动。",
       "sourceUrl": "https://www.cqyz.gov.cn/jz_229/llkjdbsc/zwgk_97157/zfxxgkml_jfbjd/jczwgk_61998/ggwhfw_61998/qwhd_61998/202608/t20260814_15932581.html",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "CQ_evt_01b1cf",
-      "cityCode": "CQ",
-      "categoryId": "sports",
-      "name": "2026世界攀联攀岩世界杯(中国重庆)",
-      "venueId": "CQ_ven_cq0010",
-      "venueText": "大田湾全民健身广场",
-      "dateText": "2026.9.18-9.20",
-      "startDate": "2026-09-18",
-      "endDate": "2026-09-20",
-      "costId": "paid",
-      "description": "世界攀岩联合会官方A级赛事、2026赛季中国赛区收官分站，设男子/女子速度赛及速度接力，来自21个国家和地区100名顶尖选手参赛。门票9月10日开售，可通过大麦网购买。",
-      "sourceUrl": "https://tyj.cq.gov.cn/",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "CQ_evt_8c6e48",
-      "cityCode": "CQ",
-      "categoryId": "family",
-      "name": "第92期阅·绘梦想家",
-      "venueId": "CQ_ven_cq0004",
-      "venueText": "重庆市少年儿童图书馆5楼科普活动区",
-      "dateText": "2026.9.19 10:00",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "costId": "free",
-      "description": "围绕绘本《兔儿爷回来了》开展绘画阅读活动，激发儿童想象与表达能力。",
-      "sourceUrl": "https://whlyw.cq.gov.cn/zwgk_221/zfxxgkml/ggwhfwlyjczwgk_390142/ggfw_390145/qwhd/202608/t20260828_15992449.html",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "CQ_evt_27ef23",
-      "cityCode": "CQ",
-      "categoryId": "family",
-      "name": "西部(重庆)科学城科技节·科普嘉年华",
-      "venueId": "CQ_ven_cq0027",
-      "venueText": "大学城熙街中心广场",
-      "dateText": "2026.9.18-9.19 17:00-21:00",
-      "startDate": "2026-09-18",
-      "endDate": "2026-09-19",
-      "costId": "free",
-      "description": "第六届西部(重庆)科学城科技节配套活动，环形闯关集章、科学开放麦、科学魔术秀，免费进场，特别欢迎亲子家庭。",
-      "sourceUrl": "https://www.cqgxq.gov.cn/",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "CQ_evt_461178",
-      "cityCode": "CQ",
-      "categoryId": "family",
-      "name": "科技之光·开放探索行(种质创制大科学中心等)",
-      "venueId": "CQ_ven_cq0028",
-      "venueText": "西部科学城多家科研机构及科普阵地",
-      "dateText": "2026.9.5-9.19 分场次",
-      "startDate": "2026-09-05",
-      "endDate": "2026-09-19",
-      "costId": "free",
-      "description": "2026重庆高新区全国科普月活动，走进真实科研实验室，面向全市中小学生，含科学体验营、科学会客厅、科学手工坊，全程免费。",
-      "sourceUrl": "https://www.cqgxq.gov.cn/",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "CQ_evt_90178a",
-      "cityCode": "CQ",
-      "categoryId": "family",
-      "name": "重庆无人机灯光秀(常规及中秋场)",
-      "venueId": "CQ_ven_cq0035",
-      "venueText": "解放碑/南滨路等城市上空(免费露天观看)",
-      "dateText": "2026.9.12、9.15、9.19(20:30)",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-19",
-      "costId": "free",
-      "description": "全城限定无人机灯光秀，夜空编队、图案多变，9月含常规周末场与中秋专场，免费露天观看。",
-      "sourceUrl": "https://whlyw.cq.gov.cn/",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "CQ_evt_39cfeb",
-      "cityCode": "CQ",
-      "categoryId": "family",
-      "name": "稻香云谷农场·中国农民丰收节亲子活动",
-      "venueId": "CQ_ven_cq0029",
-      "venueText": "北碚区歇马街道虎头村稻香云谷农场",
-      "dateText": "2026.9月-10月",
-      "startDate": "2026-09-01",
-      "endDate": "2026-10-31",
-      "costId": "paid",
-      "priceText": "158元/人",
-      "description": "收割稻谷、扎稻草人、泡泡水仗、浑水摸鱼、稻田小火车等亲子田园体验，活动价大小同价158元/人，亲子三人团购398元(含5斤新米伴手礼)。",
-      "sourceUrl": "https://www.beibei.gov.cn/",
       "tagName": "",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
@@ -770,31 +723,13 @@ window.APP_DATA = {
       "dateText": "2026.9.13-9.23",
       "startDate": "2026-09-13",
       "endDate": "2026-09-23",
-      "costId": "unknown",
-      "description": "聚焦品牌月饼、名优农产品、名酒茗茶、休闲食品、肉制品、特色美食等核心品类，设月饼烘焙、非遗文创及民俗产品等展区。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260830A08L2L00",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09",
-      "priceText": ""
-    },
-    {
-      "id": "CQ_evt_4a8973",
-      "cityCode": "CQ",
-      "categoryId": "expo",
-      "name": "2026重庆跨境电商交易会",
-      "venueId": "CQ_ven_cq0007",
-      "venueText": "重庆国际会议展览中心(南坪)",
-      "dateText": "2026.9.18-9.20",
-      "startDate": "2026-09-18",
-      "endDate": "2026-09-20",
       "costId": "free",
-      "description": "以“工业跨境新平台·西部制造新出路”为主题，携手中国跨交会主办团队，打造面向全国、服务全球的工业品跨境电商专业展。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260830A08L2L00",
+      "description": "聚焦品牌月饼、名优农产品、名酒茗茶、休闲食品、肉制品、特色美食等核心品类，设月饼烘焙、非遗文创及民俗产品等展区。",
+      "sourceUrl": "https://www.163.com/dy/article/L6PMK9CK05564DMY.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-10",
-      "priceText": "免费（需预登记）"
+      "updatedAt": "2026-09-21",
+      "priceText": "免费入场"
     },
     {
       "id": "CQ_evt_334db7",
@@ -809,28 +744,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "50元",
       "description": "中国摩托车行业年度盛会，17万㎡+展区，汇聚全球1000+企业、展出车辆超3000台，早鸟票50元(9月18日24:00前)。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260830A08L2L00",
+      "sourceUrl": "https://www.cq.gov.cn/ywdt/bmts/202609/t20260916_16087565.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "CQ_evt_c1f08e",
-      "cityCode": "CQ",
-      "categoryId": "expo",
-      "name": "第二届医学人工智能大会",
-      "venueId": "CQ_ven_cq0008",
-      "venueText": "中国重庆·科学会堂",
-      "dateText": "2026.9.15-9.17",
-      "startDate": "2026-09-15",
-      "endDate": "2026-09-17",
-      "costId": "paid",
-      "description": "聚焦医学人工智能前沿与产业应用的高端行业会议，汇聚产学研专家。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260830A08L2L00",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-14",
-      "priceText": "800元/人（收费通道·含资料用餐）；另设免费通道"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "CQ_evt_77661f",
@@ -844,10 +761,10 @@ window.APP_DATA = {
       "endDate": "2026-09-22",
       "costId": "free",
       "description": "网络安全漏洞分析与风险评估领域专业会议，研讨漏洞治理与风险防范。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260830A08L2L00",
+      "sourceUrl": "https://ima.qq.com/wiki/?shareId=db2dbce52e597182867fbd79672e763fca9fb19ac7c7804d3b79afc3254918a0&mediaId=markdown_a5ca2df685a47ed355b90d8a1ed79e55_e980622dbe9f96f6fbc462045ad19f547349063221536659&action=openDetailDrawer&webFrom=10000171",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-14",
+      "updatedAt": "2026-09-21",
       "priceText": "免费（免报名费）"
     }
   ]

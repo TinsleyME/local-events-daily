@@ -462,5 +462,29 @@ window.APP_VENUES_FS = [
     "latitude": 22.977314,
     "longitude": 113.02533,
     "address": ""
+  },
+  {
+    "id": "FS_ven_3dbf125d",
+    "cityCode": "FS",
+    "name": "佛山万象天地",
+    "latitude": 22.999439,
+    "longitude": 113.126482,
+    "address": ""
+  },
+  {
+    "id": "FS_ven_c1a2b3d4",
+    "cityCode": "FS",
+    "name": "长鹿旅游休博园",
+    "latitude": 22.878143,
+    "longitude": 113.289071,
+    "address": "顺德区伦教三洲建设东路8号(近番禺沙湾)"
+  },
+  {
+    "id": "FS_ven_d5e6f7a8",
+    "cityCode": "FS",
+    "name": "大良",
+    "latitude": 22.8326,
+    "longitude": 113.2489,
+    "address": "顺德区大良街道"
   }
 ];

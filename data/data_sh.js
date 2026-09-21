@@ -1,11 +1,101 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-09-16",
-    "weekday": "周三",
+    "date": "2026-09-21",
+    "weekday": "周一",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "SH_evt_5914c4",
+      "cityCode": "SH",
+      "categoryId": "show",
+      "name": "「爵美魔都」第十届古美爵士音乐啤酒节",
+      "venueId": "SH_ven_sm2f3g4",
+      "venueText": "龙茗路十尚坊",
+      "dateText": "2026.09.23-2026.10.02",
+      "startDate": "2026-09-23",
+      "endDate": "2026-10-02",
+      "costId": "free",
+      "priceText": "",
+      "description": "「爵美魔都」第十届古美爵士音乐啤酒节打造「爵士四重门」科普与「1+3」全域联动，融合演出、科普、亲子、市集、运动等八大板块，覆盖全年龄段。",
+      "sourceUrl": "https://news.qq.com/rain/a/20260921A02UT100",
+      "tagName": "爵士 音乐 啤酒 市集 免费",
+      "createdAt": "2026-09-21",
+      "updatedAt": "2026-09-21"
+    },
+    {
+      "id": "SH_evt_dd37e9",
+      "cityCode": "SH",
+      "categoryId": "outdoor",
+      "name": "苏州河游船中秋限定航班",
+      "venueId": "SH_ven_f0efdac5",
+      "venueText": "苏州河",
+      "dateText": "2026.09.25-2026.09.26",
+      "startDate": "2026-09-25",
+      "endDate": "2026-09-26",
+      "costId": "paid",
+      "priceText": "关注「悠游苏州河」小程序购票",
+      "description": "苏州河游船中秋期间推出两大主题航班。「苏河揽月」中秋限定月饼航班打造中秋专属水上仪式感，部分主题航线登船即赠精美月饼；「苏河秋韵」中秋水岸对唱航班联动千树首届「秋日糖水节」，船上音响与岸边乐队隔空呼应。",
+      "sourceUrl": "https://www.shanghai.gov.cn/nw17239/20260917/c2fa393ca71a4ac0934a4338f2277bcd.html",
+      "tagName": "中秋 游船 月饼 音乐 亲水",
+      "createdAt": "2026-09-21",
+      "updatedAt": "2026-09-21"
+    },
+    {
+      "id": "SH_evt_76180f",
+      "cityCode": "SH",
+      "categoryId": "market",
+      "name": "上海·海上世界两周年庆典",
+      "venueId": "SH_ven_ded1af4a",
+      "venueText": "上海吴淞口国际邮轮港",
+      "dateText": "2026.09.25-2026.10.11",
+      "startDate": "2026-09-25",
+      "endDate": "2026-10-11",
+      "costId": "free",
+      "priceText": "",
+      "description": "上海·海上世界迎来两周年庆典，以「逐浪2来 共此时」为主题，布局八大体验维度，推出烟花大会、主题市集、音乐节、长江戏剧节、城市体育赛事等丰富内容。国庆期间上演无人机编队、烟花与摇滚音乐联动的视听盛宴。",
+      "sourceUrl": "https://www.toutiao.com/article/7686578323476005417",
+      "tagName": "周年庆 烟花 音乐节 市集 长江文化 中秋",
+      "createdAt": "2026-09-21",
+      "updatedAt": "2026-09-21"
+    },
+    {
+      "id": "SH_evt_bf68ad",
+      "cityCode": "SH",
+      "categoryId": "show",
+      "name": "金山城市沙滩海上电影焰火奇幻夜",
+      "venueId": "SH_ven_30be0783",
+      "venueText": "金山城市沙滩景区",
+      "dateText": "2026.10.03-2026.10.04",
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-04",
+      "costId": "paid",
+      "priceText": "",
+      "description": "10月3日、4日在上海金山城市沙滩盛大启幕，千米海上焰火阵地联动无人机编队，以海平面为天然IMAX巨幕，电影级配色、配乐、特效贯穿全场，「朝暮树」「七彩祥云」「云帆入海」等标志性名场面轮番上演。",
+      "sourceUrl": "https://news.qq.com/rain/a/20260920A0A6X500",
+      "tagName": "焰火 无人机 海上 电影 中秋",
+      "createdAt": "2026-09-21",
+      "updatedAt": "2026-09-21"
+    },
+    {
+      "id": "SH_evt_928371",
+      "cityCode": "SH",
+      "categoryId": "market",
+      "name": "龙华秋会——光影龙华",
+      "venueId": "SH_ven_84271377",
+      "venueText": "龙华会",
+      "dateText": "2026-09-25至10-31 龙华会",
+      "startDate": "2026-09-25",
+      "endDate": "2026-10-31",
+      "costId": "free",
+      "priceText": "",
+      "description": "联动上海国际光影节及中秋传统民俗，打造新中式灯会+祈福的沉浸式光影氛围场景及祈福疗愈类妙会市集活动。",
+      "sourceUrl": "https://www.meet-in-shanghai.net/cn/news/shanghai-tourism-festival-classic-events-season-offers-six-major-themes-and-170-activities-waiting-for-you-to-experience-664854",
+      "tagName": "中秋 国庆",
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-09-18"
+    },
     {
       "id": "SH_evt_8603a4",
       "cityCode": "SH",
@@ -37,10 +127,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "380-1280元",
       "description": "李荣浩“黑马”世界巡回演唱会上海站，上海体育场（徐汇区天钥桥路666号）。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260831A067TE00",
+      "sourceUrl": "https://m.huanghepiao.com/article/1787186704161540.html",
       "tagName": "中秋",
       "createdAt": "2026-09-15",
-      "updatedAt": "2026-09-15",
+      "updatedAt": "2026-09-20",
       "celebrity": "李荣浩"
     },
     {
@@ -56,10 +146,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "380-1080元",
       "description": "歌者归来超级歌会上海站中秋特别场，上汽浦东足球场。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260831A067TE00",
+      "sourceUrl": "https://detail.damai.cn/item.htm?id=1070205745951",
       "tagName": "中秋",
       "createdAt": "2026-09-15",
-      "updatedAt": "2026-09-15"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "SH_evt_6d3da5",
@@ -131,7 +221,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.shanghai.gov.cn/nw17239/20260908/2828b1a892bc4cecabf6459d39e9bd26.html",
       "tagName": "",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-12"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "SH_evt_2bbfcc",
@@ -149,7 +239,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.shanghai.gov.cn/nw17239/20260908/2828b1a892bc4cecabf6459d39e9bd26.html",
       "tagName": "",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-12"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "SH_evt_cd7389",
@@ -167,7 +257,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.shanghai.gov.cn/nw17239/20260908/2828b1a892bc4cecabf6459d39e9bd26.html",
       "tagName": "",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-12"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "SH_evt_493b6f",
@@ -185,7 +275,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.shanghai.gov.cn/nw17239/20260904/4ee735e460cd477b8b1c660b31f78df6.html",
       "tagName": "",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-12"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "SH_evt_749c57",
@@ -242,24 +332,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-10"
     },
     {
-      "id": "SH_evt_3cf4ce",
-      "cityCode": "SH",
-      "categoryId": "show",
-      "name": "话剧《寻她芳踪·张爱玲》",
-      "venueId": "SH_ven_6587ac44",
-      "venueText": "美琪大戏院",
-      "dateText": "2026.9.18",
-      "startDate": "2026-09-18",
-      "endDate": "2026-09-18",
-      "costId": "paid",
-      "priceText": "98-480元",
-      "description": "以张爱玲文学世界为蓝本的话剧，9月18日美琪大戏院上演。",
-      "sourceUrl": "https://detail.damai.cn/item.htm?id=1073650296495",
-      "tagName": "",
-      "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
-    },
-    {
       "id": "SH_evt_83958d",
       "cityCode": "SH",
       "categoryId": "outdoor",
@@ -272,10 +344,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "中秋假期的海滨游园会，含灯会、沙滩市集与亲子互动。",
-      "sourceUrl": "",
+      "sourceUrl": "https://www.toutiao.com/article/7685328813839925803/",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-21T07:46:19.788Z"
     },
     {
       "id": "SH_evt_5643c6",
@@ -308,10 +380,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "中秋主题街区生活周，配套文化市集与音乐现场。",
-      "sourceUrl": "",
+      "sourceUrl": "https://www.sohu.com/a/1078258040_121956422",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-21T07:46:19.788Z"
     },
     {
       "id": "SH_evt_937264",
@@ -361,10 +433,10 @@ window.APP_DATA = {
       "endDate": "2026-10-07",
       "costId": "paid",
       "description": "改编自麦家同名小说的音乐剧《风声》2026年全新出发，从剧本、音乐、舞美、舞台调度到演员阵容全方位升级。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260907A046CZ00",
+      "sourceUrl": "https://www.huanghepiao.com/event/41662/",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "SH_evt_c9db6d",
@@ -378,10 +450,10 @@ window.APP_DATA = {
       "endDate": "2026-10-14",
       "costId": "free",
       "description": "以油画作品与纪实纪录片共同构筑沉浸式艺术场域，还原艺术家真实的野外创作现场，透过影像与画作带领观者步入辽阔悠远的云山世界。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260907A046CZ00",
+      "sourceUrl": "https://www.163.com/dy/article/L78QL7000534R9EG.html",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-10",
+      "updatedAt": "2026-09-21T07:46:19.788Z",
       "priceText": "免费"
     },
     {
@@ -396,10 +468,10 @@ window.APP_DATA = {
       "endDate": "2027-02-28",
       "costId": "paid",
       "description": "汇集1930年代至21世纪初的革命历史题材作品80余组，涵盖版画、油画、中国画、水彩、雕塑等多种艺术形式，以私人收藏视角回望百年奋斗峥嵘岁月。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260907A046CZ00",
+      "sourceUrl": "http://www.thelongmuseum.org/exhibition-369/detail-2016.html",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-10",
+      "updatedAt": "2026-09-20",
       "priceText": "需购票"
     },
     {
@@ -502,7 +574,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.shanghai.gov.cn/nw17239/20260904/4ee735e460cd477b8b1c660b31f78df6.html",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "SH_evt_499456",
@@ -519,7 +591,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.shanghai.gov.cn/nw17239/20260904/4ee735e460cd477b8b1c660b31f78df6.html",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "SH_evt_903183",
@@ -536,7 +608,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.shanghai.gov.cn/nw17239/20260904/4ee735e460cd477b8b1c660b31f78df6.html",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "SH_evt_1e003c",
@@ -587,7 +659,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.shanghai.gov.cn/nw17239/20260904/4ee735e460cd477b8b1c660b31f78df6.html",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "SH_evt_81d59f",
@@ -604,7 +676,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.shanghai.gov.cn/nw17239/20260904/4ee735e460cd477b8b1c660b31f78df6.html",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "SH_evt_2b6bfb",
@@ -628,7 +700,7 @@ window.APP_DATA = {
       "cityCode": "SH",
       "categoryId": "exhi",
       "name": "la Galerie du 19M Shanghai",
-      "venueId": "HZ_ven_a1b2c3d4",
+      "venueId": "SH_ven_99f1a2b3",
       "venueText": "浦东美术馆",
       "dateText": "2026.9.25-11.15",
       "startDate": "2026-09-25",
@@ -638,7 +710,7 @@ window.APP_DATA = {
       "sourceUrl": "https://m.thepaper.cn/newsDetail_forward_34029846",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-18"
     },
     {
       "id": "SH_evt_bbf7d6",
@@ -694,42 +766,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-09"
     },
     {
-      "id": "SH_evt_3cc5a4",
-      "cityCode": "SH",
-      "categoryId": "show",
-      "name": "张智霖\"在\"巡回演唱会-上海站",
-      "venueId": "SH_ven_a4b5c6d7",
-      "venueText": "东方体育中心",
-      "dateText": "2026.9.19",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "costId": "paid",
-      "description": "张智霖首场个人巡演登陆上海，融合粤语金曲、流行单曲与舞台剧情表演，兼顾唱功与舞台叙事。",
-      "sourceUrl": "https://www.meet-in-shanghai.net/tc/news/get-ready-to-grab-tickets-another-wave-of-concerts-in-shanghai-is-about-to-begin-023420",
-      "tagName": "",
-      "celebrity": "张智霖",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "SH_evt_30d0c5",
-      "cityCode": "SH",
-      "categoryId": "show",
-      "name": "潘玮柏\"MADLOVE:ULTRA\"巡回演唱会-上海站",
-      "venueId": "SH_ven_a5b6c7d8",
-      "venueText": "虹口足球场",
-      "dateText": "2026.9.19",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "costId": "paid",
-      "description": "潘玮柏MADLOVE:ULTRA巡回演唱会上海站，虹口足球场，燃爆金曲现场。",
-      "sourceUrl": "https://www.ososhow.com/month/shanghai-concert-9.html",
-      "tagName": "",
-      "celebrity": "潘玮柏",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
       "id": "SH_evt_29c314",
       "cityCode": "SH",
       "categoryId": "show",
@@ -741,63 +777,11 @@ window.APP_DATA = {
       "endDate": "2026-09-23",
       "costId": "paid",
       "description": "北欧经典摇滚乐队迈克学摇滚来华开演，重现传世金曲Take Me To Your Heart，掀起欧美复古怀旧浪潮。",
-      "sourceUrl": "https://www.meet-in-shanghai.net/tc/news/get-ready-to-grab-tickets-another-wave-of-concerts-in-shanghai-is-about-to-begin-023420",
+      "sourceUrl": "https://m.huanghepiao.com/article/1787216025161554.html",
       "tagName": "",
       "celebrity": "迈克学摇滚",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "SH_evt_7442cc",
-      "cityCode": "SH",
-      "categoryId": "show",
-      "name": "齐豫 风采依旧·在上海演唱会",
-      "venueId": "SH_ven_a6b7c8d9",
-      "venueText": "上海体育馆",
-      "dateText": "2026.9.19",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "costId": "paid",
-      "description": "齐豫风采依旧·在上海演唱会，上海体育馆，以温柔声线演绎经典金曲。",
-      "sourceUrl": "https://www.ososhow.com/month/shanghai-concert-9.html",
-      "tagName": "",
-      "celebrity": "齐豫",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "SH_evt_6194bf",
-      "cityCode": "SH",
-      "categoryId": "talk",
-      "name": "2026特级教师开课啦(系列公益讲座)",
-      "venueId": "SH_ven_a3b4c5d6",
-      "venueText": "上海图书馆东馆",
-      "dateText": "2026.9.12/9.19",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-19",
-      "costId": "free",
-      "description": "2026特级教师开课啦系列公益讲座在上海图书馆东馆举行，由特级教师特级校长主讲，围绕学生成长与家庭教育，9月12日、9月19日等多场。",
-      "sourceUrl": "https://www.toutiao.com/article/7680381076463813154/",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "SH_evt_59e070",
-      "cityCode": "SH",
-      "categoryId": "family",
-      "name": "上海辰山植物园睡莲多样性展示",
-      "venueId": "SH_ven_b1c2d3de",
-      "venueText": "上海辰山植物园",
-      "dateText": "2026.9.1-20",
-      "startDate": "2026-09-01",
-      "endDate": "2026-09-20",
-      "costId": "paid",
-      "description": "以静谧的睡莲世界为主题，展示280余种、上万株睡莲，含5款辰山自育睡莲新品全球首秀，配套百变萌娃坐王莲、水生植物探秘亲子研学等活动。",
-      "sourceUrl": "https://www.meet-in-shanghai.net/cn/news/autumn-here-cant-be-hidden-night-outings-water-lilies-trendy-toys-and-fairy-tales-all-in-one-place-573188",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "SH_evt_92053e",
@@ -814,7 +798,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.meet-in-shanghai.net/cn/news/autumn-here-cant-be-hidden-night-outings-water-lilies-trendy-toys-and-fairy-tales-all-in-one-place-573188",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "SH_evt_8946d6",
@@ -831,24 +815,7 @@ window.APP_DATA = {
       "sourceUrl": "https://sh.bendibao.com/tour/202698/309082.shtm",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "SH_evt_2fdaa9",
-      "cityCode": "SH",
-      "categoryId": "family",
-      "name": "2026浦游杯·亲子嘉年华水上趣味挑战赛",
-      "venueId": "SH_ven_b5c6d7e2",
-      "venueText": "周浦游泳馆",
-      "dateText": "2026.9.19",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "costId": "free",
-      "description": "2026浦游杯·亲子嘉年华水上趣味挑战赛在周浦游泳馆举行，设7个趣味打卡点，集章兑换定制好礼，免费报名参与。",
-      "sourceUrl": "https://sh.bendibao.com/",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "SH_evt_156683",
@@ -867,6 +834,23 @@ window.APP_DATA = {
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-10",
       "priceText": "免费（需预约）"
+    },
+    {
+      "id": "SH_evt_0047fa",
+      "cityCode": "SH",
+      "categoryId": "market",
+      "name": "TOP TOY 原创 IP「SISI」全球首发快闪（上海人民广场来福士）",
+      "venueId": "",
+      "venueText": "人民广场来福士 L1 来福士厅（黄浦区西藏中路268号）",
+      "dateText": "2026.9.17-10.16",
+      "startDate": "2026-09-17",
+      "endDate": "2026-10-16",
+      "costId": "free",
+      "priceText": "免费入场（9.17-9.22 预约制，9.23 起免预约）",
+      "sourceUrl": "https://view.inews.qq.com/a/20260917A0CBF400",
+      "description": "第37届上海旅游节重点联动项目，TOP TOY 原创 IP SISI 全球首发快闪，集章与 AI 宠物合照等互动。",
+      "createdAt": "2026-09-21T07:38:33.665Z",
+      "updatedAt": "2026-09-21T08:35:44.481Z"
     }
   ]
 };

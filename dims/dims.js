@@ -149,6 +149,12 @@ window.APP_DIMS = {
       "name": "展会",
       "title": "展会 / 招聘",
       "color": "#d4a017"
+    },
+    {
+      "id": "stamp",
+      "name": "盖章",
+      "title": "盖章 / 集章",
+      "color": "#b45309"
     }
   ],
   "costTypes": [

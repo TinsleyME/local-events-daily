@@ -1,11 +1,83 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-09-16",
-    "weekday": "周三",
+    "date": "2026-09-21",
+    "weekday": "周一",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "HZ_evt_fd0782",
+      "cityCode": "HZ",
+      "categoryId": "exhi",
+      "name": "《KAWS:HOLIDAY》登陆杭州西湖",
+      "venueId": "HZ_ven_k1l2m3n4",
+      "venueText": "西湖文化广场",
+      "dateText": "2026.09.25-2026.09.27",
+      "startDate": "2026-09-25",
+      "endDate": "2026-09-27",
+      "costId": "free",
+      "priceText": "",
+      "description": "世界级潮流艺术公共项目《KAWS:HOLIDAY》登陆杭州西湖柳浪闻莺，KAWS标志性角色COMPANION以全新「机器人」造型亮相，致敬杭州AI创新之城。湖滨商圈同步迎来泡泡玛特旗舰店落户，宝可梦城市漫游活动也将在湖滨步行街举行。",
+      "sourceUrl": "https://www.hzxcw.gov.cn/content_48989.html",
+      "tagName": "KAWS 潮流艺术 西湖 免费 打卡 中秋",
+      "createdAt": "2026-09-21",
+      "updatedAt": "2026-09-21"
+    },
+    {
+      "id": "HZ_evt_4e4fb9",
+      "cityCode": "HZ",
+      "categoryId": "market",
+      "name": "杭州奇妙夜·吴越寻根之旅",
+      "venueId": "HZ_ven_wy7l8x9",
+      "venueText": "临安吴越里历史文化街区",
+      "dateText": "2026.10.01-2026.10.03",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-03",
+      "costId": "free",
+      "priceText": "",
+      "description": "10月1日至3日，杭州奇妙夜·吴越寻根之旅活动登陆临安吴越里历史文化街区，110个展位、3晚音乐会、8项开街活动、10万元消费券同步发放。配合浙江省博物馆《太平年·天下同宁》特展，「千年吴越杭州寻根之旅」展旅融合活动也将于9月25日推出。",
+      "sourceUrl": "https://www.hzxcw.gov.cn/content_48989.html",
+      "tagName": "吴越 寻根 市集 音乐会 免费 国庆节",
+      "createdAt": "2026-09-21",
+      "updatedAt": "2026-09-21"
+    },
+    {
+      "id": "HZ_evt_ac4735",
+      "cityCode": "HZ",
+      "categoryId": "exhi",
+      "name": "「琮谱」良渚遗址发现九十周年特展",
+      "venueId": "HZ_ven_d4e5f6g7",
+      "venueText": "浙江省博物馆之江馆区",
+      "dateText": "2026.09.25-2026.11.29",
+      "startDate": "2026-09-25",
+      "endDate": "2026-11-29",
+      "costId": "paid",
+      "priceText": "",
+      "description": "「琮谱」良渚遗址发现九十周年特展首展，汇聚境内外39家单位124件琮及琮式器，国内首次完整呈现玉琮发展脉络，百琮归源致敬五千年。",
+      "sourceUrl": "https://www.hzxcw.gov.cn/content_48989.html",
+      "tagName": "良渚 玉琮 特展 文博 中秋",
+      "createdAt": "2026-09-21",
+      "updatedAt": "2026-09-21"
+    },
+    {
+      "id": "HZ_evt_9cb4c4",
+      "cityCode": "HZ",
+      "categoryId": "market",
+      "name": "2026杭州金秋户外休闲消费季暨第八届富春江江鲜大会",
+      "venueId": "HZ_ven_fy0z1a2",
+      "venueText": "富阳",
+      "dateText": "2026.09.28-2026.10.31",
+      "startDate": "2026-09-28",
+      "endDate": "2026-10-31",
+      "costId": "free",
+      "priceText": "",
+      "description": "2026杭州金秋户外休闲消费季暨第八届富春江江鲜大会启动，以山水、人文、运动、风味「四鲜」开宴。桐庐十大江鲜体验店套餐、建德「兰江秋宴」、西溪「渔夫之旅」同步上新。",
+      "sourceUrl": "https://www.hzxcw.gov.cn/content_48989.html",
+      "tagName": "江鲜 户外 市集 富春江 免费",
+      "createdAt": "2026-09-21",
+      "updatedAt": "2026-09-21"
+    },
     {
       "id": "HZ_evt_5db782",
       "cityCode": "HZ",
@@ -22,7 +94,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.dahepiao.com/yc/hzzdsjjtjddmch",
       "tagName": "",
       "createdAt": "2026-09-15",
-      "updatedAt": "2026-09-15"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "HZ_evt_cb2162",
@@ -37,10 +109,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "480-1680元",
       "description": "孙燕姿巡回演唱会杭州站，杭州奥体中心体育场。",
-      "sourceUrl": "https://www.dahepiao.com/yc/hzzdsjjtjddmch",
+      "sourceUrl": "https://www.huanghepiao.com/article/1789090497162050.html",
       "tagName": "",
       "createdAt": "2026-09-15",
-      "updatedAt": "2026-09-15"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "HZ_evt_8fcff8",
@@ -55,10 +127,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "499-1299元",
       "description": "周华健少年的奇幻之旅CONCERT TOUR 3.0巡回演唱会杭州站，杭州奥体AT中心体育馆。",
-      "sourceUrl": "https://www.dahepiao.com/yc/hzzdsjjtjddmch",
+      "sourceUrl": "https://www.huanghepiao.com/article/1788396617161880.html",
       "tagName": "",
       "createdAt": "2026-09-15",
-      "updatedAt": "2026-09-15"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "HZ_evt_0faad6",
@@ -76,7 +148,7 @@ window.APP_DATA = {
       "sourceUrl": "https://m.hz.bendibao.com/tour/zhuantizhongqiujie/",
       "tagName": "",
       "createdAt": "2026-09-14",
-      "updatedAt": "2026-09-14"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "HZ_evt_f0614c",
@@ -94,7 +166,7 @@ window.APP_DATA = {
       "sourceUrl": "https://m.hz.bendibao.com/tour/zhuantizhongqiujie/",
       "tagName": "",
       "createdAt": "2026-09-14",
-      "updatedAt": "2026-09-14"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "HZ_evt_31d1c1",
@@ -106,13 +178,13 @@ window.APP_DATA = {
       "dateText": "9.25-10.6",
       "startDate": "2026-09-25",
       "endDate": "2026-10-06",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费入园(项目自费)",
       "description": "千岛湖华美胜地度假区金秋双节特辑：山湖烟花秀（9.25 中秋夜与 10.1 国庆重演）、湖山松弛露营、趣味巡游与篝火音乐晚会、萤火虫奇妙夜与游戏市集。",
       "sourceUrl": "https://m.hz.bendibao.com/edu/159385.shtm",
       "tagName": "",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-15"
+      "updatedAt": "2026-09-18"
     },
     {
       "id": "HZ_evt_e80102",
@@ -166,45 +238,7 @@ window.APP_DATA = {
       "sourceUrl": "https://m.hz.bendibao.com/xiuxian/172771.shtm",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-17"
-    },
-    {
-      "id": "HZ_evt_111b13",
-      "cityCode": "HZ",
-      "categoryId": "show",
-      "name": "张新成「新程 New Journey」巡回演唱会杭州站",
-      "venueId": "HZ_ven_h8i9j0k1",
-      "venueText": "杭州奥体AT中心体育馆",
-      "dateText": "2026.9.19",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "costId": "paid",
-      "priceText": "",
-      "description": "张新成「新程 New Journey」巡回演唱会杭州站，9月19日开唱。可通过大麦、猫眼、携程旅行、票星球购票。",
-      "sourceUrl": "https://m.sohu.com/a/1067936756_121627717",
-      "tagName": "",
-      "celebrity": "张新成",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "HZ_evt_b916a8",
-      "cityCode": "HZ",
-      "categoryId": "show",
-      "name": "何浩楠「HE ART」个人巡回演唱会杭州站",
-      "venueId": "HZ_ven_i9j0k1l2",
-      "venueText": "黄龙体育中心体育馆",
-      "dateText": "2026.9.19",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "costId": "paid",
-      "priceText": "",
-      "description": "何浩楠「HE ART」个人巡回演唱会杭州站，9月19日与张新成杭州站同日开唱，中秋档双场齐发。",
-      "sourceUrl": "https://m.sohu.com/a/1067936756_121627717",
-      "tagName": "",
-      "celebrity": "何浩楠",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "HZ_evt_103639",
@@ -219,10 +253,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "",
       "description": "言承旭、吴建豪、周渝民携手五月天阿信组成「F FOREVER 恒星之城」，中秋档在大莲花连唱三天。",
-      "sourceUrl": "https://www.toutiao.com/article/7680110713150374435/",
+      "sourceUrl": "https://www.maitepiao.com/ticket/detail/2390.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "HZ_evt_c941a1",
@@ -237,10 +271,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "",
       "description": "好莱坞配乐大师汉斯·季默「The Next Level」世界巡演，杭州是本次巡演江浙沪唯一站点，连演两场。",
-      "sourceUrl": "https://m.sohu.com/a/1067936756_121627717",
+      "sourceUrl": "https://www.sina.cn/news/detail/5316209219997855.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "HZ_evt_b38bde",
@@ -255,11 +289,11 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "",
       "description": "苏见信「尽兴而活」巡回演唱会杭州站，9月26日在黄龙体育中心体育馆开唱，以摇滚金曲点燃杭城秋夜。",
-      "sourceUrl": "https://m.sohu.com/a/1067936756_121627717",
+      "sourceUrl": "https://www.dahepiao.com/news1/yanchu/20260911549676.html",
       "tagName": "",
       "celebrity": "苏见信",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "HZ_evt_cb960d",
@@ -274,11 +308,11 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "",
       "description": "周兴哲《Odyssey·Stars 旅程·星空》巡回演唱会登陆黄龙体育中心体育场，已上线纷玩岛、大麦、猫眼、浙里票务。",
-      "sourceUrl": "https://m.sohu.com/a/1067936756_121627717",
+      "sourceUrl": "https://www.huanghepiao.com/article/1788251601161861.html",
       "tagName": "",
       "celebrity": "周兴哲",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "HZ_evt_31d55f",
@@ -293,10 +327,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "汇聚全国岩彩艺术家120余幅精品，题材涵盖山水、花鸟、人物，另设矿石颜料实物展区。9:00-16:00，周一闭馆。",
-      "sourceUrl": "https://www.sohu.com/a/1070558956_121106994",
+      "sourceUrl": "https://www.xh-am.com/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-21T07:46:19.788Z"
     },
     {
       "id": "HZ_evt_580a70",
@@ -311,10 +345,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "呈现沈沐阳近两年油画及布面综合材料作品，来自「文明往事」「博弈论」等系列。10:00-18:00，周一闭馆。",
-      "sourceUrl": "https://www.sohu.com/a/1070558956_121106994",
+      "sourceUrl": "https://www.arthing.org/?p=68276",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-21T07:46:19.788Z"
     },
     {
       "id": "HZ_evt_a55765",
@@ -332,7 +366,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.sina.cn/news/detail/5330287786460003.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "HZ_evt_e647f6",
@@ -350,7 +384,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.sina.cn/news/detail/5330287786460003.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "HZ_evt_c954a7",
@@ -368,7 +402,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.sina.cn/news/detail/5330287786460003.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "HZ_evt_7c8422",
@@ -386,7 +420,7 @@ window.APP_DATA = {
       "sourceUrl": "https://nginx-gsrm.hzyun.com.cn/gsrm/site1/mweb/jaa17/c235543.html?sharefalse",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "HZ_evt_aba47d",
@@ -401,46 +435,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "需购票（早鸟39元）",
       "description": "做書图书市集杭州首场，落地浙江出版联合集团总部园区，独立出版、插画、艺术书与文创设计摊主集中出没。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260902A03RP700",
+      "sourceUrl": "https://www.163.com/dy/article/L71PKJEI0521DVI5.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-10"
-    },
-    {
-      "id": "HZ_evt_a3ed72",
-      "cityCode": "HZ",
-      "categoryId": "talk",
-      "name": "文澜沙龙:二十四节气自然生活之秋分",
-      "venueId": "HZ_ven_j0k1l2m3",
-      "venueText": "杭州图书馆三楼研究室九(市民中心)",
-      "dateText": "2026.9.19 14:00-15:30",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "costId": "free",
-      "priceText": "",
-      "description": "二十四节气自然生活系列，解读秋分节气的天文气候、物候人文与节气养生要点。浙里文化圈报名。",
-      "sourceUrl": "https://www.hangzhou.gov.cn/col/col1228974690/art/2026/art_274c22f6e1dc4659baf34153de702e0a.html",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "HZ_evt_31bae7",
-      "cityCode": "HZ",
-      "categoryId": "talk",
-      "name": "大运河边的科普墅·人工智能主题讲座",
-      "venueId": "HZ_ven_j0k1l2m3",
-      "venueText": "拱墅区图书馆5楼报告厅",
-      "dateText": "2026.9月中旬",
-      "startDate": "2026-09-11",
-      "endDate": "2026-09-20",
-      "costId": "free",
-      "priceText": "",
-      "description": "2026全国科普月拱墅区图书馆系列活动，人工智能主题讲座，面向公众免费开放，现场可互动体验前沿科技。",
-      "sourceUrl": "https://nginx-gsrm.hzyun.com.cn/gsrm/site1/mweb/jaa17/c235543.html?sharefalse",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-18"
     },
     {
       "id": "HZ_evt_f9319d",
@@ -458,7 +456,7 @@ window.APP_DATA = {
       "sourceUrl": "https://nginx-gsrm.hzyun.com.cn/gsrm/site1/mweb/jaa17/c235543.html?sharefalse",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "HZ_evt_cfbb4e",
@@ -476,7 +474,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.hangzhou.gov.cn/col/col1228974690/art/2026/art_274c22f6e1dc4659baf34153de702e0a.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "HZ_evt_c84f49",
@@ -494,7 +492,7 @@ window.APP_DATA = {
       "sourceUrl": "https://m.hz.bendibao.com/jieri/guoqing/172727.shtm",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "HZ_evt_a08e72",
@@ -512,7 +510,7 @@ window.APP_DATA = {
       "sourceUrl": "https://hz.bendibao.com/jieri/guoqing/202693/172726.shtm",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "HZ_evt_35be84",
@@ -527,10 +525,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "160元/人",
       "description": "钱塘女子半马11月8日开跑，半程160元/人；报名2026.7.22-10.14，先报先得额满即止。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260903A05FAG00",
+      "sourceUrl": "https://hznv.zjim.org/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-18"
     },
     {
       "id": "HZ_evt_243cf8",
@@ -656,25 +654,7 @@ window.APP_DATA = {
       "sourceUrl": "https://hz.bendibao.com/xiuxian/202698/172783.shtm",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-08"
-    },
-    {
-      "id": "HZ_evt_c27f5b",
-      "cityCode": "HZ",
-      "categoryId": "exhi",
-      "name": "韩熙载夜宴图(宋摹本)特展",
-      "venueId": "HZ_ven_d4e5f6g7",
-      "venueText": "浙江省博物馆之江馆区",
-      "dateText": "2026.8.22-9.20",
-      "startDate": "2026-08-22",
-      "endDate": "2026-09-20",
-      "costId": "paid",
-      "description": "故宫博物院国宝级名画《韩熙载夜宴图》(宋摹本)时隔15年首次出宫来杭，展期仅30天。",
-      "sourceUrl": "https://www.toutiao.com/article/7682241813800927786/",
-      "tagName": "",
-      "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-10",
-      "priceText": "88元（需购票）"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "HZ_evt_dd2f88",
@@ -731,23 +711,6 @@ window.APP_DATA = {
       "priceText": "免费"
     },
     {
-      "id": "HZ_evt_be3cdc",
-      "cityCode": "HZ",
-      "categoryId": "market",
-      "name": "莱FRESH集秋日丰收主题市集",
-      "venueId": "HZ_ven_o5p6q7r8",
-      "venueText": "杭州首创奥特莱斯",
-      "dateText": "2026.9.11-13;2026.9.18-20",
-      "startDate": "2026-09-11",
-      "endDate": "2026-09-20",
-      "costId": "free",
-      "description": "莱FRESH秋日丰收主题市集，新鲜果蔬农货、风味美食茶饮、小众文创手作。",
-      "sourceUrl": "https://hz.bendibao.com/xiuxian/202698/172783.shtm",
-      "tagName": "",
-      "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-08"
-    },
-    {
       "id": "HZ_evt_6e5887",
       "cityCode": "HZ",
       "categoryId": "exhi",
@@ -762,7 +725,7 @@ window.APP_DATA = {
       "sourceUrl": "https://hz.bendibao.com/xiuxian/202698/172783.shtm",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-08"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "HZ_evt_cba783",
@@ -779,7 +742,26 @@ window.APP_DATA = {
       "sourceUrl": "https://hz.bendibao.com/xiuxian/202698/172783.shtm",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-15"
+      "updatedAt": "2026-09-20"
+    },
+    {
+      "id": "HZ_evt_999996",
+      "cityCode": "HZ",
+      "categoryId": "market",
+      "name": "得物心愿游乐场线下见面会（林乙洲/陈述一/朴意/丁耀丞）",
+      "venueId": "",
+      "venueText": "杭州迷笛Live(拱墅区小河路488号运河天地)",
+      "dateText": "2026.9.25 见面会 / 9.26 签售",
+      "startDate": "2026-09-25",
+      "endDate": "2026-09-26",
+      "costId": "paid",
+      "priceText": "以得物APP为准",
+      "celebrity": "林乙洲/陈述一/朴意/丁耀丞",
+      "description": "得物APP独家打造「心愿游乐场」线下见面会+签售会，多名艺人到场互动。",
+      "sourceUrl": "https://sina.cn/news/detail/5334321466446734.html",
+      "tagName": "",
+      "createdAt": "2026-09-21T07:26:25.726Z",
+      "updatedAt": "2026-09-21T08:35:44.481Z"
     }
   ]
 };

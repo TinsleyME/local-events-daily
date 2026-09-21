@@ -198,5 +198,21 @@ window.APP_VENUES_HZ = [
     "latitude": 30.226258,
     "longitude": 119.728974,
     "address": "临安区锦城街道天目路800号"
+  },
+  {
+    "id": "HZ_ven_wy7l8x9",
+    "cityCode": "HZ",
+    "name": "临安吴越里历史文化街区",
+    "latitude": 30.2297,
+    "longitude": 119.7237,
+    "address": "临安区锦城街道塔山路与城中街交汇处"
+  },
+  {
+    "id": "HZ_ven_fy0z1a2",
+    "cityCode": "HZ",
+    "name": "富阳",
+    "latitude": 30.0458,
+    "longitude": 119.9579,
+    "address": "杭州市富阳区"
   }
 ];

@@ -1,11 +1,65 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-09-17",
-    "weekday": "周四",
+    "date": "2026-09-21",
+    "weekday": "周一",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "XA_evt_0d829b",
+      "cityCode": "XA",
+      "categoryId": "market",
+      "name": "西安大唐芙蓉园2026长安诗会·书画季",
+      "venueId": "XA_ven_dt8f9r0",
+      "venueText": "大唐芙蓉园",
+      "dateText": "2026.09.07-2026.10.18",
+      "startDate": "2026-09-07",
+      "endDate": "2026-10-18",
+      "costId": "paid",
+      "priceText": "",
+      "description": "2026长安诗会·书画季从9月7日持续至10月18日，以「桂花闲落」为月度时令主题，将桂花意象与茶事雅集相融，于游园途中布设可嗅、可品、可参与的秋日情境。",
+      "sourceUrl": "https://o.xiancity.cn/system/2026/09/15/031268182.shtml",
+      "tagName": "中秋 国庆 诗会 书画 大唐芙蓉园",
+      "createdAt": "2026-09-21",
+      "updatedAt": "2026-09-21"
+    },
+    {
+      "id": "XA_evt_e02ae8",
+      "cityCode": "XA",
+      "categoryId": "market",
+      "name": "2026华清宫景区国庆主题活动",
+      "venueId": "XA_ven_abdb2884",
+      "venueText": "华清宫",
+      "dateText": "2026.10.01-2026.10.07",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-07",
+      "costId": "paid",
+      "priceText": "",
+      "description": "国庆期间，华清宫景区推出主题活动，背《长恨歌》免费入园，每日准时唱响《我和我的祖国》，国庆投投乐、国庆回家路等多款轻互动游戏。",
+      "sourceUrl": "https://m.xa.bendibao.com/xiuxian/62127_7.shtm",
+      "tagName": "国庆 华清宫 长恨歌 免费 国庆节",
+      "createdAt": "2026-09-21",
+      "updatedAt": "2026-09-21"
+    },
+    {
+      "id": "XA_evt_b4d027",
+      "cityCode": "XA",
+      "categoryId": "market",
+      "name": "第八届丝路跨境名品汇",
+      "venueId": "XA_ven_3854ba94",
+      "venueText": "长安中央公园",
+      "dateText": "2026年9月16日-10月8日",
+      "startDate": "2026-09-16",
+      "endDate": "2026-10-08",
+      "costId": "free",
+      "priceText": "免费",
+      "description": "跨境优品、港澳台好物、陕西农副特产、非遗文创一站式选购，含网红美食夜市与家电以旧换新。",
+      "sourceUrl": "https://o.xiancity.cn/system/2026/09/17/031268677.shtml",
+      "tagName": "",
+      "createdAt": "2026-09-20",
+      "updatedAt": "2026-09-20"
+    },
     {
       "id": "XA_evt_1f6ea0",
       "cityCode": "XA",
@@ -40,7 +94,7 @@ window.APP_DATA = {
       "sourceUrl": "https://m.toutiao.com/article/7680777972671857215",
       "tagName": "西安 城墙 中秋赏月 国庆灯光秀",
       "createdAt": "2026-09-17",
-      "updatedAt": "2026-09-17"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "XA_evt_28395a",
@@ -91,10 +145,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "芙蓉湖畔月圆之夜，贵妃携女眷盛装出列，行唐代拜月古礼，一拜祈福、再拜安康，盛唐中秋仪式感完整复原。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260914A0CKLD00",
+      "sourceUrl": "https://m.xa.bendibao.com/mip/38493_8.shtm",
       "tagName": "",
       "createdAt": "2026-09-15",
-      "updatedAt": "2026-09-15"
+      "updatedAt": "2026-09-21"
     },
     {
       "id": "XA_evt_fc574b",
@@ -130,7 +184,7 @@ window.APP_DATA = {
       "sourceUrl": "https://xa.bendibao.com/xiuxian/2015828/132719.shtm",
       "tagName": "",
       "createdAt": "2026-09-14",
-      "updatedAt": "2026-09-14"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "XA_evt_b8e426",
@@ -148,7 +202,7 @@ window.APP_DATA = {
       "sourceUrl": "https://xa.bendibao.com/xiuxian/2015828/132719.shtm",
       "tagName": "中秋",
       "createdAt": "2026-09-14",
-      "updatedAt": "2026-09-15"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "XA_evt_74fc81",
@@ -166,7 +220,7 @@ window.APP_DATA = {
       "sourceUrl": "https://m.xa.bendibao.com/tour/38493_8.shtm",
       "tagName": "中秋",
       "createdAt": "2026-09-14",
-      "updatedAt": "2026-09-15"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "XA_evt_fdcb90",
@@ -182,10 +236,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "380-1680元",
       "description": "汪苏泷「明日世界」世界巡回演唱会西安站在西安奥体中心体育场连开三场，国庆后持续点燃古城夜空。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260902A0D74800",
+      "sourceUrl": "https://m.huanghepiao.com/event/41833",
       "tagName": "国庆",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-12"
+      "updatedAt": "2026-09-18"
     },
     {
       "id": "XA_evt_9d0a76",
@@ -221,7 +275,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.dahepiao.com/yc/mxbhmxhlmxaz",
       "tagName": "国庆",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-12"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "XA_evt_c776d2",
@@ -237,10 +291,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "199元起",
       "description": "王朝1982携首次全国巡演唱进西安MARS艺术展演空间，江湖嗓加戏腔爆发，199元起赴一场仙侠国风现场。",
-      "sourceUrl": "https://www.dahepiao.com/yc/mxbhmxhlmxaz",
+      "sourceUrl": "https://www.dahepiao.com/yanchupiaowu1/ych/20260906549506.html",
       "tagName": "国庆",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-12"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "XA_evt_0740e2",
@@ -259,7 +313,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.dahepiao.com/yc/mxbhmxhlmxaz",
       "tagName": "国庆",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-12"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "XA_evt_54efc1",
@@ -275,10 +329,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "499-1199元",
       "description": "周华健「少年的奇幻之旅3.0」巡演西安站登陆西安奥体中心体育馆，船型主舞台搭配巨型曲面大屏与AR特效。",
-      "sourceUrl": "https://m.xa.bendibao.com/xiuxian/153473.shtm?src=amap",
+      "sourceUrl": "https://xa.bendibao.com/xiuxian/2026811/152768.shtm",
       "tagName": "国庆",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-12"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "XA_evt_2d1e9e",
@@ -296,7 +350,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.toutiao.com/article/7670433142901899818/",
       "tagName": "国庆 国庆节",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-17"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "XA_evt_9c3c99",
@@ -314,7 +368,7 @@ window.APP_DATA = {
       "sourceUrl": "https://xa.bendibao.com/xiuxian/?page=19",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "XA_evt_6c6ca4",
@@ -365,10 +419,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "100元/人",
       "description": "陕西历史博物馆年度重磅国际特展，250件(套)希腊金器精品亮相，以四大单元系统呈现希腊化时期黄金工艺与文明交融。特展票100元/人。",
-      "sourceUrl": "https://m.xa.bendibao.com/jieri/141626.shtm",
+      "sourceUrl": "https://www.sxhm.com/info/news/detail/1018616.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "XA_evt_d3c957",
@@ -385,7 +439,7 @@ window.APP_DATA = {
       "sourceUrl": "https://m.xa.bendibao.com/jieri/141626.shtm",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "XA_evt_5e56cb",
@@ -402,7 +456,7 @@ window.APP_DATA = {
       "sourceUrl": "https://m.xa.bendibao.com/jieri/141626.shtm",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-10",
+      "updatedAt": "2026-09-20",
       "priceText": "免费（需预约）"
     },
     {
@@ -420,7 +474,7 @@ window.APP_DATA = {
       "sourceUrl": "https://m.xa.bendibao.com/jieri/141626.shtm",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-10",
+      "updatedAt": "2026-09-20",
       "priceText": "免费（需预约）"
     },
     {
@@ -438,7 +492,7 @@ window.APP_DATA = {
       "sourceUrl": "https://m.xa.bendibao.com/jieri/141626.shtm",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "XA_evt_c91be9",
@@ -456,7 +510,7 @@ window.APP_DATA = {
       "sourceUrl": "https://m.xa.bendibao.com/jieri/141626.shtm",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "XA_evt_3c25b7",
@@ -474,7 +528,7 @@ window.APP_DATA = {
       "sourceUrl": "https://m.xa.bendibao.com/jieri/141626.shtm",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "XA_evt_7d3d2f",
@@ -491,7 +545,7 @@ window.APP_DATA = {
       "sourceUrl": "https://m.xa.bendibao.com/jieri/141626.shtm",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "XA_evt_8f7e78",
@@ -508,7 +562,7 @@ window.APP_DATA = {
       "sourceUrl": "https://m.xa.bendibao.com/jieri/141626.shtm",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-10",
+      "updatedAt": "2026-09-20",
       "priceText": "39元"
     },
     {
@@ -526,7 +580,7 @@ window.APP_DATA = {
       "sourceUrl": "https://m.xa.bendibao.com/jieri/141626.shtm",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-10",
+      "updatedAt": "2026-09-20",
       "priceText": "45元"
     },
     {
@@ -544,7 +598,7 @@ window.APP_DATA = {
       "sourceUrl": "https://m.xa.bendibao.com/jieri/141626.shtm",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-10",
+      "updatedAt": "2026-09-20",
       "priceText": "免费"
     },
     {
@@ -559,10 +613,10 @@ window.APP_DATA = {
       "endDate": "2026-09-27",
       "costId": "free",
       "description": "森系童话风治愈手作市集，主打匠人手工布艺、原创饰品、复古手作、小众摆件，安静温柔。免费入场。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260907A0CQJV00",
+      "sourceUrl": "https://news.qq.com/rain/a/20260831A0BIND00",
       "tagName": "手作市集",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-21"
     },
     {
       "id": "XA_evt_21a39a",
@@ -576,27 +630,10 @@ window.APP_DATA = {
       "endDate": "2026-09-27",
       "costId": "free",
       "description": "聚焦西安在地风物与本土特色，汇集各地特产、手工风物、轻食小吃、文艺手作，一站式打卡城市本土烟火。免费入场。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260907A0CQJV00",
+      "sourceUrl": "https://news.qq.com/rain/a/20260831A0BIND00",
       "tagName": "风物市集",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "XA_evt_32a3b3",
-      "cityCode": "XA",
-      "categoryId": "market",
-      "name": "传奇汉堡节2.0",
-      "venueId": "XA_ven_e47fca0d",
-      "venueText": "西安环贸中心(ICC)",
-      "dateText": "9月16日-9月20日",
-      "startDate": "2026-09-16",
-      "endDate": "2026-09-20",
-      "costId": "free",
-      "description": "艺术、美食、音乐、狂欢同时发生，170+品牌、90多个首次来西安，近70位创作者亲临现场。免费入场。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260907A0CQJV00",
-      "tagName": "美食市集",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-21"
     },
     {
       "id": "XA_evt_e6015d",
@@ -610,29 +647,10 @@ window.APP_DATA = {
       "endDate": "2026-12-31",
       "costId": "free",
       "description": "生命之树下超500米电影画卷街区焕新奇迹大道，丝绸之路国际电影节星光现场、青年影人汇聚，秋夜限时展映。免费。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260907A0CQJV00",
+      "sourceUrl": "https://wlj.xa.gov.cn/wlxw/wlzx/2101833993675206658.html",
       "tagName": "主题街区",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "XA_evt_c170f5",
-      "cityCode": "XA",
-      "categoryId": "show",
-      "name": "李健 万物安生时 巡回演唱会-西安站",
-      "venueId": "XA_ven_685a2dd4",
-      "venueText": "西安奥体中心体育馆",
-      "dateText": "9月19日 19:00",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "costId": "paid",
-      "priceText": "380元起",
-      "description": "李健\"万物安生时\"巡回演唱会西安站，西安奥体中心体育馆，380元起。",
-      "sourceUrl": "https://m.damai.cn/damai/category/index.html?categoryId=1&cityId=610100&cityName=%E8%A5%BF%E5%AE%89",
-      "tagName": "演唱会",
-      "celebrity": "李健",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-21T07:46:19.788Z"
     },
     {
       "id": "XA_evt_21eaad",
@@ -654,24 +672,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-14"
     },
     {
-      "id": "XA_evt_2f35d2",
-      "cityCode": "XA",
-      "categoryId": "show",
-      "name": "叛逆的老登 青春演唱会-西安站",
-      "venueId": "XA_ven_61ea3a45",
-      "venueText": "陕西广电大剧院",
-      "dateText": "9月19日 19:30",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "costId": "paid",
-      "priceText": "39.9元起",
-      "description": "青春演唱会西安站，陕西广电大剧院，39.9元起。",
-      "sourceUrl": "https://m.damai.cn/damai/category/index.html?categoryId=1&cityId=610100&cityName=%E8%A5%BF%E5%AE%89",
-      "tagName": "演唱会",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
       "id": "XA_evt_ebc332",
       "cityCode": "XA",
       "categoryId": "show",
@@ -685,41 +685,6 @@ window.APP_DATA = {
       "description": "邹沛沛「Iridis」巡回演唱会西安站，西演SPACE·塞斯拾拾，约90分钟。",
       "sourceUrl": "https://detail.damai.cn/item.htm?id=1072264280815",
       "tagName": "演唱会",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "XA_evt_e0280b",
-      "cityCode": "XA",
-      "categoryId": "show",
-      "name": "黄少谷 当初 巡回演唱会-西安站",
-      "venueId": "XA_ven_f4f28961",
-      "venueText": "光圈CLUB",
-      "dateText": "9月19日 19:30",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "costId": "paid",
-      "description": "黄少谷【第一话·重启】「当初」巡回演唱会西安站，光圈CLUB，普通票280/SVIP480。",
-      "sourceUrl": "https://detail.damai.cn/item.htm?id=1077225846594",
-      "tagName": "演唱会",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "XA_evt_6949d8",
-      "cityCode": "XA",
-      "categoryId": "show",
-      "name": "国风音乐剧《琵琶行》",
-      "venueId": "XA_ven_c4fad1c3",
-      "venueText": "西安人民剧院",
-      "dateText": "9月18日-19日",
-      "startDate": "2026-09-18",
-      "endDate": "2026-09-19",
-      "costId": "paid",
-      "priceText": "98-598元",
-      "description": "爆款国风音乐剧，把白居易跌宕前半生搬上舞台，古乐、诗吟、光影、舞蹈还原跨越1200年的唐诗乐盛宴。98-598元，陕演6折特惠。",
-      "sourceUrl": "https://m.damai.cn/damai/category/index.html?categoryId=1&cityId=610100&cityName=%E8%A5%BF%E5%AE%89",
-      "tagName": "音乐剧",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
     },
@@ -738,7 +703,7 @@ window.APP_DATA = {
       "sourceUrl": "https://zwfw.xa.gov.cn/chanbaguojigang/zwgk/tzgg/spxxgs/fdzdgk/2091808237014245377.html",
       "tagName": "歌舞",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "XA_evt_5455f3",
@@ -755,7 +720,7 @@ window.APP_DATA = {
       "sourceUrl": "https://zwfw.xa.gov.cn/chanbaguojigang/zwgk/tzgg/spxxgs/fdzdgk/2091808237014245377.html",
       "tagName": "音乐会",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "XA_evt_2908af",
@@ -772,7 +737,7 @@ window.APP_DATA = {
       "sourceUrl": "https://zwfw.xa.gov.cn/chanbaguojigang/zwgk/tzgg/spxxgs/fdzdgk/2091808237014245377.html",
       "tagName": "音乐会",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "XA_evt_3ecd05",
@@ -790,7 +755,7 @@ window.APP_DATA = {
       "sourceUrl": "https://zwfw.xa.gov.cn/chanbaguojigang/zwgk/tzgg/spxxgs/fdzdgk/2091808237014245377.html",
       "tagName": "儿童剧",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "XA_evt_9a2562",
@@ -808,93 +773,7 @@ window.APP_DATA = {
       "sourceUrl": "https://zwfw.xa.gov.cn/chanbaguojigang/zwgk/tzgg/spxxgs/fdzdgk/2091808237014245377.html",
       "tagName": "儿童剧",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "XA_evt_20f958",
-      "cityCode": "XA",
-      "categoryId": "family",
-      "name": "大型音乐偶剧《谁当冠军》",
-      "venueId": "XA_ven_e2213bf1",
-      "venueText": "陕西省民间艺术剧院",
-      "dateText": "9月19日 14:30",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "costId": "paid",
-      "priceText": "60元",
-      "description": "双胞胎姐妹贝贝晶晶为当歌唱冠军引发的故事，告诫孩子道德品质最可贵，陕演特惠60元。",
-      "sourceUrl": "https://zwfw.xa.gov.cn/chanbaguojigang/zwgk/tzgg/spxxgs/fdzdgk/2091808237014245377.html",
-      "tagName": "音乐偶剧",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "XA_evt_e57617",
-      "cityCode": "XA",
-      "categoryId": "family",
-      "name": "儿童剧《西游记之大王叫我来巡山》",
-      "venueId": "XA_ven_c3b787f1",
-      "venueText": "西安砂之船奥特莱斯UME影城",
-      "dateText": "9月19日(3场)",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "costId": "paid",
-      "description": "华幕大观出品儿童剧，西安砂之船4层UME影城4厅，9月19日3场演出。",
-      "sourceUrl": "https://zwfw.xa.gov.cn/chanbaguojigang/zwgk/tzgg/spxxgs/fdzdgk/2091808237014245377.html",
-      "tagName": "儿童剧",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "XA_evt_92bff5",
-      "cityCode": "XA",
-      "categoryId": "family",
-      "name": "儿童剧《奥特曼之星穹曙光》",
-      "venueId": "XA_ven_c3b787f1",
-      "venueText": "西安砂之船奥特莱斯UME影城",
-      "dateText": "9月19日(3场)",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "costId": "paid",
-      "description": "华幕大观出品儿童剧，西安砂之船4层UME影城4厅，9月19日3场演出。",
-      "sourceUrl": "https://zwfw.xa.gov.cn/chanbaguojigang/zwgk/tzgg/spxxgs/fdzdgk/2091808237014245377.html",
-      "tagName": "儿童剧",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "XA_evt_132757",
-      "cityCode": "XA",
-      "categoryId": "family",
-      "name": "儿童剧《汪汪巡逻队》",
-      "venueId": "XA_ven_6a1737c8",
-      "venueText": "西安国际陆港影视传媒",
-      "dateText": "9月20日(4场)",
-      "startDate": "2026-09-20",
-      "endDate": "2026-09-20",
-      "costId": "paid",
-      "description": "合肥票圈出品儿童剧，西安国际陆港影视传媒巨幕厅，9月20日4场演出。",
-      "sourceUrl": "https://zwfw.xa.gov.cn/chanbaguojigang/zwgk/tzgg/spxxgs/fdzdgk/2091808237014245377.html",
-      "tagName": "儿童剧",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "XA_evt_802e8f",
-      "cityCode": "XA",
-      "categoryId": "talk",
-      "name": "守护记忆·智护晚年 阿尔茨海默病日公益沙龙",
-      "venueId": "XA_ven_7459f9e2",
-      "venueText": "西安鹏瑞利知智照护家园",
-      "dateText": "9月19日 09:30",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "costId": "free",
-      "description": "世界阿尔茨海默病日前夕公益沙龙，三甲专家面对面答疑，涵盖早期预防、规范诊疗、中医干预与专业照护，限50人免费。",
-      "sourceUrl": "https://pacv.com.cn/index.php?c=show&id=173",
-      "tagName": "公益沙龙",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "XA_evt_7de936",
@@ -925,10 +804,10 @@ window.APP_DATA = {
       "endDate": "2026-10-31",
       "costId": "free",
       "description": "秦岭脚下自发形成的山货集市，五味子、八月炸、野葡萄等时令山货上市，扎根十余年的山野味道。",
-      "sourceUrl": "https://m.xa.bendibao.com/",
+      "sourceUrl": "https://www.toutiao.com/article/7681152371266798122/",
       "tagName": "山货集市",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-21"
     },
     {
       "id": "XA_evt_3d8257",
@@ -942,10 +821,10 @@ window.APP_DATA = {
       "endDate": "2026-10-31",
       "costId": "free",
       "description": "百年历史集市，地处山川之交，现卤牛肉远近闻名，炸葱花饼、红豆米饭、蓝田饸络等小吃人气火爆。",
-      "sourceUrl": "https://m.xa.bendibao.com/",
+      "sourceUrl": "https://m.xa.bendibao.com/mip/109853.shtm",
       "tagName": "乡村大集",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-21"
     },
     {
       "id": "XA_evt_5a24cf",
@@ -959,44 +838,10 @@ window.APP_DATA = {
       "endDate": "2026-12-31",
       "costId": "free",
       "description": "城墙根下的碳水天堂，油茶麻花、菜盒、甑糕香气四溢，一边吃早点一边看城墙，西安人的日常。",
-      "sourceUrl": "https://m.xa.bendibao.com/",
+      "sourceUrl": "https://www.toutiao.com/article/7681152371266798122/",
       "tagName": "早市",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "XA_evt_cdbe40",
-      "cityCode": "XA",
-      "categoryId": "expo",
-      "name": "第四届西安国际养老产业博览会",
-      "venueId": "XA_ven_e51455d2",
-      "venueText": "西安国际会展中心",
-      "dateText": "9月17日-19日",
-      "startDate": "2026-09-17",
-      "endDate": "2026-09-19",
-      "costId": "free",
-      "description": "以\"秦系银龄 怡养长安\"为主题，40000㎡、500+参展企业、10000+养老前沿产品、20+场会议活动，免费登记入场。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260907A04YS000",
-      "tagName": "老博会",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "XA_evt_ae7db1",
-      "cityCode": "XA",
-      "categoryId": "expo",
-      "name": "2026中国(西安)糖酒食品博览会",
-      "venueId": "XA_ven_e51455d2",
-      "venueText": "西安国际会展中心",
-      "dateText": "9月17日-19日",
-      "startDate": "2026-09-17",
-      "endDate": "2026-09-19",
-      "costId": "free",
-      "description": "第十八届中国西安糖酒食品博览会，聚焦酒水食品产业创新升级，汇聚白酒、休闲食品、预制菜等全品类，3号馆举办。",
-      "sourceUrl": "http://www.xablsw.cn/xwzx/hzdt/2095396334978797570.html",
-      "tagName": "糖酒会",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-21"
     },
     {
       "id": "XA_evt_cfe09f",

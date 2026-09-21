@@ -542,5 +542,45 @@ window.APP_VENUES_GZ = [
     "latitude": 23.092979,
     "longitude": 113.480988,
     "address": ""
+  },
+  {
+    "id": "GZ_ven_ae30965f",
+    "cityCode": "GZ",
+    "name": "六元素体验天地",
+    "latitude": 23.095287,
+    "longitude": 113.390318,
+    "address": "广州市海珠区新港东路1088号（地铁8号线琶洲D出口/11号线F出口，得闲冲浪馆内）"
+  },
+  {
+    "id": "GZ_ven_2403c2d5",
+    "cityCode": "GZ",
+    "name": "花城汇",
+    "latitude": 23.116399,
+    "longitude": 113.327918,
+    "address": "广州市天河区花城广场花城汇中区下沉广场外广场（地铁3/5号线珠江新城B1出口，APM线花城汇A出口）"
+  },
+  {
+    "id": "GZ_ven_f4a3b2c1",
+    "cityCode": "GZ",
+    "name": "岭南印象园",
+    "latitude": 23.0548,
+    "longitude": 113.3892,
+    "address": "番禺区大学城外环西路 168 号"
+  },
+  {
+    "id": "GZ_ven_a1b2c3d4",
+    "cityCode": "GZ",
+    "name": "广州报业文化中心",
+    "latitude": 23.1012,
+    "longitude": 113.3768,
+    "address": "海珠区琶洲街道阅江西路 366 号"
+  },
+  {
+    "id": "GZ_ven_vt101",
+    "cityCode": "GZ",
+    "name": "VT101维多利广场",
+    "latitude": 23.134938,
+    "longitude": 113.320797,
+    "address": "天河区天河南街道体育西路101号"
   }
 ];

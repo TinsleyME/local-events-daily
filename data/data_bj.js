@@ -1,11 +1,83 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-09-17",
-    "weekday": "周四",
+    "date": "2026-09-21",
+    "weekday": "周一",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "BJ_evt_dbefb5",
+      "cityCode": "BJ",
+      "categoryId": "market",
+      "name": "颐和园三山五园文化市集",
+      "venueId": "BJ_ven_f9fe40ac",
+      "venueText": "颐和园",
+      "dateText": "2026年9月25日-10月7日",
+      "startDate": "2026-09-25",
+      "endDate": "2026-10-07",
+      "costId": "free",
+      "priceText": "免费",
+      "description": "颐和园推出三山五园文化市集等双节游园活动。",
+      "sourceUrl": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202609/t20260917_4867746.html",
+      "tagName": "中秋",
+      "createdAt": "2026-09-20",
+      "updatedAt": "2026-09-20"
+    },
+    {
+      "id": "BJ_evt_6dcc61",
+      "cityCode": "BJ",
+      "categoryId": "exhi",
+      "name": "陶然亭公园菊花文化节",
+      "venueId": "BJ_ven_a51eea7b",
+      "venueText": "陶然亭公园",
+      "dateText": "2026年9月25日-10月31日",
+      "startDate": "2026-09-25",
+      "endDate": "2026-10-31",
+      "costId": "free",
+      "priceText": "免费",
+      "description": "陶然亭公园举办菊花文化节。",
+      "sourceUrl": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202609/t20260917_4867746.html",
+      "tagName": "中秋",
+      "createdAt": "2026-09-20",
+      "updatedAt": "2026-09-20"
+    },
+    {
+      "id": "BJ_evt_2da55e",
+      "cityCode": "BJ",
+      "categoryId": "show",
+      "name": "第四届北京国际运河艺术周",
+      "venueId": "BJ_ven_2714c86f",
+      "venueText": "通州运河文化广场",
+      "dateText": "2026-09-24至27日 通州运河文化广场",
+      "startDate": "2026-09-24",
+      "endDate": "2026-09-27",
+      "costId": "free",
+      "priceText": "",
+      "description": "来自14个国家的新锐艺术团队带来22场活力迸发的文艺演出，大运河畔配套举办运河中秋主题市集，各国风味美食、特色文创好物与趣味互动期待参与。",
+      "sourceUrl": "https://peking.bjd.com.cn/content/s6aab82d5e4b039a8e2f1322d.html",
+      "tagName": "中秋",
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-09-21T07:38:33.665Z"
+    },
+    {
+      "id": "BJ_evt_cc3d46",
+      "cityCode": "BJ",
+      "categoryId": "market",
+      "name": "卢沟晓月中秋文化节",
+      "venueId": "BJ_ven_f55c62c6",
+      "venueText": "卢沟桥·宛平城",
+      "dateText": "2026年中秋 卢沟桥·宛平城",
+      "startDate": "2026-09-25",
+      "endDate": "2026-10-07",
+      "costId": "free",
+      "priceText": "",
+      "description": "卢沟桥、宛平城举办「卢沟晓月」中秋文化节，带来中秋诗会等沉浸式文商旅融合活动。",
+      "sourceUrl": "https://www.bjft.gov.cn/fengtaishibao/html/2026-09/16/content_9505_19876381.htm",
+      "tagName": "中秋",
+      "createdAt": "2026-09-18",
+      "updatedAt": "2026-09-21T07:38:33.665Z"
+    },
     {
       "id": "BJ_evt_ca7013",
       "cityCode": "BJ",
@@ -40,7 +112,7 @@ window.APP_DATA = {
       "sourceUrl": "https://bj.people.com.cn/n2/2026/0917/c14540-41698873.html",
       "tagName": "北京园博园 戏曲文化周 中秋国庆",
       "createdAt": "2026-09-17",
-      "updatedAt": "2026-09-17"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "BJ_evt_fdda03",
@@ -55,10 +127,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "",
       "description": "毛不易巡回演唱会北京站，工人体育场。",
-      "sourceUrl": "",
+      "sourceUrl": "https://baike.baidu.com/item/%E6%AF%9B%E4%B8%8D%E6%98%932026%E5%8F%AA%E5%9C%A8%E4%BB%8A%E5%A4%9C%E6%BC%94%E5%94%B1%E4%BC%9A/68999172",
       "tagName": "",
       "createdAt": "2026-09-15",
-      "updatedAt": "2026-09-15"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "BJ_evt_c375a4",
@@ -73,10 +145,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "",
       "description": "孟庭苇北京演唱会，国家体育馆。",
-      "sourceUrl": "",
+      "sourceUrl": "https://www.163.com/dy/article/L5RJ6M1T0518UF54.html",
       "tagName": "",
       "createdAt": "2026-09-15",
-      "updatedAt": "2026-09-15"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "BJ_evt_f28dec",
@@ -91,10 +163,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "",
       "description": "汇集法方60余件马主题馆藏及国内200余件（套）含马形象文物，设“双骏溯源”“驭风而行”“天马行空”三篇章，含数字互动体验。",
-      "sourceUrl": "https://bj.bendibao.com/news/2020923/281339_2.shtm",
+      "sourceUrl": "https://weibo.com/1410818932/5336833057620329",
       "tagName": "",
       "createdAt": "2026-09-15",
-      "updatedAt": "2026-09-15"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "BJ_evt_98a580",
@@ -130,7 +202,7 @@ window.APP_DATA = {
       "sourceUrl": "https://bj.bendibao.com/news/2020923/281339.shtm",
       "tagName": "中秋",
       "createdAt": "2026-09-14",
-      "updatedAt": "2026-09-14"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "BJ_evt_06e070",
@@ -145,10 +217,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "大麦购票",
       "description": "2026 WTT 中国大满贯在北京石景山首钢园举行，接待来自全球近 250 名顶尖球员，设男单、女单、男双、女双、混双五个项目，争夺 2000 分世界排名积分。",
-      "sourceUrl": "https://bj.bendibao.com/news/2020923/281339.shtm",
+      "sourceUrl": "https://worldtabletennis.com/eventInfo?eventId=3249",
       "tagName": "国庆",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-15"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "BJ_evt_4b18b1",
@@ -163,10 +235,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "需购票",
       "description": "「归心一园——故宫乾隆花园沉浸式光影展」以数字科技活化宁寿宫花园文化遗产，将倦勤斋通景画、禊赏亭曲水流觞化作可触摸可沉浸的光影之旅。",
-      "sourceUrl": "https://bj.bendibao.com/news/2020923/281339_2.shtm",
+      "sourceUrl": "https://aipiao.net/Mobile/News/Info-8511.html",
       "tagName": "",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-12"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "BJ_evt_8a3729",
@@ -223,42 +295,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-10"
     },
     {
-      "id": "BJ_evt_826371",
-      "cityCode": "BJ",
-      "categoryId": "family",
-      "name": "儿童剧《童游山海之守护兽狐小九》",
-      "venueId": "BJ_ven_fcdbd7f5",
-      "venueText": "丰台区文化馆",
-      "dateText": "2026.9.18",
-      "startDate": "2026-09-18",
-      "endDate": "2026-09-18",
-      "costId": "paid",
-      "priceText": "",
-      "description": "保利出品亲子儿童剧《童游山海之守护兽狐小九》，取材山海经神话。",
-      "sourceUrl": "https://www.goupiaotong.cn/Product/51502.shtml",
-      "tagName": "",
-      "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
-    },
-    {
-      "id": "BJ_evt_0ccaeb",
-      "cityCode": "BJ",
-      "categoryId": "market",
-      "name": "超级汉堡节·昌平沙河",
-      "venueId": "BJ_ven_730911ab",
-      "venueText": "昌平沙河万达广场",
-      "dateText": "2026.9.25-9.27",
-      "startDate": "2026-09-25",
-      "endDate": "2026-09-27",
-      "costId": "free",
-      "priceText": "",
-      "description": "集合多家汉堡品牌与现场音乐的美食市集，中秋假期登陆昌平沙河万达。",
-      "sourceUrl": "",
-      "tagName": "",
-      "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
-    },
-    {
       "id": "BJ_evt_b025f9",
       "cityCode": "BJ",
       "categoryId": "market",
@@ -274,7 +310,7 @@ window.APP_DATA = {
       "sourceUrl": "https://m.bj.bendibao.com/xiuxian/381045_10.html",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "BJ_evt_2697af",
@@ -292,7 +328,7 @@ window.APP_DATA = {
       "sourceUrl": "https://m.bj.bendibao.com/xiuxian/381045_9.html",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "BJ_evt_0df2cc",
@@ -310,25 +346,7 @@ window.APP_DATA = {
       "sourceUrl": "https://m.bj.bendibao.com/xiuxian/381045_8.html",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
-    },
-    {
-      "id": "BJ_evt_aa04a7",
-      "cityCode": "BJ",
-      "categoryId": "market",
-      "name": "嘻番里手帐大会",
-      "venueId": "BJ_ven_037faa4a",
-      "venueText": "嘻番里",
-      "dateText": "2026.9.19",
-      "startDate": "2026-09-19",
-      "endDate": "2026-09-19",
-      "costId": "free",
-      "priceText": "",
-      "description": "手帐爱好者聚会，集印章、市集与创作者分享。",
-      "sourceUrl": "https://m.bj.bendibao.com/xiuxian/381045_7.html",
-      "tagName": "",
-      "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "BJ_evt_fa8989",
@@ -361,10 +379,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "60元(故宫门票)",
       "description": "故宫重磅书画大展，107件书法绘画碑帖文物，含《步辇图》《游春图》等国宝，分两期呈现唐宋书画典则范式。",
-      "sourceUrl": "https://www.visitbeijing.com.cn/article/4T2mSLLMibO",
+      "sourceUrl": "https://www.dpm.org.cn/show/379510.html",
       "tagName": "书画",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-15"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "BJ_evt_a0bd64",
@@ -379,28 +397,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "近十年全球规模最大费欣专题展，75件俄罗斯博物馆及私人收藏原作，系统呈现这位写实主义大师的素描与油画成就。",
-      "sourceUrl": "https://www.namoc.cn/",
+      "sourceUrl": "https://baike.baidu.com/item/%E8%87%B4%E6%95%AC%E5%B7%A8%E5%8C%A0%EF%BC%9A%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E8%B4%B9%E6%AC%A3%E7%BB%98%E7%94%BB%E7%B2%BE%E5%93%81%E5%B1%95/68612568",
       "tagName": "油画",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "BJ_evt_74de90",
-      "cityCode": "BJ",
-      "categoryId": "exhi",
-      "name": "意在象外——根植本土的当代油画创作",
-      "venueId": "BJ_ven_9f7cbf75",
-      "venueText": "中国美术馆 13-17号厅",
-      "dateText": "2026.9.8-9.19",
-      "startDate": "2026-09-08",
-      "endDate": "2026-09-19",
-      "costId": "free",
-      "priceText": "",
-      "description": "中国美术馆学术邀请系列展，汇聚本土当代油画创作最新成果，以意象语言扎根现实，呈现中国油画当代面貌。",
-      "sourceUrl": "https://www.namoc.cn/",
-      "tagName": "当代油画",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "BJ_evt_0853d8",
@@ -415,10 +415,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "汇集20家文博科研机构270余件古文字类文物，从甲骨金文到简帛玺印，系统呈现汉字承载的中华文明基因密码。",
-      "sourceUrl": "https://www.visitbeijing.com.cn/article/4T2mSLLMibO",
+      "sourceUrl": "https://www.chnmuseum.cn/zx/gbxw/202607/t20260727_281129.shtml",
       "tagName": "古文字",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "BJ_evt_a3e240",
@@ -433,10 +433,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "以中华文明多元一体为主题，通过文献影像与实物呈现各民族交往交流交融历程，适合亲子与研学观众沉浸观展。",
-      "sourceUrl": "https://www.visitbeijing.com.cn/article/4T2mSLLMibO",
+      "sourceUrl": "https://www.toutiao.com/article/7663453858416394787",
       "tagName": "文化",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "BJ_evt_526918",
@@ -470,29 +470,11 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "480元起",
       "description": "林志炫ONEtake3.0《耳顺》巡回演唱会北京站，9月30日19:00在首都体育馆，延续不修音现场实力，经典老歌必安排。",
-      "sourceUrl": "https://www.visitbeijing.com.cn/article/4T2zPMtLZ5p",
+      "sourceUrl": "https://www.beijing.gov.cn/fwcj/calendar/whyc/6a953ba988f81c019f7036e2.html",
       "tagName": "流行",
       "celebrity": "林志炫",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-15"
-    },
-    {
-      "id": "BJ_evt_55613d",
-      "cityCode": "BJ",
-      "categoryId": "show",
-      "name": "国家大剧院威尔第歌剧《弄臣》",
-      "venueId": "BJ_ven_b1000001",
-      "venueText": "国家大剧院 歌剧院",
-      "dateText": "2026.9.16-9.20",
-      "startDate": "2026-09-16",
-      "endDate": "2026-09-20",
-      "costId": "paid",
-      "priceText": "100-1080元",
-      "description": "威尔第中期三大经典杰作之一，国际名导利维摩尔执导，超大LED与3D光影复刻十六世纪意大利宫廷，吕嘉执棒。",
-      "sourceUrl": "https://m.chncpa.org/sywh_1430/xwtjw/rdjj/202608/t20260827_293802.shtml",
-      "tagName": "歌剧",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "BJ_evt_d4abe7",
@@ -507,10 +489,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "200-880元",
       "description": "国家大剧院「经典电影改编系列」第三部，改编1947年同名影史经典，王斑携曾黎等实力派演绎乱世小家的悲欢离合。",
-      "sourceUrl": "https://m.chncpa.org/sywh_1430/xwtjw/rdjj/202608/t20260827_293802.shtml",
+      "sourceUrl": "https://wticket.chncpa.org/product-10002807.html",
       "tagName": "话剧",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "BJ_evt_0b0df9",
@@ -525,28 +507,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "100-680元",
       "description": "国家大剧院与北京舞蹈学院新版经典民族舞剧，以「钢与血」视觉核心复排红色经典，为国庆黄金周添一抹红色艺术亮色。",
-      "sourceUrl": "https://www.visitbeijing.com.cn/article/4T2zPMtLZ5p",
+      "sourceUrl": "https://www.chncpa.org/ycxm/202607/t20260713_291614.html",
       "tagName": "舞剧",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "BJ_evt_2a8ba9",
-      "cityCode": "BJ",
-      "categoryId": "expo",
-      "name": "2026北京国际医疗器械展览会",
-      "venueId": "BJ_ven_b1000011",
-      "venueText": "中国国际展览中心（朝阳馆）",
-      "dateText": "2026.9.16-9.18",
-      "startDate": "2026-09-16",
-      "endDate": "2026-09-18",
-      "costId": "free",
-      "priceText": "免费（需预约）",
-      "description": "以「高端医疗 创新智造」为主题，展示医疗设备及技术，为参展企业与医疗机构提供交流合作平台，需线上预约。",
-      "sourceUrl": "https://www.beijing.gov.cn/fwcj/calendar/",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "BJ_evt_1c77b7",
@@ -564,7 +528,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.beijing.gov.cn/fwcj/calendar/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "BJ_evt_f97676",
@@ -600,25 +564,7 @@ window.APP_DATA = {
       "sourceUrl": "https://m.bj.bendibao.com/xiuxian/381045_11.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "BJ_evt_7ae23c",
-      "cityCode": "BJ",
-      "categoryId": "market",
-      "name": "奇多市面包节",
-      "venueId": "BJ_ven_b100000a",
-      "venueText": "朝阳公园 礼花广场",
-      "dateText": "2026.9.10-9.20",
-      "startDate": "2026-09-10",
-      "endDate": "2026-09-20",
-      "costId": "paid",
-      "priceText": "29元起",
-      "description": "帝都超人气烘焙市集升级为双周连展，近4000㎡生活方式区，百款面包首发，DJ演出与手作文创板块齐备。",
-      "sourceUrl": "https://huodong.com/event/detail/eyaos",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "BJ_evt_719c63",
@@ -669,10 +615,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "",
       "description": "国际篮联旗下最高水平年度俱乐部赛事，来自五大洲六支顶级俱乐部角逐，9月22至27日在国家体育馆激情上演。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260910A053W900",
+      "sourceUrl": "https://hb.chinadaily.com.cn/a/202609/10/WS6aa2242ce4b09a165c78916d.html",
       "tagName": "篮球",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-14"
+      "updatedAt": "2026-09-18"
     },
     {
       "id": "BJ_evt_46d5c8",
@@ -693,24 +639,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-09"
     },
     {
-      "id": "BJ_evt_038841",
-      "cityCode": "BJ",
-      "categoryId": "family",
-      "name": "家庭音乐剧《皮皮·长袜子》",
-      "venueId": "BJ_ven_b100000e",
-      "venueText": "中国儿童剧场",
-      "dateText": "2026.9.12-9.19",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-19",
-      "costId": "paid",
-      "priceText": "100元起",
-      "description": "中国儿童艺术剧院与瑞典艺术家联手打造，改编自林格伦经典童话，融合歌舞马戏与互动，建议3岁以上儿童观看。",
-      "sourceUrl": "https://goupiaotong.cn/mobile/Category-5.shtml",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
       "id": "BJ_evt_192165",
       "cityCode": "BJ",
       "categoryId": "family",
@@ -723,10 +651,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "100元起",
       "description": "中秋专场，90分钟戏中戏串联苏轼李清照岳飞辛弃疾千古词人故事，国风美学亲子启蒙，大人小孩沉浸其中。",
-      "sourceUrl": "https://goupiaotong.cn/mobile/Category-5.shtml",
+      "sourceUrl": "https://www.kankanpiao.com/event/336143660",
       "tagName": "中秋",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "BJ_evt_fc9b7e",
@@ -797,7 +725,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.bjnews.com.cn/detail/1788607347019300.html",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-08"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "BJ_evt_6fd803",
@@ -867,7 +795,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.bjnews.com.cn/detail/1788607347019300.html",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-08"
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "BJ_evt_24ad62",
@@ -881,10 +809,47 @@ window.APP_DATA = {
       "endDate": "2026-11-30",
       "costId": "paid",
       "description": "14部中外佳作轮番上演，覆盖20余处演出空间，全城有戏全民共享。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260907A0AKKR00",
+      "sourceUrl": "https://ysxw.cctv.cn/article.html?item_id=14341160508245201059",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-08"
+      "updatedAt": "2026-09-18"
+    },
+    {
+      "id": "BJ_evt_ffc8f2",
+      "cityCode": "BJ",
+      "categoryId": "show",
+      "name": "迪丽热巴「香辣狂欢」粉丝见面会",
+      "venueId": "",
+      "venueText": "北京·微博IN钻石中心",
+      "dateText": "2026.9.22 18:00-20:00",
+      "startDate": "2026-09-22",
+      "endDate": "2026-09-22",
+      "costId": "free",
+      "priceText": "",
+      "celebrity": "迪丽热巴",
+      "description": "时隔七年个人专场粉丝见面会，火锅局形式面对面交流，全程免费不售票，设四大记忆空间展览。",
+      "sourceUrl": "https://ent.sina.cn/2026-09-20/detail-iniskyim2027381.d.html",
+      "tagName": "",
+      "createdAt": "2026-09-21T07:26:25.726Z",
+      "updatedAt": "2026-09-21T08:35:44.481Z"
+    },
+    {
+      "id": "BJ_evt_91dac2",
+      "cityCode": "BJ",
+      "categoryId": "market",
+      "name": "朝外 UIC「READY GO 城市游乐场」（含 SKZOO/毛不易快闪、蝙蝠侠日）",
+      "venueId": "",
+      "venueText": "朝外 UIC · THE BOX 朝外年轻力中心（朝阳区）",
+      "dateText": "2026.9.19-10.25",
+      "startDate": "2026-09-19",
+      "endDate": "2026-10-25",
+      "costId": "free",
+      "priceText": "开放式街区免费游览（部分快闪/展览需预约或购票）",
+      "sourceUrl": "https://www.toutiao.com/article/7687481223421248015/",
+      "celebrity": "Stray Kids（SKZOO）/毛不易",
+      "description": "双节期间朝外 UIC 化身城市游乐场，串联蝙蝠侠日、SKZOO 全球快闪北京独家、毛不易「只在今夜」快闪等明星 IP 活动。",
+      "createdAt": "2026-09-21T07:38:33.665Z",
+      "updatedAt": "2026-09-21T08:35:44.481Z"
     }
   ]
 };

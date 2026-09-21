@@ -398,5 +398,37 @@ window.APP_VENUES_NJ = [
     "latitude": 31.967981,
     "longitude": 118.765216,
     "address": ""
+  },
+  {
+    "id": "NJ_ven_ba0c0h1",
+    "cityCode": "NJ",
+    "name": "宝船厂遗址公园",
+    "latitude": 32.061005,
+    "longitude": 118.733356,
+    "address": "鼓楼区漓江路57号"
+  },
+  {
+    "id": "NJ_ven_zh1e2n3",
+    "cityCode": "NJ",
+    "name": "珍珠泉风景区",
+    "latitude": 32.126698,
+    "longitude": 118.661317,
+    "address": "浦口区顶山街道珍珠街178号"
+  },
+  {
+    "id": "NJ_ven_yz3j4s5",
+    "cityCode": "NJ",
+    "name": "扬子江生态公园",
+    "latitude": 32.077812,
+    "longitude": 118.702897,
+    "address": "浦口区顶山街道临江路"
+  },
+  {
+    "id": "NJ_ven_ng6h7g8",
+    "cityCode": "NJ",
+    "name": "南钢体育馆(焕星馆)",
+    "latitude": 32.199249,
+    "longitude": 118.746742,
+    "address": "江北新区幸福路77号"
   }
 ];

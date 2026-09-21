@@ -430,5 +430,21 @@ window.APP_VENUES_SZ = [
     "latitude": 22.538286,
     "longitude": 114.065116,
     "address": ""
+  },
+  {
+    "id": "SZ_ven_efac95b8",
+    "cityCode": "SZ",
+    "name": "坪山大剧院",
+    "latitude": 22.68378,
+    "longitude": 114.347911,
+    "address": ""
+  },
+  {
+    "id": "SZ_ven_a7b8c9d0",
+    "cityCode": "SZ",
+    "name": "茅洲河体育艺术中心",
+    "latitude": 22.793095,
+    "longitude": 113.901612,
+    "address": "光明区公明街道北环大道633号"
   }
 ];

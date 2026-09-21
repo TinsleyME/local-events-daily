@@ -446,5 +446,37 @@ window.APP_VENUES_BJ = [
     "latitude": 39.862069,
     "longitude": 116.198116,
     "address": ""
+  },
+  {
+    "id": "BJ_ven_2714c86f",
+    "cityCode": "BJ",
+    "name": "通州运河文化广场",
+    "latitude": 39.910114,
+    "longitude": 116.668903,
+    "address": ""
+  },
+  {
+    "id": "BJ_ven_f55c62c6",
+    "cityCode": "BJ",
+    "name": "卢沟桥·宛平城",
+    "latitude": 39.861226,
+    "longitude": 116.229049,
+    "address": ""
+  },
+  {
+    "id": "BJ_ven_f9fe40ac",
+    "cityCode": "BJ",
+    "name": "颐和园",
+    "latitude": 40.000232,
+    "longitude": 116.281049,
+    "address": ""
+  },
+  {
+    "id": "BJ_ven_a51eea7b",
+    "cityCode": "BJ",
+    "name": "陶然亭公园",
+    "latitude": 39.889391,
+    "longitude": 116.384227,
+    "address": ""
   }
 ];

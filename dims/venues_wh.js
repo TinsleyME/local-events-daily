@@ -406,5 +406,37 @@ window.APP_VENUES_WH = [
     "latitude": 30.44836,
     "longitude": 114.078029,
     "address": "武汉市蔡甸区大集街花博汇"
+  },
+  {
+    "id": "WH_ven_83e5e956",
+    "cityCode": "WH",
+    "name": "武汉两江四岸(长江烟花观赏区)",
+    "latitude": 30.577562,
+    "longitude": 114.295425,
+    "address": ""
+  },
+  {
+    "id": "WH_ven_d43731af",
+    "cityCode": "WH",
+    "name": "龟山电视塔",
+    "latitude": 30.551527,
+    "longitude": 114.26941,
+    "address": ""
+  },
+  {
+    "id": "WH_ven_fcca60f8",
+    "cityCode": "WH",
+    "name": "武汉园博园",
+    "latitude": 30.60756,
+    "longitude": 114.225459,
+    "address": ""
+  },
+  {
+    "id": "WH_ven_cj5h6b7",
+    "cityCode": "WH",
+    "name": "武汉长江大桥",
+    "latitude": 30.5514,
+    "longitude": 114.302,
+    "address": "武昌区临江大道与汉阳拦江路之间"
   }
 ];
