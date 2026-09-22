@@ -478,5 +478,21 @@ window.APP_VENUES_BJ = [
     "latitude": 39.889391,
     "longitude": 116.384227,
     "address": ""
+  },
+  {
+    "id": "BJ_ven_in_diamond",
+    "cityCode": "BJ",
+    "name": "微博 IN 钻石中心",
+    "latitude": 39.94717,
+    "longitude": 116.485593,
+    "address": "北京市朝阳区麦子店街道朝阳公园微博IN钻石中心一层1015号"
+  },
+  {
+    "id": "BJ_ven_thebox",
+    "cityCode": "BJ",
+    "name": "THE BOX 朝外青年中心",
+    "latitude": 39.922782,
+    "longitude": 116.445012,
+    "address": "北京市朝阳区朝外大街12号"
   }
 ];

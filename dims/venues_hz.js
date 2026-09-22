@@ -214,5 +214,13 @@ window.APP_VENUES_HZ = [
     "latitude": 30.0458,
     "longitude": 119.9579,
     "address": "杭州市富阳区"
+  },
+  {
+    "id": "HZ_ven_midi",
+    "cityCode": "HZ",
+    "name": "杭州迷笛Live",
+    "latitude": 30.325385,
+    "longitude": 120.138244,
+    "address": "浙江省杭州市拱墅区小河路488号运河天地104-105"
   }
 ];

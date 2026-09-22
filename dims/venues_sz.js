@@ -446,5 +446,29 @@ window.APP_VENUES_SZ = [
     "latitude": 22.793095,
     "longitude": 113.901612,
     "address": "光明区公明街道北环大道633号"
+  },
+  {
+    "id": "SZ_ven_tianmian",
+    "cityCode": "SZ",
+    "name": "田面国际文创小镇 T11",
+    "latitude": 22.543095,
+    "longitude": 114.057868,
+    "address": "深圳市福田区田面国际文创小镇 T11（华富街道振华西路31号）"
+  },
+  {
+    "id": "SZ_ven_f1a9e604",
+    "cityCode": "SZ",
+    "name": "卓悦汇购物中心",
+    "latitude": 22.55777,
+    "longitude": 114.055605,
+    "address": "福田区梅林街道中康路126号"
+  },
+  {
+    "id": "SZ_ven_5d72dafd",
+    "cityCode": "SZ",
+    "name": "深圳中心公园",
+    "latitude": 22.538283,
+    "longitude": 114.063114,
+    "address": "福田区振华西路(岗厦/赤尾)"
   }
 ];

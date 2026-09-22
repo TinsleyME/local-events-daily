@@ -482,10 +482,10 @@ window.APP_DATA = {
       "endDate": "2026-09-30",
       "costId": "free",
       "description": "展出 212 幅摄影作品，展现云南新时代下的生态图景、文化肌理与社会变迁。",
-      "sourceUrl": "https://cd.bendibao.com/xiuxian/",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-21T08:17:59.818Z"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "CD_evt_61f4f0",
@@ -499,10 +499,10 @@ window.APP_DATA = {
       "endDate": "2026-10-16",
       "costId": "free",
       "description": "融合古蜀文明与现代航天文化，展出 198 件(套)涵盖绘画、数字艺术、装置、非遗手作等品类的群众共创文艺作品。",
-      "sourceUrl": "https://cd.bendibao.com/xiuxian/",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-21T08:17:59.818Z"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "CD_evt_8d3e1e",
@@ -516,10 +516,10 @@ window.APP_DATA = {
       "endDate": "2026-10-08",
       "costId": "free",
       "description": "展出齐白石、李可染等名家 32 幅典藏真迹，呈现现当代中国画人物画的创作流变。",
-      "sourceUrl": "https://cd.bendibao.com/xiuxian/",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-21T08:17:59.818Z",
+      "updatedAt": "2026-09-22",
       "priceText": "免费（需预约）"
     },
     {
@@ -571,10 +571,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "100/180/280/380元",
       "description": "久石让经典配乐专场，以室内乐重现《天空之城》等宫崎骏动画名曲。",
-      "sourceUrl": "https://cd.bendibao.com/yanchu/",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "CD_evt_864101",
@@ -589,10 +589,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "80/120/180/280元",
       "description": "管风琴家马丁·施梅丁以独奏串联巴赫到新世界的交响幻想。",
-      "sourceUrl": "https://cd.bendibao.com/yanchu/",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "CD_evt_a4cab0",
@@ -717,10 +717,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "160元",
       "description": "中国芭蕾“国家队”带来经典普及演出《走进芭蕾》，精选《红色娘子军》《天鹅湖》等中外经典片段。",
-      "sourceUrl": "https://cd.bendibao.com/yanchu/",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "CD_evt_f0e15b",
@@ -978,10 +978,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "前山门票80元、后山门票20元（索道/游船另购）",
       "description": "金秋九月青城山幽谷清凉，前山问道、后山探溪，是成都近郊经典徒步与道教文化寻访线路。",
-      "sourceUrl": "https://cd.bendibao.com/xiuxian/",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-21T08:17:59.818Z"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "CD_evt_c3355f",
@@ -995,10 +995,10 @@ window.APP_DATA = {
       "endDate": "2026-09-30",
       "costId": "free",
       "description": "秋季西岭雪山免费徒步线路（山门至半山），推窗见雪山的成都周边轻徒步之选。",
-      "sourceUrl": "https://cd.bendibao.com/xiuxian/",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-21T08:17:59.818Z"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "CD_evt_70a2c8",
@@ -1012,10 +1012,10 @@ window.APP_DATA = {
       "endDate": "2026-09-30",
       "costId": "free",
       "description": "毗邻街子古镇，林木幽深、光严禅院千年古刹，秋日登山漫步翠林，尽享探幽之乐与山野禅意。",
-      "sourceUrl": "https://cd.bendibao.com/xiuxian/",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-21T08:17:59.818Z"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "CD_evt_3a0fb2",
@@ -1029,10 +1029,10 @@ window.APP_DATA = {
       "endDate": "2026-09-30",
       "costId": "free",
       "description": "森林覆盖率超 90%、约 4600 亩成片水杉林，7 公里平缓木栈道环线，是成都热门森系治愈徒步秘境。",
-      "sourceUrl": "https://cd.bendibao.com/xiuxian/",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-21T08:17:59.818Z"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "CD_evt_3952e3",
@@ -1098,10 +1098,10 @@ window.APP_DATA = {
       "endDate": "2026-09-23",
       "costId": "free",
       "description": "联动重庆同步开展，囊括全品类月饼、名酒好茶、川渝地标农特产、非遗文创、节庆伴手礼等上万款产品。",
-      "sourceUrl": "https://cd.bendibao.com/xiuxian/zhanhui/",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-21T08:17:59.818Z"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "CD_evt_7325b5",
@@ -1115,10 +1115,10 @@ window.APP_DATA = {
       "endDate": "2026-09-22",
       "costId": "free",
       "description": "以“补丘陵农机短板 提装备支撑效能”为主题，展示适用于丘陵山区的耕、种、管、收、运、初加工等机械设备。",
-      "sourceUrl": "https://cd.bendibao.com/xiuxian/zhanhui/",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-21T08:17:59.818Z"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "CD_evt_be71b4",
@@ -1132,10 +1132,10 @@ window.APP_DATA = {
       "endDate": "2026-09-23",
       "costId": "free",
       "description": "聚焦石油石化、化工技术装备、天然气、管道储运、油气数字化、页岩气、安全防护、自动化仪器仪表等产业板块。",
-      "sourceUrl": "https://cd.bendibao.com/xiuxian/zhanhui/",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-21T08:17:59.818Z"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "CD_evt_9aad9c",
@@ -1149,10 +1149,10 @@ window.APP_DATA = {
       "endDate": "2026-09-24",
       "costId": "free",
       "description": "涵盖美育素养、科学教育、营地教育、AI 教育和教育加盟等主题展示。",
-      "sourceUrl": "https://cd.bendibao.com/xiuxian/zhanhui/",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-21T08:17:59.818Z"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "CD_evt_c4612d",
@@ -1166,10 +1166,10 @@ window.APP_DATA = {
       "endDate": "2026-09-28",
       "costId": "free",
       "description": "集中展示各类高品质珠宝玉器等首饰，是珠宝企业开拓市场、传播珠宝文化的展示与交流平台。",
-      "sourceUrl": "https://cd.bendibao.com/xiuxian/zhanhui/",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-21T08:17:59.818Z"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "CD_evt_cafb0e",
@@ -1183,10 +1183,10 @@ window.APP_DATA = {
       "endDate": "2026-09-30",
       "costId": "free",
       "description": "以“发展新质生产力 赋能都市现代农业”为主题，集中展示现代都市农业全产业链成果，打造产销对接平台。",
-      "sourceUrl": "https://cd.bendibao.com/xiuxian/zhanhui/",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-21T08:17:59.818Z"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "CD_evt_50ccda",
@@ -1296,28 +1296,11 @@ window.APP_DATA = {
       "priceText": "1000-2200元"
     },
     {
-      "id": "CD_evt_dd2934",
-      "cityCode": "CD",
-      "categoryId": "market",
-      "name": "巴黎卡诗「元气出发站」限时快闪（成都仁和新城）",
-      "venueId": "",
-      "venueText": "成都仁和新城购物中心 1F 中庭",
-      "dateText": "2026.9.12-9.18",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-18",
-      "costId": "free",
-      "priceText": "免费入场（1V1 头皮检测/体验，商品另购）",
-      "sourceUrl": "https://www.sina.cn/news/detail/5342686560911770.html",
-      "description": "巴黎卡诗头皮护理主题快闪，9月12日至18日落地仁和新城，含头皮检测与打卡福利。",
-      "createdAt": "2026-09-21T07:38:33.665Z",
-      "updatedAt": "2026-09-21T08:35:44.481Z"
-    },
-    {
       "id": "CD_evt_6b75aa",
       "cityCode": "CD",
       "categoryId": "market",
       "name": "ROY6 主题快闪成都站（上城天街）",
-      "venueId": "",
+      "venueId": "CD_ven_shangcheng",
       "venueText": "龙湖成都上城天街 1 号门中庭（金牛区）",
       "dateText": "2026.9.11-9.27",
       "startDate": "2026-09-11",

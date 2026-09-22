@@ -840,7 +840,7 @@ window.APP_DATA = {
       "cityCode": "SH",
       "categoryId": "market",
       "name": "TOP TOY 原创 IP「SISI」全球首发快闪（上海人民广场来福士）",
-      "venueId": "",
+      "venueId": "SH_ven_lifus",
       "venueText": "人民广场来福士 L1 来福士厅（黄浦区西藏中路268号）",
       "dateText": "2026.9.17-10.16",
       "startDate": "2026-09-17",

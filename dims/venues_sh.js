@@ -422,5 +422,13 @@ window.APP_VENUES_SH = [
     "latitude": 31.1689,
     "longitude": 121.4131,
     "address": "闵行区古美路街道龙茗路"
+  },
+  {
+    "id": "SH_ven_lifus",
+    "cityCode": "SH",
+    "name": "来福士 L1 来福士厅",
+    "latitude": 31.230416,
+    "longitude": 121.473701,
+    "address": "上海市黄浦区西藏中路268号"
   }
 ];

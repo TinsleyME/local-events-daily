@@ -582,5 +582,37 @@ window.APP_VENUES_GZ = [
     "latitude": 23.134938,
     "longitude": 113.320797,
     "address": "天河区天河南街道体育西路101号"
+  },
+  {
+    "id": "GZ_ven_359624dd",
+    "cityCode": "GZ",
+    "name": "广州IFC(国金中心)",
+    "latitude": 23.117001,
+    "longitude": 113.328519,
+    "address": "天河区珠江新城珠江西路5号"
+  },
+  {
+    "id": "GZ_ven_87da8913",
+    "cityCode": "GZ",
+    "name": "君超中心",
+    "latitude": 23.113697,
+    "longitude": 113.394521,
+    "address": "天河区黄埔大道中(国际金融城)"
+  },
+  {
+    "id": "GZ_ven_4d7a1771",
+    "cityCode": "GZ",
+    "name": "珠江公园",
+    "latitude": 23.119602,
+    "longitude": 113.328419,
+    "address": "天河区珠江新城花城大道(珠江公园)"
+  },
+  {
+    "id": "GZ_ven_49ad4964",
+    "cityCode": "GZ",
+    "name": "广州音乐公园",
+    "latitude": 23.127006,
+    "longitude": 113.412324,
+    "address": "天河区广东奥林匹克体育中心南广场"
   }
 ];

@@ -415,10 +415,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "解码城市里的万物诗行，推介佛山地理标志产品。",
-      "sourceUrl": "https://fs.bendibao.com/xiuxian/",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-21T08:17:59.818Z"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "FS_evt_5b595c",
@@ -452,10 +452,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "推动粤剧粤曲非遗从剧场走进商业综合体，非遗进商圈文化润民心。",
-      "sourceUrl": "https://fs.bendibao.com/xiuxian/",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-21T08:17:59.818Z"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "FS_evt_156fc5",
@@ -614,10 +614,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "以268件(套)贝类标本、远古化石、人文文物及非遗工艺展品为载体，设识贝、赏贝、用贝、护贝四大主题展区，适合亲子科普。",
-      "sourceUrl": "https://fs.bendibao.com/xiuxian/",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-21T08:17:59.818Z"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "FS_evt_9f1efe",
@@ -650,10 +650,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "全景呈现香云纱数百年工艺脉络，展出民国香云纱服饰、宋庆龄同款旗袍等珍贵实物。",
-      "sourceUrl": "https://fs.bendibao.com/xiuxian/",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-21T08:17:59.818Z"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "FS_evt_4a8a16",
@@ -884,10 +884,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "策划“迎中秋 贺国庆”系列活动，含广东音乐经典名曲音乐会、中秋卡牌探索沙龙、少儿非遗绘本手作、家庭教育通识课等全龄活动。",
-      "sourceUrl": "https://fs.bendibao.com/xiuxian/",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-21T08:17:59.818Z"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "FS_evt_8fd0fe",

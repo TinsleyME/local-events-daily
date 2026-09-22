@@ -145,10 +145,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "免费（需预约）",
       "description": "圆明园牛首、虎首、猴首、猪首四大铜像在浙江省博物馆之江馆区展出，免费面向公众。",
-      "sourceUrl": "https://m.hz.bendibao.com/tour/zhuantizhongqiujie/",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-14",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "HZ_evt_f0614c",
@@ -163,10 +163,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "约2026元/组",
       "description": "今年中秋西湖“月亮船”再度启航，邀请市民泛舟赏月，追寻西湖上的33个月亮。",
-      "sourceUrl": "https://m.hz.bendibao.com/tour/zhuantizhongqiujie/",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-14",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "HZ_evt_31d1c1",
@@ -749,7 +749,7 @@ window.APP_DATA = {
       "cityCode": "HZ",
       "categoryId": "market",
       "name": "得物心愿游乐场线下见面会（林乙洲/陈述一/朴意/丁耀丞）",
-      "venueId": "",
+      "venueId": "HZ_ven_midi",
       "venueText": "杭州迷笛Live(拱墅区小河路488号运河天地)",
       "dateText": "2026.9.25 见面会 / 9.26 签售",
       "startDate": "2026-09-25",

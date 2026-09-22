@@ -518,5 +518,21 @@ window.APP_VENUES_CD = [
     "latitude": 30.657293,
     "longitude": 104.059873,
     "address": "青羊区少城街道东城根南街17号(近人民公园)"
+  },
+  {
+    "id": "CD_ven_renhe",
+    "cityCode": "CD",
+    "name": "仁和新城购物中心",
+    "latitude": 30.58756,
+    "longitude": 104.052335,
+    "address": "四川省成都市高新区府城大道西段505号"
+  },
+  {
+    "id": "CD_ven_shangcheng",
+    "cityCode": "CD",
+    "name": "龙湖成都上城天街",
+    "latitude": 30.684822,
+    "longitude": 104.071834,
+    "address": "成都市金牛区成华西街299号"
   }
 ];

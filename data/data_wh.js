@@ -608,10 +608,10 @@ window.APP_DATA = {
       "endDate": "2026-10-11",
       "costId": "free",
       "description": "超人气鹦鹉IP鸠央主题展，可爱治愈的宠物友好艺术空间，适合亲子与爱宠人士打卡。",
-      "sourceUrl": "https://www.toutiao.com/article/7648147735606051362",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "WH_evt_a59e7b",
@@ -766,10 +766,10 @@ window.APP_DATA = {
       "endDate": "2026-09-27",
       "costId": "free",
       "description": "武汉首届咖啡节，上百个咖啡品牌齐聚，外地网红店加本土店，中秋假期泡在咖啡香里。",
-      "sourceUrl": "https://www.toutiao.com/article/7648147735606051362",
+      "sourceUrl": "https://new.qq.com/rain/a/20260920A06AV600",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "WH_evt_f14165",
@@ -783,10 +783,10 @@ window.APP_DATA = {
       "endDate": "2026-09-27",
       "costId": "free",
       "description": "鲜萃奶茶、清爽果茶、奶咖特调一次性喝个遍，实现奶茶自由。",
-      "sourceUrl": "https://www.toutiao.com/article/7648147735606051362",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "WH_evt_f81c49",
@@ -800,10 +800,10 @@ window.APP_DATA = {
       "endDate": "2026-09-27",
       "costId": "free",
       "description": "一秒穿越香港街头，鸡蛋仔、咖喱鱼蛋、丝袜奶茶全安排，拍照自带复古滤镜。",
-      "sourceUrl": "https://www.toutiao.com/article/7648147735606051362",
+      "sourceUrl": "https://www.toutiao.com/article/7687509234090623528/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "WH_evt_e11ff5",
@@ -817,10 +817,10 @@ window.APP_DATA = {
       "endDate": "2026-09-27",
       "costId": "free",
       "description": "武汉首届香菜主题市集，爱香菜星人的天堂，各种香菜创意美食挑战，恨香菜的也来凑热闹。",
-      "sourceUrl": "https://www.toutiao.com/article/7648147735606051362",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "WH_evt_9849d4",
@@ -1037,7 +1037,7 @@ window.APP_DATA = {
       "cityCode": "WH",
       "categoryId": "show",
       "name": "王燕飞「山楂季」见面会",
-      "venueId": "",
+      "venueId": "WH_ven_08a2b3da",
       "venueText": "不晚IN TIME LIVE(汉阳造店)",
       "dateText": "2026.9.26 16:30",
       "startDate": "2026-09-26",

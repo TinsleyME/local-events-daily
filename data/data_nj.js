@@ -434,10 +434,10 @@ window.APP_DATA = {
       "endDate": null,
       "costId": "free",
       "description": "南京博物院藏陕西皮影艺术展，呈现传统皮影的造型与光影之美。",
-      "sourceUrl": "https://nj.bendibao.com/xiuxian/",
+      "sourceUrl": "",
       "tagName": "皮影",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-21T08:17:59.818Z"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "NJ_evt_f94fed",
@@ -468,10 +468,10 @@ window.APP_DATA = {
       "endDate": "2026-09-25",
       "costId": "free",
       "description": "以草木染为题，呈现传统植物染色的色彩美学与技艺。",
-      "sourceUrl": "https://nj.bendibao.com/xiuxian/",
+      "sourceUrl": "",
       "tagName": "草木染",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-21T08:17:59.818Z"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "NJ_evt_d448dc",
@@ -502,10 +502,10 @@ window.APP_DATA = {
       "endDate": "2026-11-15",
       "costId": "free",
       "description": "呈现西汉广陵国漆木器文物，解读汉代漆器工艺与艺术。",
-      "sourceUrl": "https://nj.bendibao.com/xiuxian/",
+      "sourceUrl": "",
       "tagName": "漆器",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-21T08:17:59.818Z"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "NJ_evt_276887",
@@ -515,14 +515,14 @@ window.APP_DATA = {
       "venueId": "NJ_ven_6a3da22a",
       "venueText": "南京博物院 特展馆15展厅",
       "dateText": "常设",
-      "startDate": null,
+      "startDate": "2026-01-01",
       "endDate": null,
       "costId": "free",
       "description": "南京博物院藏康雍乾三代官窑瓷器精品长期陈列。",
-      "sourceUrl": "https://nj.bendibao.com/xiuxian/",
+      "sourceUrl": "",
       "tagName": "官窑",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-21T08:17:59.818Z",
+      "updatedAt": "2026-09-22",
       "priceText": "免费"
     },
     {
@@ -533,14 +533,14 @@ window.APP_DATA = {
       "venueId": "NJ_ven_6a3da22a",
       "venueText": "南京博物院 特展馆13展厅",
       "dateText": "常设",
-      "startDate": null,
+      "startDate": "2026-01-01",
       "endDate": null,
       "costId": "free",
       "description": "展出院藏西洋与中国钟表精品，呈现机械与时间艺术。",
-      "sourceUrl": "https://nj.bendibao.com/xiuxian/",
+      "sourceUrl": "",
       "tagName": "钟表",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-21T08:17:59.818Z",
+      "updatedAt": "2026-09-22",
       "priceText": "免费"
     },
     {
@@ -591,10 +591,10 @@ window.APP_DATA = {
       "endDate": "2026-11-15",
       "costId": "free",
       "description": "以当代艺术季串联粮仓空间，呈现青年艺术家群展。",
-      "sourceUrl": "https://nj.bendibao.com/xiuxian/",
+      "sourceUrl": "",
       "tagName": "当代",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-21T08:17:59.818Z"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "NJ_evt_ece202",
@@ -626,10 +626,10 @@ window.APP_DATA = {
       "endDate": "2026-10-25",
       "costId": "free",
       "description": "围绕童寯园林思想，呈现中西园林绘画与建筑文献。",
-      "sourceUrl": "https://nj.bendibao.com/xiuxian/",
+      "sourceUrl": "",
       "tagName": "园林",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-21T08:17:59.818Z"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "NJ_evt_66e331",
@@ -639,7 +639,7 @@ window.APP_DATA = {
       "venueId": "NJ_ven_5444817a",
       "venueText": "南京科技馆负一层",
       "dateText": "常设",
-      "startDate": null,
+      "startDate": "2026-01-01",
       "endDate": null,
       "costId": "free",
       "description": "太空主题科学艺术展，融合航天科普与沉浸装置。",
@@ -825,10 +825,10 @@ window.APP_DATA = {
       "endDate": "2026-09-25",
       "costId": "free",
       "description": "奇石玉器博览会，汇聚赏石与玉器精品。",
-      "sourceUrl": "https://nj.bendibao.com/xiuxian/",
+      "sourceUrl": "",
       "tagName": "奇石",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-21T08:17:59.818Z",
+      "updatedAt": "2026-09-22",
       "priceText": "免费"
     },
     {
@@ -879,10 +879,10 @@ window.APP_DATA = {
       "endDate": "2026-09-26",
       "costId": "free",
       "description": "中秋特别策划，品读诗词长河中的月意象。",
-      "sourceUrl": "https://nj.bendibao.com/xiuxian/",
+      "sourceUrl": "",
       "tagName": "讲座",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-21T08:17:59.818Z"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "NJ_evt_509e12",
@@ -914,10 +914,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "需购票",
       "description": "22.31KM环紫金山越野认证赛，含ITRA积分。",
-      "sourceUrl": "https://nj.bendibao.com/xiuxian/",
+      "sourceUrl": "",
       "tagName": "越野",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-21T08:17:59.818Z"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "NJ_evt_dd5bff",
@@ -932,10 +932,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "529-799元",
       "description": "4-14岁儿童山地障碍挑战，不竞速不排名的快乐泥泞冒险。",
-      "sourceUrl": "https://nj.bendibao.com/xiuxian/",
+      "sourceUrl": "",
       "tagName": "障碍赛",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-21T08:17:59.818Z"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "NJ_evt_6d8e79",
@@ -968,10 +968,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "99元/组起（原价158，每组最多4人，超员20元/人）",
       "description": "亲子田园秋收，敲板栗、挖红薯、摘桃，顺游止马岭与平山。",
-      "sourceUrl": "https://nj.bendibao.com/xiuxian/",
+      "sourceUrl": "",
       "tagName": "亲子",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-21T08:17:59.818Z"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "NJ_evt_00c47f",
@@ -986,10 +986,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "2988元/人（拼团2900）",
       "description": "6岁以上亲子地质科考营，野外采集橄榄石、雨花石、黄铁矿等。",
-      "sourceUrl": "https://nj.bendibao.com/xiuxian/",
+      "sourceUrl": "",
       "tagName": "科考",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-21T08:17:59.818Z"
+      "updatedAt": "2026-09-22"
     },
     {
       "id": "NJ_evt_4a25b0",
@@ -1039,10 +1039,10 @@ window.APP_DATA = {
       "endDate": "2026-09-23",
       "costId": "free",
       "description": "聚焦电商创新与数字消费，配套产业对接活动。",
-      "sourceUrl": "https://nj.bendibao.com/xiuxian/",
+      "sourceUrl": "",
       "tagName": "电商",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-21T08:17:59.818Z",
+      "updatedAt": "2026-09-22",
       "priceText": "免费（行业大会）"
     },
     {
