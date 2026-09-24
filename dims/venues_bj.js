@@ -1,1 +1,530 @@
-window.APP_VENUES_BJ = [{"id":"BJ_ven_22da40dc","cityCode":"BJ","name":"怀柔科学城","latitude":40.363881,"longitude":116.666635,"address":"怀柔区中高路与雁栖镇七路交叉口正东方向143米左右"},{"id":"BJ_ven_9a41ec78","cityCode":"BJ","name":"首钢园","latitude":39.915415,"longitude":116.155232,"address":"石景山区石景山路68号"},{"id":"BJ_ven_697a60a2","cityCode":"BJ","name":"北京798艺术区","latitude":39.983285,"longitude":116.495027,"address":"朝阳区万红北巷北京798艺术中心南门北侧约50米"},{"id":"BJ_ven_f50e07c5","cityCode":"BJ","name":"中国科学技术馆","latitude":40.006023,"longitude":116.398595,"address":"朝阳区北辰东路5号"},{"id":"BJ_ven_57f72f54","cityCode":"BJ","name":"鸟巢科技艺术中心","latitude":39.990981,"longitude":116.397813,"address":"朝阳区国家体育场南路1号"},{"id":"BJ_ven_8972bfa4","cityCode":"BJ","name":"故宫博物院","latitude":39.91799,"longitude":116.397027,"address":"东城区景山前街4号"},{"id":"BJ_ven_9f7cbf75","cityCode":"BJ","name":"中国美术馆","latitude":39.924158,"longitude":116.410798,"address":"东城区景山街道五四大街1号"},{"id":"BJ_ven_c175564a","cityCode":"BJ","name":"北京大葆台遗址博物馆","latitude":39.80532,"longitude":116.297203,"address":"丰台区世界公园郭公庄707号"},{"id":"BJ_ven_83d7144e","cityCode":"BJ","name":"北京泰康美术馆","latitude":39.911267,"longitude":116.467798,"address":"朝阳区泰康集团大厦1-2层"},{"id":"BJ_ven_c01d296b","cityCode":"BJ","name":"北京今日美术馆","latitude":39.900089,"longitude":116.467689,"address":"朝阳区百子湾路32号苹果社区4号楼"},{"id":"BJ_ven_09231b9f","cityCode":"BJ","name":"首钢国际会展中心","latitude":39.916463,"longitude":116.15867,"address":"石景山区古城街道石景山路68号"},{"id":"BJ_ven_fe39b3b9","cityCode":"BJ","name":"北京展览馆","latitude":39.94051,"longitude":116.344119,"address":"西城区西直门外大街135号(近地铁西直门站)"},{"id":"BJ_ven_61cdb6eb","cityCode":"BJ","name":"地坛公园","latitude":39.953777,"longitude":116.414443,"address":"东城区安定门外大街"},{"id":"BJ_ven_4eb147a3","cityCode":"BJ","name":"北京东岳庙","latitude":39.924932,"longitude":116.44377,"address":"朝阳区朝外街道朝阳门外大街141号"},{"id":"BJ_ven_0931faa8","cityCode":"BJ","name":"中央歌剧院剧场","latitude":39.929228,"longitude":116.43667,"address":"东城区东中街115号"},{"id":"BJ_ven_b4c47c26","cityCode":"BJ","name":"世界花卉大观园","latitude":39.835332,"longitude":116.353217,"address":"丰台区南四环中路235号"},{"id":"BJ_ven_b1000001","cityCode":"BJ","name":"国家大剧院","latitude":39.904909,"longitude":116.389814,"address":"西城区西长安街2号(人民大会堂西)"},{"id":"BJ_ven_b1000002","cityCode":"BJ","name":"国家体育场（鸟巢）","latitude":39.99333,"longitude":116.395784,"address":"朝阳区国家体育场南路1号奥林匹克公园内"},{"id":"BJ_ven_b1000004","cityCode":"BJ","name":"首都体育馆","latitude":39.94003,"longitude":116.327424,"address":"海淀区中关村南大街56号(近地铁四号线)"},{"id":"BJ_ven_b1000005","cityCode":"BJ","name":"北京工人体育场","latitude":39.93033,"longitude":116.44704,"address":"朝阳区工人体育场北路(三里屯附近)"},{"id":"BJ_ven_b1000006","cityCode":"BJ","name":"华熙LIVE·五棵松","latitude":39.910105,"longitude":116.276893,"address":"海淀区复兴路69号"},{"id":"BJ_ven_b1000007","cityCode":"BJ","name":"恭王府博物馆","latitude":39.937222,"longitude":116.386315,"address":"西城区前海西街17号"},{"id":"BJ_ven_b1000008","cityCode":"BJ","name":"国家典籍博物馆","latitude":39.94311,"longitude":116.323946,"address":"海淀区紫竹院街道中关村南大街33号国家图书馆总馆南区内"},{"id":"BJ_ven_b1000009","cityCode":"BJ","name":"北京古代建筑博物馆","latitude":39.879311,"longitude":116.393164,"address":"西城区天桥街道东经路21号"},{"id":"BJ_ven_b100000a","cityCode":"BJ","name":"朝阳公园","latitude":39.944151,"longitude":116.48263,"address":"朝阳区朝阳公园南路1号"},{"id":"BJ_ven_b100000b","cityCode":"BJ","name":"北京音乐产业园","latitude":39.854852,"longitude":116.596309,"address":"朝阳区黑庄户路8号"},{"id":"BJ_ven_b100000d","cityCode":"BJ","name":"龙庆峡","latitude":40.545649,"longitude":116.010673,"address":"延庆区古城村西北"},{"id":"BJ_ven_b100000e","cityCode":"BJ","name":"中国儿童艺术剧院","latitude":39.914825,"longitude":116.408475,"address":"东城区东华门街道东安门大街64号中国儿童艺术剧院1层"},{"id":"BJ_ven_b1000010","cityCode":"BJ","name":"五棵松·爱乐汇艺术空间","latitude":39.912927,"longitude":116.276268,"address":"海淀区复兴路69号五棵松万达广场6F"},{"id":"BJ_ven_b1000011","cityCode":"BJ","name":"中国国际展览中心(朝阳馆)","latitude":39.962379,"longitude":116.443398,"address":"朝阳区香河园街道北三环东路6号"},{"id":"BJ_ven_b1000012","cityCode":"BJ","name":"北京国家会议中心","latitude":40.002901,"longitude":116.389432,"address":"北京市朝阳区国家会议中心"},{"id":"BJ_ven_b1000013","cityCode":"BJ","name":"中国国际展览中心(顺义馆)","latitude":40.070482,"longitude":116.549631,"address":"顺义区天竺空港城商务区裕翔路88号"},{"id":"BJ_ven_b1000014","cityCode":"BJ","name":"门头沟","latitude":39.940842,"longitude":116.101668,"address":"北京市门头沟区"},{"id":"BJ_ven_b1000015","cityCode":"BJ","name":"天鼎218文创园","latitude":39.890967,"longitude":116.402242,"address":"东城区天坛街道珠市口东大街甲16号"},{"id":"BJ_ven_b1000016","cityCode":"BJ","name":"正大中心商场","latitude":39.912566,"longitude":116.467866,"address":"朝阳区建外街道光华路10号正大中心南塔3楼"},{"id":"BJ_ven_921b7c43","cityCode":"BJ","name":"中国国家博物馆","latitude":39.905374,"longitude":116.401304,"address":"东城区东长安街16号"},{"id":"BJ_ven_08e58762","cityCode":"BJ","name":"中华世纪坛","latitude":39.910752,"longitude":116.321587,"address":"海淀区复兴路甲9号(中央电视台与军事博物馆之间)"},{"id":"BJ_ven_6b7b72a5","cityCode":"BJ","name":"奥林匹克森林公园-国家网球中心","latitude":40.012043,"longitude":116.37779,"address":"朝阳区奥运村街道林萃路2号"},{"id":"BJ_ven_5e5b1b09","cityCode":"BJ","name":"朝阳大悦城","latitude":39.92473,"longitude":116.517722,"address":"朝阳区朝阳北路101号青年路口"},{"id":"BJ_ven_824af15f","cityCode":"BJ","name":"奥林匹克森林公园","latitude":40.018635,"longitude":116.392159,"address":"朝阳区科荟路33号"},{"id":"BJ_ven_b04aae77","cityCode":"BJ","name":"永定河休闲森林公园","latitude":39.890129,"longitude":116.170599,"address":"石景山区古城街道京原路55号院"},{"id":"BJ_ven_4494cfed","cityCode":"BJ","name":"清华大学艺术博物馆","latitude":40.001971,"longitude":116.335592,"address":"海淀区双清路30号清华大学内"},{"id":"BJ_ven_fcdbd7f5","cityCode":"BJ","name":"丰台区文化馆","latitude":39.859431,"longitude":116.283479,"address":"丰台区丰台街道西四环南路64号文化中心大楼"},{"id":"BJ_ven_730911ab","cityCode":"BJ","name":"北京昌平沙河万达百丽店","latitude":40.10808,"longitude":116.314459,"address":"昌平区北京沙河万达广场"},{"id":"BJ_ven_fd9670c0","cityCode":"BJ","name":"酷车小镇","latitude":39.872951,"longitude":116.503041,"address":"朝阳区金蝉西路甲一号(南楼梓庄地铁站C东南口步行310米)"},{"id":"BJ_ven_2ccab7b8","cityCode":"BJ","name":"天桥演艺区","latitude":39.885438,"longitude":116.398098,"address":"西城区天桥街道北京天桥剧场周边"},{"id":"BJ_ven_037faa4a","cityCode":"BJ","name":"BOM嘻番里","latitude":40.001809,"longitude":116.353797,"address":"海淀区学清路38号金码大厦B座(六道口地铁站B东北口步行110米)"},{"id":"BJ_ven_c746af6e","cityCode":"BJ","name":"龙徽1910文化创意产业园","latitude":39.926115,"longitude":116.255124,"address":"海淀区田村路街道玉泉路2号"},{"id":"BJ_ven_5a72895e","cityCode":"BJ","name":"北京音乐厅","latitude":39.906116,"longitude":116.382469,"address":"西城区西长安街街道北新华街1号(近西长安街)"},{"id":"BJ_ven_edea22a3","cityCode":"BJ","name":"首都剧场","latitude":39.921604,"longitude":116.411945,"address":"东城区东华门街道王府井大街22号"},{"id":"BJ_ven_6e69eed8","cityCode":"BJ","name":"紫竹院公园","latitude":39.942352,"longitude":116.319079,"address":"海淀区中关村南大街35号"},{"id":"BJ_ven_db4c9a6d","cityCode":"BJ","name":"王府井商业街","latitude":39.915626,"longitude":116.411563,"address":"东城区书店"},{"id":"BJ_ven_69f6b8b1","cityCode":"BJ","name":"亮马河国际风情水岸","latitude":39.949042,"longitude":116.47902,"address":"朝阳区麦子店街道公园路蓝色港湾东侧蓝港码头"},{"id":"BJ_ven_8eb7f96d","cityCode":"BJ","name":"白塔寺","latitude":39.924875,"longitude":116.363361,"address":"西城区阜成门内大街171号"},{"id":"BJ_ven_ab7baf","cityCode":"BJ","name":"国家体育馆","latitude":39.996238,"longitude":116.391001,"address":"朝阳区奥运村街道天辰东路9号"},{"id":"BJ_ven_87c7595f","cityCode":"BJ","name":"北京园博园","latitude":39.876665,"longitude":116.190595,"address":"丰台区射击场路15号"},{"id":"BJ_ven_2714c86f","cityCode":"BJ","name":"通州运河文化广场","latitude":39.91398,"longitude":116.678335,"address":"通州区芙蓉西路9号"},{"id":"BJ_ven_f55c62c6","cityCode":"BJ","name":"卢沟桥·宛平城","latitude":39.851436,"longitude":116.226098,"address":"丰台区城内街"},{"id":"BJ_ven_f9fe40ac","cityCode":"BJ","name":"颐和园","latitude":40.000232,"longitude":116.281049,"address":"海淀区新建宫门路19号"},{"id":"BJ_ven_a51eea7b","cityCode":"BJ","name":"陶然亭公园","latitude":39.874496,"longitude":116.381921,"address":"西城区太平街19号"},{"id":"BJ_ven_in_diamond","cityCode":"BJ","name":"微博 IN 钻石中心","latitude":39.94717,"longitude":116.485593,"address":"北京市朝阳区麦子店街道朝阳公园微博IN钻石中心一层1015号"},{"id":"BJ_ven_thebox","cityCode":"BJ","name":"THE BOX 朝外青年中心","latitude":39.922782,"longitude":116.445012,"address":"北京市朝阳区朝外大街12号"}];
+window.APP_VENUES_BJ = [
+  {
+    "id": "BJ_ven_22da40dc",
+    "cityCode": "BJ",
+    "name": "怀柔科学城",
+    "latitude": 40.363881,
+    "longitude": 116.666635,
+    "address": "怀柔区中高路与雁栖镇七路交叉口正东方向143米左右"
+  },
+  {
+    "id": "BJ_ven_9a41ec78",
+    "cityCode": "BJ",
+    "name": "首钢园",
+    "latitude": 39.915415,
+    "longitude": 116.155232,
+    "address": "石景山区石景山路68号"
+  },
+  {
+    "id": "BJ_ven_697a60a2",
+    "cityCode": "BJ",
+    "name": "北京798艺术区",
+    "latitude": 39.983285,
+    "longitude": 116.495027,
+    "address": "朝阳区万红北巷北京798艺术中心南门北侧约50米"
+  },
+  {
+    "id": "BJ_ven_f50e07c5",
+    "cityCode": "BJ",
+    "name": "中国科学技术馆",
+    "latitude": 40.006023,
+    "longitude": 116.398595,
+    "address": "朝阳区北辰东路5号"
+  },
+  {
+    "id": "BJ_ven_57f72f54",
+    "cityCode": "BJ",
+    "name": "鸟巢科技艺术中心",
+    "latitude": 39.990981,
+    "longitude": 116.397813,
+    "address": "朝阳区国家体育场南路1号"
+  },
+  {
+    "id": "BJ_ven_8972bfa4",
+    "cityCode": "BJ",
+    "name": "故宫博物院",
+    "latitude": 39.91799,
+    "longitude": 116.397027,
+    "address": "东城区景山前街4号"
+  },
+  {
+    "id": "BJ_ven_9f7cbf75",
+    "cityCode": "BJ",
+    "name": "中国美术馆",
+    "latitude": 39.924158,
+    "longitude": 116.410798,
+    "address": "东城区景山街道五四大街1号"
+  },
+  {
+    "id": "BJ_ven_c175564a",
+    "cityCode": "BJ",
+    "name": "北京大葆台遗址博物馆",
+    "latitude": 39.80532,
+    "longitude": 116.297203,
+    "address": "丰台区世界公园郭公庄707号"
+  },
+  {
+    "id": "BJ_ven_83d7144e",
+    "cityCode": "BJ",
+    "name": "北京泰康美术馆",
+    "latitude": 39.911267,
+    "longitude": 116.467798,
+    "address": "朝阳区泰康集团大厦1-2层"
+  },
+  {
+    "id": "BJ_ven_c01d296b",
+    "cityCode": "BJ",
+    "name": "北京今日美术馆",
+    "latitude": 39.900089,
+    "longitude": 116.467689,
+    "address": "朝阳区百子湾路32号苹果社区4号楼"
+  },
+  {
+    "id": "BJ_ven_09231b9f",
+    "cityCode": "BJ",
+    "name": "首钢国际会展中心",
+    "latitude": 39.916463,
+    "longitude": 116.15867,
+    "address": "石景山区古城街道石景山路68号"
+  },
+  {
+    "id": "BJ_ven_fe39b3b9",
+    "cityCode": "BJ",
+    "name": "北京展览馆",
+    "latitude": 39.94051,
+    "longitude": 116.344119,
+    "address": "西城区西直门外大街135号(近地铁西直门站)"
+  },
+  {
+    "id": "BJ_ven_61cdb6eb",
+    "cityCode": "BJ",
+    "name": "地坛公园",
+    "latitude": 39.953777,
+    "longitude": 116.414443,
+    "address": "东城区安定门外大街"
+  },
+  {
+    "id": "BJ_ven_4eb147a3",
+    "cityCode": "BJ",
+    "name": "北京东岳庙",
+    "latitude": 39.924932,
+    "longitude": 116.44377,
+    "address": "朝阳区朝外街道朝阳门外大街141号"
+  },
+  {
+    "id": "BJ_ven_0931faa8",
+    "cityCode": "BJ",
+    "name": "中央歌剧院剧场",
+    "latitude": 39.929228,
+    "longitude": 116.43667,
+    "address": "东城区东中街115号"
+  },
+  {
+    "id": "BJ_ven_b4c47c26",
+    "cityCode": "BJ",
+    "name": "世界花卉大观园",
+    "latitude": 39.835332,
+    "longitude": 116.353217,
+    "address": "丰台区南四环中路235号"
+  },
+  {
+    "id": "BJ_ven_b1000001",
+    "cityCode": "BJ",
+    "name": "国家大剧院",
+    "latitude": 39.904909,
+    "longitude": 116.389814,
+    "address": "西城区西长安街2号(人民大会堂西)"
+  },
+  {
+    "id": "BJ_ven_b1000002",
+    "cityCode": "BJ",
+    "name": "国家体育场（鸟巢）",
+    "latitude": 39.99333,
+    "longitude": 116.395784,
+    "address": "朝阳区国家体育场南路1号奥林匹克公园内"
+  },
+  {
+    "id": "BJ_ven_b1000004",
+    "cityCode": "BJ",
+    "name": "首都体育馆",
+    "latitude": 39.94003,
+    "longitude": 116.327424,
+    "address": "海淀区中关村南大街56号(近地铁四号线)"
+  },
+  {
+    "id": "BJ_ven_b1000005",
+    "cityCode": "BJ",
+    "name": "北京工人体育场",
+    "latitude": 39.93033,
+    "longitude": 116.44704,
+    "address": "朝阳区工人体育场北路(三里屯附近)"
+  },
+  {
+    "id": "BJ_ven_b1000006",
+    "cityCode": "BJ",
+    "name": "华熙LIVE·五棵松",
+    "latitude": 39.910105,
+    "longitude": 116.276893,
+    "address": "海淀区复兴路69号"
+  },
+  {
+    "id": "BJ_ven_b1000007",
+    "cityCode": "BJ",
+    "name": "恭王府博物馆",
+    "latitude": 39.937222,
+    "longitude": 116.386315,
+    "address": "西城区前海西街17号"
+  },
+  {
+    "id": "BJ_ven_b1000008",
+    "cityCode": "BJ",
+    "name": "国家典籍博物馆",
+    "latitude": 39.94311,
+    "longitude": 116.323946,
+    "address": "海淀区紫竹院街道中关村南大街33号国家图书馆总馆南区内"
+  },
+  {
+    "id": "BJ_ven_b1000009",
+    "cityCode": "BJ",
+    "name": "北京古代建筑博物馆",
+    "latitude": 39.879311,
+    "longitude": 116.393164,
+    "address": "西城区天桥街道东经路21号"
+  },
+  {
+    "id": "BJ_ven_b100000a",
+    "cityCode": "BJ",
+    "name": "朝阳公园",
+    "latitude": 39.944151,
+    "longitude": 116.48263,
+    "address": "朝阳区朝阳公园南路1号"
+  },
+  {
+    "id": "BJ_ven_b100000b",
+    "cityCode": "BJ",
+    "name": "北京音乐产业园",
+    "latitude": 39.854852,
+    "longitude": 116.596309,
+    "address": "朝阳区黑庄户路8号"
+  },
+  {
+    "id": "BJ_ven_b100000d",
+    "cityCode": "BJ",
+    "name": "龙庆峡",
+    "latitude": 40.545649,
+    "longitude": 116.010673,
+    "address": "延庆区古城村西北"
+  },
+  {
+    "id": "BJ_ven_b100000e",
+    "cityCode": "BJ",
+    "name": "中国儿童艺术剧院",
+    "latitude": 39.914825,
+    "longitude": 116.408475,
+    "address": "东城区东华门街道东安门大街64号中国儿童艺术剧院1层"
+  },
+  {
+    "id": "BJ_ven_b1000010",
+    "cityCode": "BJ",
+    "name": "五棵松·爱乐汇艺术空间",
+    "latitude": 39.912927,
+    "longitude": 116.276268,
+    "address": "海淀区复兴路69号五棵松万达广场6F"
+  },
+  {
+    "id": "BJ_ven_b1000011",
+    "cityCode": "BJ",
+    "name": "中国国际展览中心(朝阳馆)",
+    "latitude": 39.962379,
+    "longitude": 116.443398,
+    "address": "朝阳区香河园街道北三环东路6号"
+  },
+  {
+    "id": "BJ_ven_b1000012",
+    "cityCode": "BJ",
+    "name": "北京国家会议中心",
+    "latitude": 40.002901,
+    "longitude": 116.389432,
+    "address": "北京市朝阳区国家会议中心"
+  },
+  {
+    "id": "BJ_ven_b1000013",
+    "cityCode": "BJ",
+    "name": "中国国际展览中心(顺义馆)",
+    "latitude": 40.070482,
+    "longitude": 116.549631,
+    "address": "顺义区天竺空港城商务区裕翔路88号"
+  },
+  {
+    "id": "BJ_ven_b1000014",
+    "cityCode": "BJ",
+    "name": "门头沟",
+    "latitude": 39.940842,
+    "longitude": 116.101668,
+    "address": "北京市门头沟区"
+  },
+  {
+    "id": "BJ_ven_b1000015",
+    "cityCode": "BJ",
+    "name": "天鼎218文创园",
+    "latitude": 39.890967,
+    "longitude": 116.402242,
+    "address": "东城区天坛街道珠市口东大街甲16号"
+  },
+  {
+    "id": "BJ_ven_b1000016",
+    "cityCode": "BJ",
+    "name": "正大中心商场",
+    "latitude": 39.912566,
+    "longitude": 116.467866,
+    "address": "朝阳区建外街道光华路10号正大中心南塔3楼"
+  },
+  {
+    "id": "BJ_ven_921b7c43",
+    "cityCode": "BJ",
+    "name": "中国国家博物馆",
+    "latitude": 39.905374,
+    "longitude": 116.401304,
+    "address": "东城区东长安街16号"
+  },
+  {
+    "id": "BJ_ven_08e58762",
+    "cityCode": "BJ",
+    "name": "中华世纪坛",
+    "latitude": 39.910752,
+    "longitude": 116.321587,
+    "address": "海淀区复兴路甲9号(中央电视台与军事博物馆之间)"
+  },
+  {
+    "id": "BJ_ven_6b7b72a5",
+    "cityCode": "BJ",
+    "name": "奥林匹克森林公园-国家网球中心",
+    "latitude": 40.012043,
+    "longitude": 116.37779,
+    "address": "朝阳区奥运村街道林萃路2号"
+  },
+  {
+    "id": "BJ_ven_5e5b1b09",
+    "cityCode": "BJ",
+    "name": "朝阳大悦城",
+    "latitude": 39.92473,
+    "longitude": 116.517722,
+    "address": "朝阳区朝阳北路101号青年路口"
+  },
+  {
+    "id": "BJ_ven_824af15f",
+    "cityCode": "BJ",
+    "name": "奥林匹克森林公园",
+    "latitude": 40.018635,
+    "longitude": 116.392159,
+    "address": "朝阳区科荟路33号"
+  },
+  {
+    "id": "BJ_ven_b04aae77",
+    "cityCode": "BJ",
+    "name": "永定河休闲森林公园",
+    "latitude": 39.890129,
+    "longitude": 116.170599,
+    "address": "石景山区古城街道京原路55号院"
+  },
+  {
+    "id": "BJ_ven_4494cfed",
+    "cityCode": "BJ",
+    "name": "清华大学艺术博物馆",
+    "latitude": 40.001971,
+    "longitude": 116.335592,
+    "address": "海淀区双清路30号清华大学内"
+  },
+  {
+    "id": "BJ_ven_fcdbd7f5",
+    "cityCode": "BJ",
+    "name": "丰台区文化馆",
+    "latitude": 39.859431,
+    "longitude": 116.283479,
+    "address": "丰台区丰台街道西四环南路64号文化中心大楼"
+  },
+  {
+    "id": "BJ_ven_730911ab",
+    "cityCode": "BJ",
+    "name": "北京昌平沙河万达百丽店",
+    "latitude": 40.10808,
+    "longitude": 116.314459,
+    "address": "昌平区北京沙河万达广场"
+  },
+  {
+    "id": "BJ_ven_fd9670c0",
+    "cityCode": "BJ",
+    "name": "酷车小镇",
+    "latitude": 39.872951,
+    "longitude": 116.503041,
+    "address": "朝阳区金蝉西路甲一号(南楼梓庄地铁站C东南口步行310米)"
+  },
+  {
+    "id": "BJ_ven_2ccab7b8",
+    "cityCode": "BJ",
+    "name": "天桥演艺区",
+    "latitude": 39.885438,
+    "longitude": 116.398098,
+    "address": "西城区天桥街道北京天桥剧场周边"
+  },
+  {
+    "id": "BJ_ven_037faa4a",
+    "cityCode": "BJ",
+    "name": "BOM嘻番里",
+    "latitude": 40.001809,
+    "longitude": 116.353797,
+    "address": "海淀区学清路38号金码大厦B座(六道口地铁站B东北口步行110米)"
+  },
+  {
+    "id": "BJ_ven_c746af6e",
+    "cityCode": "BJ",
+    "name": "龙徽1910文化创意产业园",
+    "latitude": 39.926115,
+    "longitude": 116.255124,
+    "address": "海淀区田村路街道玉泉路2号"
+  },
+  {
+    "id": "BJ_ven_5a72895e",
+    "cityCode": "BJ",
+    "name": "北京音乐厅",
+    "latitude": 39.906116,
+    "longitude": 116.382469,
+    "address": "西城区西长安街街道北新华街1号(近西长安街)"
+  },
+  {
+    "id": "BJ_ven_edea22a3",
+    "cityCode": "BJ",
+    "name": "首都剧场",
+    "latitude": 39.921604,
+    "longitude": 116.411945,
+    "address": "东城区东华门街道王府井大街22号"
+  },
+  {
+    "id": "BJ_ven_6e69eed8",
+    "cityCode": "BJ",
+    "name": "紫竹院公园",
+    "latitude": 39.942352,
+    "longitude": 116.319079,
+    "address": "海淀区中关村南大街35号"
+  },
+  {
+    "id": "BJ_ven_db4c9a6d",
+    "cityCode": "BJ",
+    "name": "王府井商业街",
+    "latitude": 39.915626,
+    "longitude": 116.411563,
+    "address": "东城区书店"
+  },
+  {
+    "id": "BJ_ven_69f6b8b1",
+    "cityCode": "BJ",
+    "name": "亮马河国际风情水岸",
+    "latitude": 39.949042,
+    "longitude": 116.47902,
+    "address": "朝阳区麦子店街道公园路蓝色港湾东侧蓝港码头"
+  },
+  {
+    "id": "BJ_ven_8eb7f96d",
+    "cityCode": "BJ",
+    "name": "白塔寺",
+    "latitude": 39.924875,
+    "longitude": 116.363361,
+    "address": "西城区阜成门内大街171号"
+  },
+  {
+    "id": "BJ_ven_ab7baf",
+    "cityCode": "BJ",
+    "name": "国家体育馆",
+    "latitude": 39.996238,
+    "longitude": 116.391001,
+    "address": "朝阳区奥运村街道天辰东路9号"
+  },
+  {
+    "id": "BJ_ven_87c7595f",
+    "cityCode": "BJ",
+    "name": "北京园博园",
+    "latitude": 39.876665,
+    "longitude": 116.190595,
+    "address": "丰台区射击场路15号"
+  },
+  {
+    "id": "BJ_ven_2714c86f",
+    "cityCode": "BJ",
+    "name": "通州运河文化广场",
+    "latitude": 39.91398,
+    "longitude": 116.678335,
+    "address": "通州区芙蓉西路9号"
+  },
+  {
+    "id": "BJ_ven_f55c62c6",
+    "cityCode": "BJ",
+    "name": "卢沟桥·宛平城",
+    "latitude": 39.851436,
+    "longitude": 116.226098,
+    "address": "丰台区城内街"
+  },
+  {
+    "id": "BJ_ven_f9fe40ac",
+    "cityCode": "BJ",
+    "name": "颐和园",
+    "latitude": 40.000232,
+    "longitude": 116.281049,
+    "address": "海淀区新建宫门路19号"
+  },
+  {
+    "id": "BJ_ven_a51eea7b",
+    "cityCode": "BJ",
+    "name": "陶然亭公园",
+    "latitude": 39.874496,
+    "longitude": 116.381921,
+    "address": "西城区太平街19号"
+  },
+  {
+    "id": "BJ_ven_in_diamond",
+    "cityCode": "BJ",
+    "name": "微博 IN 钻石中心",
+    "latitude": 39.94717,
+    "longitude": 116.485593,
+    "address": "北京市朝阳区麦子店街道朝阳公园微博IN钻石中心一层1015号"
+  },
+  {
+    "id": "BJ_ven_thebox",
+    "cityCode": "BJ",
+    "name": "朝外 UIC · THE BOX 朝外年轻力中心（朝阳区）",
+    "latitude": 39.922782,
+    "longitude": 116.445012,
+    "address": "北京市朝阳区朝外大街12号"
+  },
+  {
+    "id": "BJ_ven_c8868716",
+    "cityCode": "BJ",
+    "name": "通州万达广场",
+    "latitude": 39.905335,
+    "longitude": 116.640685,
+    "address": ""
+  },
+  {
+    "id": "BJ_ven_75280f5d",
+    "cityCode": "BJ",
+    "name": "慕田峪长城",
+    "latitude": 40.432297,
+    "longitude": 116.563647,
+    "address": ""
+  },
+  {
+    "id": "BJ_ven_794878a0",
+    "cityCode": "BJ",
+    "name": "北京坊",
+    "latitude": 39.897438,
+    "longitude": 116.396017,
+    "address": "北京市西城区大栅栏街道廊房头条"
+  },
+  {
+    "id": "BJ_ven_9f06226d",
+    "cityCode": "BJ",
+    "name": "怀柔长城(慕田峪段)",
+    "latitude": 40.4319,
+    "longitude": 116.5704,
+    "address": "怀柔区慕田峪长城风景区"
+  }
+];
