@@ -2,10 +2,28 @@ window.APP_DATA = {
   "version": 3,
   "meta": {
     "date": "2026-09-28",
-    "weekday": "周四",
+    "weekday": "周一",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "CQ_evt_7338e7",
+      "cityCode": "CQ",
+      "categoryId": "show",
+      "name": "奇妙的乐境II：这世界那么多人·流行金曲烛光音乐会",
+      "venueId": "CQ_ven_cq0016",
+      "venueText": "重庆国泰艺术中心",
+      "dateText": "2026年10月1日19:30",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-01",
+      "costId": "paid",
+      "priceText": "70/105/140/210元（原价100/150/200/300元，早鸟7折）",
+      "description": "雾鸣乐团在重庆国泰艺术中心剧院演出，以摇曳烛光为全场唯一光源，演绎《这世界那么多人》《如愿》《人世间》《赛马》《鸿雁》《我和我的祖国》等经典流行金曲。",
+      "sourceUrl": "https://huodong.com/event/detail/eyaux",
+      "tagName": "音乐会 烛光 国庆节",
+      "createdAt": "2026-09-28",
+      "updatedAt": "2026-09-28"
+    },
     {
       "id": "CQ_evt_96a429",
       "cityCode": "CQ",
@@ -273,7 +291,7 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "“与他的朋友们”品牌系列，打破音乐会固有标签，面向全年龄段市民打造易感知的古典音乐现场。",
-      "sourceUrl": "https://whlyw.cq.gov.cn/zwgk_221/zfxxgkml/ggwhfwlyjczwgk_390142/ggfw_390145/qwhd/202608/t20260828_15992449.html",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-20"
@@ -446,7 +464,7 @@ window.APP_DATA = {
       "endDate": "2026-09-30",
       "costId": "free",
       "description": "展出刺绣、叶脉画、堆绣、木雕、瓷刻、剪纸、布偶、烙画等140余件北碚非遗与民间工艺作品。",
-      "sourceUrl": "https://www.beibei.gov.cn/bm/qwhlyw/zwgk_58246/zfxxgk_bm/jczfxxgk/ggwhfwly_134095/ggfw/zyxx/202608/t20260828_15997278.html",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-20"
@@ -463,7 +481,7 @@ window.APP_DATA = {
       "endDate": "2026-09-30",
       "costId": "free",
       "description": "国家图书馆“四季童读”2026秋季卷推荐图书介绍及赏析，面向少儿与家庭的阅读推广展览。",
-      "sourceUrl": "https://www.beibei.gov.cn/bm/qwhlyw/zwgk_58246/zfxxgk_bm/jczfxxgk/ggwhfwly_134095/ggfw/zyxx/202608/t20260828_15997278.html",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-20"
@@ -480,10 +498,10 @@ window.APP_DATA = {
       "endDate": "2026-09-30",
       "costId": "free",
       "description": "以缙云山24节气手绘景物与自然笔记为主要内容，引导读者尊重自然、保护自然。",
-      "sourceUrl": "https://www.beibei.gov.cn/bm/qwhlyw/zwgk_58246/zfxxgk_bm/jczfxxgk/ggwhfwly_134095/ggfw/zyxx/202608/t20260828_15997278.html",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-20"
     }
   ]
-}
+};

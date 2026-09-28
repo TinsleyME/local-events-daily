@@ -415,7 +415,7 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "当代艺术群展，免费向公众开放，持续至10月15日。",
-      "sourceUrl": "https://www.arthing.org/archives/2026/08/4667794.html",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-10"
@@ -451,7 +451,7 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "需购上海迪士尼乐园门票",
       "description": "达菲和他的朋友们主题月，含限定周边、主题巡游与拍照点。",
-      "sourceUrl": "https://www.toutiao.com/article/7678667153817731638",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-10"
@@ -555,7 +555,7 @@ window.APP_DATA = {
       "endDate": "2026-10-07",
       "costId": "paid",
       "description": "马王堆50余年考古研究史上规模最大、等级规格最高的一次省外展出。",
-      "sourceUrl": "https://www.artmuseumonline.org/art/art/zlgz/zl/dqzl/2026/07/03/2c906d9b9e0127fe019f2698b30432d2.html",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-08",
       "updatedAt": "2026-09-09"
@@ -732,4 +732,4 @@ window.APP_DATA = {
       "updatedAt": "2026-09-21T08:35:44.481Z"
     }
   ]
-}
+};

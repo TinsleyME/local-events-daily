@@ -451,7 +451,7 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "国庆日场门票8折",
       "description": "顺德清晖园博物馆开展中秋游园打卡与国庆文艺闪演，古典园林融合国风市集与快闪演艺，适合家庭沉浸式游玩。",
-      "sourceUrl": "https://xxsb.gz-cmc.com/pages/2026/09/09/ae5cb6d10e954dce866d60e53f634079.html",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-12",
       "updatedAt": "2026-09-20"
@@ -595,7 +595,7 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "以268件(套)贝类标本、远古化石、人文文物及非遗工艺展品为载体，设识贝、赏贝、用贝、护贝四大主题展区，适合亲子科普。",
-      "sourceUrl": "https://www.foshannews.net/h/175/20260810/880410.html",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-22"

@@ -279,4 +279,4 @@ window.APP_VENUES_HZ = [
     "longitude": 120.151223,
     "address": ""
   }
-]
+];

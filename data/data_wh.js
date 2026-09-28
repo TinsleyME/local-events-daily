@@ -506,7 +506,7 @@ window.APP_DATA = {
       "endDate": "2026-10-08",
       "costId": "free",
       "description": "武鄂黄黄都市圈博物馆系列展，200余件文物再现古人消夏智慧，扇底清风、瓷枕生凉、浮瓜沉李、荷香满塘，一窥古人消夏乐趣。",
-      "sourceUrl": "https://wlt.hubei.gov.cn/bmdt/mtjj/202607/t20260727_5983944.shtml",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-23T09:30:00.000Z"
@@ -524,7 +524,7 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "58元",
       "description": "以上海美术电影制片厂《中国奇谭》为锚点，打通水墨剪纸技艺之魂与数字交互想象之翼的沉浸式艺术展，早鸟票28/38/58元。",
-      "sourceUrl": "https://www.toutiao.com/article/7673830769365762614/",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-20"
@@ -541,7 +541,7 @@ window.APP_DATA = {
       "endDate": "2026-10-07",
       "costId": "free",
       "description": "集结青年艺术家沐希、申昕彤、谢玄玄，以色彩与雕塑重构东方日常的浪漫想象，需预约免费参观。",
-      "sourceUrl": "https://www.toutiao.com/article/7673830769365762614/",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-20"
@@ -558,7 +558,7 @@ window.APP_DATA = {
       "endDate": "2026-10-30",
       "costId": "free",
       "description": "青年陶艺家陈艺楠以陶瓷为主要媒介，融合金属、硅胶、影像，重新审视承载福、财、平安等朴素愿望的寻常之物。",
-      "sourceUrl": "https://www.toutiao.com/article/7673830769365762614/",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-20"
@@ -718,4 +718,4 @@ window.APP_DATA = {
       "priceText": "免费（需预约）"
     }
   ]
-}
+};

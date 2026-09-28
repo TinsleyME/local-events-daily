@@ -758,5 +758,149 @@ window.APP_VENUES_GZ = [
     "latitude": 23.006215,
     "longitude": 113.351595,
     "address": "广州市番禺区南村镇汉溪大道东390号"
+  },
+  {
+    "id": "GZ_ven_aaf394af",
+    "cityCode": "GZ",
+    "name": "岭南电商园OMG网红街",
+    "latitude": 23.039368,
+    "longitude": 113.316694,
+    "address": "广州市番禺区洛浦街厦滘岭南电商园"
+  },
+  {
+    "id": "GZ_ven_4c66cfc1",
+    "cityCode": "GZ",
+    "name": "万菱汇",
+    "latitude": 23.132727,
+    "longitude": 113.33036,
+    "address": "广州市天河区天河路万菱广场"
+  },
+  {
+    "id": "GZ_ven_a97ee83c",
+    "cityCode": "GZ",
+    "name": "上下九步行街",
+    "latitude": 23.113383,
+    "longitude": 113.243016,
+    "address": "广州市荔湾区第十甫路"
+  },
+  {
+    "id": "GZ_ven_99fad537",
+    "cityCode": "GZ",
+    "name": "沙面岛",
+    "latitude": 23.106783,
+    "longitude": 113.244645,
+    "address": "广州市荔湾区沙面北街"
+  },
+  {
+    "id": "GZ_ven_6c86e1a1",
+    "cityCode": "GZ",
+    "name": "海印广场",
+    "latitude": 23.114763,
+    "longitude": 113.284523,
+    "address": "广州市越秀区海印路"
+  },
+  {
+    "id": "GZ_ven_0cc75a5f",
+    "cityCode": "GZ",
+    "name": "东方宝泰广场",
+    "latitude": 23.147786,
+    "longitude": 113.324772,
+    "address": "广州市天河区广州东站东侧林和路"
+  },
+  {
+    "id": "GZ_ven_1089f720",
+    "cityCode": "GZ",
+    "name": "广州友谊商店",
+    "latitude": 23.138093,
+    "longitude": 113.287356,
+    "address": "广州市越秀区环市东路"
+  },
+  {
+    "id": "GZ_ven_f39081c3",
+    "cityCode": "GZ",
+    "name": "星海音乐厅",
+    "latitude": 23.107786,
+    "longitude": 113.305417,
+    "address": "广州市天河区珠江西路"
+  },
+  {
+    "id": "GZ_ven_b46872c1",
+    "cityCode": "GZ",
+    "name": "广东省立中山图书馆",
+    "latitude": 23.123826,
+    "longitude": 113.277652,
+    "address": "广州市越秀区文明路"
+  },
+  {
+    "id": "GZ_ven_187dd7e3",
+    "cityCode": "GZ",
+    "name": "广州起义纪念馆",
+    "latitude": 23.124313,
+    "longitude": 113.264466,
+    "address": "广州市越秀区起义路"
+  },
+  {
+    "id": "GZ_ven_f9afc2b3",
+    "cityCode": "GZ",
+    "name": "黄埔军校旧址纪念馆",
+    "latitude": 23.086174,
+    "longitude": 113.424968,
+    "address": "广州市黄埔区长洲岛"
+  },
+  {
+    "id": "GZ_ven_900ea985",
+    "cityCode": "GZ",
+    "name": "华南植物园",
+    "latitude": 23.177115,
+    "longitude": 113.359804,
+    "address": "广州市天河区天源路"
+  },
+  {
+    "id": "GZ_ven_d3625bd1",
+    "cityCode": "GZ",
+    "name": "余荫山房",
+    "latitude": 23.011484,
+    "longitude": 113.395578,
+    "address": "广州市番禺区南村镇"
+  },
+  {
+    "id": "GZ_ven_c4c31d1b",
+    "cityCode": "GZ",
+    "name": "宝墨园",
+    "latitude": 22.894322,
+    "longitude": 113.294111,
+    "address": "广州市番禺区沙湾镇"
+  },
+  {
+    "id": "GZ_ven_2ce4cc87",
+    "cityCode": "GZ",
+    "name": "南沙万达广场",
+    "latitude": 22.794565,
+    "longitude": 113.532543,
+    "address": "广州市南沙区双山大道"
+  },
+  {
+    "id": "GZ_ven_3ba8b660",
+    "cityCode": "GZ",
+    "name": "增城广场",
+    "latitude": 23.278333,
+    "longitude": 113.813763,
+    "address": "广州市增城区增城大道"
+  },
+  {
+    "id": "GZ_ven_11782b5c",
+    "cityCode": "GZ",
+    "name": "白水寨风景名胜区",
+    "latitude": 23.590733,
+    "longitude": 113.761049,
+    "address": "广州市增城区"
+  },
+  {
+    "id": "GZ_ven_601fcc47",
+    "cityCode": "GZ",
+    "name": "流溪河国家森林公园",
+    "latitude": 23.743892,
+    "longitude": 113.784734,
+    "address": "广州市从化区流溪香雪大街"
   }
 ];

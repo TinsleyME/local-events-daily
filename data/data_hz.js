@@ -450,7 +450,7 @@ window.APP_DATA = {
       "endDate": "2026-09-30",
       "costId": "free",
       "description": "全新非遗美学主题展览，龙泉青瓷油纸伞、竹编、剪纸、过江布等非遗代表作品。",
-      "sourceUrl": "https://hz.bendibao.com/xiuxian/202698/172783.shtm",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-08",
       "updatedAt": "2026-09-20"

@@ -886,7 +886,7 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "回望李金明南海沿岸特有的自然与人文景观，构筑开阔温暖的精神图景。",
-      "sourceUrl": "https://whly.gd.gov.cn/service_newwwbwg/content/post_4950591.html",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-12",
       "updatedAt": "2026-09-20"
@@ -904,7 +904,7 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "探讨现代主义在不同文化语境中的接纳与转译。",
-      "sourceUrl": "https://whly.gd.gov.cn/service_newwwbwg/content/post_4950591.html",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-12",
       "updatedAt": "2026-09-20"
@@ -1049,7 +1049,7 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "免费",
       "description": "遴选王维宝创作精品42件，完整呈现艺术家从人物画到山水画、从刀笔到水墨的创作历程。",
-      "sourceUrl": "https://news.dayoo.com/gzrbrmt/202608/31/170615_54998577.htm",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-20"
@@ -1067,7 +1067,7 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "免费（需预约）",
       "description": "带观众走进百年前的课堂，读懂那时少年的成长课。配合中秋手作体验(花灯、织锦灯笼、马赛克月亮灯等)。",
-      "sourceUrl": "https://news.dayoo.com/gzrbrmt/202608/31/170615_54998577.htm",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-20"
@@ -1138,7 +1138,7 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "全票68/半票34元",
       "description": "近60件格拉斯哥博物馆意大利艺术珍藏跨越重洋抵穗，呈现文艺复兴至巴洛克艺术精华。",
-      "sourceUrl": "https://huacheng.gz-cmc.com/pages/2026/07/03/a77f4989fba84910b410724480d63840.html",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-08",
       "updatedAt": "2026-09-20"
@@ -1278,7 +1278,7 @@ window.APP_DATA = {
       "endDate": "2026-10-07",
       "costId": "free",
       "description": "35年、八次溯源、六万公里，一场黄河与珠江的对话，免费开放。",
-      "sourceUrl": "http://sz.szhk.com/2026/08/25/31808459919394304.html",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-08",
       "updatedAt": "2026-09-21T07:46:19.788Z"
@@ -1365,7 +1365,7 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "免费（向公众开放）",
       "description": "广州太古汇十五周年庆限时主题展览，免费对公众开放；展期内化身流动公共剧场，含现代舞《拾光绘忆》、花剧场《生生常青》、广州大剧院青少年弦乐团演出等。",
-      "sourceUrl": "https://xxsb.gz-cmc.com/pages/2026/08/29/6b774c2c99194a86b2a2803687972284.html",
+      "sourceUrl": "",
       "tagName": "商场活动",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-11"

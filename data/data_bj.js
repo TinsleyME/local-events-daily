@@ -289,7 +289,7 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "128元",
       "description": "以敦煌莫高窟为主题的大型艺术特展，呈现壁画、造像与数字复原，全价128元。",
-      "sourceUrl": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202604/t20260421_4598812.html",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-10",
       "updatedAt": "2026-09-10"
@@ -361,7 +361,7 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "汇集20家文博科研机构270余件古文字类文物，从甲骨金文到简帛玺印，系统呈现汉字承载的中华文明基因密码。",
-      "sourceUrl": "https://www.chnmuseum.cn/zx/gbxw/202607/t20260727_281129.shtml",
+      "sourceUrl": "",
       "tagName": "古文字",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-20"
@@ -379,7 +379,7 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "以中华文明多元一体为主题，通过文献影像与实物呈现各民族交往交流交融历程，适合亲子与研学观众沉浸观展。",
-      "sourceUrl": "https://www.toutiao.com/article/7663453858416394787",
+      "sourceUrl": "",
       "tagName": "文化",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-20"
@@ -488,7 +488,7 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "",
       "description": "六大观赏温室汇聚2000多种植物，9月每周六晚夜探植物馆，打造亲子自然科普与夜游体验。",
-      "sourceUrl": "https://www.bjft.gov.cn/xwdt/jcdt/bmdt/202608/t20260828_223734.shtml",
+      "sourceUrl": "",
       "tagName": "夜游",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
@@ -540,7 +540,7 @@ window.APP_DATA = {
       "endDate": "2026-11-08",
       "costId": "paid",
       "description": "精选100件(套)汉代楚国文物，超六成为国家珍贵文物，展至11月8日。",
-      "sourceUrl": "https://city.news.cctv.com/2026/07/06/VIDEgNnSUwZnOfIqlaIuiqJE260706.shtml",
+      "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-08",
       "updatedAt": "2026-09-08"
@@ -598,4 +598,4 @@ window.APP_DATA = {
       "updatedAt": "2026-09-21T08:35:44.481Z"
     }
   ]
-}
+};

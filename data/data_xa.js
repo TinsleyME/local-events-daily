@@ -22,7 +22,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.sohu.com/a/1079800871_119659",
       "tagName": "中秋",
       "createdAt": "2026-09-24",
-      "updatedAt": "2026-09-24"
+      "updatedAt": "2026-09-28"
     },
     {
       "id": "XA_evt_25e8bf",
@@ -40,7 +40,7 @@ window.APP_DATA = {
       "sourceUrl": "https://news.xiancity.cn/system/2026/09/23/031269661.shtml",
       "tagName": "中秋",
       "createdAt": "2026-09-24",
-      "updatedAt": "2026-09-24"
+      "updatedAt": "2026-09-28"
     },
     {
       "id": "XA_evt_0d829b",
@@ -615,4 +615,4 @@ window.APP_DATA = {
       "updatedAt": "2026-09-21"
     }
   ]
-}
+};
