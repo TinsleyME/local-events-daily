@@ -526,5 +526,13 @@ window.APP_VENUES_BJ = [
     "latitude": 40.4319,
     "longitude": 116.5704,
     "address": "怀柔区慕田峪长城风景区"
+  },
+  {
+    "id": "BJ_ven_a1cb504d",
+    "cityCode": "BJ",
+    "name": "城乡购物中心",
+    "latitude": 39.908605,
+    "longitude": 116.307163,
+    "address": ""
   }
 ];

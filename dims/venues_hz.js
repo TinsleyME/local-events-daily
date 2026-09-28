@@ -27,9 +27,9 @@ window.APP_VENUES_HZ = [
     "id": "HZ_ven_d4e5f6g7",
     "cityCode": "HZ",
     "name": "跨湖桥遗址博物馆(萧山区湘湖)",
-    "latitude": 30.160026,
-    "longitude": 120.100932,
-    "address": "西湖区转塘街道碧波路之江文化中心内浙江省博物馆(之江馆区)"
+    "latitude": 30.141788,
+    "longitude": 120.221821,
+    "address": "萧山区湘湖景区启明桥"
   },
   {
     "id": "HZ_ven_e5f6g7h8",
@@ -254,5 +254,29 @@ window.APP_VENUES_HZ = [
     "latitude": 30.2697,
     "longitude": 120.143,
     "address": "西湖区黄龙路3号"
+  },
+  {
+    "id": "HZ_ven_e05c5f08",
+    "cityCode": "HZ",
+    "name": "浙江省博物馆之江馆区",
+    "latitude": 30.159748,
+    "longitude": 120.101677,
+    "address": "西湖区转塘街道碧波路之江文化中心内浙江省博物馆(之江馆区)"
+  },
+  {
+    "id": "HZ_ven_d0adc04a",
+    "cityCode": "HZ",
+    "name": "浙江西湖美术馆",
+    "latitude": 30.251635,
+    "longitude": 120.144509,
+    "address": ""
+  },
+  {
+    "id": "HZ_ven_e045c8d6",
+    "cityCode": "HZ",
+    "name": "中国丝绸博物馆",
+    "latitude": 30.222808,
+    "longitude": 120.151223,
+    "address": ""
   }
-];
+]

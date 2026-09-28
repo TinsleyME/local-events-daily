@@ -1,11 +1,29 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-09-24",
-    "weekday": "周四",
+    "date": "2026-09-28",
+    "weekday": "周一",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "SZ_evt_882ab3",
+      "cityCode": "SZ",
+      "categoryId": "market",
+      "name": "IBC MALL宋韵国风巡游与滚月饼大赛",
+      "venueId": "SZ_ven_dd60daf2",
+      "venueText": "IBC MALL（水贝）",
+      "dateText": "2026年9月25日–9月27日、10月1日–10月3日",
+      "startDate": "2026-09-25",
+      "endDate": "2026-10-03",
+      "costId": "free",
+      "priceText": "免费",
+      "description": "水贝IBC MALL变身「宋韵人间乐园」：宋韵国风巡游（9/25-26、10/1 15:30-18:00）、中秋滚月饼大赛（9/25 15:00亲子场/16:30宝宝场）、集票兑银票雅礼，中秋国庆双节档期接档。",
+      "sourceUrl": "https://www.toutiao.com/article/7686864253537714732",
+      "tagName": "市集 游园 中秋 国庆",
+      "createdAt": "2026-09-28",
+      "updatedAt": "2026-09-28"
+    },
     {
       "id": "SZ_evt_3fa9f0",
       "cityCode": "SZ",
@@ -79,42 +97,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-23"
     },
     {
-      "id": "SZ_evt_fd5ed4",
-      "cityCode": "SZ",
-      "categoryId": "market",
-      "name": "湾区精酿啤酒节（2026深圳湾区生活节）",
-      "venueId": "SZ_ven_8b8e7688",
-      "venueText": "领展中心城",
-      "dateText": "2026.09.25-09.27（16:00-21:00）",
-      "startDate": "2026-09-25",
-      "endDate": "2026-09-27",
-      "costId": "free",
-      "priceText": "",
-      "description": "福田领展中心城 G 层西广场，免费免预约入场，饮品消费自付。集结赤耳啤酒、故FOUN、凯莉精酿、E.T.BREWERY、牛啤堂等 15 大厂牌，设集章打卡、幸运抽奖、音乐 Live。",
-      "sourceUrl": "https://dy.163.com/article/L7775GQU0525CKB5.html",
-      "tagName": "中秋",
-      "createdAt": "2026-09-23",
-      "updatedAt": "2026-09-23"
-    },
-    {
-      "id": "SZ_evt_ba7a17",
-      "cityCode": "SZ",
-      "categoryId": "market",
-      "name": "2026深圳米其林指南美食节",
-      "venueId": "SZ_ven_86954728",
-      "venueText": "深圳万象城",
-      "dateText": "2026.09.25-09.27（16:00-22:00）",
-      "startDate": "2026-09-25",
-      "endDate": "2026-09-27",
-      "costId": "free",
-      "priceText": "",
-      "description": "罗湖深圳万象城·万象街，免费入场、现场消费自付。12 家 2026 广深米其林指南上榜餐厅（云璟、东湾、新荣记、潮上潮、屿、Opus388、宋、惠食佳、主席楼、望月、珍庭、La Tablée）到场，配「一眼万象」三维机械开合大屏光影启幕。",
-      "sourceUrl": "https://dy.163.com/article/L7775GQU0525CKB5.html",
-      "tagName": "中秋",
-      "createdAt": "2026-09-23",
-      "updatedAt": "2026-09-23"
-    },
-    {
       "id": "SZ_evt_689e80",
       "cityCode": "SZ",
       "categoryId": "market",
@@ -131,24 +113,6 @@ window.APP_DATA = {
       "tagName": "国庆节",
       "createdAt": "2026-09-23",
       "updatedAt": "2026-09-23"
-    },
-    {
-      "id": "SZ_evt_893421",
-      "cityCode": "SZ",
-      "categoryId": "market",
-      "name": "卓悦汇金秋汉服游园会",
-      "venueId": "SZ_ven_f1a9e604",
-      "venueText": "卓悦汇购物中心",
-      "dateText": "2026.09.25-2026.09.26",
-      "startDate": "2026-09-25",
-      "endDate": "2026-09-26",
-      "costId": "free",
-      "priceText": "",
-      "description": "9月25日至26日15:00-19:00，卓悦汇购物中心南广场举办「梅林雅集·金秋汉服游园会」：古风银票穿越玩法（背诗句领通关文牒+仿古银票，投壶/射覆/锤丸/蹴鞠赢银票兑宣传品）、非遗手作DIY（雕版拓印/漆扇/花钿妆容）、古风沉浸式互动（夫子讲诵中秋典故、多语种文化墙）。免费参与。",
-      "sourceUrl": "https://m.bendibao.com/show1012686.html",
-      "tagName": "中秋 国庆 汉服 游园 市集 免费",
-      "createdAt": "2026-09-22",
-      "updatedAt": "2026-09-22"
     },
     {
       "id": "SZ_evt_705b8d",
@@ -221,24 +185,6 @@ window.APP_DATA = {
       "tagName": "",
       "createdAt": "2026-09-20",
       "updatedAt": "2026-09-23"
-    },
-    {
-      "id": "SZ_evt_4de537",
-      "cityCode": "SZ",
-      "categoryId": "show",
-      "name": "秋韵古今·四大名著国乐新声音乐会",
-      "venueId": "SZ_ven_efac95b8",
-      "venueText": "坪山大剧院",
-      "dateText": "2026-09-25 15:00 坪山大剧院大剧场",
-      "startDate": "2026-09-25",
-      "endDate": "2026-09-25",
-      "costId": "paid",
-      "priceText": "80-480元",
-      "description": "广东民族乐团倾情呈现，以《西游记》《三国演义》《水浒传》《红楼梦》为灵感，精选许镜清、王立平、谷建芬、赵季平等大师经典影视金曲，由蔡龙龙全新编配，中秋限定共谱团圆。",
-      "sourceUrl": "https://www.xinruipiao.com/yinlehui/33996.html",
-      "tagName": "中秋",
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-18"
     },
     {
       "id": "SZ_evt_f80c82",
@@ -361,25 +307,7 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "深圳以 APEC「中国年」为契机发布「深圳秋日心动」系列文旅活动，一口气推出 282 项秋日文商旅体活动、24 条参访线路与 4 大主题研学，覆盖中秋国庆假期。",
-      "sourceUrl": "",
-      "tagName": "中秋国庆",
-      "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-22"
-    },
-    {
-      "id": "SZ_evt_8492e2",
-      "cityCode": "SZ",
-      "categoryId": "market",
-      "name": "深圳国际糖果嘉年华",
-      "venueId": "SZ_ven_e1f50d14",
-      "venueText": "深圳人才公园",
-      "dateText": "8.21起",
-      "startDate": "2026-08-21",
-      "endDate": "2026-10-07",
-      "costId": "free",
-      "priceText": "",
-      "description": "以「快乐+健康」为主题的 2026 深圳国际糖果嘉年华正式启动，融合糖果体验、行业论坛、经销商大会与糖果梦工场等多元内容，搭建文旅产业商贸对话平台。",
-      "sourceUrl": "",
+      "sourceUrl": "https://www.sznews.com/news/content/2026-08/24/content_32154501.htm",
       "tagName": "中秋国庆",
       "createdAt": "2026-09-12",
       "updatedAt": "2026-09-22"
@@ -493,61 +421,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-17"
     },
     {
-      "id": "SZ_evt_58e5ad",
-      "cityCode": "SZ",
-      "categoryId": "show",
-      "name": "郭富城 ICONIC 世界巡回演唱会2026深圳站",
-      "venueId": "SZ_ven_6f5a8b9c",
-      "venueText": "深圳市体育中心 体育馆(主馆)",
-      "dateText": "2026.9.26",
-      "startDate": "2026-09-26",
-      "endDate": "2026-09-26",
-      "costId": "paid",
-      "priceText": "",
-      "description": "郭富城世界巡回演唱会深圳站，立体凯旋门舞台与标志性强劲舞现场。",
-      "sourceUrl": "https://detail.damai.cn/item.htm?id=1063716945492",
-      "tagName": "",
-      "celebrity": "郭富城",
-      "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
-    },
-    {
-      "id": "SZ_evt_1aebb2",
-      "cityCode": "SZ",
-      "categoryId": "show",
-      "name": "《花好月圆》中秋国风主题音乐会",
-      "venueId": "SZ_ven_7a6b9c0d",
-      "venueText": "华夏艺术中心 小剧场",
-      "dateText": "2026.9.25",
-      "startDate": "2026-09-25",
-      "endDate": "2026-09-25",
-      "costId": "paid",
-      "priceText": "",
-      "description": "中秋佳节聆听经典民乐，海上生明月天涯共此时。",
-      "sourceUrl": "https://detail.damai.cn/item.htm?id=892828908740",
-      "tagName": "",
-      "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
-    },
-    {
-      "id": "SZ_evt_3fe1e8",
-      "cityCode": "SZ",
-      "categoryId": "sports",
-      "name": "亲子乐跑·童趣嘉年华",
-      "venueId": "SZ_ven_38357826",
-      "venueText": "深圳市罗湖区东湖公园",
-      "dateText": "2026.9.26-27",
-      "startDate": "2026-09-26",
-      "endDate": "2026-09-27",
-      "costId": "free",
-      "priceText": "",
-      "description": "3公里闯关派对赛道，沿途互动障碍与主题打卡点，配套奇趣市集嘉年华，报名免报名费(代收保险8元)。",
-      "sourceUrl": "https://www.szlh.gov.cn/lhlh/yjlh/xzlh/content/post_12960578.html",
-      "tagName": "",
-      "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
-    },
-    {
       "id": "SZ_evt_f4704f",
       "cityCode": "SZ",
       "categoryId": "exhi",
@@ -596,7 +469,7 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "",
       "description": "以“记忆的考古”为方法，汇集严善錞100余件绘画、铜版画及文献，沿宝石山、西湖、富春等文化地点展开记忆与观看的考察。",
-      "sourceUrl": "https://www.szcg.com.cn/",
+      "sourceUrl": "https://www.toutiao.com/article/7680870359352033798",
       "tagName": "",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
@@ -684,12 +557,12 @@ window.APP_DATA = {
       "startDate": "2025-11-15",
       "endDate": "2026-10-09",
       "costId": "paid",
-      "priceText": "28-48元",
+      "priceText": "标准票48元、优惠票38元",
       "description": "以“丝绸之路”为母题的数字艺术科技特展，融合沉浸投影、交互装置与山海APP内容，呈现文化与科技交融的视觉之旅。",
-      "sourceUrl": "https://m.dutenews.com/n/ctedia/722682",
+      "sourceUrl": "https://m.dutenews.com/n/article/10266539",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-28 04:36:58.000Z"
     },
     {
       "id": "SZ_evt_9c8c12",
@@ -709,42 +582,6 @@ window.APP_DATA = {
       "celebrity": "陈小春",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-20"
-    },
-    {
-      "id": "SZ_evt_bd1872",
-      "cityCode": "SZ",
-      "categoryId": "market",
-      "name": "向海而行 滨海民艺风物集",
-      "venueId": "SZ_ven_8f701b2c",
-      "venueText": "南头古城·报德广场&大家乐广场",
-      "dateText": "2026.9.25-27",
-      "startDate": "2026-09-25",
-      "endDate": "2026-09-27",
-      "costId": "free",
-      "priceText": "",
-      "description": "汇聚贝雕、螺钿、渔网花、海泥陶、鱼绳结、鱼拓、渔民画等滨海民艺，呈现一万八千公里海岸线的手艺长卷，免费入场。",
-      "sourceUrl": "",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-22"
-    },
-    {
-      "id": "SZ_evt_42a966",
-      "cityCode": "SZ",
-      "categoryId": "market",
-      "name": "深圳糖水节",
-      "venueId": "SZ_ven_901b2c3d",
-      "venueText": "蛇口太子湾",
-      "dateText": "2026.9.24-27",
-      "startDate": "2026-09-24",
-      "endDate": "2026-09-27",
-      "costId": "free",
-      "priceText": "",
-      "description": "全国糖水集合计划，不同地方的糖水和甜品搬到招商蛇口太子湾，还有惊喜嘉宾到场，免费入场。",
-      "sourceUrl": "https://sz.bendibao.com/news/202699/1012678.htm",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-16"
     },
     {
       "id": "SZ_evt_957830",
@@ -783,24 +620,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-09"
     },
     {
-      "id": "SZ_evt_1aaa57",
-      "cityCode": "SZ",
-      "categoryId": "outdoor",
-      "name": "虹桥公园中秋会",
-      "venueId": "SZ_ven_bae83f9a",
-      "venueText": "光明虹桥公园",
-      "dateText": "2026.9.25-27",
-      "startDate": "2026-09-25",
-      "endDate": "2026-09-27",
-      "costId": "free",
-      "priceText": "",
-      "description": "以“月”为引，将东方中秋意象与当代艺术装置融入虹桥山野，于多个点位打造可观、可拍、可互动的月下艺术场景，循月共度佳节。",
-      "sourceUrl": "https://www.toutiao.com/article/7680861016783946283/",
-      "tagName": "中秋",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-20"
-    },
-    {
       "id": "SZ_evt_2c16f1",
       "cityCode": "SZ",
       "categoryId": "family",
@@ -819,24 +638,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-09"
     },
     {
-      "id": "SZ_evt_439aad",
-      "cityCode": "SZ",
-      "categoryId": "expo",
-      "name": "第十六届深圳国际宠物用品展览会",
-      "venueId": "SZ_ven_f20c794b",
-      "venueText": "深圳会展中心(福田)",
-      "dateText": "2026.9.23-26",
-      "startDate": "2026-09-23",
-      "endDate": "2026-09-26",
-      "costId": "free",
-      "priceText": "免费（需预登记）",
-      "description": "国内宠业旗舰大展，700+展商覆盖主粮零食、洗护、医疗器械、异宠，兼顾经销零售与跨境电商出口，B端与爱好者同步开放。",
-      "sourceUrl": "",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-22"
-    },
-    {
       "id": "SZ_evt_398f5d",
       "cityCode": "SZ",
       "categoryId": "show",
@@ -853,24 +654,6 @@ window.APP_DATA = {
       "celebrity": "G.E.M.邓紫棋",
       "createdAt": "2026-09-08",
       "updatedAt": "2026-09-15"
-    },
-    {
-      "id": "SZ_evt_9182bb",
-      "cityCode": "SZ",
-      "categoryId": "show",
-      "name": "刘宪华 ENJOY THE SHOW 华丽宪场巡回演唱会-深圳站",
-      "venueId": "SZ_ven_95b6a8",
-      "venueText": "深圳大运中心体育馆",
-      "dateText": "2026.9.26 18:30",
-      "startDate": "2026-09-26",
-      "endDate": "2026-09-26",
-      "costId": "paid",
-      "description": "刘宪华首次个人世界巡演，沉浸式华丽舞台，标志性一人乐队Loop-Station即兴编曲，全开麦唱跳。",
-      "sourceUrl": "https://www.huanghepiao.com/article/1786408590161325.html",
-      "tagName": "",
-      "celebrity": "刘宪华",
-      "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-20"
     },
     {
       "id": "SZ_evt_03b6f3",
@@ -995,23 +778,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-23T10:10:00.000Z"
     },
     {
-      "id": "SZ_evt_053242",
-      "cityCode": "SZ",
-      "categoryId": "show",
-      "name": "音乐剧《红莲》",
-      "venueId": "SZ_ven_7f88c848",
-      "venueText": "深圳滨海艺术中心",
-      "dateText": "2026.9.26-27",
-      "startDate": "2026-09-26",
-      "endDate": "2026-09-27",
-      "costId": "paid",
-      "description": "2026滨海国际音乐剧大赏，复仇与救赎主题，深圳滨海艺术中心歌剧厅。",
-      "sourceUrl": "https://www.szbo.com.cn/piao/4/24202.html",
-      "tagName": "",
-      "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-08"
-    },
-    {
       "id": "SZ_evt_ceba6d",
       "cityCode": "SZ",
       "categoryId": "exhi",
@@ -1133,4 +899,4 @@ window.APP_DATA = {
       "updatedAt": "2026-09-21T08:35:44.481Z"
     }
   ]
-};
+}

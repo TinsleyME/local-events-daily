@@ -510,5 +510,13 @@ window.APP_VENUES_CD = [
     "latitude": 32.852253,
     "longitude": 103.831128,
     "address": "四川省阿坝藏族羌族自治州松潘县川主寺镇东北部（成都集合出发）"
+  },
+  {
+    "id": "CD_ven_831d08d2",
+    "cityCode": "CD",
+    "name": "成都博物馆",
+    "latitude": 30.657241,
+    "longitude": 104.063625,
+    "address": ""
   }
 ];

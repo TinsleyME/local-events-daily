@@ -494,5 +494,13 @@ window.APP_VENUES_SZ = [
     "latitude": 22.545884,
     "longitude": 114.110273,
     "address": ""
+  },
+  {
+    "id": "SZ_ven_dd60daf2",
+    "cityCode": "SZ",
+    "name": "IBC MALL",
+    "latitude": 22.574185,
+    "longitude": 114.124771,
+    "address": ""
   }
 ];

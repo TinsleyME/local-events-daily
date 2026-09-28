@@ -750,5 +750,13 @@ window.APP_VENUES_GZ = [
     "latitude": 23.126936,
     "longitude": 113.283281,
     "address": "广州市越秀区大东街道中山三路"
+  },
+  {
+    "id": "GZ_ven_70b960de",
+    "cityCode": "GZ",
+    "name": "四海城商业广场",
+    "latitude": 23.006215,
+    "longitude": 113.351595,
+    "address": "广州市番禺区南村镇汉溪大道东390号"
   }
 ];

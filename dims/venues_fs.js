@@ -486,5 +486,21 @@ window.APP_VENUES_FS = [
     "latitude": 23.109501,
     "longitude": 113.147832,
     "address": "南海区大沥镇广佛路12号"
+  },
+  {
+    "id": "FS_ven_a3f0213f",
+    "cityCode": "FS",
+    "name": "岭南新天地",
+    "latitude": 23.029947,
+    "longitude": 113.116384,
+    "address": ""
+  },
+  {
+    "id": "FS_ven_44e2ac24",
+    "cityCode": "FS",
+    "name": "南风古灶",
+    "latitude": 23.004401,
+    "longitude": 113.076851,
+    "address": ""
   }
 ];

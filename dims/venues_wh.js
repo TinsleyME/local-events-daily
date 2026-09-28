@@ -438,5 +438,13 @@ window.APP_VENUES_WH = [
     "latitude": 30.548613,
     "longitude": 114.290288,
     "address": "硚口区金南二路8号"
+  },
+  {
+    "id": "WH_ven_b088a5cc",
+    "cityCode": "WH",
+    "name": "武汉万象城",
+    "latitude": 30.599154,
+    "longitude": 114.280446,
+    "address": ""
   }
 ];

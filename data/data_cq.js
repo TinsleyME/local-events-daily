@@ -1,7 +1,7 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-09-24",
+    "date": "2026-09-28",
     "weekday": "周四",
     "coverage": "未来约 14 天"
   },
@@ -115,24 +115,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-18"
     },
     {
-      "id": "CQ_evt_3610fc",
-      "cityCode": "CQ",
-      "categoryId": "expo",
-      "name": "2026重庆星幻动漫节",
-      "venueId": "CQ_ven_cq0006",
-      "venueText": "重庆悦来国际博览中心",
-      "dateText": "9月25日",
-      "startDate": "2026-09-25",
-      "endDate": "2026-09-25",
-      "costId": "paid",
-      "priceText": "60-568元",
-      "description": "第39届重庆星幻动漫节，重庆国际博览中心（悦来），含免费游戏通关抽手办、周边拍卖会、水友赛等。",
-      "sourceUrl": "https://api.cqyc.net/wap/thread/view-thread/tid/2172108",
-      "tagName": "中秋",
-      "createdAt": "2026-09-15",
-      "updatedAt": "2026-09-20"
-    },
-    {
       "id": "CQ_evt_8c6fee",
       "cityCode": "CQ",
       "categoryId": "market",
@@ -223,24 +205,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-15"
     },
     {
-      "id": "CQ_evt_7e6cf2",
-      "cityCode": "CQ",
-      "categoryId": "show",
-      "name": "重庆中秋国庆无人机表演（两江四岸）",
-      "venueId": "CQ_ven_cq0024",
-      "venueText": "南滨路",
-      "dateText": "9.25、9.26 晚",
-      "startDate": "2026-09-25",
-      "endDate": "2026-09-26",
-      "costId": "free",
-      "priceText": "",
-      "description": "重庆无人机表演于中秋两晚在两江四岸核心低空空域上演，起降点弹子石广场，朝天门、江北嘴、南滨路等区域均可观看。",
-      "sourceUrl": "https://api.cqyc.net/wap/thread/view-thread/tid/2172108",
-      "tagName": "中秋",
-      "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-20"
-    },
-    {
       "id": "CQ_evt_9c5d2b",
       "cityCode": "CQ",
       "categoryId": "exhi",
@@ -315,79 +279,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-20"
     },
     {
-      "id": "CQ_evt_0428cf",
-      "cityCode": "CQ",
-      "categoryId": "show",
-      "name": "《漂洋过海来看你》经典老歌演唱会",
-      "venueId": "CQ_ven_cq0031",
-      "venueText": "重庆市群众艺术馆群星剧院",
-      "dateText": "2026.9.26",
-      "startDate": "2026-09-26",
-      "endDate": "2026-09-26",
-      "costId": "paid",
-      "priceText": "58-380元",
-      "description": "“念”乐团呈现细腻live现场，用熟悉旋律还原经典老歌。",
-      "sourceUrl": "https://m.cq.bendibao.com/xiuxian/167056.shtm",
-      "tagName": "",
-      "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-20"
-    },
-    {
-      "id": "CQ_evt_a84daf",
-      "cityCode": "CQ",
-      "categoryId": "expo",
-      "name": "2026重庆宠物博览会",
-      "venueId": "CQ_ven_cq0006",
-      "venueText": "重庆国际博览中心（悦来）",
-      "dateText": "2026.9.25-9.27",
-      "startDate": "2026-09-25",
-      "endDate": "2026-09-27",
-      "costId": "paid",
-      "priceText": "19.9元",
-      "description": "可携宠逛展，早鸟单人票19.9元，集比赛、游戏与300+品牌于一体。",
-      "sourceUrl": "https://huodong.com/event/detail/eyuH8",
-      "tagName": "",
-      "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-23T10:10:00.000Z"
-    },
-    {
-      "id": "CQ_evt_cd0ae3",
-      "cityCode": "CQ",
-      "categoryId": "show",
-      "name": "谢霆锋「Evolution Nic Live」进化演唱会-重庆站",
-      "venueId": "CQ_ven_cq0005",
-      "venueText": "重庆奥体中心体育场",
-      "dateText": "2026.9.26-9.27",
-      "startDate": "2026-09-26",
-      "endDate": "2026-09-27",
-      "costId": "paid",
-      "priceText": "380-1680元",
-      "description": "谢霆锋进化演唱会重庆站，看台380/580/780/980元，内场1380/1680元。",
-      "sourceUrl": "https://cq.bendibao.com/xiuxian/2026710/165748.shtm",
-      "tagName": "",
-      "celebrity": "谢霆锋",
-      "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-24"
-    },
-    {
-      "id": "CQ_evt_758235",
-      "cityCode": "CQ",
-      "categoryId": "expo",
-      "name": "第39届重庆星幻动漫节",
-      "venueId": "CQ_ven_f6530501",
-      "venueText": "北滨二路星耀天地享派轰趴馆",
-      "dateText": "2026.9.25",
-      "startDate": "2026-09-25",
-      "endDate": "2026-09-25",
-      "costId": "paid",
-      "priceText": "60元起",
-      "description": "免费游戏通关抽手办、周边拍卖会、水友赛与热血星幻Live等漫展玩法。",
-      "sourceUrl": "https://detail.damai.cn/item.htm?id=1069199608775",
-      "tagName": "",
-      "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-23T10:10:00.000Z"
-    },
-    {
       "id": "CQ_evt_33c7f6",
       "cityCode": "CQ",
       "categoryId": "exhi",
@@ -400,10 +291,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "40元",
       "description": "30+部经典动画、70+年中国动画艺术史回顾展，重温上美影金色岁月。",
-      "sourceUrl": "https://cq.bendibao.com/xiuxian?page=11",
+      "sourceUrl": "https://cq.bendibao.com/xiuxian/",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-28 04:39:49.000Z"
     },
     {
       "id": "CQ_evt_fbddda",
@@ -439,23 +330,6 @@ window.APP_DATA = {
       "tagName": "",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-17"
-    },
-    {
-      "id": "CQ_evt_413303",
-      "cityCode": "CQ",
-      "categoryId": "exhi",
-      "name": "典藏华章——首届重庆市区县(自治县)美术馆馆藏精品展",
-      "venueId": "CQ_ven_cq0001",
-      "venueText": "重庆美术馆 2—5号厅",
-      "dateText": "2026.9.8-9.27",
-      "startDate": "2026-09-08",
-      "endDate": "2026-09-27",
-      "costId": "free",
-      "description": "汇集重庆各区县美术馆馆藏精品，展示巴渝美术创作成果。免票参观。",
-      "sourceUrl": "https://whlyw.cq.gov.cn/zjwl/yzq_486357/zlyjzyg/202609/t20260901_16016189.html",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-20"
     },
     {
       "id": "CQ_evt_29c2c2",
@@ -610,40 +484,6 @@ window.APP_DATA = {
       "tagName": "",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-20"
-    },
-    {
-      "id": "CQ_evt_318b5e",
-      "cityCode": "CQ",
-      "categoryId": "market",
-      "name": "山城巷原创文创市集",
-      "venueId": "CQ_ven_cq0023",
-      "venueText": "山城巷历史文化街区",
-      "dateText": "2026.9月每周末",
-      "startDate": "2026-09-05",
-      "endDate": "2026-09-27",
-      "costId": "free",
-      "description": "老街氛围中的手作、非遗、原创小物摊位，老城区闲逛首选。免费入场，消费自理。",
-      "sourceUrl": "https://kxzc.cn/news-center/detail/97448389",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-14"
-    },
-    {
-      "id": "CQ_evt_9d2c4a",
-      "cityCode": "CQ",
-      "categoryId": "market",
-      "name": "南滨路后备箱市集",
-      "venueId": "CQ_ven_cq0024",
-      "venueText": "南滨路沿线",
-      "dateText": "2026.9月周末不定期",
-      "startDate": "2026-09-05",
-      "endDate": "2026-09-27",
-      "costId": "free",
-      "description": "吹江风看夜景，逛夜市小摊位，氛围感拉满。免费入场，消费自理。",
-      "sourceUrl": "https://zgcxtc.cn/news/250364.html",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-17"
     }
   ]
-};
+}
