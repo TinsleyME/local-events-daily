@@ -1,11 +1,155 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-09-28",
-    "weekday": "周一",
+    "date": "2026-09-29",
+    "weekday": "周二",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "BJ_evt_c409c6",
+      "cityCode": "BJ",
+      "categoryId": "show",
+      "name": "阿那亚·雁栖音乐假日",
+      "venueId": "BJ_ven_66d78823",
+      "venueText": "雁栖湖景区东门大草坪",
+      "dateText": "2026年10月2日-4日",
+      "startDate": "2026-10-02",
+      "endDate": "2026-10-04",
+      "costId": "paid",
+      "priceText": "单日票128元、三日通299元",
+      "description": "阿那亚·雁栖音乐假日10月2日至4日在北京怀柔雁栖湖景区东门大草坪举办，参与音乐人来自6个国家共30组，包括babychair（MY）、Carsick Cars、沉默橙、COULOU（US）等。由艺术家任爽设计风鸟舞台与湖声舞台，同步推出水上运动、特色市集、喜剧演出等体验。同期阿那亚·雁栖湖设置「顺风耳 PRE-SHOW」（10月2日-4日）与「串串门 OPEN HOUSE」（10月2日-5日）两个聚会空间。",
+      "sourceUrl": "https://www.sina.cn/news/detail/5347063375593560.html",
+      "tagName": "音乐节 户外 怀柔 雁栖湖",
+      "createdAt": "2026-09-29",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "BJ_evt_870fe8",
+      "cityCode": "BJ",
+      "categoryId": "market",
+      "name": "前门美食荟·寻味中国",
+      "venueId": "BJ_ven_763aed04",
+      "venueText": "前门商业街区及「前门美食荟」活动区域",
+      "dateText": "2026年10月",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-31",
+      "costId": "free",
+      "priceText": "免费入场，消费自理",
+      "description": "引入河北廊坊建乐白皮火烧驴肉、香河周记咯吱盒、甘肃非遗美食、贵州安顺驻京办、两广小吃、王致和臭豆腐、齐齐哈尔非遗烤肉等地方美食代表，升级为「京味+各地风味」复合型美食文化地标。鲜鱼口打造大型花灯艺术装置；大江胡同设《千里江山图》巨幅国风天幕。10月1日至7日联合刘老根大舞台推出国庆特别演出，每天2场。凭消费记录可兑换「寻味中国」定制礼品。",
+      "sourceUrl": "https://www.toutiao.com/article/7690472748371411492",
+      "tagName": "美食 市集 国庆 前门 中轴线 国庆节",
+      "createdAt": "2026-09-29",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "BJ_evt_afb36e",
+      "cityCode": "BJ",
+      "categoryId": "show",
+      "name": "京剧《伍子胥》折子戏专场",
+      "venueId": "BJ_ven_5b6bba5c",
+      "venueText": "颜料会馆古戏楼",
+      "dateText": "2026年10月3日下午场",
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-03",
+      "costId": "unknown",
+      "priceText": "",
+      "description": "北京庆声京剧团联袂上演经典剧目《伍子胥》之《文昭关》《芦中人》《浣纱女》《鱼肠剑》四折经典戏。颜料会馆为北京市至今存立的明清行会馆所，现已成为演艺新空间。",
+      "sourceUrl": "https://www.toutiao.com/article/7690472748371411492",
+      "tagName": "京剧 折子戏 国庆 会馆 戏曲",
+      "createdAt": "2026-09-29",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "BJ_evt_6a4e96",
+      "cityCode": "BJ",
+      "categoryId": "show",
+      "name": "越剧经典公案戏《胭脂》",
+      "venueId": "BJ_ven_5b6bba5c",
+      "venueText": "颜料会馆古戏楼",
+      "dateText": "2026年10月6日",
+      "startDate": "2026-10-06",
+      "endDate": "2026-10-06",
+      "costId": "unknown",
+      "priceText": "",
+      "description": "北京小百花越剧团倾情献演，颜料会馆古戏楼沉浸呈现，青砖灰瓦间看越剧抽丝剥茧、断案洗冤。",
+      "sourceUrl": "https://www.toutiao.com/article/7690472748371411492",
+      "tagName": "越剧 戏曲 国庆 会馆",
+      "createdAt": "2026-09-29",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "BJ_evt_08e1ba",
+      "cityCode": "BJ",
+      "categoryId": "show",
+      "name": "舞剧《破冰》",
+      "venueId": "BJ_ven_9badef00",
+      "venueText": "北京天桥艺术中心",
+      "dateText": "2026年9月30日–10月1日",
+      "startDate": "2026-09-30",
+      "endDate": "2026-10-01",
+      "costId": "unknown",
+      "priceText": "",
+      "description": "第十四届中国舞蹈荷花奖获奖作品，首文科旗下北京歌剧舞剧院现实题材舞剧。国内首部现当代禁毒题材舞剧，扎根真实禁毒案件创作，以热血与深情致敬无名英雄。",
+      "sourceUrl": "https://www.toutiao.com/article/7690472748371411492",
+      "tagName": "舞剧 国庆 获奖作品 禁毒题材",
+      "createdAt": "2026-09-29",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "BJ_evt_890115",
+      "cityCode": "BJ",
+      "categoryId": "market",
+      "name": "第十届北京王府井国际品牌节·友城友街吉祥荟",
+      "venueId": "BJ_ven_db4c9a6d",
+      "venueText": "王府井步行街北延段吉祥广场",
+      "dateText": "2026年9月10日–10月7日",
+      "startDate": "2026-09-10",
+      "endDate": "2026-10-07",
+      "costId": "free",
+      "priceText": "免费入场，消费自理",
+      "description": "第十届北京王府井国际品牌节核心板块之一，联动法国、意大利、越南、西班牙等10个国家商协会，在王府井步行街北延段吉祥广场打造异域风情市集。多辆主题移动售卖车沿街排布，既是城市推广窗口也是国际好物展销点，可一站式体验多国风情。",
+      "sourceUrl": "https://www.toutiao.com/article/7690472748371411492",
+      "tagName": "市集 国际 国庆 东城",
+      "createdAt": "2026-09-29",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "BJ_evt_2272fb",
+      "cityCode": "BJ",
+      "categoryId": "market",
+      "name": "王府井美好生活嘉年华",
+      "venueId": "BJ_ven_db4c9a6d",
+      "venueText": "王府井大街（百货大楼门前喷泉广场）",
+      "dateText": "2026年9月23日–10月7日",
+      "startDate": "2026-09-23",
+      "endDate": "2026-10-07",
+      "costId": "free",
+      "priceText": "免费入场，消费自理",
+      "description": "第十届北京王府井国际品牌节重点活动，集中举办首发首秀，小米、兰蔻、雅诗兰黛、资生堂等11个品牌快闪店在百货大楼门前喷泉广场集中亮相，含2个全国首展、5个北京独家首展。王府中环、北京apm、百货大楼、东安市场等联动推出消费权益兑换与满减优惠。",
+      "sourceUrl": "https://www.toutiao.com/article/7690472748371411492",
+      "tagName": "首发首秀 快闪 国庆 东城",
+      "createdAt": "2026-09-29",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "BJ_evt_384085",
+      "cityCode": "BJ",
+      "categoryId": "market",
+      "name": "中海大吉巷东方美学游园会",
+      "venueId": "BJ_ven_6216db4c",
+      "venueText": "中海大吉巷合院式街区",
+      "dateText": "2026年9月24日–10月7日",
+      "startDate": "2026-09-24",
+      "endDate": "2026-10-07",
+      "costId": "free",
+      "priceText": "免费入场，消费自理",
+      "description": "青砖灰瓦的合院式街区双节上演东方美学游园会，NPC巡游、主题市集、音乐会、川剧变脸、杂耍戏法、脱口秀、拼豆大赛轮番登场；街区内咖啡店、文物展、缤纷美食、艺术家商店与历史文脉、户外潮流混搭。",
+      "sourceUrl": "https://www.toutiao.com/article/7690472748371411492",
+      "tagName": "市集 游园会 国风 西城",
+      "createdAt": "2026-09-29",
+      "updatedAt": "2026-09-29"
+    },
     {
       "id": "BJ_evt_20a56a",
       "cityCode": "BJ",
@@ -130,7 +274,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.bjft.gov.cn/fengtaishibao/html/2026-09/16/content_9505_19876381.htm",
       "tagName": "中秋",
       "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-21T07:38:33.665Z"
+      "updatedAt": "2026-09-21"
     },
     {
       "id": "BJ_evt_ca7013",
@@ -179,12 +323,12 @@ window.APP_DATA = {
       "startDate": "2026-10-06",
       "endDate": "2026-10-06",
       "costId": "paid",
-      "priceText": "",
+      "priceText": "内场1198元，看台898/698/598/398元",
       "description": "孟庭苇北京演唱会，国家体育馆。",
       "sourceUrl": "https://www.163.com/dy/article/L5RJ6M1T0518UF54.html",
       "tagName": "",
       "createdAt": "2026-09-15",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-29"
     },
     {
       "id": "BJ_evt_f28dec",
@@ -283,16 +427,16 @@ window.APP_DATA = {
       "name": "如是莫高——敦煌艺术大展",
       "venueId": "BJ_ven_fe39b3b9",
       "venueText": "北京展览馆",
-      "dateText": "2026.7.1-11.11",
-      "startDate": "2026-09-01",
+      "dateText": "2025.11.12-2026.11.11",
+      "startDate": "2025-11-12",
       "endDate": "2026-11-11",
       "costId": "paid",
       "priceText": "128元",
       "description": "以敦煌莫高窟为主题的大型艺术特展，呈现壁画、造像与数字复原，全价128元。",
-      "sourceUrl": "",
+      "sourceUrl": "https://xinwen.bjd.com.cn/content/s6982a005e4b0687a2890bbbe.html",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
+      "updatedAt": "2026-09-29"
     },
     {
       "id": "BJ_evt_80ab5c",
@@ -361,10 +505,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "汇集20家文博科研机构270余件古文字类文物，从甲骨金文到简帛玺印，系统呈现汉字承载的中华文明基因密码。",
-      "sourceUrl": "",
+      "sourceUrl": "https://www.chnmuseum.cn/zl/lszl/lswh/202607/t20260718_280942.shtml",
       "tagName": "古文字",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-29"
     },
     {
       "id": "BJ_evt_a3e240",
@@ -379,10 +523,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "以中华文明多元一体为主题，通过文献影像与实物呈现各民族交往交流交融历程，适合亲子与研学观众沉浸观展。",
-      "sourceUrl": "",
+      "sourceUrl": "https://www.toutiao.com/article/7663453858416394787",
       "tagName": "文化",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-29"
     },
     {
       "id": "BJ_evt_8ae618",
@@ -486,12 +630,12 @@ window.APP_DATA = {
       "startDate": "2026-09-01",
       "endDate": "2026-09-30",
       "costId": "paid",
-      "priceText": "",
+      "priceText": "168元/1大1小（含入园门票）",
       "description": "六大观赏温室汇聚2000多种植物，9月每周六晚夜探植物馆，打造亲子自然科普与夜游体验。",
-      "sourceUrl": "",
+      "sourceUrl": "https://www.bjft.gov.cn/ftq/xwdt/jcdt/bmdt/202609/t20260912_224771.shtml",
       "tagName": "夜游",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-29"
     },
     {
       "id": "BJ_evt_f5a098",
@@ -508,7 +652,7 @@ window.APP_DATA = {
       "sourceUrl": "https://bj.people.com.cn/BIG5/n2/2026/0905/c82846-41687680.html",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-28 04:36:58.000Z"
+      "updatedAt": "2026-09-28"
     },
     {
       "id": "BJ_evt_679e2a",
@@ -540,10 +684,10 @@ window.APP_DATA = {
       "endDate": "2026-11-08",
       "costId": "paid",
       "description": "精选100件(套)汉代楚国文物，超六成为国家珍贵文物，展至11月8日。",
-      "sourceUrl": "",
+      "sourceUrl": "https://city.news.cctv.com/2026/07/06/VIDEgNnSUwZnOfIqlaIuiqJE260706.shtml",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-08"
+      "updatedAt": "2026-09-29"
     },
     {
       "id": "BJ_evt_81c940",
@@ -560,7 +704,7 @@ window.APP_DATA = {
       "sourceUrl": "https://tam.taikang.com/archive_exhibitions/blues-on-white-art-exhibition-celebrating-the-30th-anniversary-of-taikang-insurance-group",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-28 04:36:58.000Z"
+      "updatedAt": "2026-09-28"
     },
     {
       "id": "BJ_evt_24ad62",
@@ -594,8 +738,47 @@ window.APP_DATA = {
       "sourceUrl": "https://www.toutiao.com/article/7687481223421248015/",
       "celebrity": "Stray Kids（SKZOO）/毛不易",
       "description": "双节期间朝外 UIC 化身城市游乐场，串联蝙蝠侠日、SKZOO 全球快闪北京独家、毛不易「只在今夜」快闪等明星 IP 活动。",
-      "createdAt": "2026-09-21T07:38:33.665Z",
-      "updatedAt": "2026-09-21T08:35:44.481Z"
+      "createdAt": "2026-09-21",
+      "updatedAt": "2026-09-21"
+    },
+    {
+      "id": "BJ_evt_9e519a",
+      "cityCode": "BJ",
+      "categoryId": "outdoor",
+      "name": "永定河休闲森林公园焕新重启",
+      "venueId": "BJ_ven_b04aae77",
+      "venueText": "永定河休闲森林公园",
+      "dateText": "2026.9.6起",
+      "startDate": "2026-09-06",
+      "endDate": null,
+      "costId": "free",
+      "priceText": "",
+      "description": "9月6日恢复开放，「永森号」观光小火车同步运营，密林花海湿地一站式打卡，人少景美还免费。",
+      "sourceUrl": "https://www.toutiao.com/article/7681988106522640906/",
+      "tagName": "",
+      "createdAt": "2026-09-09",
+      "updatedAt": "2026-09-29",
+      "staleExempt": true,
+      "lastVerifiedAt": "2026-09-29",
+      "verifyNote": "永久开放型：公园常年开放/博物馆常设展，无终止日且不产新闻稿；豁免 stale 归档，按 90 天周期复核"
+    },
+    {
+      "id": "BJ_evt_6fd803",
+      "cityCode": "BJ",
+      "categoryId": "exhi",
+      "name": "沟壑的交响 2026年脑科学大展",
+      "venueId": "BJ_ven_f50e07c5",
+      "venueText": "中国科学技术馆",
+      "dateText": "2026.9.2-12.15",
+      "startDate": "2026-09-02",
+      "endDate": "2026-12-15",
+      "costId": "free",
+      "description": "中国科学技术馆重磅推出年度大展，依托中国脑计划最新研究成果，通过45件展品拆解脑科学前沿知识。",
+      "sourceUrl": "https://cms.cast.org.cn/xw/BWTJ/art/2026/art_23f83e9cd61b485f8b01b1401a51c620.html",
+      "tagName": "",
+      "createdAt": "2026-09-08",
+      "updatedAt": "2026-09-29",
+      "priceText": "免费（需预约）"
     }
   ]
 };

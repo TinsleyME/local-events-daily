@@ -902,5 +902,54 @@ window.APP_VENUES_GZ = [
     "latitude": 23.743892,
     "longitude": 113.784734,
     "address": "广州市从化区流溪香雪大街"
+  },
+  {
+    "id": "GZ_ven_0f84ddaa",
+    "cityCode": "GZ",
+    "name": "白云湖金铂天地",
+    "latitude": 23.226285,
+    "longitude": 113.260419,
+    "address": ""
+  },
+  {
+    "id": "GZ_ven_ae726d13",
+    "cityCode": "GZ",
+    "name": "太和金铂天地",
+    "latitude": 23.293096,
+    "longitude": 113.353059,
+    "address": ""
+  },
+  {
+    "id": "GZ_ven_bf346025",
+    "cityCode": "GZ",
+    "name": "凯德广场·云尚",
+    "latitude": 23.180842,
+    "longitude": 113.269732,
+    "address": ""
+  },
+  {
+    "id": "GZ_ven_1f053daf",
+    "cityCode": "GZ",
+    "name": "广州白云万达广场",
+    "latitude": 23.172557,
+    "longitude": 113.266747,
+    "address": ""
+  },
+  {
+    "id": "GZ_ven_a755ae7f",
+    "cityCode": "GZ",
+    "name": "海心沙亚运公园",
+    "latitude": 23.111415,
+    "longitude": 113.325257,
+    "address": ""
+  },
+  {
+    "id": "GZ_ven_1f59191d",
+    "cityCode": "GZ",
+    "name": "增城万达广场",
+    "latitude": 23.276113,
+    "longitude": 113.815049,
+    "address": "增城区荔湖街道"
   }
 ];
+

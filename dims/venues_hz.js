@@ -278,5 +278,13 @@ window.APP_VENUES_HZ = [
     "latitude": 30.222808,
     "longitude": 120.151223,
     "address": ""
+  },
+  {
+    "id": "HZ_ven_1477406b",
+    "cityCode": "HZ",
+    "name": "良渚博物院",
+    "latitude": 30.377289,
+    "longitude": 120.027883,
+    "address": "杭州市余杭区良渚街道美丽洲路1号"
   }
 ];

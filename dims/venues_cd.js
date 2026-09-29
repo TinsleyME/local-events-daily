@@ -518,5 +518,38 @@ window.APP_VENUES_CD = [
     "latitude": 30.657241,
     "longitude": 104.063625,
     "address": ""
+  },
+  {
+    "id": "CD_ven_d7b63851",
+    "cityCode": "CD",
+    "name": "文殊坊",
+    "latitude": 30.673445,
+    "longitude": 104.073239,
+    "address": "成都市青羊区文殊院街（文殊坊特色街区）"
+  },
+  {
+    "id": "CD_ven_ff2be11b",
+    "cityCode": "CD",
+    "name": "宽窄巷子",
+    "latitude": 30.665323,
+    "longitude": 104.050384,
+    "address": ""
+  },
+  {
+    "id": "CD_ven_8d874af3",
+    "cityCode": "CD",
+    "name": "蓝润摩里中心",
+    "latitude": 30.668062,
+    "longitude": 104.022393,
+    "address": ""
+  },
+  {
+    "id": "CD_ven_e3d69f40",
+    "cityCode": "CD",
+    "name": "成都杜甫草堂博物馆",
+    "latitude": 30.660348,
+    "longitude": 104.02863,
+    "address": ""
   }
 ];
+

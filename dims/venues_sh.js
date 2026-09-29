@@ -454,5 +454,94 @@ window.APP_VENUES_SH = [
     "latitude": 31.27462,
     "longitude": 121.453728,
     "address": "上海市静安区共和新路1878号"
+  },
+  {
+    "id": "SH_ven_65757a43",
+    "cityCode": "SH",
+    "name": "大洋晶典·天安千树",
+    "latitude": 31.249012,
+    "longitude": 121.445502,
+    "address": "上海市普陀区莫干山路600号"
+  },
+  {
+    "id": "SH_ven_f3501ec9",
+    "cityCode": "SH",
+    "name": "广富林文化遗址",
+    "latitude": 31.06243,
+    "longitude": 121.198567,
+    "address": ""
+  },
+  {
+    "id": "SH_ven_02afce32",
+    "cityCode": "SH",
+    "name": "上海影视乐园",
+    "latitude": 31.009964,
+    "longitude": 121.312855,
+    "address": ""
+  },
+  {
+    "id": "SH_ven_e0b02f3e",
+    "cityCode": "SH",
+    "name": "泰晤士小镇",
+    "latitude": 31.032851,
+    "longitude": 121.195466,
+    "address": ""
+  },
+  {
+    "id": "SH_ven_7bbf7d87",
+    "cityCode": "SH",
+    "name": "上海醉白池公园",
+    "latitude": 31.001469,
+    "longitude": 121.231067,
+    "address": ""
+  },
+  {
+    "id": "SH_ven_2c215b1d",
+    "cityCode": "SH",
+    "name": "上海方塔园",
+    "latitude": 31.004475,
+    "longitude": 121.246562,
+    "address": ""
+  },
+  {
+    "id": "SH_ven_0e936bf3",
+    "cityCode": "SH",
+    "name": "仓城郎园bridge",
+    "latitude": 31.006633,
+    "longitude": 121.217428,
+    "address": ""
+  },
+  {
+    "id": "SH_ven_137397c5",
+    "cityCode": "SH",
+    "name": "上海市历史博物馆",
+    "latitude": 31.230694,
+    "longitude": 121.471166,
+    "address": ""
+  },
+  {
+    "id": "SH_ven_e1ca5a95",
+    "cityCode": "SH",
+    "name": "上海环球港",
+    "latitude": 31.233282,
+    "longitude": 121.412478,
+    "address": ""
+  },
+  {
+    "id": "SH_ven_c9d6e2c6",
+    "cityCode": "SH",
+    "name": "中海真如环宇城MAX",
+    "latitude": 31.250462,
+    "longitude": 121.4085,
+    "address": ""
+  },
+  {
+    "id": "SH_ven_747050a5",
+    "cityCode": "SH",
+    "name": "鸿寿坊",
+    "latitude": 31.240832,
+    "longitude": 121.440488,
+    "address": ""
   }
 ];
+

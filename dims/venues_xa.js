@@ -518,5 +518,14 @@ window.APP_VENUES_XA = [
     "latitude": 34.214608,
     "longitude": 108.960974,
     "address": "西安市雁塔区大雁塔南广场（大唐不夜城）"
+  },
+  {
+    "id": "XA_ven_ae1ded3e",
+    "cityCode": "XA",
+    "name": "西安开元大剧院",
+    "latitude": 34.346451,
+    "longitude": 108.951727,
+    "address": ""
   }
 ];
+

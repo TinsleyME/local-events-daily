@@ -1,11 +1,101 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-09-28",
-    "weekday": "周一",
+    "date": "2026-09-29",
+    "weekday": "周二",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "WH_evt_3f1b91",
+      "cityCode": "WH",
+      "categoryId": "market",
+      "name": "Chiikawa Baby「悠乐日记」华中首展",
+      "venueId": "WH_ven_b37631d1",
+      "venueText": "武汉恒隆广场东区",
+      "dateText": "2026年9月24日–11月15日",
+      "startDate": "2026-09-24",
+      "endDate": "2026-11-15",
+      "costId": "free",
+      "priceText": "免费入场",
+      "description": "火爆全网的 Chiikawa Baby 吉伊卡哇华中首展，以「悠乐日记」为主题，复刻软萌治愈的童话世界。散落商场东区各大角落的沉浸式美陈装置。同期武汉恒隆广场还有亚洲Top50鸡尾酒吧空降。",
+      "sourceUrl": "https://www.toutiao.com/article/7689405746467701288/",
+      "tagName": "IP展 首展 商场 华中首展 打卡",
+      "createdAt": "2026-09-29",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "WH_evt_5512d7",
+      "cityCode": "WH",
+      "categoryId": "market",
+      "name": "武商MALL「三节同启 鄂赣共庆」",
+      "venueId": "WH_ven_92b39a3f",
+      "venueText": "武商MALL",
+      "dateText": "2026年9月25日–10月11日",
+      "startDate": "2026-09-25",
+      "endDate": "2026-10-11",
+      "costId": "free",
+      "priceText": "免费入场，消费自理",
+      "description": "中秋、武商集团67周年庆与国庆三节联袂，武商MALL六大礼遇与主题活动同步开启。国庆期间以花艺美陈搭配国庆氛围装饰打造假日打卡点；外地游客专属消费券；武网专属互动同步开启，主题打卡、趣味挑战与限定周边轮番上阵。VIP至高享10倍积分、国际名品回馈达20%、零售至高满仟返300、国际美妆8.2折起。",
+      "sourceUrl": "https://www.toutiao.com/article/7689405746467701288/",
+      "tagName": "商圈 周年庆 国庆 江汉 中秋",
+      "createdAt": "2026-09-29",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "WH_evt_9c681d",
+      "cityCode": "WH",
+      "categoryId": "market",
+      "name": "武商梦时代「悦享金秋，礼颂山河」国风盛宴",
+      "venueId": "WH_ven_e77c9c83",
+      "venueText": "武商梦时代",
+      "dateText": "2026年9月25日–10月7日",
+      "startDate": "2026-09-25",
+      "endDate": "2026-10-07",
+      "costId": "free",
+      "priceText": "免费入场，消费自理",
+      "description": "中秋、国庆、武商67周年庆三节同庆。9月25日国风盛宴开启，君子六艺闯关兑好礼；9月25日–10月7日 WS梦乐园古风巡游、国风大戏连番上演；WS热雪奇迹零下6℃真雪畅玩，超级月亮、雪地狂欢等主题活动同步上线。",
+      "sourceUrl": "https://www.toutiao.com/article/7689405746467701288/",
+      "tagName": "国风 巡游 六艺 武昌 中秋",
+      "createdAt": "2026-09-29",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "WH_evt_b0fe64",
+      "cityCode": "WH",
+      "categoryId": "market",
+      "name": "武汉SKP「假日专列发车，非遗快闪抵达」",
+      "venueId": "WH_ven_eea2b3d1",
+      "venueText": "武汉SKP",
+      "dateText": "2026年10月1日–10月7日",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-07",
+      "costId": "free",
+      "priceText": "免费入场，消费自理",
+      "description": "武汉SKP特邀民艺品牌「自然造物」打造非遗快闪。该团队历经10年、跨越70万公里、拜访2000名传统手艺人，把散落在中国大地上的民艺绘成一幅地图，中秋国庆期间这张地图抵达武汉SKP，可观可触可带走。",
+      "sourceUrl": "https://www.toutiao.com/article/7689405746467701288/",
+      "tagName": "非遗 快闪 民艺 武昌 国庆节",
+      "createdAt": "2026-09-29",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "WH_evt_071aa0",
+      "cityCode": "WH",
+      "categoryId": "market",
+      "name": "武汉首届农场发酵节",
+      "venueId": "WH_ven_631fd090",
+      "venueText": "武昌万象城",
+      "dateText": "2026年10月1日–10月5日",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-05",
+      "costId": "free",
+      "priceText": "免费入场，消费自理",
+      "description": "武昌万象城围绕「农场、生长、发酵」打造主题市集，集结50余家风物主理人品牌，其中50%为武汉首进。设置甜酵、熟成、丰酿、顺时、回响五大主题篇章，配套发酵工坊、酵物档案馆、动物朋友圈、农场挑战赛四大体验板块。",
+      "sourceUrl": "https://www.toutiao.com/article/7689405746467701288/",
+      "tagName": "市集 发酵 首店 武昌 国庆节",
+      "createdAt": "2026-09-29",
+      "updatedAt": "2026-09-29"
+    },
     {
       "id": "WH_evt_d8c75b",
       "cityCode": "WH",
@@ -109,10 +199,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "",
       "description": "第十一届中国京剧艺术节将于10月15日至11月5日举办，共48场优秀剧目、折子戏展演，同步举办京剧主题市集、非遗市集、文创展销。",
-      "sourceUrl": "https://nyncj.wuhan.gov.cn/xwzx_25/xxlb/202609/t20260918_2849737.html",
+      "sourceUrl": "https://www.mct.gov.cn/vipchat/home/site/2/476/abstract/2026092003142494.html",
       "tagName": "京剧 艺术节 非遗 国庆",
       "createdAt": "2026-09-21",
-      "updatedAt": "2026-09-21"
+      "updatedAt": "2026-09-29"
     },
     {
       "id": "WH_evt_06b083",
@@ -145,10 +235,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "",
       "description": "第十五届琴台音乐节将于10月16日至11月13日举办，依托「音乐+文旅」模式，拓展文旅消费。",
-      "sourceUrl": "https://nyncj.wuhan.gov.cn/xwzx_25/xxlb/202609/t20260918_2849737.html",
+      "sourceUrl": "https://www.chinanews.com/cul/2026/09-24/10703254.shtml",
       "tagName": "音乐节 琴台 国庆 音乐",
       "createdAt": "2026-09-21",
-      "updatedAt": "2026-09-21"
+      "updatedAt": "2026-09-29"
     },
     {
       "id": "WH_evt_eb3ce9",
@@ -163,10 +253,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "",
       "description": "第十六届武汉国际杂技艺术节将于10月23日至26日举办，精选15个国家20个杂技节目。",
-      "sourceUrl": "https://nyncj.wuhan.gov.cn/xwzx_25/xxlb/202609/t20260918_2849737.html",
+      "sourceUrl": "",
       "tagName": "杂技 国际 艺术节 国庆 重阳",
       "createdAt": "2026-09-21",
-      "updatedAt": "2026-09-21"
+      "updatedAt": "2026-09-29"
     },
     {
       "id": "WH_evt_4c65c2",
@@ -274,7 +364,7 @@ window.APP_DATA = {
       "sourceUrl": "https://wh.bendibao.com/jieri/zhongqiujie/2026918/200671.shtm",
       "tagName": "东湖 市集",
       "createdAt": "2026-09-16",
-      "updatedAt": "2026-09-21T07:46:19.788Z"
+      "updatedAt": "2026-09-21"
     },
     {
       "id": "WH_evt_f2209d",
@@ -501,15 +591,15 @@ window.APP_DATA = {
       "name": "浮生一日凉——古代消夏文化展",
       "venueId": "WH_ven_22a2b3c5",
       "venueText": "武汉博物馆 一楼珍藏厅",
-      "dateText": "2026.7-10月",
+      "dateText": "2026.7.8-10.8",
       "startDate": "2026-07-08",
       "endDate": "2026-10-08",
       "costId": "free",
       "description": "武鄂黄黄都市圈博物馆系列展，200余件文物再现古人消夏智慧，扇底清风、瓷枕生凉、浮瓜沉李、荷香满塘，一窥古人消夏乐趣。",
-      "sourceUrl": "",
+      "sourceUrl": "https://3g.wuhan.gov.cn/sy/whyw/202607/t20260708_2818000.shtml",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-23T09:30:00.000Z"
+      "updatedAt": "2026-09-29"
     },
     {
       "id": "WH_evt_9fb11b",
@@ -524,10 +614,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "58元",
       "description": "以上海美术电影制片厂《中国奇谭》为锚点，打通水墨剪纸技艺之魂与数字交互想象之翼的沉浸式艺术展，早鸟票28/38/58元。",
-      "sourceUrl": "",
+      "sourceUrl": "https://sw.wuhan.gov.cn/xwdt/gzdt/202607/t20260727_2825526.shtml",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-29"
     },
     {
       "id": "WH_evt_8cdaaf",
@@ -541,10 +631,10 @@ window.APP_DATA = {
       "endDate": "2026-10-07",
       "costId": "free",
       "description": "集结青年艺术家沐希、申昕彤、谢玄玄，以色彩与雕塑重构东方日常的浪漫想象，需预约免费参观。",
-      "sourceUrl": "",
+      "sourceUrl": "https://sw.wuhan.gov.cn/xwdt/gzdt/202607/t20260727_2825526.shtml",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-29"
     },
     {
       "id": "WH_evt_ba7157",
@@ -558,10 +648,10 @@ window.APP_DATA = {
       "endDate": "2026-10-30",
       "costId": "free",
       "description": "青年陶艺家陈艺楠以陶瓷为主要媒介，融合金属、硅胶、影像，重新审视承载福、财、平安等朴素愿望的寻常之物。",
-      "sourceUrl": "",
+      "sourceUrl": "https://www.sina.cn/news/detail/5344090813366977.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-29"
     },
     {
       "id": "WH_evt_4cb769",
@@ -716,6 +806,24 @@ window.APP_DATA = {
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-20",
       "priceText": "免费（需预约）"
+    },
+    {
+      "id": "WH_evt_5bf20b",
+      "cityCode": "WH",
+      "categoryId": "exhi",
+      "name": "恰好是小满·小满个展（华中首展）",
+      "venueId": "WH_ven_ffa2b3d2",
+      "venueText": "武汉K11 I馆4楼 艺术空间",
+      "dateText": "2026.6.28-10.11",
+      "startDate": "2026-06-28",
+      "endDate": "2026-10-11",
+      "costId": "paid",
+      "priceText": "39-72元（单人39元/双人72元，含周边）",
+      "description": "治愈系原创IP插画《恰好是小满》华中首展，粉调治愈展厅还原小满宝宝与朋友们的温柔世界，逛展过程自带解压氛围，适合拍照打卡。",
+      "sourceUrl": "https://www.sina.cn/news/detail/5344121008423572.html",
+      "tagName": "展览",
+      "createdAt": "2026-09-29",
+      "updatedAt": "2026-09-29"
     }
   ]
 };

@@ -107,12 +107,12 @@ window.APP_DATA = {
       "startDate": "2026-10-01",
       "endDate": "2026-10-07",
       "costId": "paid",
-      "priceText": "穿汉服可享特定时段免票入园",
+      "priceText": "门票 80 元起（成人票 80/150/168 元档；穿汉服可享特定时段免票入园）",
       "description": "双节期间推出「宋韵成章·岁华同庆」活动，还原《清明上河图》场景，身着古风服饰的游客可免费入园。",
       "sourceUrl": "https://www.foshan.gov.cn/zwgk/zwdt/wqdt/sdq/content/post_7307313.html",
       "tagName": "宋韵 汉服 国庆 亲子 国庆节",
       "createdAt": "2026-09-21",
-      "updatedAt": "2026-09-21"
+      "updatedAt": "2026-09-29"
     },
     {
       "id": "FS_evt_fdc2ef",
@@ -472,7 +472,7 @@ window.APP_DATA = {
       "sourceUrl": "https://fs.bendibao.com/xiuxian/2026916/142173.shtm",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-21T08:17:59.818Z"
+      "updatedAt": "2026-09-21"
     },
     {
       "id": "FS_evt_2613bd",
@@ -580,7 +580,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.sina.cn/news/detail/5338745588155105.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-21T08:17:59.818Z"
+      "updatedAt": "2026-09-21"
     },
     {
       "id": "FS_evt_397496",
@@ -595,10 +595,10 @@ window.APP_DATA = {
       "costId": "free",
       "priceText": "",
       "description": "以268件(套)贝类标本、远古化石、人文文物及非遗工艺展品为载体，设识贝、赏贝、用贝、护贝四大主题展区，适合亲子科普。",
-      "sourceUrl": "",
+      "sourceUrl": "http://www.fsxcb.gov.cn/whwy/whcy/content/post_1017151.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-22"
+      "updatedAt": "2026-09-29"
     },
     {
       "id": "FS_evt_9f1efe",
@@ -616,7 +616,7 @@ window.APP_DATA = {
       "sourceUrl": "https://whly.gd.gov.cn/service_newwwbwg/content/post_4936395.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-21T08:17:59.818Z"
+      "updatedAt": "2026-09-21"
     },
     {
       "id": "FS_evt_bfaa1a",
@@ -938,7 +938,7 @@ window.APP_DATA = {
       "sourceUrl": "https://whly.gd.gov.cn/service_newwwbwg/content/post_4936395.html",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-21T08:17:59.818Z"
+      "updatedAt": "2026-09-21"
     },
     {
       "id": "FS_evt_188469",
@@ -958,4 +958,4 @@ window.APP_DATA = {
       "updatedAt": "2026-09-08"
     }
   ]
-}
+};

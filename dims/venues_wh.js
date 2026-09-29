@@ -446,5 +446,13 @@ window.APP_VENUES_WH = [
     "latitude": 30.599154,
     "longitude": 114.280446,
     "address": ""
+  },
+  {
+    "id": "WH_ven_b37631d1",
+    "cityCode": "WH",
+    "name": "武汉恒隆广场",
+    "latitude": 30.578686,
+    "longitude": 114.274822,
+    "address": ""
   }
 ];

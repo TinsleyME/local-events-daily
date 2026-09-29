@@ -1,11 +1,83 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-09-28",
-    "weekday": "周一",
+    "date": "2026-09-29",
+    "weekday": "周二",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "CD_evt_532518",
+      "cityCode": "CD",
+      "categoryId": "market",
+      "name": "宽窄巷子「每一程，遇见成都」主题活动",
+      "venueId": "CD_ven_ff2be11b",
+      "venueText": "宽窄巷子",
+      "dateText": "2026年9月25日–10月25日",
+      "startDate": "2026-09-25",
+      "endDate": "2026-10-25",
+      "costId": "free",
+      "priceText": "免费参与",
+      "description": "宽窄巷子联动滴滴开展，发布城市体验推荐线路、发放文旅消费权益，并通过主题车辆巡游串联多个特色消费场景，打通「交通流量—文旅场景—消费转化」闭环。属青羊区中秋国庆系列促消费活动。",
+      "sourceUrl": "https://dy.163.com/article/L7CDBT5305346936.html",
+      "tagName": "街区 免费 国庆 青羊 成都 巡游 中秋",
+      "createdAt": "2026-09-29",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "CD_evt_9e2335",
+      "cityCode": "CD",
+      "categoryId": "market",
+      "name": "蓝润摩里中心「蹭个乐子」成都话脱口秀大赛×街舞大赛",
+      "venueId": "CD_ven_8d874af3",
+      "venueText": "蓝润摩里中心",
+      "dateText": "2026年10月1日–10月31日",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-31",
+      "costId": "free",
+      "priceText": "免费参与",
+      "description": "成都话脱口秀大赛与街舞大赛双赛联动，联合场内商户推出双节特惠，打造年轻群体喜爱的潮流消费场景。同场 9月25日至27日另有「蹭个好运」手作市集与中秋少儿汇演。",
+      "sourceUrl": "https://dy.163.com/article/L7CDBT5305346936.html",
+      "tagName": "脱口秀 街舞 免费 商场 青羊 成都 国庆节",
+      "createdAt": "2026-09-29",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "CD_evt_954020",
+      "cityCode": "CD",
+      "categoryId": "exhi",
+      "name": "杜甫草堂第54届盆景展",
+      "venueId": "CD_ven_e3d69f40",
+      "venueText": "成都杜甫草堂博物馆",
+      "dateText": "2026年9月25日–10月7日",
+      "startDate": "2026-09-25",
+      "endDate": "2026-10-07",
+      "costId": "unknown",
+      "priceText": "",
+      "description": "青羊区中秋国庆系列文旅配套活动之一，第54届盆景展于9月25日启幕，持续至10月7日，配合中秋竹编手作、双节雅集等互动体验。",
+      "sourceUrl": "https://dy.163.com/article/L7CDBT5305346936.html",
+      "tagName": "盆景展 园林 国庆 青羊 成都 中秋",
+      "createdAt": "2026-09-29",
+      "updatedAt": "2026-09-29"
+    },
+    {
+      "id": "CD_evt_52d47d",
+      "cityCode": "CD",
+      "categoryId": "market",
+      "name": "「风起文殊·江湖论英雄」十一武林大会",
+      "venueId": "CD_ven_d7b63851",
+      "venueText": "文殊坊特色街区",
+      "dateText": "2026年10月1日–10月7日",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-07",
+      "costId": "free",
+      "priceText": "免费入场，消费自理",
+      "description": "成都青羊区双节重点文旅活动，文殊坊街区化身武侠江湖场景，武术展演、江湖市集、NPC互动、主题打卡轮番上线，为游客带来沉浸式过节体验。同期青羊区还推出宽窄巷子联动滴滴「每一程，遇见成都」主题活动（9.25–10.25）等配套内容。",
+      "sourceUrl": "https://dy.163.com/article/L7CDBT5305346936.html",
+      "tagName": "市集 武侠 国风 青羊 国庆节",
+      "createdAt": "2026-09-29",
+      "updatedAt": "2026-09-29"
+    },
     {
       "id": "CD_evt_97a638",
       "cityCode": "CD",
@@ -356,12 +428,12 @@ window.APP_DATA = {
       "startDate": "2026-09-09",
       "endDate": "2026-10-08",
       "costId": "paid",
-      "priceText": "免费（需杜甫草堂入馆门票50元）",
+      "priceText": "需购杜甫草堂入馆门票 50 元（展览本身不另收费）",
       "description": "全国首个聚焦杜甫与秦州的主题文物展，汇集八家文博单位 127 件(套)文物精品，循杜甫流寓秦州行迹勾勒盛唐陇右人文风貌。",
       "sourceUrl": "https://wwj.sc.gov.cn/scwwj/xzsd/2026/7/28/609aa193648b434e9de1833ec47506ba.shtml",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-29"
     },
     {
       "id": "CD_evt_22d47c",
@@ -378,7 +450,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.chengdu.gov.cn/cdsrmzf/c174536/2026-08/03/content_87cad7ea58854e2486164a6029667af0.shtml",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-21T08:17:59.818Z"
+      "updatedAt": "2026-09-21"
     },
     {
       "id": "CD_evt_1b2246",
@@ -556,7 +628,7 @@ window.APP_DATA = {
       "sourceUrl": "https://cdwglj.chengdu.gov.cn/cdwglj/c133208/2026-09/07/content_1d50e4b9d7614a018f6f18e8a56a2614.shtml",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-23T10:00:00.000Z"
+      "updatedAt": "2026-09-23"
     },
     {
       "id": "CD_evt_780502",
@@ -711,7 +783,7 @@ window.APP_DATA = {
       "sourceUrl": "",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-23T10:00:00.000Z"
+      "updatedAt": "2026-09-23"
     },
     {
       "id": "CD_evt_a71ee4",
@@ -746,24 +818,7 @@ window.APP_DATA = {
       "sourceUrl": "https://xzyhwtb.360jlb.cn/m/event?id=865830&mid=73639",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-23T10:00:00.000Z"
-    },
-    {
-      "id": "CD_evt_c4612d",
-      "cityCode": "CD",
-      "categoryId": "expo",
-      "name": "第52届成都珠宝首饰展览会",
-      "venueId": "CD_ven_cd_ep01",
-      "venueText": "成都世纪城新国际会展中心 6 号馆",
-      "dateText": "2026.9.25-9.28",
-      "startDate": "2026-09-25",
-      "endDate": "2026-09-28",
-      "costId": "free",
-      "description": "集中展示各类高品质珠宝玉器等首饰，是珠宝企业开拓市场、传播珠宝文化的展示与交流平台。",
-      "sourceUrl": "https://www.cdhzlm.com/?news_11/438.html",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-22"
+      "updatedAt": "2026-09-23"
     },
     {
       "id": "CD_evt_cafb0e",
@@ -799,6 +854,24 @@ window.APP_DATA = {
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-24",
       "priceText": "免费（公众可参与配套文旅活动）"
+    },
+    {
+      "id": "CD_evt_3aabd4",
+      "cityCode": "CD",
+      "categoryId": "market",
+      "name": "2026成都非遗灯会",
+      "venueId": "CD_ven_cd_sh22",
+      "venueText": "成都非物质文化遗产博览园",
+      "dateText": "2026年9月25日起，持续开放至2027年元宵节（2027年2月20日）",
+      "startDate": "2026-09-25",
+      "endDate": "2027-02-20",
+      "costId": "unknown",
+      "priceText": "",
+      "description": "青羊区中秋国庆系列文旅配套活动之一，成都非遗灯会9月25日点亮，将持续开放至2027年元宵节。",
+      "sourceUrl": "https://dy.163.com/article/L7CDBT5305346936.html",
+      "tagName": "灯会 非遗 成都 青羊 夜游 中秋",
+      "createdAt": "2026-09-29",
+      "updatedAt": "2026-09-29"
     }
   ]
-}
+};

@@ -454,5 +454,46 @@ window.APP_VENUES_CQ = [
     "latitude": 29.45443,
     "longitude": 106.494879,
     "address": "重庆市大渡口区义渡古镇"
+  },
+  {
+    "id": "CQ_ven_98999f4e",
+    "cityCode": "CQ",
+    "name": "重庆湖广会馆",
+    "latitude": 29.558205,
+    "longitude": 106.587064,
+    "address": "重庆市渝中区长滨路芭蕉园1号"
+  },
+  {
+    "id": "CQ_ven_bf3cb32e",
+    "cityCode": "CQ",
+    "name": "重庆1949大剧院",
+    "latitude": 29.581216,
+    "longitude": 106.447205,
+    "address": "沙坪坝区磁器口金碧正街999号"
+  },
+  {
+    "id": "CQ_ven_397ec868",
+    "cityCode": "CQ",
+    "name": "长嘉汇购物公园",
+    "latitude": 29.578432,
+    "longitude": 106.585811,
+    "address": "南岸区弹子石街道南滨路"
+  },
+  {
+    "id": "CQ_ven_9fe6a0e9",
+    "cityCode": "CQ",
+    "name": "龙门浩老街",
+    "latitude": 29.555929,
+    "longitude": 106.594891,
+    "address": "南岸区龙门浩街道"
+  },
+  {
+    "id": "CQ_ven_c24a936a",
+    "cityCode": "CQ",
+    "name": "龙湖重庆江岸天街",
+    "latitude": 29.52753,
+    "longitude": 106.570055,
+    "address": "南岸区南坪街道南坪南路"
   }
 ];
+

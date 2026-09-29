@@ -502,5 +502,86 @@ window.APP_VENUES_SZ = [
     "latitude": 22.574185,
     "longitude": 114.124771,
     "address": ""
+  },
+  {
+    "id": "SZ_ven_34d10f95",
+    "cityCode": "SZ",
+    "name": "深圳湾万象城",
+    "latitude": 22.51488,
+    "longitude": 113.943781,
+    "address": "深圳市南山区科苑南路2888号"
+  },
+  {
+    "id": "SZ_ven_f60305cf",
+    "cityCode": "SZ",
+    "name": "深业上城",
+    "latitude": 22.557453,
+    "longitude": 114.070239,
+    "address": "深圳市福田区皇岗路5001号"
+  },
+  {
+    "id": "SZ_ven_b652f20e",
+    "cityCode": "SZ",
+    "name": "深圳K11 ECOAST海滨文化艺术区",
+    "latitude": 22.471271,
+    "longitude": 113.915105,
+    "address": "深圳市南山区太子湾K11 ECOAST海滨文化艺术区"
+  },
+  {
+    "id": "SZ_ven_384f1e34",
+    "cityCode": "SZ",
+    "name": "深圳科学公园",
+    "latitude": 22.77214,
+    "longitude": 113.943488,
+    "address": ""
+  },
+  {
+    "id": "SZ_ven_26d9f720",
+    "cityCode": "SZ",
+    "name": "深圳星河WORLD",
+    "latitude": 22.603881,
+    "longitude": 114.059287,
+    "address": ""
+  },
+  {
+    "id": "SZ_ven_6f074d90",
+    "cityCode": "SZ",
+    "name": "深圳香蜜公园",
+    "latitude": 22.547029,
+    "longitude": 114.021655,
+    "address": ""
+  },
+  {
+    "id": "SZ_ven_5feb3b2e",
+    "cityCode": "SZ",
+    "name": "深圳笔架山体育公园",
+    "latitude": 22.562474,
+    "longitude": 114.081594,
+    "address": ""
+  },
+  {
+    "id": "SZ_ven_d3301ebd",
+    "cityCode": "SZ",
+    "name": "a park 一个公园",
+    "latitude": 22.564243,
+    "longitude": 114.039768,
+    "address": ""
+  },
+  {
+    "id": "SZ_ven_722a1742",
+    "cityCode": "SZ",
+    "name": "安托山公共文化中心",
+    "latitude": 22.546178,
+    "longitude": 114.008967,
+    "address": ""
+  },
+  {
+    "id": "SZ_ven_07939967",
+    "cityCode": "SZ",
+    "name": "宝安大仟里",
+    "latitude": 22.569021,
+    "longitude": 113.871928,
+    "address": "深圳市宝安区新湖路与海城路交汇处（西乡街道）"
   }
 ];
+

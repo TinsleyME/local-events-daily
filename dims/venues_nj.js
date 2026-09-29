@@ -430,5 +430,13 @@ window.APP_VENUES_NJ = [
     "latitude": 32.199249,
     "longitude": 118.746742,
     "address": "江北新区幸福路77号"
+  },
+  {
+    "id": "NJ_ven_8ca2877f",
+    "cityCode": "NJ",
+    "name": "江苏省美术馆",
+    "latitude": 32.044135,
+    "longitude": 118.793661,
+    "address": "南京市玄武区长江路266号（江苏省美术馆陈列馆）"
   }
 ];

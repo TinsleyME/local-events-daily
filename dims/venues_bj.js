@@ -534,5 +534,45 @@ window.APP_VENUES_BJ = [
     "latitude": 39.908605,
     "longitude": 116.307163,
     "address": ""
+  },
+  {
+    "id": "BJ_ven_6216db4c",
+    "cityCode": "BJ",
+    "name": "中海大吉巷",
+    "latitude": 39.88787,
+    "longitude": 116.376834,
+    "address": "北京市西城区大吉巷（宣南文脉街区）"
+  },
+  {
+    "id": "BJ_ven_763aed04",
+    "cityCode": "BJ",
+    "name": "前门商业街区",
+    "latitude": 39.895111,
+    "longitude": 116.398187,
+    "address": ""
+  },
+  {
+    "id": "BJ_ven_5b6bba5c",
+    "cityCode": "BJ",
+    "name": "颜料会馆",
+    "latitude": 39.899683,
+    "longitude": 116.399183,
+    "address": ""
+  },
+  {
+    "id": "BJ_ven_9badef00",
+    "cityCode": "BJ",
+    "name": "北京天桥艺术中心",
+    "latitude": 39.88208,
+    "longitude": 116.397785,
+    "address": ""
+  },
+  {
+    "id": "BJ_ven_66d78823",
+    "cityCode": "BJ",
+    "name": "雁栖湖",
+    "latitude": 40.397791,
+    "longitude": 116.685708,
+    "address": "怀柔区雁水路3号雁栖湖景区内（东侧）"
   }
 ];
