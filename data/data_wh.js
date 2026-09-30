@@ -1,11 +1,191 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-09-29",
-    "weekday": "周二",
+    "date": "2026-09-30",
+    "weekday": "周三",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "WH_evt_4d38b6",
+      "cityCode": "WH",
+      "categoryId": "exhi",
+      "name": "克里姆林宫的瑰宝：从彼得一世到叶卡捷琳娜二世",
+      "venueId": "WH_ven_11a2b3c4",
+      "venueText": "湖北省博物馆",
+      "dateText": "2026年7月20日至10月25日",
+      "startDate": "2026-07-20",
+      "endDate": "2026-10-25",
+      "costId": "paid",
+      "priceText": "成人80元/人，优待票60元/人",
+      "description": "克里姆林宫博物馆129件（组）珍贵馆藏首次大规模亮相中国，串联17世纪初罗曼诺夫王朝建立至18世纪末叶卡捷琳娜二世执政时期170余年历史，王冠、权杖、宫廷礼服、古董银器尽数亮相。地点：北馆二层临展厅，线上购票无需重复预约省博免费门票。",
+      "sourceUrl": "https://www.sina.cn/news/detail/5323139714124275.html",
+      "tagName": "克里姆林宫 特展 俄罗斯",
+      "createdAt": "2026-09-30",
+      "updatedAt": "2026-09-30"
+    },
+    {
+      "id": "WH_evt_bac0cf",
+      "cityCode": "WH",
+      "categoryId": "exhi",
+      "name": "大汉雄风——湖北省博物馆馆藏汉代金石碑帖",
+      "venueId": "WH_ven_11a2b3c4",
+      "venueText": "湖北省博物馆",
+      "dateText": "2026年10月至12月",
+      "startDate": "2026-10-01",
+      "endDate": "2026-12-31",
+      "costId": "free",
+      "priceText": "免费（需预约入馆）",
+      "description": "遴选馆藏汉代金石碑帖善本及历代名家鉴藏碑拓珍品共50件，囊括碑碣、摩崖、墓志等典型形制，勾勒汉代书法艺术的嬗变轨迹。地点：北馆三楼。",
+      "sourceUrl": "https://hbww.org.cn/xwdt/p/11447.html",
+      "tagName": "汉代 碑帖 书法 国庆节",
+      "createdAt": "2026-09-30",
+      "updatedAt": "2026-09-30"
+    },
+    {
+      "id": "WH_evt_769b10",
+      "cityCode": "WH",
+      "categoryId": "exhi",
+      "name": "金伯兴书法展",
+      "venueId": "WH_ven_11a2b3c4",
+      "venueText": "湖北省博物馆",
+      "dateText": "2026年9月至10月",
+      "startDate": "2026-09-01",
+      "endDate": "2026-10-31",
+      "costId": "free",
+      "priceText": "免费（需预约入馆）",
+      "description": "汇聚馆藏当代书法大家金伯兴先生百余件精品力作，涵盖多种书体，形式包括扇面、册页、对联、长卷等。地点：南馆四楼。",
+      "sourceUrl": "https://hbww.org.cn/xwdt/p/11447.html",
+      "tagName": "书法 馆藏展",
+      "createdAt": "2026-09-30",
+      "updatedAt": "2026-09-30"
+    },
+    {
+      "id": "WH_evt_52e820",
+      "cityCode": "WH",
+      "categoryId": "show",
+      "name": "舞蹈《橘颂》地铁快闪",
+      "venueId": "WH_ven_ad0f71c8",
+      "venueText": "武汉地铁12号线武昌站东广场",
+      "dateText": "2026年10月2日至10月5日",
+      "startDate": "2026-10-02",
+      "endDate": "2026-10-05",
+      "costId": "free",
+      "priceText": "免费（每日14:30）",
+      "description": "武汉歌舞剧院演员带来舞蹈《橘颂》快闪，16名舞者身着橙绿相间长裙展现楚舞飘逸灵动，每天14:30在武昌站东广场站内上演约7分钟，为\"武汉城市音乐新秀场\"活动之一。",
+      "sourceUrl": "https://news.qq.com/rain/a/20260929A06O0D00",
+      "tagName": "快闪 舞蹈 免费 双节",
+      "createdAt": "2026-09-30",
+      "updatedAt": "2026-09-30"
+    },
+    {
+      "id": "WH_evt_8a60a6",
+      "cityCode": "WH",
+      "categoryId": "show",
+      "name": "武汉城市音乐新秀场·中华路城市阳台音乐会",
+      "venueId": "WH_ven_855a61e4",
+      "venueText": "中华路城市阳台武昌里观景平台",
+      "dateText": "2026年10月2日至10月5日",
+      "startDate": "2026-10-02",
+      "endDate": "2026-10-05",
+      "costId": "free",
+      "priceText": "免费",
+      "description": "武汉歌舞剧院联合武汉爱乐乐团在中华路城市阳台武昌里观景平台演绎7首契合国庆氛围的歌曲，每场约30分钟，面向市民及游客免费开放。",
+      "sourceUrl": "https://news.qq.com/rain/a/20260929A06O0D00",
+      "tagName": "音乐会 国庆 免费",
+      "createdAt": "2026-09-30",
+      "updatedAt": "2026-09-30"
+    },
+    {
+      "id": "WH_evt_7f9c90",
+      "cityCode": "WH",
+      "categoryId": "outdoor",
+      "name": "\"祝福祖国 追梦东湖\"主题活动",
+      "venueId": "WH_ven_386729b2",
+      "venueText": "东湖凌波门",
+      "dateText": "2026年10月1日",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-01",
+      "costId": "free",
+      "priceText": "免费",
+      "description": "10月1日在东湖凌波门举行\"祝福祖国 追梦东湖\"活动，推出智能机器人展演与国风电音演艺，开展\"桂萦书香\"点亮及水上巡游，上新科技与自然融合的沉浸体验。",
+      "sourceUrl": "https://news.qq.com/rain/a/20260929A06O0D00",
+      "tagName": "国风 东湖 国庆 国庆节",
+      "createdAt": "2026-09-30",
+      "updatedAt": "2026-09-30"
+    },
+    {
+      "id": "WH_evt_be35aa",
+      "cityCode": "WH",
+      "categoryId": "family",
+      "name": "武汉园博园国庆游园会",
+      "venueId": "WH_ven_fcca60f8",
+      "venueText": "武汉园博园",
+      "dateText": "2026年10月1日至10月7日",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-07",
+      "costId": "unknown",
+      "priceText": "",
+      "description": "武汉园博园国庆游园会举办欢乐音乐快闪巡游、抖舞大会、音乐篝火晚会、《红歌会》大合唱等活动，推出《西湖情缘》《西游幻境》等音乐情景剧。",
+      "sourceUrl": "https://news.qq.com/rain/a/20260929A06O0D00",
+      "tagName": "游园会 亲子 国庆 国庆节",
+      "createdAt": "2026-09-30",
+      "updatedAt": "2026-09-30"
+    },
+    {
+      "id": "WH_evt_0e4ac3",
+      "cityCode": "WH",
+      "categoryId": "show",
+      "name": "麓客岛麓洲面剧节",
+      "venueId": "WH_ven_8794e05a",
+      "venueText": "武汉麓客岛",
+      "dateText": "2026年10月1日至10月3日",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-03",
+      "costId": "unknown",
+      "priceText": "",
+      "description": "武汉麓客岛麓洲面剧节上演20部海内外精品剧目展演，形式涵盖音乐剧、话剧、人声合唱团、舞蹈综艺剧等，同时开展巡游、市集与工坊活动，打造全民参与、无边界的湖畔艺术盛宴。",
+      "sourceUrl": "https://news.qq.com/rain/a/20260929A06O0D00",
+      "tagName": "戏剧节 湖畔 国庆 国庆节",
+      "createdAt": "2026-09-30",
+      "updatedAt": "2026-09-30"
+    },
+    {
+      "id": "WH_evt_783b0c",
+      "cityCode": "WH",
+      "categoryId": "show",
+      "name": "黄鹤楼国庆汉剧演出（《贵妃醉酒》等）",
+      "venueId": "WH_ven_55a2b3c8",
+      "venueText": "黄鹤楼",
+      "dateText": "2026年10月2日至10月5日",
+      "startDate": "2026-10-02",
+      "endDate": "2026-10-05",
+      "costId": "unknown",
+      "priceText": "",
+      "description": "文艺演出进景区，10月2日至5日在黄鹤楼东门广场上演汉剧《贵妃醉酒》《三借芭蕉扇》《挡马》。",
+      "sourceUrl": "https://news.qq.com/rain/a/20260929A06O0D00",
+      "tagName": "汉剧 景区 国庆",
+      "createdAt": "2026-09-30",
+      "updatedAt": "2026-09-30"
+    },
+    {
+      "id": "WH_evt_892c61",
+      "cityCode": "WH",
+      "categoryId": "outdoor",
+      "name": "2026相约长江看烟花",
+      "venueId": "WH_ven_22d111a1",
+      "venueText": "武汉长江江滩（大桥至二桥段）",
+      "dateText": "2026年10月1日20:00",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-01",
+      "costId": "free",
+      "priceText": "免费（核心观赏区需预约）",
+      "description": "长达40分钟的长江烟花秀在武汉长江大桥至长江二桥之间的江面上演，烟花、无人机编队、激光、长江灯光秀齐上阵，庆祝新中国成立77周年。无预约不进入核心观赏区，9月20日起可通过\"平安武汉\"了解预约详情。",
+      "sourceUrl": "https://m.wh.bendibao.com/edu/191161.shtm",
+      "tagName": "烟花秀 国庆 长江 国庆节",
+      "createdAt": "2026-09-30",
+      "updatedAt": "2026-09-30"
+    },
     {
       "id": "WH_evt_3f1b91",
       "cityCode": "WH",
@@ -197,12 +377,12 @@ window.APP_DATA = {
       "startDate": "2026-10-15",
       "endDate": "2026-11-05",
       "costId": "paid",
-      "priceText": "",
+      "priceText": "惠民票价50/120/180/280元（部分场次除外）",
       "description": "第十一届中国京剧艺术节将于10月15日至11月5日举办，共48场优秀剧目、折子戏展演，同步举办京剧主题市集、非遗市集、文创展销。",
       "sourceUrl": "https://www.mct.gov.cn/vipchat/home/site/2/476/abstract/2026092003142494.html",
       "tagName": "京剧 艺术节 非遗 国庆",
       "createdAt": "2026-09-21",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-30"
     },
     {
       "id": "WH_evt_06b083",
@@ -233,12 +413,12 @@ window.APP_DATA = {
       "startDate": "2026-10-16",
       "endDate": "2026-11-13",
       "costId": "paid",
-      "priceText": "",
+      "priceText": "各场次50-1280元（官网分场次）",
       "description": "第十五届琴台音乐节将于10月16日至11月13日举办，依托「音乐+文旅」模式，拓展文旅消费。",
       "sourceUrl": "https://www.chinanews.com/cul/2026/09-24/10703254.shtml",
       "tagName": "音乐节 琴台 国庆 音乐",
       "createdAt": "2026-09-21",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-30"
     },
     {
       "id": "WH_evt_eb3ce9",
@@ -253,10 +433,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "",
       "description": "第十六届武汉国际杂技艺术节将于10月23日至26日举办，精选15个国家20个杂技节目。",
-      "sourceUrl": "",
+      "sourceUrl": "https://www.toutiao.com/article/7687501495931077154",
       "tagName": "杂技 国际 艺术节 国庆 重阳",
       "createdAt": "2026-09-21",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-09-30"
     },
     {
       "id": "WH_evt_4c65c2",
@@ -341,12 +521,12 @@ window.APP_DATA = {
       "startDate": "2026-10-10",
       "endDate": "2026-10-18",
       "costId": "paid",
-      "priceText": "需购票（WTA1000）",
+      "priceText": "看台100-1080元，VIP380-1880元，SVIP500-2080元，C1欢享票80元",
       "description": "武汉网球公开赛于光谷国际网球中心开拍，作为WTA1000顶级赛事吸引世界排名顶尖女子选手参赛。",
       "sourceUrl": "https://sw.wuhan.gov.cn/xwdt/mtbd/202609/t20260910_2845750.shtml",
       "tagName": "武汉 光谷 网球公开赛 WTA1000",
       "createdAt": "2026-09-17",
-      "updatedAt": "2026-09-17"
+      "updatedAt": "2026-09-30"
     },
     {
       "id": "WH_evt_f295c3",
@@ -376,13 +556,13 @@ window.APP_DATA = {
       "dateText": "9月-12月",
       "startDate": "2026-09-01",
       "endDate": "2026-12-31",
-      "costId": "paid",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费（场馆官方公众号预约）",
       "description": "“璀璨长江”文博系列展在湖北省博物馆等场馆举办，涵盖曾侯乙青铜工艺、荆楚矿冶文明、夏商文明传承、先秦礼乐、云梦简牍、石家河古国文明、欧阳修文化等7大主题，展出数百件珍贵出土文物。",
       "sourceUrl": "https://wh.bendibao.com/xiuxian/202698/200532.shtm",
       "tagName": "",
       "createdAt": "2026-09-15",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-30"
     },
     {
       "id": "WH_evt_b2ddf1",
@@ -413,49 +593,31 @@ window.APP_DATA = {
       "startDate": "2026-09-23",
       "endDate": "2026-10-07",
       "costId": "paid",
-      "priceText": "需购票",
+      "priceText": "78元/人（含知音花月夜夜场）",
       "description": "以「百合栖花屿·星火燃金秋」为主题，千亩百合花海+六大核心节目：花漾女团见面会、Surprise大巡游、星域音乐嘉年华、《盛世楚歌》实景大秀、《千灯大会》、《金秋花火彝族盛会》非遗火秀。",
       "sourceUrl": "https://www.toutiao.com/article/7684549207805461007/",
       "tagName": "",
       "createdAt": "2026-09-14",
-      "updatedAt": "2026-09-14"
-    },
-    {
-      "id": "WH_evt_c7c33c",
-      "cityCode": "WH",
-      "categoryId": "sports",
-      "name": "2026武网WTA1000（武汉网球公开赛）",
-      "venueId": "WH_ven_25a2b3eb",
-      "venueText": "武汉光谷国际网球中心",
-      "dateText": "10.10-18",
-      "startDate": "2026-10-10",
-      "endDate": "2026-10-18",
-      "costId": "paid",
-      "priceText": "需购票",
-      "description": "2026武汉网球公开赛（WTA1000）在光谷国际网球中心举行，作为金秋武汉体育盛宴，与长江文化艺术季同期点亮江城。",
-      "sourceUrl": "https://hb.chinadaily.com.cn/a/202609/10/WS6aa2242ce4b09a165c78916d.html",
-      "tagName": "国庆",
-      "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-09-30"
     },
     {
       "id": "WH_evt_a5d368",
       "celebrity": "李荣浩、黄子弘凡",
       "cityCode": "WH",
       "categoryId": "show",
-      "name": "武商67周年「歌者归来」演唱会（李荣浩×黄子弘凡）",
+      "name": "武商67周年「歌者归来」演唱会（黄贯中/李荣浩/黄子弘凡/海来阿木）",
       "venueId": "WH_ven_03a2b3d5",
       "venueText": "武汉体育中心",
       "dateText": "10.11",
       "startDate": "2026-10-11",
       "endDate": "2026-10-11",
       "costId": "paid",
-      "priceText": "需购票",
+      "priceText": "看台299/499/699元，内场799/999元",
       "description": "武商67周年「歌者归来」演唱会登陆武汉体育中心主体育场，李荣浩、黄子弘凡、海来阿木、黄贯中四位实力唱将同台，全场大合唱预定。",
       "sourceUrl": "https://www.sina.cn/news/detail/5338647081520316.html",
       "tagName": "国庆",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-12"
+      "updatedAt": "2026-09-30"
     },
     {
       "id": "WH_evt_6e42c5",
@@ -469,12 +631,12 @@ window.APP_DATA = {
       "startDate": "2026-10-17",
       "endDate": "2026-10-17",
       "costId": "paid",
-      "priceText": "需购票",
+      "priceText": "看台380/580/780/980元，内场1180/1380元",
       "description": "杨丞琳《房间里的大象》巡回演唱会武汉站在武汉体育中心体育馆开唱，前奏一响就是青春BGM。",
       "sourceUrl": "https://www.huanghepiao.com/article/1789519672162095.html",
       "tagName": "国庆",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-30"
     },
     {
       "id": "WH_evt_e01e41",
@@ -488,12 +650,12 @@ window.APP_DATA = {
       "startDate": "2026-10-01",
       "endDate": "2026-10-01",
       "costId": "paid",
-      "priceText": "需购票",
+      "priceText": "看台299/399/499元，内场599/699元",
       "description": "孙楠「给所有朋友们的歌」巡演武汉站定档国庆当天，在武汉五环体育中心体育场唱响，为假期开场。",
       "sourceUrl": "https://m.wh.bendibao.com/mip/199058.shtm",
       "tagName": "国庆 国庆节",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-30"
     },
     {
       "id": "WH_evt_f0c0cb",
@@ -507,12 +669,12 @@ window.APP_DATA = {
       "startDate": "2026-10-24",
       "endDate": "2026-10-24",
       "costId": "paid",
-      "priceText": "需购票",
+      "priceText": "280/480/680/880/1080元",
       "description": "李玉刚《刚好遇见你》2026巡回演唱会武汉站在光谷国际网球中心登场，国风舞台与流行唱腔交织。",
       "sourceUrl": "https://www.dahepiao.com/news1/yanchu/20260909549590.html",
       "tagName": "国庆",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-30"
     },
     {
       "id": "WH_evt_d863fd",
@@ -565,7 +727,8 @@ window.APP_DATA = {
       "sourceUrl": "https://m-www.hbkgy.com/xwdt/p/12898.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-30",
+      "priceText": "80元/60元"
     },
     {
       "id": "WH_evt_c255fb",
@@ -688,23 +851,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-22"
     },
     {
-      "id": "WH_evt_3b8f7f",
-      "cityCode": "WH",
-      "categoryId": "show",
-      "name": "灵动长江 舞台艺术精品展（剧院魅影/天鹅湖等）",
-      "venueId": "WH_ven_33a2b3c6",
-      "venueText": "琴台大剧院、湖北剧院",
-      "dateText": "2026.9.19起",
-      "startDate": "2026-09-19",
-      "endDate": "2026-10-31",
-      "costId": "paid",
-      "description": "原版《剧院魅影》《天鹅湖》等国际顶级精品剧目登陆琴台大剧院、湖北剧院，带来高规格沉浸式艺术盛宴。",
-      "sourceUrl": "https://news.hubeidaily.net/pc/z_856481.html",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-20"
-    },
-    {
       "id": "WH_evt_9849d4",
       "cityCode": "WH",
       "categoryId": "talk",
@@ -753,7 +899,8 @@ window.APP_DATA = {
       "sourceUrl": "https://www.toutiao.com/article/7682257212786262579/",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-30",
+      "priceText": "夜游特惠票29.9元起（一票通玩灯光区+演艺）"
     },
     {
       "id": "WH_evt_f12a38",
@@ -826,4 +973,4 @@ window.APP_DATA = {
       "updatedAt": "2026-09-29"
     }
   ]
-};
+}

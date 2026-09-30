@@ -1,11 +1,137 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-09-29",
-    "weekday": "周二",
+    "date": "2026-09-30",
+    "weekday": "周三",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "SZ_evt_165391",
+      "cityCode": "SZ",
+      "categoryId": "market",
+      "name": "大鹏山海市集暨光影灯光秀",
+      "venueId": "SZ_ven_3155e9d2",
+      "venueText": "大鹏新区文化中心",
+      "dateText": "2026年10月1日至10月6日",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-06",
+      "costId": "free",
+      "priceText": "免费免预约（光影秀每晚19:00-20:10，星空电影18:00起）",
+      "description": "大鹏新区双节活动：山海市集（10:00-20:00）、光影灯光秀、乐队表演（17:00-20:00）、星空电影，免费免预约。",
+      "sourceUrl": "https://sz.bendibao.com/tour/197011/ly847403.html",
+      "tagName": "市集 灯光秀 露天电影 大鹏 国庆 国庆节",
+      "createdAt": "2026-09-30",
+      "updatedAt": "2026-09-30"
+    },
+    {
+      "id": "SZ_evt_82dfcc",
+      "cityCode": "SZ",
+      "categoryId": "show",
+      "name": "第二届深圳（罗湖）非遗及民间艺术文化展",
+      "venueId": "SZ_ven_b6fe60be",
+      "venueText": "罗湖益田假日广场",
+      "dateText": "2026年10月1日至10月7日",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-07",
+      "costId": "free",
+      "priceText": "免费（英歌舞巡游、7场音乐会、侨批文化展、36+潮汕摊位）",
+      "description": "「非游不可·遗韵流长」第二届深圳（罗湖）非遗及民间艺术文化展：英歌舞/女子标旗/潮州大锣鼓方阵巡游（10.1-2 16:30）、每日19:00-20:30七场主题音乐演出、有情有义·侨批文化展、潮汕非遗市集。",
+      "sourceUrl": "https://www.toutiao.com/article/7690578179415048704/",
+      "tagName": "非遗 英歌 音乐会 市集 侨批 罗湖 国庆 国庆节",
+      "createdAt": "2026-09-30",
+      "updatedAt": "2026-09-30"
+    },
+    {
+      "id": "SZ_evt_e584fe",
+      "cityCode": "SZ",
+      "categoryId": "market",
+      "name": "大运天地「湖边坐坐」水上生活节",
+      "venueId": "SZ_ven_710e6b89",
+      "venueText": "大运天地",
+      "dateText": "2026年9月25日至10月7日",
+      "startDate": "2026-09-25",
+      "endDate": "2026-10-07",
+      "costId": "free",
+      "priceText": "免费（沿北湖桨板、水上下午茶、水岸风物市集、插画展）",
+      "description": "大运片区双节重点活动：沿北湖设置桨板、水上下午茶、水岸风物市集，同步举办插画展。",
+      "sourceUrl": "https://www.sznews.com/news/content/2026-09/30/content_32183349.htm",
+      "tagName": "水上生活 市集 桨板 插画 龙岗 双节 中秋",
+      "createdAt": "2026-09-30",
+      "updatedAt": "2026-09-30"
+    },
+    {
+      "id": "SZ_evt_90a54a",
+      "cityCode": "SZ",
+      "categoryId": "show",
+      "name": "百老汇原版音乐剧《芝加哥》",
+      "venueId": "SZ_ven_7f88c848",
+      "venueText": "深圳滨海艺术中心",
+      "dateText": "2026年10月20日至10月25日",
+      "startDate": "2026-10-20",
+      "endDate": "2026-10-25",
+      "costId": "paid",
+      "priceText": "1280/980/680/480/280元（早鸟85折）",
+      "description": "百老汇原版音乐剧《芝加哥》| 2026滨海国际音乐剧大赏，百老汇和伦敦西区历史上演出时间最长的美国音乐剧，英文演出配中文字幕，总时长约140分钟含中场休息。地点：歌剧厅，多场次19:30/14:30。",
+      "sourceUrl": "https://www.szbo.com.cn/piao/4/24313.html?v=0914103638",
+      "tagName": "音乐剧 百老汇 芝加哥",
+      "createdAt": "2026-09-30",
+      "updatedAt": "2026-09-30"
+    },
+    {
+      "id": "SZ_evt_d4a1f2",
+      "cityCode": "SZ",
+      "categoryId": "exhi",
+      "name": "沧溟载艺——法国凯布朗利博物馆藏大洋洲艺术珍品展",
+      "venueId": "SZ_ven_bfe94618",
+      "venueText": "南山博物馆",
+      "dateText": "2026年6月12日至10月7日",
+      "startDate": "2026-06-12",
+      "endDate": "2026-10-07",
+      "costId": "free",
+      "priceText": "免费免预约",
+      "description": "法国国家凯布朗利博物馆171件（组）大洋洲馆藏珍品，以\"游于海\"\"栖于岛\"\"贯于岁\"\"饰于身\"四大篇章铺展，从跨海迁徙、岛屿聚居、精神传承到身体装饰艺术，解锁被万顷碧海孕育的岛屿文明。地点：一层一号专题展厅。",
+      "sourceUrl": "https://www.szns.gov.cn/ztzl/hdrl/content/post_12872774.html",
+      "tagName": "大洋洲 文物 南山博物馆",
+      "createdAt": "2026-09-30",
+      "updatedAt": "2026-09-30"
+    },
+    {
+      "id": "SZ_evt_7f9716",
+      "cityCode": "SZ",
+      "categoryId": "exhi",
+      "name": "妙手匠心·重现华光——三峡出土文物保护利用展",
+      "venueId": "SZ_ven_bfe94618",
+      "venueText": "南山博物馆",
+      "dateText": "2026年7月21日至10月25日",
+      "startDate": "2026-07-21",
+      "endDate": "2026-10-25",
+      "costId": "free",
+      "priceText": "免费免预约",
+      "description": "361件（套）三峡珍稀文物，涵盖青铜器、铁器、陶器、瓷器、古生物化石等品类，以\"三峡文物大考古\"\"能工巧匠修文物\"\"有效利用活起来\"三大单元呈现三峡文物从抢救、修复到焕发新生的全历程。地点：二层二号专题展厅。",
+      "sourceUrl": "https://whly.gd.gov.cn/service_newwwbwg/content/post_4936395.html",
+      "tagName": "三峡文物 考古 南山博物馆",
+      "createdAt": "2026-09-30",
+      "updatedAt": "2026-09-30"
+    },
+    {
+      "id": "SZ_evt_bcceb3",
+      "cityCode": "SZ",
+      "categoryId": "exhi",
+      "name": "平方Studio十周年快闪展",
+      "venueId": "SZ_ven_9d528594",
+      "venueText": "中洲湾茑屋书店",
+      "dateText": "即日起至2026年10月7日",
+      "startDate": "2026-09-05",
+      "endDate": "2026-10-07",
+      "costId": "free",
+      "priceText": "免费（打卡赠手账素材包，消费领折页）",
+      "description": "平方Studio于中洲湾茑屋书店举办十周年快闪，即日起至10月7日，打卡送手账素材包，可盖8×10cm深圳城市限定大章（需自备纸），任意消费领限定折页。",
+      "sourceUrl": "https://www.sznews.com/news/content/2026-09/05/content_32165150.htm",
+      "tagName": "快闪 集章 手账 福田",
+      "createdAt": "2026-09-30",
+      "updatedAt": "2026-09-30"
+    },
     {
       "id": "SZ_evt_417011",
       "cityCode": "SZ",
@@ -757,12 +883,12 @@ window.APP_DATA = {
       "startDate": "2026-10-17",
       "endDate": "2026-10-17",
       "costId": "paid",
-      "priceText": "",
+      "priceText": "看台499/699/899元，内场1099/1299元",
       "description": "梁静茹《Best,茹果我不唱情歌》世界巡回演唱会深圳站。",
       "sourceUrl": "https://new.qq.com/rain/a/20260821A0BF9J00",
       "tagName": "",
       "createdAt": "2026-09-15",
-      "updatedAt": "2026-09-15"
+      "updatedAt": "2026-09-30"
     },
     {
       "id": "SZ_evt_e5c53c",
@@ -793,12 +919,12 @@ window.APP_DATA = {
       "startDate": "2026-09-25",
       "endDate": "2026-10-07",
       "costId": "paid",
-      "priceText": "需购票",
+      "priceText": "门票115元起（OTA特惠价）",
       "description": "华侨城惊奇潮玩节覆盖世界之窗等园区，以“潮玩IP+惊奇域+惊奇屋+NPC梗秀+变装玩法”为特色，含巨型机甲风巡游与无人机编队光影秀。",
       "sourceUrl": "https://m.bendibao.com/show1013434.html",
       "tagName": "中秋",
       "createdAt": "2026-09-14",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-30"
     },
     {
       "id": "SZ_evt_816153",
@@ -829,12 +955,12 @@ window.APP_DATA = {
       "startDate": "2026-09-25",
       "endDate": "2026-11-22",
       "costId": "paid",
-      "priceText": "需购票",
+      "priceText": "门票115元起（OTA特惠价，日场）",
       "description": "世界之窗奇思狂想季（9.25-11.22）：1500架无人机大秀（9.25、10.1-4）、铁塔科技烟花秀、荒野之国全国巡游展（300㎡土人国+17+怪车巡游）、鹅鸭杀IP欢乐派对、打水漂大赛、日夜双主题巡游，日场180元/夜场双人188元。",
       "sourceUrl": "https://sz.bendibao.com/xiuxian/2026918/1013428.shtm",
       "tagName": "国庆",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-23"
+      "updatedAt": "2026-09-30"
     },
     {
       "id": "SZ_evt_d05de6",
@@ -847,12 +973,12 @@ window.APP_DATA = {
       "startDate": "2026-09-25",
       "endDate": "2026-10-07",
       "costId": "paid",
-      "priceText": "需购票",
+      "priceText": "全天票168元，夜场99元起，优待票110元",
       "description": "锦绣中华民俗村双节活动：中秋千灯会（9.25-27，4米巨型发光月球、10大文豪NPC飞花令猜灯谜、孔明灯专场祈福、汉服华服体验、盛世提灯大巡游）；国庆晒秋玩丰乐（10.1-7，全域村寨晒秋实景、山野烟火巡游、保卫南瓜/剥玉米趣味赛事、丰收风物市集、《民族丰收贺华诞》主场演出、《翠湖幻境》水飞特技+孔明灯祈福加场），夜场双人138元/日场168元。",
       "sourceUrl": "https://sz.bendibao.com/news/2026916/1013297.htm",
       "tagName": "中秋国庆",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-22"
+      "updatedAt": "2026-09-30"
     },
     {
       "id": "SZ_evt_a5e89c",
@@ -955,12 +1081,12 @@ window.APP_DATA = {
       "startDate": "2026-09-04",
       "endDate": "2026-12-04",
       "costId": "paid",
-      "priceText": "",
+      "priceText": "基础展览票20元（普展通用）",
       "description": "选取黄胄创作生涯80件经典作品，结合照片、影像与文献，以“爱”为线索梳理其艺术面貌，含鲜少展出的山水与书法精品。",
       "sourceUrl": "http://yham.net/exhibition/2268",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-30"
     },
     {
       "id": "SZ_evt_3a59b6",
@@ -1141,7 +1267,8 @@ window.APP_DATA = {
       "tagName": "",
       "celebrity": "G.E.M.邓紫棋",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-15"
+      "updatedAt": "2026-09-30",
+      "priceText": "380/580/780/1080/1380/1680元"
     },
     {
       "id": "SZ_evt_03b6f3",
@@ -1296,10 +1423,11 @@ window.APP_DATA = {
       "endDate": "2026-11-30",
       "costId": "paid",
       "description": "XR沉浸式体验展，中庭广场展厅，XR体验是否额外收费以现场为准。",
-      "sourceUrl": "",
+      "sourceUrl": "https://www.sohu.com/a/1065901864_121106875",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-08"
+      "updatedAt": "2026-09-30",
+      "priceText": "单人99元，双人182元，三人268元"
     },
     {
       "id": "SZ_evt_935468",

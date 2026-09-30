@@ -1,11 +1,119 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-09-29",
-    "weekday": "周二",
+    "date": "2026-09-30",
+    "weekday": "周三",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "BJ_evt_7d3392",
+      "cityCode": "BJ",
+      "categoryId": "market",
+      "name": "五棵松万达19天超长狂欢",
+      "venueId": "BJ_ven_46b9deb8",
+      "venueText": "北京五棵松万达广场",
+      "dateText": "2026年9月25日至10月14日",
+      "startDate": "2026-09-25",
+      "endDate": "2026-10-14",
+      "costId": "free",
+      "priceText": "免费入场（消费自理）",
+      "description": "北京五棵松万达广场9月25日至10月14日19天超长狂欢：北方首展RDDT快闪、捏捏生活日手作市集、文化沙龙（国际布克奖得主燕妮·埃彭贝克首次中国行等）、运动赛事季、中秋音乐会。",
+      "sourceUrl": "https://news.sina.cn/2026-09-25/detail-iniszvzx4449827.d.html",
+      "tagName": "快闪 市集 沙龙 海淀 双节 中秋",
+      "createdAt": "2026-09-30",
+      "updatedAt": "2026-09-30"
+    },
+    {
+      "id": "BJ_evt_b017b7",
+      "cityCode": "BJ",
+      "categoryId": "show",
+      "name": "中粮·祥云小镇第九届户外艺术季",
+      "venueId": "BJ_ven_e99ba259",
+      "venueText": "中粮·祥云小镇",
+      "dateText": "2026年9月25日至10月7日",
+      "startDate": "2026-09-25",
+      "endDate": "2026-10-07",
+      "costId": "free",
+      "priceText": "免费",
+      "description": "中粮·祥云小镇第九届户外艺术季以「RAIL·COMING」为主题，打造炫光金属列车艺术装置与全天候演艺，集结日光电音、潮流舞蹈互动、先锋实验剧场；同期疯抢节联动200余家商户。",
+      "sourceUrl": "https://www.toutiao.com/article/7689402570518872603",
+      "tagName": "艺术季 市集 顺义 双节 中秋",
+      "createdAt": "2026-09-30",
+      "updatedAt": "2026-09-30"
+    },
+    {
+      "id": "BJ_evt_94fd67",
+      "cityCode": "BJ",
+      "categoryId": "family",
+      "name": "北京市属公园中秋国庆游园（140余场）",
+      "venueId": "BJ_ven_5bfc552e",
+      "venueText": "北京市属公园",
+      "dateText": "2026年9月25日至10月7日",
+      "startDate": "2026-09-25",
+      "endDate": "2026-10-07",
+      "costId": "free",
+      "priceText": "免费（部分活动需预约）",
+      "description": "北京市属公园推出中秋国庆游园攻略，140余场活动含天坛科普开放日、中山公园唐花坞科普、紫竹院拓印体验、颐和园文创市集、北海非遗文化展销、国家植物园市集、北京动物园市集等。",
+      "sourceUrl": "https://gygl.beijing.gov.cn/xxgk/xxgk_gyxx/202609/t20260923_4878365.html",
+      "tagName": "公园 游园 科普 市集 双节 中秋",
+      "createdAt": "2026-09-30",
+      "updatedAt": "2026-09-30"
+    },
+    {
+      "id": "BJ_evt_c46cb9",
+      "cityCode": "BJ",
+      "categoryId": "outdoor",
+      "name": "2026北京朝阳国际灯光消费季",
+      "venueId": "BJ_ven_b100000a",
+      "venueText": "朝阳公园",
+      "dateText": "即日起至2026年10月11日",
+      "startDate": "2026-09-25",
+      "endDate": "2026-10-11",
+      "costId": "free",
+      "priceText": "免费（部分消费项目）",
+      "description": "2026北京朝阳国际灯光消费季横跨中秋国庆，主会场朝阳公园，覆盖亮马河文化经济带、奥园、三里屯商圈等，白天逛展逛市集、晚上看光影演艺。",
+      "sourceUrl": "https://app.myzaker.com/news/article.php?pk=6ab8cec5b15ec059fe3947d8",
+      "tagName": "灯光 市集 朝阳 双节 中秋",
+      "createdAt": "2026-09-30",
+      "updatedAt": "2026-09-30"
+    },
+    {
+      "id": "BJ_evt_c53c2d",
+      "cityCode": "BJ",
+      "categoryId": "market",
+      "name": "南锣鼓巷·好运市集（迪士尼主题）",
+      "venueId": "BJ_ven_d572f0c3",
+      "venueText": "南锣鼓巷",
+      "dateText": "2026年国庆期间",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-07",
+      "costId": "free",
+      "priceText": "免费",
+      "description": "东城区“南锣鼓巷·好运市集”迪士尼主题促消费活动，设互动打卡点和街头快闪表演；王府井吉祥广场联动国际友城特色品牌与商户。",
+      "sourceUrl": "https://www.toutiao.com/article/7688936987323138601",
+      "tagName": "市集 迪士尼 东城 国庆 国庆节",
+      "createdAt": "2026-09-30",
+      "updatedAt": "2026-09-30"
+    },
+    {
+      "id": "BJ_evt_f14e3e",
+      "cityCode": "BJ",
+      "categoryId": "show",
+      "name": "2026北京国际戏剧展演季",
+      "venueId": "BJ_ven_9a41ec78",
+      "venueText": "首钢园",
+      "dateText": "2026年10月7日至年底",
+      "startDate": "2026-10-07",
+      "endDate": "2026-12-31",
+      "costId": "free",
+      "priceText": "免费开放（精品展演/沙龙等预约制）",
+      "description": "首届“大戏看北京·2026北京国际戏剧展演季”10月7日拉开帷幕至年底，汇集全球120部大戏，首钢园国际戏剧艺术汇10月17/24日推出70场艺术沙龙、工作坊、街头快闪、戏剧巡游与光影秀。",
+      "sourceUrl": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202609/t20260918_4869266.html",
+      "tagName": "戏剧 展演 首钢园 石景山",
+      "createdAt": "2026-09-30",
+      "updatedAt": "2026-09-30"
+    },
     {
       "id": "BJ_evt_c409c6",
       "cityCode": "BJ",
@@ -259,24 +367,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-20"
     },
     {
-      "id": "BJ_evt_cc3d46",
-      "cityCode": "BJ",
-      "categoryId": "market",
-      "name": "卢沟晓月中秋文化节",
-      "venueId": "BJ_ven_f55c62c6",
-      "venueText": "卢沟桥·宛平城",
-      "dateText": "2026年中秋 卢沟桥·宛平城",
-      "startDate": "2026-09-25",
-      "endDate": "2026-10-07",
-      "costId": "free",
-      "priceText": "",
-      "description": "卢沟桥、宛平城举办「卢沟晓月」中秋文化节，带来中秋诗会等沉浸式文商旅融合活动。",
-      "sourceUrl": "https://www.bjft.gov.cn/fengtaishibao/html/2026-09/16/content_9505_19876381.htm",
-      "tagName": "中秋",
-      "createdAt": "2026-09-18",
-      "updatedAt": "2026-09-21"
-    },
-    {
       "id": "BJ_evt_ca7013",
       "cityCode": "BJ",
       "categoryId": "market",
@@ -341,12 +431,12 @@ window.APP_DATA = {
       "startDate": "2026-08-25",
       "endDate": "2026-11-29",
       "costId": "paid",
-      "priceText": "",
+      "priceText": "展览免费（需恭王府门票40元）",
       "description": "汇集法方60余件马主题馆藏及国内200余件（套）含马形象文物，设“双骏溯源”“驭风而行”“天马行空”三篇章，含数字互动体验。",
       "sourceUrl": "https://weibo.com/1410818932/5336833057620329",
       "tagName": "",
       "createdAt": "2026-09-15",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-30"
     },
     {
       "id": "BJ_evt_98a580",
@@ -359,12 +449,12 @@ window.APP_DATA = {
       "startDate": "2026-09-25",
       "endDate": "2026-10-06",
       "costId": "paid",
-      "priceText": "需购票",
+      "priceText": "各场次80-480元（非遗节奏/击漾新芒98-198元）",
       "description": "国家大剧院与北京艺术中心上演8场演出，涵盖开幕音乐会、亲子音乐会和非遗鼓乐展演等，双节夜间文化消费新去处。",
       "sourceUrl": "https://m.chncpa.org/zxdt/rdjjx/202609/t20260908_294360.shtml",
       "tagName": "中秋",
       "createdAt": "2026-09-14",
-      "updatedAt": "2026-09-17"
+      "updatedAt": "2026-09-30"
     },
     {
       "id": "BJ_evt_06e070",
@@ -377,12 +467,12 @@ window.APP_DATA = {
       "startDate": "2026-10-01",
       "endDate": "2026-10-11",
       "costId": "paid",
-      "priceText": "大麦购票",
+      "priceText": "二号馆88-1388元，八极场188-2088元，大满贯公园68元",
       "description": "2026 WTT 中国大满贯在北京石景山首钢园举行，接待来自全球近 250 名顶尖球员，设男单、女单、男双、女双、混双五个项目，争夺 2000 分世界排名积分。",
       "sourceUrl": "https://worldtabletennis.com/eventInfo?eventId=3249",
       "tagName": "国庆",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-30"
     },
     {
       "id": "BJ_evt_4b18b1",
@@ -395,12 +485,12 @@ window.APP_DATA = {
       "startDate": "2026-07-09",
       "endDate": "2026-12-06",
       "costId": "paid",
-      "priceText": "需购票",
+      "priceText": "门票59元起（VR体验118元）",
       "description": "「归心一园——故宫乾隆花园沉浸式光影展」以数字科技活化宁寿宫花园文化遗产，将倦勤斋通景画、禊赏亭曲水流觞化作可触摸可沉浸的光影之旅。",
-      "sourceUrl": "https://aipiao.net/Mobile/News/Info-8511.html",
+      "sourceUrl": "https://www.dpm.org.cn/classify_detail/379264.html",
       "tagName": "",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-30"
     },
     {
       "id": "BJ_evt_8a3729",
@@ -594,12 +684,12 @@ window.APP_DATA = {
       "startDate": "2026-09-28",
       "endDate": "2026-10-11",
       "costId": "paid",
-      "priceText": "",
+      "priceText": "欢享票50元起；钻石球场看台280元起（决赛日最低780元），贵宾座席580-3280元",
       "description": "9月28日至10月11日在国家网球中心举行，WTA1000与ATP500接连上演，辛纳萨巴伦卡德约科维奇领衔，覆盖国庆假期。",
       "sourceUrl": "https://www.chinaopen.com/cn/contents/281/1441.html",
       "tagName": "网球",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
+      "updatedAt": "2026-09-30"
     },
     {
       "id": "BJ_evt_fc9b7e",
@@ -721,7 +811,8 @@ window.APP_DATA = {
       "sourceUrl": "https://ysxw.cctv.cn/article.html?item_id=14341160508245201059",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-09-30",
+      "priceText": "首场婺剧《三打白骨精》180/280/380/480元"
     },
     {
       "id": "BJ_evt_91dac2",
@@ -781,4 +872,4 @@ window.APP_DATA = {
       "priceText": "免费（需预约）"
     }
   ]
-};
+}

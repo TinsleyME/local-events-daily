@@ -1,11 +1,47 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-09-29",
-    "weekday": "周二",
+    "date": "2026-09-30",
+    "weekday": "周三",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "HZ_evt_edf84a",
+      "cityCode": "HZ",
+      "categoryId": "show",
+      "name": "「文艺赋美·武林音乐任意门」国庆系列音乐会",
+      "venueId": "HZ_ven_8896996e",
+      "venueText": "武林广场",
+      "dateText": "2026年9月24日至10月4日（7场）",
+      "startDate": "2026-09-24",
+      "endDate": "2026-10-04",
+      "costId": "free",
+      "priceText": "公益免费、无需预约（19:00场为主，雨天取消）",
+      "description": "武林广场八少女喷泉双节7场免费音乐演出：方格加国乐团（9.24）、原创拼盘（9.27）、下班以后合唱夜（9.29）、罗小罗金秋音乐会（10.1）、故障人偶（10.2）、野生动物乐队（10.3）、ctia乐队（10.4）。",
+      "sourceUrl": "https://m.hz.bendibao.com/jieri/guoqing/173162.shtm",
+      "tagName": "音乐会 免费 文艺赋美 拱墅 双节 国庆",
+      "createdAt": "2026-09-30",
+      "updatedAt": "2026-09-30"
+    },
+    {
+      "id": "HZ_evt_4ce5b7",
+      "cityCode": "HZ",
+      "categoryId": "market",
+      "name": "大运河奇妙夜",
+      "venueId": "HZ_ven_c8377b44",
+      "venueText": "小河直街历史文化街区",
+      "dateText": "2026年9月25日至10月7日",
+      "startDate": "2026-09-25",
+      "endDate": "2026-10-07",
+      "costId": "free",
+      "priceText": "免费",
+      "description": "杭州大运河历史文化街区推出\"大运河奇妙夜\"，沿大兜路、小河直街、桥西、小河公园、运河天地、富义仓、手工艺活态馆七大点位以月为题联动办节，设寻月、映月、拜月等七大主题，含国风市集、水上圆月、竹筏灯影、非遗体验等玩法。",
+      "sourceUrl": "https://m.hz.bendibao.com/xiuxian/173169.shtm",
+      "tagName": "夜游 市集 运河 双节 中秋",
+      "createdAt": "2026-09-30",
+      "updatedAt": "2026-09-30"
+    },
     {
       "id": "HZ_evt_264046",
       "cityCode": "HZ",
@@ -505,10 +541,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "",
       "description": "中秋国庆假期每日开启双循环特色巡游，疯狂动物巡游童趣可爱、户外人工降雨巡游清凉有趣，适合亲子拍照互动。",
-      "sourceUrl": "https://m.hz.bendibao.com/jieri/guoqing/172727.shtm",
+      "sourceUrl": "https://m.hz.bendibao.com/xiuxian/172724.shtm",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-24"
+      "updatedAt": "2026-09-30"
     },
     {
       "id": "HZ_evt_a08e72",
@@ -523,10 +559,10 @@ window.APP_DATA = {
       "costId": "paid",
       "priceText": "",
       "description": "滨湖大草坪轻奢天幕、野奢帐篷、懒人沙发与悬浮吊床全天体验，夜间有篝火音乐晚会与萤火虫奇妙夜。",
-      "sourceUrl": "https://hz.bendibao.com/jieri/guoqing/202693/172726.shtm",
+      "sourceUrl": "https://m.hz.bendibao.com/xiuxian/172724.shtm",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-24"
+      "updatedAt": "2026-09-30"
     },
     {
       "id": "HZ_evt_35be84",
@@ -565,24 +601,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-29"
     },
     {
-      "id": "HZ_evt_c2a827",
-      "cityCode": "HZ",
-      "categoryId": "sports",
-      "name": "2026杭州网球公开赛(ATP250)",
-      "venueId": "HZ_ven_d3248436",
-      "venueText": "杭州奥体中心网球中心(小莲花)",
-      "dateText": "2026.9.22-29",
-      "startDate": "2026-09-22",
-      "endDate": "2026-09-29",
-      "costId": "paid",
-      "priceText": "",
-      "description": "2026杭州网球公开赛(ATP250)9月22日至29日落户杭州奥体中心网球中心，一众网坛名将汇聚杭城向冠军奖杯发起冲击，系杭州年度重磅职业网球赛事。",
-      "sourceUrl": "https://tyj.zj.gov.cn/col/col1347214/art/2026/art_cbe391771baa4b4d9a7cd73595190b05.html",
-      "tagName": "网球/ATP",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-09"
-    },
-    {
       "id": "HZ_evt_dd2f88",
       "cityCode": "HZ",
       "categoryId": "exhi",
@@ -617,23 +635,6 @@ window.APP_DATA = {
       "createdAt": "2026-09-08",
       "updatedAt": "2026-09-14",
       "priceText": "免费"
-    },
-    {
-      "id": "HZ_evt_6e5887",
-      "cityCode": "HZ",
-      "categoryId": "exhi",
-      "name": "一器一物·大有艺思非遗美学展",
-      "venueId": "HZ_ven_p6q7r8s9",
-      "venueText": "钱江世纪公园非遗游园会",
-      "dateText": "2026.9.1-9.30",
-      "startDate": "2026-09-01",
-      "endDate": "2026-09-30",
-      "costId": "free",
-      "description": "全新非遗美学主题展览，龙泉青瓷油纸伞、竹编、剪纸、过江布等非遗代表作品。",
-      "sourceUrl": "",
-      "tagName": "",
-      "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-20"
     },
     {
       "id": "HZ_evt_cba783",

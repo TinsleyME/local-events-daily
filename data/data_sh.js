@@ -1,11 +1,65 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-09-29",
-    "weekday": "周二",
+    "date": "2026-09-30",
+    "weekday": "周三",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "SH_evt_c50f54",
+      "cityCode": "SH",
+      "categoryId": "stamp",
+      "name": "虹口北外滩光影节集章打卡",
+      "venueId": "SH_ven_b8547895",
+      "venueText": "外滩",
+      "dateText": "2026年9月28日至10月7日",
+      "startDate": "2026-09-28",
+      "endDate": "2026-10-07",
+      "costId": "free",
+      "priceText": "免费（指定点位领印章卡，集满4个点位章兑文创+消费优惠，10月14日前可核销）",
+      "description": "虹口北外滩光影节17天（9.28起）：集章打卡活动在太平路入口、海事塔、国客中心「小巨蛋」、北外滩航海公园4个点位盖章，白玉兰广场/滨港商业中心/来福士/凯德虹口/月亮湾5处领卡，免费兑文创并解锁商圈优惠。",
+      "sourceUrl": "https://www.toutiao.com/article/7690106686949933603/",
+      "tagName": "盖章 集章 光影节 北外滩 夜游 免费",
+      "createdAt": "2026-09-30",
+      "updatedAt": "2026-09-30"
+    },
+    {
+      "id": "SH_evt_9807c8",
+      "cityCode": "SH",
+      "categoryId": "outdoor",
+      "name": "2026外滩露台艺术季（熊猫主题装置+集章之旅）",
+      "venueId": "SH_ven_b8547895",
+      "venueText": "外滩",
+      "dateText": "2026年9月13日至11月22日",
+      "startDate": "2026-09-13",
+      "endDate": "2026-11-22",
+      "costId": "free",
+      "priceText": "免费（官方小程序预约参观；BFC/久事国际艺术中心/江川大楼3处熊猫主题集章）",
+      "description": "外滩露台艺术季：约3米高熊猫主题大型艺术装置登陆复星艺术中心，多露台互动熊猫装置；「熊猫基地·外滩集章之旅」收集和花/和叶/奇一/润玥四只大熊猫限定印章；露台空间另有展览、艺术分享、现场演出。",
+      "sourceUrl": "https://bm.manmankan.com/shanghai/202609/33424.shtml",
+      "tagName": "艺术季 熊猫 集章 露台 外滩 免费",
+      "createdAt": "2026-09-30",
+      "updatedAt": "2026-09-30"
+    },
+    {
+      "id": "SH_evt_7a7a33",
+      "cityCode": "SH",
+      "categoryId": "market",
+      "name": "2026南翔国潮大会",
+      "venueId": "SH_ven_35b3b43f",
+      "venueText": "南翔古镇",
+      "dateText": "2026年9月30日至10月7日",
+      "startDate": "2026-09-30",
+      "endDate": "2026-10-07",
+      "costId": "free",
+      "priceText": "免费",
+      "description": "2026南翔国潮大会以“一笼国潮·鹤舞南翔”为主题，9月30日至10月7日在南翔古镇、上海古猗园举行，设风华秀、拾景集、烟火市、潮玩场四大板块，含国风展演、槎溪市集、光影夜游与XR沉浸式体验。",
+      "sourceUrl": "https://m.sh.bendibao.com/xiuxian/309031.shtm",
+      "tagName": "国潮 市集 古镇 嘉定 双节",
+      "createdAt": "2026-09-30",
+      "updatedAt": "2026-09-30"
+    },
     {
       "id": "SH_evt_708dca",
       "cityCode": "SH",
@@ -505,12 +559,12 @@ window.APP_DATA = {
       "startDate": "2026-10-03",
       "endDate": "2026-10-04",
       "costId": "paid",
-      "priceText": "",
+      "priceText": "早鸟票198元起",
       "description": "10月3日、4日在上海金山城市沙滩盛大启幕，千米海上焰火阵地联动无人机编队，以海平面为天然IMAX巨幕，电影级配色、配乐、特效贯穿全场，「朝暮树」「七彩祥云」「云帆入海」等标志性名场面轮番上演。",
       "sourceUrl": "https://news.qq.com/rain/a/20260920A0A6X500",
       "tagName": "焰火 无人机 海上 电影 中秋",
       "createdAt": "2026-09-21",
-      "updatedAt": "2026-09-21"
+      "updatedAt": "2026-09-30"
     },
     {
       "id": "SH_evt_928371",
@@ -649,12 +703,12 @@ window.APP_DATA = {
       "startDate": "2026-10-01",
       "endDate": "2026-10-01",
       "costId": "paid",
-      "priceText": "需购票",
+      "priceText": "99/180/280/380/480/580/680元",
       "description": "长滩音乐厅国庆专场《山河颂曲·国韵交响》，由《梁祝》作曲者何占豪亲临，以经典国韵交响礼赞锦绣山河。",
       "sourceUrl": "https://www.shanghai.gov.cn/nw17239/20260908/2828b1a892bc4cecabf6459d39e9bd26.html",
       "tagName": "",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-30"
     },
     {
       "id": "SH_evt_493b6f",
@@ -747,24 +801,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-10"
     },
     {
-      "id": "SH_evt_099d7f",
-      "cityCode": "SH",
-      "categoryId": "family",
-      "name": "上海迪士尼·达菲月",
-      "venueId": "SH_ven_51d4c091",
-      "venueText": "上海迪士尼度假区",
-      "dateText": "2026.9.1-9.30",
-      "startDate": "2026-09-01",
-      "endDate": "2026-09-30",
-      "costId": "paid",
-      "priceText": "需购上海迪士尼乐园门票",
-      "description": "达菲和他的朋友们主题月，含限定周边、主题巡游与拍照点。",
-      "sourceUrl": "",
-      "tagName": "",
-      "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-10"
-    },
-    {
       "id": "SH_evt_28268d",
       "cityCode": "SH",
       "categoryId": "show",
@@ -810,13 +846,13 @@ window.APP_DATA = {
       "dateText": "2026.9.12-2027.2.28",
       "startDate": "2026-09-12",
       "endDate": "2027-02-28",
-      "costId": "paid",
+      "costId": "free",
       "description": "汇集1930年代至21世纪初的革命历史题材作品80余组，涵盖版画、油画、中国画、水彩、雕塑等多种艺术形式，以私人收藏视角回望百年奋斗峥嵘岁月。",
       "sourceUrl": "http://www.thelongmuseum.org/exhibition-369/detail-2016.html",
       "tagName": "",
       "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-20",
-      "priceText": "需购票"
+      "updatedAt": "2026-09-30",
+      "priceText": "2026.9.25-10.7连续免费开放12天，之后恢复门票"
     },
     {
       "id": "SH_evt_c2a1b1",
@@ -953,10 +989,11 @@ window.APP_DATA = {
       "endDate": "2026-11-15",
       "costId": "paid",
       "description": "香奈儿高级手工坊大楼le19M登陆浦东美术馆，汇集11家时尚与装饰艺术高级手工坊及700余名能工巧匠，展览由三篇章构成，同步展开讲座、体验工作坊等交流活动。",
-      "sourceUrl": "https://m.thepaper.cn/newsDetail_forward_34029846",
+      "sourceUrl": "https://museumofartpd.org.cn/exhibitiondetail?id=220",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-18"
+      "updatedAt": "2026-09-30",
+      "priceText": "展览免费预约（需持浦东美术馆门票入场）"
     },
     {
       "id": "SH_evt_bbf7d6",
@@ -1009,7 +1046,8 @@ window.APP_DATA = {
       "sourceUrl": "https://www.meet-in-shanghai.net/cn/news/autumn-here-cant-be-hidden-night-outings-water-lilies-trendy-toys-and-fairy-tales-all-in-one-place-573188",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-30",
+      "priceText": "130-399元（烟花场），全日票175元起"
     },
     {
       "id": "SH_evt_0047fa",
@@ -1029,4 +1067,4 @@ window.APP_DATA = {
       "updatedAt": "2026-09-21"
     }
   ]
-};
+}

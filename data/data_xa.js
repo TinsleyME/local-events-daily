@@ -1,11 +1,47 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-09-29",
-    "weekday": "周二",
+    "date": "2026-09-30",
+    "weekday": "周三",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "XA_evt_892ff9",
+      "cityCode": "XA",
+      "categoryId": "show",
+      "name": "西安城墙「长安巡·步步盛唐」唐风巡演",
+      "venueId": "XA_ven_d60abff1",
+      "venueText": "西安城墙(永宁门)",
+      "dateText": "即日起至2026年10月17日",
+      "startDate": "2026-09-25",
+      "endDate": "2026-10-17",
+      "costId": "free",
+      "priceText": "惠民秦腔免费（城墙登城另需门票）",
+      "description": "西安城墙全新升级“长安巡·步步盛唐”大型唐风巡演，每日两场自永宁门启程；即日起至10月17日，西南城角环城公园每日15时开启“遇见城墙”惠民秦腔演出，西安三意社折子戏免费上演，城墙根下随地而坐听地道秦声。",
+      "sourceUrl": "https://www.toutiao.com/article/7690749314896839211",
+      "tagName": "巡演 秦腔 城墙 双节 中秋",
+      "createdAt": "2026-09-30",
+      "updatedAt": "2026-09-30"
+    },
+    {
+      "id": "XA_evt_f21c67",
+      "cityCode": "XA",
+      "categoryId": "show",
+      "name": "大唐不夜城双节免费演出",
+      "venueId": "XA_ven_138b67cb",
+      "venueText": "大唐不夜城",
+      "dateText": "2026年国庆期间",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-07",
+      "costId": "free",
+      "priceText": "免费（街区全天开放）",
+      "description": "大唐不夜城全天24小时免费开放，双节期间不倒翁小姐姐、盛唐密盒、大雁塔水舞光影秀等演出集中上演，建议晚间前往。",
+      "sourceUrl": "https://m.xa.bendibao.com/mip/78554.shtm",
+      "tagName": "不夜城 演出 免费 雁塔 国庆 国庆节",
+      "createdAt": "2026-09-30",
+      "updatedAt": "2026-09-30"
+    },
     {
       "id": "XA_evt_ebbf19",
       "cityCode": "XA",
@@ -233,12 +269,12 @@ window.APP_DATA = {
       "startDate": "2026-09-07",
       "endDate": "2026-10-18",
       "costId": "paid",
-      "priceText": "",
+      "priceText": "基础游园票68元，120元一票通（任选一场演出），258元2日3演通票",
       "description": "2026长安诗会·书画季从9月7日持续至10月18日，以「桂花闲落」为月度时令主题，将桂花意象与茶事雅集相融，于游园途中布设可嗅、可品、可参与的秋日情境。",
       "sourceUrl": "https://o.xiancity.cn/system/2026/09/15/031268182.shtml",
       "tagName": "中秋 国庆 诗会 书画 大唐芙蓉园",
       "createdAt": "2026-09-21",
-      "updatedAt": "2026-09-21"
+      "updatedAt": "2026-09-30"
     },
     {
       "id": "XA_evt_e02ae8",
@@ -251,12 +287,12 @@ window.APP_DATA = {
       "startDate": "2026-10-01",
       "endDate": "2026-10-07",
       "costId": "paid",
-      "priceText": "",
+      "priceText": "成人120元（学生60元）",
       "description": "国庆期间，华清宫景区推出主题活动，背《长恨歌》免费入园，每日准时唱响《我和我的祖国》，国庆投投乐、国庆回家路等多款轻互动游戏。",
       "sourceUrl": "https://m.xa.bendibao.com/xiuxian/62127_7.shtm",
       "tagName": "国庆 华清宫 长恨歌 免费 国庆节",
       "createdAt": "2026-09-21",
-      "updatedAt": "2026-09-21"
+      "updatedAt": "2026-09-30"
     },
     {
       "id": "XA_evt_b4d027",
@@ -287,12 +323,12 @@ window.APP_DATA = {
       "startDate": "2026-09-19",
       "endDate": "2026-10-07",
       "costId": "paid",
-      "priceText": "钟鼓楼博物馆门票",
+      "priceText": "单馆30元，钟鼓楼套票50元",
       "description": "西安钟鼓楼结合开学季及双节契机，策划沉浸式、互动性、趣味性文化假期活动：钟鼓楼中秋节气趣味体验活动（9.19）、迎国庆主题活动（9.25）、古建筑系列科普互动讲堂（10.2-10.7）等。",
       "sourceUrl": "https://qidian.sxtvs.com/timing/share/content/10653394",
       "tagName": "西安 钟鼓楼 中秋国庆 科普",
       "createdAt": "2026-09-17",
-      "updatedAt": "2026-09-17"
+      "updatedAt": "2026-09-30"
     },
     {
       "id": "XA_evt_f3e196",
@@ -305,12 +341,12 @@ window.APP_DATA = {
       "startDate": "2026-09-25",
       "endDate": "2026-10-07",
       "costId": "paid",
-      "priceText": "城墙门票",
+      "priceText": "成人54元，学生27元",
       "description": "中秋国庆期间，西安城墙举办中秋赏月活动（赏月、猜灯谜、吃月饼）与国庆主题灯光秀（以红色为主题的灯光秀庆祝国庆），节日氛围浓厚。",
       "sourceUrl": "https://m.toutiao.com/article/7680777972671857215",
       "tagName": "西安 城墙 中秋赏月 国庆灯光秀",
       "createdAt": "2026-09-17",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-30"
     },
     {
       "id": "XA_evt_28395a",
@@ -323,12 +359,12 @@ window.APP_DATA = {
       "startDate": "2026-10-01",
       "endDate": "2026-10-07",
       "costId": "paid",
-      "priceText": "需购票",
+      "priceText": "单人19.9元，双人29.9元，家庭39.9元",
       "description": "第二十一届西安国际车展于西安国际会展中心举办，以“以车为媒，万象共生”为主题，立足陕西汽车产业基础，集中展示汽车产业电动化、智能化最新成果。",
       "sourceUrl": "https://www.cnr.cn/sxpd/c/yl/20260901/t20260901_527801122.shtml",
       "tagName": "西安 国际会展中心 车展 国庆 国庆节",
       "createdAt": "2026-09-17",
-      "updatedAt": "2026-09-17"
+      "updatedAt": "2026-09-30"
     },
     {
       "id": "XA_evt_fc574b",
@@ -396,12 +432,12 @@ window.APP_DATA = {
       "startDate": "2026-10-02",
       "endDate": "2026-10-06",
       "costId": "paid",
-      "priceText": "需购票",
+      "priceText": "480/380/280/180/100/80元",
       "description": "西演SPACE呈现第六届国庆秦腔盛典，二十位中国戏剧梅花奖得主集结易俗大剧院，五场精品大戏与名家折子专场轮番上演。",
       "sourceUrl": "https://www.xiancn.com/content/2026-09/03/content_7510958.htm",
       "tagName": "国庆",
       "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-15"
+      "updatedAt": "2026-09-30"
     },
     {
       "id": "XA_evt_c776d2",
@@ -724,7 +760,8 @@ window.APP_DATA = {
       "sourceUrl": "https://zwfw.xa.gov.cn/chanbaguojigang/zwgk/tzgg/spxxgs/fdzdgk/2091808237014245377.html",
       "tagName": "歌舞",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-09-30",
+      "priceText": "演出票（含门票）约203-348元"
     },
     {
       "id": "XA_evt_7de936",
@@ -741,7 +778,8 @@ window.APP_DATA = {
       "sourceUrl": "https://app.xinhuanet.com/news/article.html?articleId=2026080456d3d4762f3f4a2a9c36e3b890cf0d77",
       "tagName": "马拉松",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-14"
+      "updatedAt": "2026-09-30",
+      "priceText": "报名费200元/人（马拉松与半马同价）"
     },
     {
       "id": "XA_evt_cba4c9",
@@ -795,4 +833,4 @@ window.APP_DATA = {
       "updatedAt": "2026-09-21"
     }
   ]
-};
+}
