@@ -647,4 +647,4 @@ window.APP_VENUES_SZ = [
     "longitude": 114.085281,
     "address": ""
   }
-]
+];

@@ -575,4 +575,4 @@ window.APP_VENUES_CQ = [
     "longitude": 106.432827,
     "address": "北碚区天生街道梨园村60号"
   }
-]
+];
