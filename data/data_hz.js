@@ -1,11 +1,29 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-08",
-    "weekday": "周四",
+    "date": "2026-10-09",
+    "weekday": "周五",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "HZ_evt_4fa624",
+      "cityCode": "HZ",
+      "categoryId": "family",
+      "name": "「西」游记——西湖文化青少年教育体验展",
+      "venueId": "HZ_ven_64d8a453",
+      "venueText": "杭州南宋官窑博物馆",
+      "dateText": "2026年9月25日-11月8日（每周二闭馆）",
+      "startDate": "2026-09-25",
+      "endDate": "2026-11-08",
+      "costId": "free",
+      "priceText": "免费",
+      "description": "以西湖四季景致为线索，通过四位不同人物视角串联西湖疏浚、宋韵香事等展陈内容，借助西湖十景连连看、雕版印刷等互动体验带领青少年了解西湖文化。",
+      "sourceUrl": "https://news.qq.com/rain/a/20261001A08D4500",
+      "tagName": "展览 亲子 中秋",
+      "createdAt": "2026-10-09",
+      "updatedAt": "2026-10-09"
+    },
     {
       "id": "HZ_evt_cccaed",
       "cityCode": "HZ",

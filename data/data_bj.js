@@ -1,11 +1,65 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-08",
-    "weekday": "周四",
+    "date": "2026-10-09",
+    "weekday": "周五",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "BJ_evt_2dd390",
+      "cityCode": "BJ",
+      "categoryId": "outdoor",
+      "name": "北京世界花卉大观园 多巴胺花海系列·秋日花海",
+      "venueId": "BJ_ven_b4c47c26",
+      "venueText": "世界花卉大观园",
+      "dateText": "即日起至2026年10月31日",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-31",
+      "costId": "unknown",
+      "priceText": "",
+      "description": "南门三角梅花道、花廊中山桃草紫菀花境、紫薇园粉紫花开、花神大道桂香萦绕，秋日花海打卡。（注：来源页以「即日起」表述，起始日按发布日计）",
+      "sourceUrl": "https://www.bjft.gov.cn/xwdt/jcdt/bmdt/202610/t20261003_226627.shtml",
+      "tagName": "花海 游园 国庆节",
+      "createdAt": "2026-10-09",
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "id": "BJ_evt_2e3388",
+      "cityCode": "BJ",
+      "categoryId": "family",
+      "name": "紫谷伊甸园「我的三国世界」真人实境剧本游",
+      "venueId": "BJ_ven_8057f585",
+      "venueText": "紫谷伊甸园",
+      "dateText": "即日起至2026年10月31日（周末及节假日开放）",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-31",
+      "costId": "unknown",
+      "priceText": "",
+      "description": "实景剧本冒险，任选魏蜀吴三大阵营，每日两场阵营对决，20余位NPC全程互动。（注：来源页以「即日起」表述，起始日按发布日计）",
+      "sourceUrl": "https://www.bjft.gov.cn/xwdt/jcdt/bmdt/202610/t20261003_226627.shtml",
+      "tagName": "剧本游 亲子 国庆节",
+      "createdAt": "2026-10-09",
+      "updatedAt": "2026-10-09"
+    },
+    {
+      "id": "BJ_evt_f6f312",
+      "cityCode": "BJ",
+      "categoryId": "market",
+      "name": "北京欢乐水魔方 暹罗丛林秘境·秋日市集联合嘉年华",
+      "venueId": "BJ_ven_27990788",
+      "venueText": "北京欢乐水魔方",
+      "dateText": "2026年9月5日-10月31日",
+      "startDate": "2026-09-05",
+      "endDate": "2026-10-31",
+      "costId": "unknown",
+      "priceText": "",
+      "description": "东南亚丛林主题沉浸体验，漂流泛舟、网红打卡与秋日市集联合嘉年华。",
+      "sourceUrl": "https://www.bjft.gov.cn/xwdt/jcdt/bmdt/202610/t20261003_226627.shtml",
+      "tagName": "市集 游乐",
+      "createdAt": "2026-10-09",
+      "updatedAt": "2026-10-09"
+    },
     {
       "id": "BJ_evt_c7c406",
       "cityCode": "BJ",
@@ -131,24 +185,6 @@ window.APP_DATA = {
       "tagName": "美食 市集 国庆 前门 中轴线 国庆节",
       "createdAt": "2026-09-29",
       "updatedAt": "2026-09-29"
-    },
-    {
-      "id": "BJ_evt_159d60",
-      "cityCode": "BJ",
-      "categoryId": "market",
-      "name": "北京通州万达广场双节消费季",
-      "venueId": "BJ_ven_c8868716",
-      "venueText": "通州万达广场",
-      "dateText": "2026.09.22 起，横跨双节假期",
-      "startDate": "2026-09-22",
-      "endDate": "2026-10-08",
-      "costId": "free",
-      "priceText": "",
-      "description": "50 余家摊位主题市集开锣，六大板块（非遗手作、餐饮小吃、预包装食品伴手礼、酒水、文创艺术、生活服务），后续轮番推出「好物制造所」「酒搭子大会」「百变塔可节」；商场内美妆满1000减200、部分运动品牌900元团1000元券。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260922A0A7T100",
-      "tagName": "",
-      "createdAt": "2026-09-23",
-      "updatedAt": "2026-09-23"
     },
     {
       "id": "BJ_evt_6dcc61",
@@ -496,4 +532,4 @@ window.APP_DATA = {
       "priceText": "免费（需预约）"
     }
   ]
-}
+};

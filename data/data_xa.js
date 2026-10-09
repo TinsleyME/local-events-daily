@@ -1,7 +1,7 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-08",
+    "date": "2026-10-09",
     "weekday": "周三",
     "coverage": "未来约 14 天"
   },
@@ -223,24 +223,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-30"
     },
     {
-      "id": "XA_evt_b4d027",
-      "cityCode": "XA",
-      "categoryId": "market",
-      "name": "第八届丝路跨境名品汇",
-      "venueId": "XA_ven_3854ba94",
-      "venueText": "长安中央公园",
-      "dateText": "2026年9月16日-10月8日",
-      "startDate": "2026-09-16",
-      "endDate": "2026-10-08",
-      "costId": "free",
-      "priceText": "免费",
-      "description": "跨境优品、港澳台好物、陕西农副特产、非遗文创一站式选购，含网红美食夜市与家电以旧换新。",
-      "sourceUrl": "https://o.xiancity.cn/system/2026/09/17/031268677.shtml",
-      "tagName": "",
-      "createdAt": "2026-09-20",
-      "updatedAt": "2026-09-20"
-    },
-    {
       "id": "XA_evt_fdcb90",
       "celebrity": "汪苏泷",
       "cityCode": "XA",
@@ -315,24 +297,6 @@ window.APP_DATA = {
       "tagName": "国庆",
       "createdAt": "2026-09-12",
       "updatedAt": "2026-09-20"
-    },
-    {
-      "id": "XA_evt_2d1e9e",
-      "cityCode": "XA",
-      "categoryId": "show",
-      "name": "大唐不夜城国庆特别玩法（盛唐密盒·不倒翁小姐姐）",
-      "venueId": "XA_ven_138b67cb",
-      "venueText": "大唐不夜城",
-      "dateText": "10.1-8",
-      "startDate": "2026-10-01",
-      "endDate": "2026-10-08",
-      "costId": "free",
-      "priceText": "",
-      "description": "大唐不夜城国庆升级玩法，不倒翁小姐姐、盛唐密盒等免费演出常态化，曲江飞行剧院、大悦城国风乐游季同步上新。",
-      "sourceUrl": "https://k.sina.com.cn/article_7879849928_1d5acf7c806808njey.html",
-      "tagName": "国庆 国庆节",
-      "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-24"
     },
     {
       "id": "XA_evt_9c3c99",

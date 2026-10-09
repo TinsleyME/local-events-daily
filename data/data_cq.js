@@ -1,7 +1,7 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-08",
+    "date": "2026-10-09",
     "weekday": "周四",
     "coverage": "未来约 14 天"
   },
@@ -117,23 +117,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-29"
     },
     {
-      "id": "CQ_evt_c661de",
-      "cityCode": "CQ",
-      "categoryId": "exhi",
-      "name": "“红岩清风”廉洁文化美术作品展基层巡展",
-      "venueId": "CQ_ven_cq0008",
-      "venueText": "中国重庆·科学会堂",
-      "dateText": "2026.9.1-10.8",
-      "startDate": "2026-09-01",
-      "endDate": "2026-10-08",
-      "costId": "free",
-      "description": "以廉洁文化为主题的美术作品基层巡展，汇集书画等艺术形式弘扬清风正气。",
-      "sourceUrl": "https://www.cqrb.cn/2023qliancq/wenhua/2026-09-03/2766330_pc.html",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-17"
-    },
-    {
       "id": "CQ_evt_29c2c2",
       "cityCode": "CQ",
       "categoryId": "exhi",
@@ -145,23 +128,6 @@ window.APP_DATA = {
       "endDate": "2026-10-18",
       "costId": "free",
       "description": "艺术家方向个展，呈现其意象与物象交融的水墨探索。免票参观。",
-      "sourceUrl": "https://whlyw.cq.gov.cn/zjwl/yzq_486357/zlyjzyg/202609/t20260901_16016189.html",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-20"
-    },
-    {
-      "id": "CQ_evt_579502",
-      "cityCode": "CQ",
-      "categoryId": "exhi",
-      "name": "从人民中来——李毅力艺术与群文实践展",
-      "venueId": "CQ_ven_cq0031",
-      "venueText": "重庆市群众艺术馆·重庆群星美术馆",
-      "dateText": "2026.9.11-10.8",
-      "startDate": "2026-09-11",
-      "endDate": "2026-10-08",
-      "costId": "free",
-      "description": "梳理李毅力艺术历程与群众文化实践，呈现基层文艺创作风貌。免票参观。",
       "sourceUrl": "https://whlyw.cq.gov.cn/zjwl/yzq_486357/zlyjzyg/202609/t20260901_16016189.html",
       "tagName": "",
       "createdAt": "2026-09-09",

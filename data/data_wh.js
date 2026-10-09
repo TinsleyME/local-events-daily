@@ -1,7 +1,7 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-08",
+    "date": "2026-10-09",
     "weekday": "周四",
     "coverage": "未来约 14 天"
   },
@@ -387,23 +387,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-20"
     },
     {
-      "id": "WH_evt_d02842",
-      "cityCode": "WH",
-      "categoryId": "exhi",
-      "name": "浮生一日凉——古代消夏文化展",
-      "venueId": "WH_ven_22a2b3c5",
-      "venueText": "武汉博物馆 一楼珍藏厅",
-      "dateText": "2026.7.8-10.8",
-      "startDate": "2026-07-08",
-      "endDate": "2026-10-08",
-      "costId": "free",
-      "description": "武鄂黄黄都市圈博物馆系列展，200余件文物再现古人消夏智慧，扇底清风、瓷枕生凉、浮瓜沉李、荷香满塘，一窥古人消夏乐趣。",
-      "sourceUrl": "https://3g.wuhan.gov.cn/sy/whyw/202607/t20260708_2818000.shtml",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-29"
-    },
-    {
       "id": "WH_evt_9fb11b",
       "cityCode": "WH",
       "categoryId": "exhi",
@@ -560,4 +543,4 @@ window.APP_DATA = {
       "updatedAt": "2026-09-29"
     }
   ]
-}
+};

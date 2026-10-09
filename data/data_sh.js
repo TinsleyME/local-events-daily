@@ -1,11 +1,29 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-08",
-    "weekday": "周四",
+    "date": "2026-10-09",
+    "weekday": "周五",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "SH_evt_77c0dd",
+      "cityCode": "SH",
+      "categoryId": "exhi",
+      "name": "清韵——康雍乾时期文物特展",
+      "venueId": "SH_ven_5e8516e7",
+      "venueText": "闵行博物馆",
+      "dateText": "展至2026年10月25日",
+      "startDate": "2026-08-26",
+      "endDate": "2026-10-25",
+      "costId": "free",
+      "priceText": "免费",
+      "description": "汇集全国14家文博单位110余件（套）清代宫廷文物，跨越康熙、雍正、乾隆三朝，含青花斗彩鸡缸杯、鎏金点翠首饰等亮点。（注：起始日按来源发布日推定）",
+      "sourceUrl": "https://www1.meet-in-shanghai.net/cn/news/before-school-starts-come-to-minhang-and-embark-on-a-city-cultural-and-artistic-journey-243752",
+      "tagName": "展览 文物",
+      "createdAt": "2026-10-09",
+      "updatedAt": "2026-10-09"
+    },
     {
       "id": "SH_evt_06c11b",
       "cityCode": "SH",
@@ -131,24 +149,6 @@ window.APP_DATA = {
       "description": "「八仙」化身风尚季引路人，穿行于旗袍秀场、新景发布、非遗体验与焕新仪式之间，带领来宾沉浸式感受乐园四季焕新。需购票入园，详情见「上海影视乐园」公众号。",
       "sourceUrl": "https://www.meet-in-shanghai.net/cn/news/ancient-charm-of-songjiang-vibrant-putuo-a-city-reflects-on-cultural-heritage-a-river-heads-to-autumn-appointments--enjoy-shanghai-%C2%B7-national-day-midautumn-festival-918412",
       "tagName": "旗袍 风尚季 非遗 松江 影视乐园 中秋",
-      "createdAt": "2026-09-29",
-      "updatedAt": "2026-09-29"
-    },
-    {
-      "id": "SH_evt_a1db78",
-      "cityCode": "SH",
-      "categoryId": "market",
-      "name": "「翰墨风华·人文醉白」2026醉白池公园秋季文化游园活动",
-      "venueId": "SH_ven_7bbf7d87",
-      "venueText": "上海醉白池公园",
-      "dateText": "2026年9月27日起至10月8日（原文「即日起」，起点按报道发布日）",
-      "startDate": "2026-09-27",
-      "endDate": "2026-10-08",
-      "costId": "paid",
-      "priceText": "12元/人",
-      "description": "包含「写意江南：东南之望——历代咏华亭诗词书法大展」「诗意园林——2026醉白吟诗会」「中秋笔会」「中秋游园会」「秋和·筝鸣」古筝专场音乐会等6大项，静态观摩与动态展演结合，突出江南名园文化底色。",
-      "sourceUrl": "https://www.meet-in-shanghai.net/cn/news/ancient-charm-of-songjiang-vibrant-putuo-a-city-reflects-on-cultural-heritage-a-river-heads-to-autumn-appointments--enjoy-shanghai-%C2%B7-national-day-midautumn-festival-918412",
-      "tagName": "园林 书法展 中秋 游园 松江 收费",
       "createdAt": "2026-09-29",
       "updatedAt": "2026-09-29"
     },
@@ -476,24 +476,6 @@ window.APP_DATA = {
       "priceText": "上海动物园门票40元（活动含在门票内，不另收费）"
     },
     {
-      "id": "SH_evt_216cb6",
-      "cityCode": "SH",
-      "categoryId": "show",
-      "name": "上生·新所第七届悬疑戏剧展演周",
-      "venueId": "SH_ven_185cd30e",
-      "venueText": "上生·新所",
-      "dateText": "2026.9.25-10.8",
-      "startDate": "2026-09-25",
-      "endDate": "2026-10-08",
-      "costId": "paid",
-      "description": "中秋国庆假期上演，百年建筑里沉浸式观看四部经典悬疑戏剧。",
-      "sourceUrl": "https://www.shanghai.gov.cn/nw17239/20260904/4ee735e460cd477b8b1c660b31f78df6.html",
-      "tagName": "",
-      "createdAt": "2026-09-08",
-      "updatedAt": "2026-10-08",
-      "priceText": "各剧单票280元起（大麦购票）"
-    },
-    {
       "id": "SH_evt_0d799d",
       "cityCode": "SH",
       "categoryId": "exhi",
@@ -583,4 +565,4 @@ window.APP_DATA = {
       "updatedAt": "2026-09-21"
     }
   ]
-}
+};
