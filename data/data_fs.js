@@ -1,11 +1,29 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-09",
-    "weekday": "周五",
+    "date": "2026-10-10",
+    "weekday": "周六",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "FS_evt_459286",
+      "cityCode": "FS",
+      "categoryId": "expo",
+      "name": "第45届中国（佛山）国际陶瓷及卫浴博览交易会",
+      "venueId": "FS_ven_89618fba",
+      "venueText": "中国陶瓷城",
+      "dateText": "2026年10月18日-10月23日",
+      "startDate": "2026-10-18",
+      "endDate": "2026-10-23",
+      "costId": "unknown",
+      "priceText": "",
+      "description": "三馆联动：中国陶瓷城展馆展期10月18-23日，主打工厂直营与品牌出口；中国陶瓷卫浴总部展馆与佛山国际会议展览中心展馆展期10月18-21日。总面积超50万平方米，预计800余家品牌参展，15大特色展区。",
+      "sourceUrl": "https://www.cerambath.org/newsDetail/ebz57obx88486e9a/%E5%B1%95%E4%BC%9A%E5%8A%A8%E6%80%81",
+      "tagName": "陶瓷 展会",
+      "createdAt": "2026-10-10",
+      "updatedAt": "2026-10-10"
+    },
     {
       "id": "FS_evt_ea8b4f",
       "cityCode": "FS",
@@ -275,24 +293,6 @@ window.APP_DATA = {
       "tagName": "",
       "createdAt": "2026-09-14",
       "updatedAt": "2026-09-14"
-    },
-    {
-      "id": "FS_evt_2613bd",
-      "cityCode": "FS",
-      "categoryId": "exhi",
-      "name": "探秘佛山地标 地理标志推介展",
-      "venueId": "FS_ven_e90ad522",
-      "venueText": "佛山市图书馆 一楼大堂北区",
-      "dateText": "2026.9.3-10.9",
-      "startDate": "2026-09-03",
-      "endDate": "2026-10-09",
-      "costId": "free",
-      "priceText": "",
-      "description": "解码城市里的万物诗行，推介佛山地理标志产品。",
-      "sourceUrl": "https://news.qq.com/rain/a/20260903A0A48200",
-      "tagName": "",
-      "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-30"
     },
     {
       "id": "FS_evt_0d62f1",

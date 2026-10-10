@@ -1,11 +1,47 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-09",
-    "weekday": "周三",
+    "date": "2026-10-10",
+    "weekday": "周六",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "XA_evt_5a0f9c",
+      "cityCode": "XA",
+      "categoryId": "exhi",
+      "name": "秋韵流芳——西安植物园秋季花展",
+      "venueId": "XA_ven_32ba0b3c",
+      "venueText": "西安植物园",
+      "dateText": "2026.9.30-11.10",
+      "startDate": "2026-09-30",
+      "endDate": "2026-11-10",
+      "costId": "unknown",
+      "priceText": "",
+      "description": "西安植物园「秋韵流芳 喜迎国庆」秋季花展，园内花木错落、秋景盎然，是城区观赏秋日花卉的优选地。开放时间8:00-18:00。",
+      "sourceUrl": "https://www.xiancn.com/content/2026-09/30/content_7531700.htm",
+      "tagName": "",
+      "createdAt": "2026-10-10",
+      "updatedAt": "2026-10-10"
+    },
+    {
+      "id": "XA_evt_ea3873",
+      "cityCode": "XA",
+      "categoryId": "market",
+      "name": "去有枫的地方——第四届幸福雁塔枫叶季",
+      "venueId": "XA_ven_cb15406b",
+      "venueText": "雁南公园",
+      "dateText": "2026.10.11起",
+      "startDate": "2026-10-11",
+      "endDate": null,
+      "costId": "free",
+      "priceText": "免费开放",
+      "description": "2026第四届幸福雁塔枫叶季：雁南公园赏枫、唐诗主题打卡场景、枫韵主题市集（文创非遗、秋日轻食），联动西安荟聚等商圈发放惠民优惠券，服务/文化/消费三大惠民板块。",
+      "sourceUrl": "https://new.qq.com/rain/a/20261010A030CV00",
+      "tagName": "",
+      "createdAt": "2026-10-10",
+      "updatedAt": "2026-10-10"
+    },
     {
       "id": "XA_evt_892ff9",
       "cityCode": "XA",

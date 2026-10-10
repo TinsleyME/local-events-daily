@@ -1,11 +1,29 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-09",
-    "weekday": "周五",
+    "date": "2026-10-10",
+    "weekday": "周六",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "SZ_evt_92bd4d",
+      "cityCode": "SZ",
+      "categoryId": "expo",
+      "name": "第四届博华深圳联展（Connexion ShenZhen）",
+      "venueId": "SZ_ven_c34e5f60",
+      "venueText": "深圳国际会展中心(宝安新馆)",
+      "dateText": "2026年10月13日-10月15日",
+      "startDate": "2026-10-13",
+      "endDate": "2026-10-15",
+      "costId": "unknown",
+      "priceText": "",
+      "description": "华南地区旗舰展会，整合餐饮、酒店、家具、健康、生活方式及机械电子产业链，两大主题展+十大板块，启用深圳国际会展中心（宝安）9个展馆，与广交会秋季展同期。",
+      "sourceUrl": "https://www.connexion.cn/archives/10051",
+      "tagName": "展会 博览会",
+      "createdAt": "2026-10-10",
+      "updatedAt": "2026-10-10"
+    },
     {
       "id": "SZ_evt_db8db8",
       "cityCode": "SZ",
@@ -510,24 +528,6 @@ window.APP_DATA = {
       "tagName": "亲子",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-29"
-    },
-    {
-      "id": "SZ_evt_a38c00",
-      "cityCode": "SZ",
-      "categoryId": "exhi",
-      "name": "丝绸之路·相 数字艺术科技特展",
-      "venueId": "SZ_ven_5f83e0b2",
-      "venueText": "深圳美术馆(新馆)一层中庭广场",
-      "dateText": "2025.11.15-2026.10.9",
-      "startDate": "2025-11-15",
-      "endDate": "2026-10-09",
-      "costId": "paid",
-      "priceText": "标准票48元、优惠票38元",
-      "description": "以“丝绸之路”为母题的数字艺术科技特展，融合沉浸投影、交互装置与山海APP内容，呈现文化与科技交融的视觉之旅。",
-      "sourceUrl": "https://m.dutenews.com/n/article/10266539",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-28"
     },
     {
       "id": "SZ_evt_e2128d",

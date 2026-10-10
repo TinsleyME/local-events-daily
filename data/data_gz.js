@@ -1,11 +1,47 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-09",
-    "weekday": "周五",
+    "date": "2026-10-10",
+    "weekday": "周六",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "GZ_evt_49123d",
+      "cityCode": "GZ",
+      "categoryId": "exhi",
+      "name": "「粤」读广州——广府生活文化展",
+      "venueId": "GZ_ven_282de3ed",
+      "venueText": "广州城市会客厅",
+      "dateText": "2026年9月29日-12月30日",
+      "startDate": "2026-09-29",
+      "endDate": "2026-12-30",
+      "costId": "unknown",
+      "priceText": "",
+      "description": "以书为线索，设遇见广州、听见广州、说出广州三大主题展区，融合绘本、广府童谣、粤语科普与城市记忆画作，呈现广府生活文化。",
+      "sourceUrl": "https://m.21jingji.com/article/20261004/herald/f90ca40cb53f13986d04536b431060fe.html",
+      "tagName": "",
+      "createdAt": "2026-10-10",
+      "updatedAt": "2026-10-10"
+    },
+    {
+      "id": "GZ_evt_9c47ce",
+      "cityCode": "GZ",
+      "categoryId": "show",
+      "name": "粤剧《帝女花》",
+      "venueId": "GZ_ven_37bc41d8",
+      "venueText": "广东艺术剧院",
+      "dateText": "2026年10月11日",
+      "startDate": "2026-10-11",
+      "endDate": "2026-10-11",
+      "costId": "unknown",
+      "priceText": "",
+      "description": "经典粤剧《帝女花》，粤港名家联袂出演，以电影化叙事、现代舞美活化非遗，彰显广府文脉。",
+      "sourceUrl": "https://baijiahao.baidu.com/s?id=1877198417731895827&wfr=spider&for=pc",
+      "tagName": "粤剧 演出 非遗",
+      "createdAt": "2026-10-10",
+      "updatedAt": "2026-10-10"
+    },
     {
       "id": "GZ_evt_c36d38",
       "cityCode": "GZ",
@@ -1155,13 +1191,13 @@ window.APP_DATA = {
       "dateText": "2026.9起",
       "startDate": "2026-09-01",
       "endDate": null,
-      "costId": "free",
-      "priceText": "免费（需预约）",
+      "costId": "paid",
+      "priceText": "博物馆门票5元（未成年人/65岁以上长者等免票或半票，每月设免费开放日）",
       "description": "带观众走进百年前的课堂，读懂那时少年的成长课。配合中秋手作体验(花灯、织锦灯笼、马赛克月亮灯等)。",
       "sourceUrl": "https://m.sohu.com/a/1070617424_119778",
       "tagName": "",
       "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-30"
+      "updatedAt": "2026-10-10"
     },
     {
       "id": "GZ_evt_cb2d5a",

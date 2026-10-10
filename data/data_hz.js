@@ -1,11 +1,48 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-09",
-    "weekday": "周五",
+    "date": "2026-10-10",
+    "weekday": "周六",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "HZ_evt_45c192",
+      "cityCode": "HZ",
+      "categoryId": "market",
+      "name": "「浙样巴塘」2026杭州周湖滨市集",
+      "venueId": "HZ_ven_d28decfe",
+      "venueText": "湖滨步行街",
+      "dateText": "2026年10月10日-10月11日",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-11",
+      "costId": "free",
+      "priceText": "免费开放",
+      "description": "杭州与巴塘对口帮扶文化市集，高原弦子、藏戏展演与巴塘好物市集在西湖断桥边湖滨步行街开市，山海之约双日限定。",
+      "sourceUrl": "https://hznews.hangzhou.com.cn/jingji/content/2026-10/10/content_9331843.htm",
+      "tagName": "",
+      "createdAt": "2026-10-10",
+      "updatedAt": "2026-10-10"
+    },
+    {
+      "id": "HZ_evt_4e6176",
+      "cityCode": "HZ",
+      "categoryId": "show",
+      "name": "话剧《非穷尽列举》杭州站",
+      "venueId": "HZ_ven_a1b2c3d4",
+      "venueText": "杭州大剧院",
+      "dateText": "2026年10月16日-10月18日",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-18",
+      "costId": "paid",
+      "priceText": "¥180/280/380/480/680/880",
+      "description": "英国剧作家苏西·米勒「法律三部曲」之一、豆瓣9.3分，周可导演、姚晨领衔主演，杭州大剧院·歌剧院，演出时长约130分钟无中场休息。",
+      "sourceUrl": "https://www.163.com/dy/article/L5VTI5HF0517Q73N.html",
+      "tagName": "话剧 演出",
+      "celebrity": "姚晨",
+      "createdAt": "2026-10-10",
+      "updatedAt": "2026-10-10"
+    },
     {
       "id": "HZ_evt_4fa624",
       "cityCode": "HZ",
