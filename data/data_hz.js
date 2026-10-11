@@ -1,7 +1,7 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-10",
+    "date": "2026-10-11",
     "weekday": "周六",
     "coverage": "未来约 14 天"
   },
@@ -510,23 +510,6 @@ window.APP_DATA = {
       "createdAt": "2026-09-08",
       "updatedAt": "2026-09-14",
       "priceText": "免费"
-    },
-    {
-      "id": "HZ_evt_cba783",
-      "cityCode": "HZ",
-      "categoryId": "outdoor",
-      "name": "2026杭州奇妙夜·百日星悦游",
-      "venueId": "HZ_ven_l2m3n4o5",
-      "venueText": "西溪湿地等多点位",
-      "dateText": "2026.7.3-10.10",
-      "startDate": "2026-07-03",
-      "endDate": "2026-10-10",
-      "costId": "free",
-      "description": "杭州夜游10大主题产品100项夜游推荐点位，覆盖夜跑、夜飨、夜赏、夜秀、夜购、夜赛、夜读、夜嬉、夜营、夜课堂。",
-      "sourceUrl": "https://wgly.hangzhou.gov.cn/tc/zxzx/art/2026/art_a92a599f1a4e566583b3d04a88b96a0e.html",
-      "tagName": "",
-      "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-29"
     }
   ]
 };

@@ -1,11 +1,47 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-10",
-    "weekday": "周六",
+    "date": "2026-10-11",
+    "weekday": "周日",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "SH_evt_f7db48",
+      "cityCode": "SH",
+      "categoryId": "show",
+      "name": "爵士上海音乐节（户外演出免票）",
+      "venueId": "SH_ven_0914e475",
+      "venueText": "前滩太古里",
+      "dateText": "2026年10月16日-11月1日（户外演出免票）",
+      "startDate": "2026-10-16",
+      "endDate": "2026-11-01",
+      "costId": "free",
+      "priceText": "",
+      "description": "亚洲最具影响力爵士节，2026「前滩爵士汇」10/16-11/1前滩17天146场演出，所有户外演出及论坛全程免票开放；Victor Wooten、袁娅维、安雨、Theo Croker等20多国音乐家登台，落地前滩体育公园、前滩公园巷等13个场地。",
+      "sourceUrl": "https://ysxw.cctv.cn/article.html?item_id=10546965977491281298",
+      "tagName": "",
+      "createdAt": "2026-10-11",
+      "updatedAt": "2026-10-11"
+    },
+    {
+      "id": "SH_evt_19821c",
+      "cityCode": "SH",
+      "categoryId": "talk",
+      "name": "中华法魂：五千年法律文明巡礼",
+      "venueId": "SH_ven_a3b4c5d6",
+      "venueText": "上海图书馆东馆",
+      "dateText": "2026年10月11日",
+      "startDate": "2026-10-11",
+      "endDate": "2026-10-11",
+      "costId": "free",
+      "priceText": "",
+      "description": "上海图书馆联合上海人民出版社推出「中华法魂」系列讲座，10月11日东馆7楼阅读推广区连办三场：五千年法律文明巡礼（10:00）、从青铜到竹简（13:00）、藏在文物里的中华法律文明（15:00）。",
+      "sourceUrl": "https://news.qq.com/rain/a/20261009A04OYY00",
+      "tagName": "",
+      "createdAt": "2026-10-11",
+      "updatedAt": "2026-10-11"
+    },
     {
       "id": "SH_evt_b4ea9f",
       "cityCode": "SH",
@@ -131,24 +167,6 @@ window.APP_DATA = {
       "tagName": "艺术季 熊猫 集章 露台 外滩 免费",
       "createdAt": "2026-09-30",
       "updatedAt": "2026-09-30"
-    },
-    {
-      "id": "SH_evt_708dca",
-      "cityCode": "SH",
-      "categoryId": "show",
-      "name": "德累斯顿男童合唱团音乐会",
-      "venueId": "SH_ven_b81064bd",
-      "venueText": "上海保利大剧院·大剧场",
-      "dateText": "2026年10月10日 19:30",
-      "startDate": "2026-10-10",
-      "endDate": "2026-10-10",
-      "costId": "paid",
-      "priceText": "80-480元",
-      "description": "上海保利大剧院12周年庆演出季「世界艺境」单元。德累斯顿男童合唱团（Knabenchor Dresden）音乐会，10月10日19:30在上海保利大剧院上演，指挥马蒂亚斯·永恩（Matthias Jung）。合唱团1971年成立，隶属德累斯顿市政府，曲目涵盖16世纪宗教与世俗声乐作品至当代合唱音乐。",
-      "sourceUrl": "https://www.df962388.com/yanchu/434345.html",
-      "tagName": "音乐会 童声合唱 嘉定",
-      "createdAt": "2026-09-29",
-      "updatedAt": "2026-09-29"
     },
     {
       "id": "SH_evt_28110f",

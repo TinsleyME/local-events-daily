@@ -1,11 +1,47 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-10",
-    "weekday": "周六",
+    "date": "2026-10-11",
+    "weekday": "周日",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "FS_evt_a52ab3",
+      "cityCode": "FS",
+      "categoryId": "show",
+      "name": "南海体育中心发光瀑布嘉年华（免费·致敬Beyond音乐会）",
+      "venueId": "FS_ven_a0e243ca",
+      "venueText": "南海体育中心",
+      "dateText": "2026年10月9日-13日（全程免费）",
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-13",
+      "costId": "free",
+      "priceText": "",
+      "description": "佛山南海体育中心外广场嘉年华，10/9-13每天10:00-22:00全程免费；含电音真人闪电秀、灯光秀、音乐专场（经典摇滚/热门/怀旧/说唱）与每日19:30致敬Beyond音乐会（《光辉岁月》《真的爱你》等有人演唱表演）。",
+      "sourceUrl": "https://news.qq.com/rain/a/20261009A05CM300",
+      "tagName": "",
+      "createdAt": "2026-10-11",
+      "updatedAt": "2026-10-11"
+    },
+    {
+      "id": "FS_evt_03939b",
+      "cityCode": "FS",
+      "categoryId": "exhi",
+      "name": "侯逸杰：我们的热烈与寂寥",
+      "venueId": "FS_ven_9a284e6e",
+      "venueText": "和美术馆",
+      "dateText": "2026年8月15日-11月15日",
+      "startDate": "2026-08-15",
+      "endDate": "2026-11-15",
+      "costId": "unknown",
+      "priceText": "",
+      "description": "和美术馆青年艺术家项目（Young Artist Project of HEM）呈现侯逸杰个展「我们的热烈与寂寥」，以武侠、志怪与流行文化转译笔下的当代个体处境。",
+      "sourceUrl": "https://www.hem.org/mobile/zh/exhibition/58",
+      "tagName": "",
+      "createdAt": "2026-10-11",
+      "updatedAt": "2026-10-11"
+    },
     {
       "id": "FS_evt_459286",
       "cityCode": "FS",

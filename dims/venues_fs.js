@@ -566,5 +566,13 @@ window.APP_VENUES_FS = [
     "latitude": 23.010548,
     "longitude": 113.085184,
     "address": ""
+  },
+  {
+    "id": "FS_ven_9a284e6e",
+    "cityCode": "FS",
+    "name": "和美术馆",
+    "latitude": 22.932878,
+    "longitude": 113.22003,
+    "address": ""
   }
 ];

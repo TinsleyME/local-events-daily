@@ -622,5 +622,37 @@ window.APP_VENUES_BJ = [
     "latitude": 39.883854,
     "longitude": 116.25037,
     "address": "丰台区卢沟桥街道小屯路11号"
+  },
+  {
+    "id": "BJ_ven_c273ecac",
+    "cityCode": "BJ",
+    "name": "元美术馆",
+    "latitude": 39.934323,
+    "longitude": 116.470339,
+    "address": ""
+  },
+  {
+    "id": "BJ_ven_f75d6880",
+    "cityCode": "BJ",
+    "name": "X美术馆",
+    "latitude": 40.048444,
+    "longitude": 116.47872,
+    "address": ""
+  },
+  {
+    "id": "BJ_ven_3a38605f",
+    "cityCode": "BJ",
+    "name": "荣宝斋当代艺术馆",
+    "latitude": 39.895497,
+    "longitude": 116.383111,
+    "address": ""
+  },
+  {
+    "id": "BJ_ven_78c2f9b3",
+    "cityCode": "BJ",
+    "name": "海淀北部文化中心",
+    "latitude": 40.04228,
+    "longitude": 116.188417,
+    "address": ""
   }
 ];

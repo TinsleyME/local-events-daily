@@ -606,5 +606,21 @@ window.APP_VENUES_CD = [
     "latitude": 30.557938,
     "longitude": 104.050437,
     "address": "武侯区石羊街道铁像寺路88号"
+  },
+  {
+    "id": "CD_ven_8ffcf291",
+    "cityCode": "CD",
+    "name": "成都世博园",
+    "latitude": 30.424557,
+    "longitude": 104.27939,
+    "address": ""
+  },
+  {
+    "id": "CD_ven_8106ff84",
+    "cityCode": "CD",
+    "name": "天府艺术公园",
+    "latitude": 30.708705,
+    "longitude": 104.019851,
+    "address": ""
   }
 ];

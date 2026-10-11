@@ -998,5 +998,21 @@ window.APP_VENUES_GZ = [
     "latitude": 22.996319,
     "longitude": 113.34239,
     "address": ""
+  },
+  {
+    "id": "GZ_ven_751b79ee",
+    "cityCode": "GZ",
+    "name": "广州美术学院美术馆(昌岗校区)",
+    "latitude": 23.092057,
+    "longitude": 113.278048,
+    "address": "海珠区昌岗东路257号广州美术学院(昌岗校区)"
+  },
+  {
+    "id": "GZ_ven_8d68597b",
+    "cityCode": "GZ",
+    "name": "彼岸花开音乐节现场(花都炭步)",
+    "latitude": 23.342024,
+    "longitude": 113.105589,
+    "address": ""
   }
 ];

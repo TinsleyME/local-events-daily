@@ -590,5 +590,21 @@ window.APP_VENUES_CQ = [
     "latitude": 29.711578,
     "longitude": 106.629479,
     "address": ""
+  },
+  {
+    "id": "CQ_ven_2b84abf4",
+    "cityCode": "CQ",
+    "name": "MODERN SKY LAB重庆",
+    "latitude": 29.714152,
+    "longitude": 106.620718,
+    "address": ""
+  },
+  {
+    "id": "CQ_ven_c413cdac",
+    "cityCode": "CQ",
+    "name": "三峡广场",
+    "latitude": 29.556583,
+    "longitude": 106.460418,
+    "address": ""
   }
 ];

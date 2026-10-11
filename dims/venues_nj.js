@@ -494,5 +494,13 @@ window.APP_VENUES_NJ = [
     "latitude": 32.163608,
     "longitude": 118.997132,
     "address": ""
+  },
+  {
+    "id": "NJ_ven_6244f2e7",
+    "cityCode": "NJ",
+    "name": "六朝博物馆",
+    "latitude": 32.042716,
+    "longitude": 118.799468,
+    "address": ""
   }
 ];

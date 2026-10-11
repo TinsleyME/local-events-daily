@@ -646,5 +646,13 @@ window.APP_VENUES_SZ = [
     "latitude": 22.574842,
     "longitude": 114.085281,
     "address": "罗湖区清水河街道金湖一街36号深圳画院"
+  },
+  {
+    "id": "SZ_ven_80681c9e",
+    "cityCode": "SZ",
+    "name": "龙城公园",
+    "latitude": 22.704435,
+    "longitude": 114.218448,
+    "address": ""
   }
 ];

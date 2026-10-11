@@ -542,5 +542,13 @@ window.APP_VENUES_WH = [
     "latitude": 30.703685,
     "longitude": 114.085186,
     "address": ""
+  },
+  {
+    "id": "WH_ven_ffd130af",
+    "cityCode": "WH",
+    "name": "武昌江滩",
+    "latitude": 30.547632,
+    "longitude": 114.293414,
+    "address": ""
   }
 ];
