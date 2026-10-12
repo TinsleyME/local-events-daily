@@ -654,5 +654,37 @@ window.APP_VENUES_BJ = [
     "latitude": 40.04228,
     "longitude": 116.188417,
     "address": ""
+  },
+  {
+    "id": "BJ_ven_f601c875",
+    "cityCode": "BJ",
+    "name": "Yuan Museum(草场地艺术村104号)",
+    "latitude": 39.998319,
+    "longitude": 116.505996,
+    "address": ""
+  },
+  {
+    "id": "BJ_ven_e1be2f5f",
+    "cityCode": "BJ",
+    "name": "五月空间 NUOVO Gallery(798艺术区706北路)",
+    "latitude": 39.984063,
+    "longitude": 116.496536,
+    "address": ""
+  },
+  {
+    "id": "BJ_ven_203f333a",
+    "cityCode": "BJ",
+    "name": "西单大悦城",
+    "latitude": 39.910783,
+    "longitude": 116.372938,
+    "address": ""
+  },
+  {
+    "id": "BJ_ven_e5cdc568",
+    "cityCode": "BJ",
+    "name": "香山公园",
+    "latitude": 39.990694,
+    "longitude": 116.187538,
+    "address": ""
   }
 ];

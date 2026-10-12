@@ -1,7 +1,7 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-11",
+    "date": "2026-10-12",
     "weekday": "周日",
     "coverage": "未来约 14 天"
   },
@@ -295,25 +295,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-30"
     },
     {
-      "id": "XA_evt_fdcb90",
-      "celebrity": "汪苏泷",
-      "cityCode": "XA",
-      "categoryId": "show",
-      "name": "汪苏泷2026「明日世界」世界巡回演唱会西安站",
-      "venueId": "XA_ven_0e738916",
-      "venueText": "西安奥体中心体育场",
-      "dateText": "10.9-11",
-      "startDate": "2026-10-09",
-      "endDate": "2026-10-11",
-      "costId": "paid",
-      "priceText": "380-1680元",
-      "description": "汪苏泷「明日世界」世界巡回演唱会西安站在西安奥体中心体育场连开三场，国庆后持续点燃古城夜空。",
-      "sourceUrl": "https://m.huanghepiao.com/event/41833",
-      "tagName": "国庆",
-      "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-18"
-    },
-    {
       "id": "XA_evt_c776d2",
       "celebrity": "王朝",
       "cityCode": "XA",
@@ -453,24 +434,6 @@ window.APP_DATA = {
       "endDate": "2026-12-30",
       "costId": "free",
       "description": "聚焦陕西商周至民国青铜器遗存，分五大单元梳理金石学学术脉络与当代传承，展品含商周青铜、仿古器物、名家题跋拓本。",
-      "sourceUrl": "https://m.xa.bendibao.com/jieri/141626.shtm",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-20",
-      "priceText": "免费（需预约）"
-    },
-    {
-      "id": "XA_evt_40d9b4",
-      "cityCode": "XA",
-      "categoryId": "exhi",
-      "name": "伯乐相马特色展览",
-      "venueId": "XA_ven_d4d4a393",
-      "venueText": "陕西历史博物馆",
-      "dateText": "6月18日-10月11日",
-      "startDate": "2026-06-18",
-      "endDate": "2026-10-11",
-      "costId": "free",
-      "description": "以相马、绘马、塑马为脉络设三大单元，展现中国古代绘画与雕塑中骏马的风骨神韵。",
       "sourceUrl": "https://m.xa.bendibao.com/jieri/141626.shtm",
       "tagName": "",
       "createdAt": "2026-09-09",

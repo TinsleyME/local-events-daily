@@ -1,7 +1,7 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-11",
+    "date": "2026-10-12",
     "weekday": "周日",
     "coverage": "未来约 14 天"
   },
@@ -75,24 +75,6 @@ window.APP_DATA = {
       "description": "成都万象城比奇堡IP主题西南首展，国庆期间新增打卡场景，商场IP免费观展。",
       "sourceUrl": "https://www.toutiao.com/article/7692763439915123263/",
       "tagName": "IP展 快闪 中秋",
-      "createdAt": "2026-10-09",
-      "updatedAt": "2026-10-09"
-    },
-    {
-      "id": "CD_evt_79ec91",
-      "cityCode": "CD",
-      "categoryId": "exhi",
-      "name": "成都太古里「成为河流 Becoming The River」秋季主题艺术展",
-      "venueId": "CD_ven_12a33d8e",
-      "venueText": "成都太古里",
-      "dateText": "展至2026年10月11日",
-      "startDate": "2026-10-04",
-      "endDate": "2026-10-11",
-      "costId": "free",
-      "priceText": "免费",
-      "description": "蓝绿色光影立柱搭配流动水波投影的沉浸式艺术空间，漫广场展出。（注：来源仅给出截止日，起始日按来源发布日计）",
-      "sourceUrl": "https://www.toutiao.com/article/7692763439915123263/",
-      "tagName": "艺术展 装置",
       "createdAt": "2026-10-09",
       "updatedAt": "2026-10-09"
     },
@@ -293,25 +275,6 @@ window.APP_DATA = {
       "tagName": "非遗 市集 蜀绣 免费",
       "createdAt": "2026-09-21",
       "updatedAt": "2026-09-21"
-    },
-    {
-      "id": "CD_evt_d5f2a9",
-      "celebrity": "薛之谦",
-      "cityCode": "CD",
-      "categoryId": "show",
-      "name": "薛之谦「万兽之王」巡回演唱会成都站",
-      "venueId": "CD_ven_cd_sh01",
-      "venueText": "成都东安湖体育公园主体育场",
-      "dateText": "10.1-11",
-      "startDate": "2026-10-01",
-      "endDate": "2026-10-11",
-      "costId": "paid",
-      "priceText": "317-1717元",
-      "description": "薛之谦「万兽之王」巡回演唱会成都站落地东安湖体育公园主体育场，国庆档连开多场，沉浸式四面台舞美。",
-      "sourceUrl": "https://www.huanghepiao.com/article/1787535621161627.html",
-      "tagName": "国庆 国庆节",
-      "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-20"
     },
     {
       "id": "CD_evt_461a85",

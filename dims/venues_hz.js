@@ -310,5 +310,61 @@ window.APP_VENUES_HZ = [
     "latitude": 30.25367,
     "longitude": 120.16181,
     "address": ""
+  },
+  {
+    "id": "HZ_ven_0d44f0c1",
+    "cityCode": "HZ",
+    "name": "杭州大悦城",
+    "latitude": 30.301328,
+    "longitude": 120.130086,
+    "address": ""
+  },
+  {
+    "id": "HZ_ven_55c44fbc",
+    "cityCode": "HZ",
+    "name": "杭州城北万象城",
+    "latitude": 30.352004,
+    "longitude": 120.113053,
+    "address": ""
+  },
+  {
+    "id": "HZ_ven_4f3d6528",
+    "cityCode": "HZ",
+    "name": "大运河杭钢公园",
+    "latitude": 30.358381,
+    "longitude": 120.170919,
+    "address": ""
+  },
+  {
+    "id": "HZ_ven_3dc5b92a",
+    "cityCode": "HZ",
+    "name": "满觉陇",
+    "latitude": 30.218951,
+    "longitude": 120.127365,
+    "address": ""
+  },
+  {
+    "id": "HZ_ven_69debb8c",
+    "cityCode": "HZ",
+    "name": "亚奥万象天地",
+    "latitude": 30.25582,
+    "longitude": 120.247698,
+    "address": ""
+  },
+  {
+    "id": "HZ_ven_8f75a335",
+    "cityCode": "HZ",
+    "name": "杭州灵山景区",
+    "latitude": 30.116573,
+    "longitude": 120.02511,
+    "address": ""
+  },
+  {
+    "id": "HZ_ven_6dc5df75",
+    "cityCode": "HZ",
+    "name": "杭州运河大剧院",
+    "latitude": 30.317318,
+    "longitude": 120.124655,
+    "address": ""
   }
 ];

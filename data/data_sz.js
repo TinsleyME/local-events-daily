@@ -1,7 +1,7 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-11",
+    "date": "2026-10-12",
     "weekday": "周日",
     "coverage": "未来约 14 天"
   },
@@ -241,25 +241,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-29"
     },
     {
-      "id": "SZ_evt_edbc4c",
-      "cityCode": "SZ",
-      "categoryId": "show",
-      "name": "龙马社原创话剧《情歌》",
-      "venueId": "SZ_ven_efac95b8",
-      "venueText": "坪山大剧院 大剧场",
-      "dateText": "2026年10月10日-11日 19:30（两场）",
-      "startDate": "2026-10-10",
-      "endDate": "2026-10-11",
-      "costId": "paid",
-      "priceText": "80-880元",
-      "description": "坪山大剧院「经典呈现」系列。邹静之编剧、张国立导演并领衔主演的龙马社原创话剧《情歌》，10月10日、11日19:30各一场，时长约180分钟（中场休息15分钟）。",
-      "sourceUrl": "https://www.youyanchu.com/yanchu/57685.html",
-      "tagName": "话剧 张国立 坪山",
-      "celebrity": "张国立",
-      "createdAt": "2026-09-29",
-      "updatedAt": "2026-09-29"
-    },
-    {
       "id": "SZ_evt_6a3861",
       "cityCode": "SZ",
       "categoryId": "exhi",
@@ -310,24 +291,6 @@ window.APP_DATA = {
       "description": "K11 ECOAST 海边音乐会系列之一，古典三重奏演绎经典电影主题曲，于北馆L9 Chalet空中礼堂举行，可免费体验。",
       "sourceUrl": "https://sz.bendibao.com/news/2026918/1013430.htm",
       "tagName": "音乐会 免费 古典 电影主题曲 南山 中秋",
-      "createdAt": "2026-09-29",
-      "updatedAt": "2026-09-29"
-    },
-    {
-      "id": "SZ_evt_b742d5",
-      "cityCode": "SZ",
-      "categoryId": "market",
-      "name": "K11 ECOAST《请回答1988》主题快闪（华南首站）",
-      "venueId": "SZ_ven_b652f20e",
-      "venueText": "K11 ECOAST南北馆L2连廊",
-      "dateText": "2026年9月25日–10月11日",
-      "startDate": "2026-09-25",
-      "endDate": "2026-10-11",
-      "costId": "free",
-      "priceText": "免费入场",
-      "description": "K11 ECOAST「海上生明月」系列活动之一，华南首站《请回答1988》主题快闪落地南北馆L2连廊，现场还原1988年双门洞的秋天，老电视、旧海报与胡同灯光铺陈，可与剧中人物立牌合影并获取1:1纪念周边。",
-      "sourceUrl": "https://sz.bendibao.com/news/2026918/1013430.htm",
-      "tagName": "快闪 IP 打卡 国庆 南山 中秋",
       "createdAt": "2026-09-29",
       "updatedAt": "2026-09-29"
     },
@@ -779,23 +742,6 @@ window.APP_DATA = {
       "priceText": "单人99元，双人182元，三人268元"
     },
     {
-      "id": "SZ_evt_935468",
-      "cityCode": "SZ",
-      "categoryId": "exhi",
-      "name": "温度——当代青年版画创作邀请展",
-      "venueId": "SZ_ven_14e811",
-      "venueText": "深圳美术馆东湖馆",
-      "dateText": "2026.8.11-10.11",
-      "startDate": "2026-08-11",
-      "endDate": "2026-10-11",
-      "costId": "free",
-      "description": "东湖馆展览，当代青年版画创作邀请展，免费免预约。",
-      "sourceUrl": "https://sz.bendibao.com/xiuxian/2026810/1009771.shtm",
-      "tagName": "",
-      "createdAt": "2026-09-08",
-      "updatedAt": "2026-09-20"
-    },
-    {
       "id": "SZ_evt_eab486",
       "cityCode": "SZ",
       "categoryId": "show",
@@ -813,4 +759,4 @@ window.APP_DATA = {
       "updatedAt": "2026-09-08"
     }
   ]
-}
+};

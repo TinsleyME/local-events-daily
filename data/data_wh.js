@@ -1,11 +1,29 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-11",
-    "weekday": "周日",
+    "date": "2026-10-12",
+    "weekday": "周一",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "WH_evt_7bde91",
+      "cityCode": "WH",
+      "categoryId": "exhi",
+      "name": "武汉市第43届金秋菊展",
+      "venueId": "WH_ven_22d111a1",
+      "venueText": "武汉长江江滩（大桥至二桥段）",
+      "dateText": "2026年10月30日起持续一个月",
+      "startDate": "2026-10-30",
+      "endDate": "2026-11-29",
+      "costId": "unknown",
+      "priceText": "",
+      "description": "武汉第43届金秋菊展10月30日开展，持续一个月，核心展区设于汉口江滩风帆广场，沙湖公园、中山公园、武汉动物园设三大主题展区，各城区同步布置特色菊展点位。",
+      "sourceUrl": "https://nyncj.wuhan.gov.cn/xwzx_25/xxlb/202609/t20260918_2849737.html",
+      "tagName": "",
+      "createdAt": "2026-10-12",
+      "updatedAt": "2026-10-12"
+    },
     {
       "id": "WH_evt_de93d2",
       "cityCode": "WH",
@@ -277,24 +295,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-29"
     },
     {
-      "id": "WH_evt_5512d7",
-      "cityCode": "WH",
-      "categoryId": "market",
-      "name": "武商MALL「三节同启 鄂赣共庆」",
-      "venueId": "WH_ven_92b39a3f",
-      "venueText": "武商MALL",
-      "dateText": "2026年9月25日–10月11日",
-      "startDate": "2026-09-25",
-      "endDate": "2026-10-11",
-      "costId": "free",
-      "priceText": "免费入场，消费自理",
-      "description": "中秋、武商集团67周年庆与国庆三节联袂，武商MALL六大礼遇与主题活动同步开启。国庆期间以花艺美陈搭配国庆氛围装饰打造假日打卡点；外地游客专属消费券；武网专属互动同步开启，主题打卡、趣味挑战与限定周边轮番上阵。VIP至高享10倍积分、国际名品回馈达20%、零售至高满仟返300、国际美妆8.2折起。",
-      "sourceUrl": "https://www.toutiao.com/article/7689405746467701288/",
-      "tagName": "商圈 周年庆 国庆 江汉 中秋",
-      "createdAt": "2026-09-29",
-      "updatedAt": "2026-09-29"
-    },
-    {
       "id": "WH_evt_5d36a1",
       "cityCode": "WH",
       "categoryId": "show",
@@ -437,25 +437,6 @@ window.APP_DATA = {
       "tagName": "",
       "createdAt": "2026-09-14",
       "updatedAt": "2026-10-08"
-    },
-    {
-      "id": "WH_evt_a5d368",
-      "celebrity": "李荣浩、黄子弘凡",
-      "cityCode": "WH",
-      "categoryId": "show",
-      "name": "武商67周年「歌者归来」演唱会（黄贯中/李荣浩/黄子弘凡/海来阿木）",
-      "venueId": "WH_ven_03a2b3d5",
-      "venueText": "武汉体育中心",
-      "dateText": "10.11",
-      "startDate": "2026-10-11",
-      "endDate": "2026-10-11",
-      "costId": "paid",
-      "priceText": "看台299/499/699元，内场799/999元",
-      "description": "武商67周年「歌者归来」演唱会登陆武汉体育中心主体育场，李荣浩、黄子弘凡、海来阿木、黄贯中四位实力唱将同台，全场大合唱预定。",
-      "sourceUrl": "https://www.sina.cn/news/detail/5338647081520316.html",
-      "tagName": "国庆",
-      "createdAt": "2026-09-12",
-      "updatedAt": "2026-09-30"
     },
     {
       "id": "WH_evt_6e42c5",
@@ -601,23 +582,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-20"
     },
     {
-      "id": "WH_evt_8442d3",
-      "cityCode": "WH",
-      "categoryId": "exhi",
-      "name": "鸠央·爪爪乌托邦宠物友好艺术展",
-      "venueId": "WH_ven_ffa2b3d2",
-      "venueText": "武汉K11购物艺术中心 I馆5楼501",
-      "dateText": "2026.4.29-10.11",
-      "startDate": "2026-04-29",
-      "endDate": "2026-10-11",
-      "costId": "free",
-      "description": "超人气鹦鹉IP鸠央主题展，可爱治愈的宠物友好艺术空间，适合亲子与爱宠人士打卡。",
-      "sourceUrl": "https://m.wh.bendibao.com/jieri/196821_3.shtm",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-22"
-    },
-    {
       "id": "WH_evt_9849d4",
       "cityCode": "WH",
       "categoryId": "talk",
@@ -685,24 +649,6 @@ window.APP_DATA = {
       "tagName": "",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-09"
-    },
-    {
-      "id": "WH_evt_5bf20b",
-      "cityCode": "WH",
-      "categoryId": "exhi",
-      "name": "恰好是小满·小满个展（华中首展）",
-      "venueId": "WH_ven_ffa2b3d2",
-      "venueText": "武汉K11 I馆4楼 艺术空间",
-      "dateText": "2026.6.28-10.11",
-      "startDate": "2026-06-28",
-      "endDate": "2026-10-11",
-      "costId": "paid",
-      "priceText": "39-72元（单人39元/双人72元，含周边）",
-      "description": "治愈系原创IP插画《恰好是小满》华中首展，粉调治愈展厅还原小满宝宝与朋友们的温柔世界，逛展过程自带解压氛围，适合拍照打卡。",
-      "sourceUrl": "https://www.sina.cn/news/detail/5344121008423572.html",
-      "tagName": "展览",
-      "createdAt": "2026-09-29",
-      "updatedAt": "2026-09-29"
     }
   ]
 };

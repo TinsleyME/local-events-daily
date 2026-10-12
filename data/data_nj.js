@@ -1,7 +1,7 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-11",
+    "date": "2026-10-12",
     "weekday": "周日",
     "coverage": "未来约 14 天"
   },
@@ -93,24 +93,6 @@ window.APP_DATA = {
       "description": "栖霞区文旅活动，软萌治愈系主题快闪店，拍照打卡、薅羊毛两不误，萌友来袭快闪打卡。（注：来源仅给出截止日，起始日按活动汇总启动日计）",
       "sourceUrl": "https://nj.bendibao.com/xiuxian/2026924/183335.shtm",
       "tagName": "快闪 打卡 商场活动 中秋",
-      "createdAt": "2026-10-10",
-      "updatedAt": "2026-10-10"
-    },
-    {
-      "id": "NJ_evt_1aa57a",
-      "cityCode": "NJ",
-      "categoryId": "sports",
-      "name": "骑遇紫金·钟爱里金秋骑游嘉年华",
-      "venueId": "NJ_ven_d77bbda4",
-      "venueText": "栖霞区环陵路79号 紫金·钟爱里",
-      "dateText": "2026年10月11日",
-      "startDate": "2026-10-11",
-      "endDate": "2026-10-11",
-      "costId": "unknown",
-      "priceText": "",
-      "description": "赛道环钟山延展，串联湖光山林，骑行、美食、抽奖、逛市集一站式搞定，好戏连台。",
-      "sourceUrl": "https://feng.ifeng.com/c/8wqTlvagUS7",
-      "tagName": "骑行 嘉年华",
       "createdAt": "2026-10-10",
       "updatedAt": "2026-10-10"
     },
@@ -273,24 +255,6 @@ window.APP_DATA = {
       "description": "HLiiC恒立影像中心全新展览，展出艺术家艾丽·杨（Ellie Young）四色碳素印相原作及相关系列作品，以特殊工艺呈现昆虫在不锈钢基底上的独特内在光辉。",
       "sourceUrl": "https://www.arthing.org/?p=67554",
       "tagName": "摄影 印相 当代艺术",
-      "createdAt": "2026-09-30",
-      "updatedAt": "2026-09-30"
-    },
-    {
-      "id": "NJ_evt_6dab62",
-      "cityCode": "NJ",
-      "categoryId": "exhi",
-      "name": "第二肌肤——从肉身到星际",
-      "venueId": "NJ_ven_716ddf6a",
-      "venueText": "四禧美术馆",
-      "dateText": "2026年7月28日至10月11日",
-      "startDate": "2026-07-28",
-      "endDate": "2026-10-11",
-      "costId": "unknown",
-      "priceText": "",
-      "description": "以\"肌肤\"作为人类与环境关系的核心隐喻，汇集曹斐、瑞贝卡·霍恩、刘昕等来自中国、英国、德国、波兰、阿联酋的八位艺术家，探讨环境如何作为包裹生存、情感与社会变迁的介质。",
-      "sourceUrl": "https://www.arthing.org/?p=67342",
-      "tagName": "群展 当代艺术 美术馆",
       "createdAt": "2026-09-30",
       "updatedAt": "2026-09-30"
     },

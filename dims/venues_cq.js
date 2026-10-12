@@ -606,5 +606,21 @@ window.APP_VENUES_CQ = [
     "latitude": 29.556583,
     "longitude": 106.460418,
     "address": ""
+  },
+  {
+    "id": "CQ_ven_c2c406a0",
+    "cityCode": "CQ",
+    "name": "綦江农民版画院(綦江区美术馆)",
+    "latitude": 29.047752,
+    "longitude": 106.643201,
+    "address": ""
+  },
+  {
+    "id": "CQ_ven_adf78d9c",
+    "cityCode": "CQ",
+    "name": "玄天湖龙文化演艺中心",
+    "latitude": 29.794356,
+    "longitude": 106.062083,
+    "address": "铜梁区玄天湖景区龙舞广场"
   }
 ];

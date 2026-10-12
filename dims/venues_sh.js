@@ -574,5 +574,29 @@ window.APP_VENUES_SH = [
     "latitude": 31.223947,
     "longitude": 121.445745,
     "address": ""
+  },
+  {
+    "id": "SH_ven_9eac030f",
+    "cityCode": "SH",
+    "name": "上海文化广场",
+    "latitude": 31.211923,
+    "longitude": 121.462223,
+    "address": ""
+  },
+  {
+    "id": "SH_ven_69d3954c",
+    "cityCode": "SH",
+    "name": "永源路街区(静安)",
+    "latitude": 31.221317,
+    "longitude": 121.44124,
+    "address": ""
+  },
+  {
+    "id": "SH_ven_b54181fd",
+    "cityCode": "SH",
+    "name": "上海新天地",
+    "latitude": 31.221381,
+    "longitude": 121.474457,
+    "address": ""
   }
 ];

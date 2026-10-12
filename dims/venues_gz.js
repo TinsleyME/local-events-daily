@@ -1014,5 +1014,13 @@ window.APP_VENUES_GZ = [
     "latitude": 23.342024,
     "longitude": 113.105589,
     "address": ""
+  },
+  {
+    "id": "GZ_ven_633e7ebf",
+    "cityCode": "GZ",
+    "name": "永庆坊",
+    "latitude": 23.114823,
+    "longitude": 113.238228,
+    "address": "荔湾区恩宁路99号"
   }
 ];
