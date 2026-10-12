@@ -366,5 +366,21 @@ window.APP_VENUES_HZ = [
     "latitude": 30.317318,
     "longitude": 120.124655,
     "address": ""
+  },
+  {
+    "id": "HZ_ven_84166df5",
+    "cityCode": "HZ",
+    "name": "湖滨88",
+    "latitude": 30.254745,
+    "longitude": 120.162504,
+    "address": "上城区平海路/东坡路（湖滨商圈）"
+  },
+  {
+    "id": "HZ_ven_6bbce96e",
+    "cityCode": "HZ",
+    "name": "杭州中心",
+    "latitude": 30.272221,
+    "longitude": 120.165862,
+    "address": "拱墅区中山北路/展览东路（武林广场东侧）"
   }
 ];

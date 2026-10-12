@@ -7,6 +7,24 @@ window.APP_DATA = {
   },
   "events": [
     {
+      "id": "GZ_evt_c47d77",
+      "cityCode": "GZ",
+      "categoryId": "market",
+      "name": "GSAS×重返未来:1999 联动主题快闪 广州站",
+      "venueId": "GZ_ven_7ed0db16",
+      "venueText": "时尚天河商业广场",
+      "dateText": "2026.10.02–10.18",
+      "startDate": "2026-10-02",
+      "endDate": "2026-10-18",
+      "costId": "paid",
+      "priceText": "¥10（电子票，B站会员购）",
+      "description": "良笑 GoodSmile 与《重返未来:1999》联动主题快闪，广州站落地时尚天河商业广场中区中一街，10:00–22:00。设主题周边、集章与现场互动。",
+      "sourceUrl": "https://mall.bilibili.com/neul-next/ticket-renovation/detail.html?id=1006428",
+      "tagName": "二次元 快闪 集章",
+      "createdAt": "2026-10-12",
+      "updatedAt": "2026-10-12"
+    },
+    {
       "id": "GZ_evt_e78a18",
       "cityCode": "GZ",
       "categoryId": "market",

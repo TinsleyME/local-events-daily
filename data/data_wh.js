@@ -7,6 +7,24 @@ window.APP_DATA = {
   },
   "events": [
     {
+      "id": "WH_evt_5de707",
+      "cityCode": "WH",
+      "categoryId": "market",
+      "name": "KKV 面包超人快闪",
+      "venueId": "WH_ven_17a2b3e3",
+      "venueText": "武汉大悦城",
+      "dateText": "2026.09.18–10.18",
+      "startDate": "2026-09-18",
+      "endDate": "2026-10-18",
+      "costId": "free",
+      "priceText": "免费入场（周边需消费）",
+      "description": "KKV 面包超人快闪登陆武汉大悦城，9/18–10/18，超 40 款面包超人新品集中亮相，涵盖生活家居、潮流玩具、美妆好物与精选文具。",
+      "sourceUrl": "https://biz.ifeng.com/c/8x3mR9f9KAV",
+      "tagName": "二次元 快闪",
+      "createdAt": "2026-10-12",
+      "updatedAt": "2026-10-12"
+    },
+    {
       "id": "WH_evt_7bde91",
       "cityCode": "WH",
       "categoryId": "exhi",

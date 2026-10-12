@@ -2,10 +2,46 @@ window.APP_DATA = {
   "version": 3,
   "meta": {
     "date": "2026-10-12",
-    "weekday": "周日",
+    "weekday": "周一",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "SZ_evt_a21826",
+      "cityCode": "SZ",
+      "categoryId": "market",
+      "name": "粉啵啵 湾区之眼快闪店",
+      "venueId": "SZ_ven_a346871f",
+      "venueText": "湾区之眼",
+      "dateText": "2026.10.01–10.31",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-31",
+      "costId": "free",
+      "priceText": "免费入场（限定周边需消费）",
+      "description": "粉啵啵在深圳湾区之眼开一整月快闪店，带主题限定周边与限定大头贴；10/2 15:00 啵妈 Jessica 到场访谈签绘。地点：湾区之眼南区 B125。",
+      "sourceUrl": "http://www.sina.cn/news/detail/5348946303264541.html",
+      "tagName": "快闪 打卡 国庆节",
+      "createdAt": "2026-10-12",
+      "updatedAt": "2026-10-12"
+    },
+    {
+      "id": "SZ_evt_1613e3",
+      "cityCode": "SZ",
+      "categoryId": "exhi",
+      "name": "超能猫空间 宝安首展",
+      "venueId": "SZ_ven_07939967",
+      "venueText": "宝安大仟里",
+      "dateText": "2026.09.30–11.01",
+      "startDate": "2026-09-30",
+      "endDate": "2026-11-01",
+      "costId": "free",
+      "priceText": "免费入场",
+      "description": "宝安首展，大量猫咪主题艺术装置铺满展区，L1 木中庭。分两档：9/3–9/25、9/30–11/1。",
+      "sourceUrl": "https://m.bendibao.com/show1014036.html",
+      "tagName": "展览 打卡 亲子",
+      "createdAt": "2026-10-12",
+      "updatedAt": "2026-10-12"
+    },
     {
       "id": "SZ_evt_b96274",
       "cityCode": "SZ",

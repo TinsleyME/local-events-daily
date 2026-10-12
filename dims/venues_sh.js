@@ -88,6 +88,14 @@ window.APP_VENUES_SH = [
     "address": "黄浦区中山东二路"
   },
   {
+    "id": "SH_ven_c6219b1f",
+    "cityCode": "SH",
+    "name": "BFC外滩金融中心",
+    "latitude": 31.2332,
+    "longitude": 121.4883,
+    "address": "黄浦区中山东二路600号"
+  },
+  {
     "id": "SH_ven_811df9c4",
     "cityCode": "SH",
     "name": "上海博物馆(人民广场馆)",
