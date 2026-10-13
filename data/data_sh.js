@@ -1,11 +1,29 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-12",
-    "weekday": "周一",
+    "date": "2026-10-13",
+    "weekday": "周二",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "SH_evt_13c968",
+      "cityCode": "SH",
+      "categoryId": "family",
+      "name": "「奔马扬蹄，虎跃熊欢」经典亲子大马戏《欢乐马戏》",
+      "venueId": "SH_ven_a564111a",
+      "venueText": "上海马戏城",
+      "dateText": "2026.10.17-2026.12.26",
+      "startDate": "2026-10-17",
+      "endDate": "2026-12-26",
+      "costId": "paid",
+      "priceText": "160-280元",
+      "description": "上海马戏城上演经典亲子大马戏《欢乐马戏》，演出时长约60分钟。场次含10月17日、10月24日、10月31日等（以页面开售场次为准），一人一票，儿童均需购票。",
+      "sourceUrl": "https://detail.damai.cn/item.htm?id=1002152559578",
+      "tagName": "亲子 马戏",
+      "createdAt": "2026-10-13",
+      "updatedAt": "2026-10-13"
+    },
     {
       "id": "SH_evt_03dab5",
       "cityCode": "SH",
@@ -329,24 +347,6 @@ window.APP_DATA = {
       "description": "「八仙」化身风尚季引路人，穿行于旗袍秀场、新景发布、非遗体验与焕新仪式之间，带领来宾沉浸式感受乐园四季焕新。需购票入园，详情见「上海影视乐园」公众号。",
       "sourceUrl": "https://www.meet-in-shanghai.net/cn/news/ancient-charm-of-songjiang-vibrant-putuo-a-city-reflects-on-cultural-heritage-a-river-heads-to-autumn-appointments--enjoy-shanghai-%C2%B7-national-day-midautumn-festival-918412",
       "tagName": "旗袍 风尚季 非遗 松江 影视乐园 中秋",
-      "createdAt": "2026-09-29",
-      "updatedAt": "2026-09-29"
-    },
-    {
-      "id": "SH_evt_8a3ea6",
-      "cityCode": "SH",
-      "categoryId": "market",
-      "name": "流光水岸·月满华章——中海真如环宇城MAX金秋文旅季",
-      "venueId": "SH_ven_c9d6e2c6",
-      "venueText": "中海真如环宇城MAX",
-      "dateText": "2026年9月25日起",
-      "startDate": "2026-09-25",
-      "endDate": null,
-      "costId": "free",
-      "priceText": "免费",
-      "description": "推出「流光水岸」系列文旅互动活动：水岸艺术剧场演出、露天电影、秋冬时装秀、中意美食市集、法拉利传奇跑车展等。全球唯一的法拉利Enzo（恩佐）设计原型车首次亮相。",
-      "sourceUrl": "https://www.meet-in-shanghai.net/cn/news/ancient-charm-of-songjiang-vibrant-putuo-a-city-reflects-on-cultural-heritage-a-river-heads-to-autumn-appointments--enjoy-shanghai-%C2%B7-national-day-midautumn-festival-918412",
-      "tagName": "免费 普陀 商场 车展 市集 中秋",
       "createdAt": "2026-09-29",
       "updatedAt": "2026-09-29"
     },

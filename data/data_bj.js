@@ -1,11 +1,29 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-12",
-    "weekday": "周一",
+    "date": "2026-10-13",
+    "weekday": "周二",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "BJ_evt_e5d8ae",
+      "cityCode": "BJ",
+      "categoryId": "market",
+      "name": "2026「中轴线上夜天桥」艺术推广活动",
+      "venueId": "BJ_ven_9badef00",
+      "venueText": "天桥演艺区(天桥艺术中心/天桥市民广场/天桥九号创制中心)",
+      "dateText": "2026.09.19-2026.11.16",
+      "startDate": "2026-09-19",
+      "endDate": "2026-11-16",
+      "costId": "free",
+      "priceText": "",
+      "description": "2026「中轴线上夜天桥」艺术推广活动在天桥演艺区启幕，延续至11月16日。打造文艺展演、夜间市集、公众戏剧创制、沉浸式演艺、票根联动消费六大板块。9月19日至21日天桥艺术中心呈现音乐剧《太平·牵丝》等精彩片段，天桥市民广场轮番上演川剧变脸、乐队演出等；9月下旬起推出沉浸式话剧《患者》、舞剧《汉卿一梦》等公益演出选段；超120家商户齐聚「天桥夜未央」文化休闲市集。",
+      "sourceUrl": "https://news.bjd.com.cn/2026/09/21/11967429.shtml",
+      "tagName": "市集 演艺 公益",
+      "createdAt": "2026-10-13",
+      "updatedAt": "2026-10-13"
+    },
     {
       "id": "BJ_evt_7ace97",
       "cityCode": "BJ",
@@ -691,7 +709,8 @@ window.APP_DATA = {
       "updatedAt": "2026-09-29",
       "staleExempt": true,
       "lastVerifiedAt": "2026-09-29",
-      "verifyNote": "永久开放型：公园常年开放/博物馆常设展，无终止日且不产新闻稿；豁免 stale 归档，按 90 天周期复核"
+      "verifyNote": "永久开放型：公园常年开放/博物馆常设展，无终止日且不产新闻稿；豁免 stale 归档，按 90 天周期复核",
+      "reviewDueAt": "2026-12-28"
     },
     {
       "id": "BJ_evt_6fd803",

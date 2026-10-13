@@ -1,11 +1,29 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-12",
-    "weekday": "周一",
+    "date": "2026-10-13",
+    "weekday": "周二",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "HZ_evt_298f93",
+      "cityCode": "HZ",
+      "categoryId": "market",
+      "name": "天目里国际街区慢闪公园（快闪盒子开盒）",
+      "venueId": "HZ_ven_f6g7h8i9",
+      "venueText": "天目里国际街区(北园慢闪公园)",
+      "dateText": "2026.09.21 起（长期）",
+      "startDate": "2026-09-21",
+      "endDate": null,
+      "costId": "free",
+      "priceText": "",
+      "description": "天目里国际街区慢闪公园正式启幕，11个主题快闪盒子散落草坪水岸之间，业态涵盖小众服饰、香氛文创、户外运动、精致餐饮等，采用「长期点位常驻+四季主题慢闪更新」模式。9月21日至10月7日同步开启集章打卡活动，注册会员、关注官方账号即可领取打卡地图，走访特色门店完成互动集章兑礼。",
+      "sourceUrl": "https://www.hzxcw.gov.cn/content_49021.html",
+      "tagName": "快闪 街区 集章 免费",
+      "createdAt": "2026-10-13",
+      "updatedAt": "2026-10-13"
+    },
     {
       "id": "HZ_evt_1cedfe",
       "cityCode": "HZ",

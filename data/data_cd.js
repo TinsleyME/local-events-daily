@@ -1,11 +1,29 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-12",
-    "weekday": "周日",
+    "date": "2026-10-13",
+    "weekday": "周二",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "CD_evt_4021b7",
+      "cityCode": "CD",
+      "categoryId": "show",
+      "name": "PSY.P 2026 E.A.T「连吃带拿」巡演 成都生日场",
+      "venueId": "CD_ven_cd_sh17",
+      "venueText": "CH8绿树演艺中心",
+      "dateText": "2026.10.24",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "costId": "paid",
+      "priceText": "298-458元",
+      "description": "PSY.P 携谢帝、马思唯、Ty.、Sleepy Cat 登陆成都CH8绿树演艺中心，10月24日20:00开演，成都生日专场。",
+      "sourceUrl": "https://www.showstart.com/event/309030",
+      "tagName": "说唱 演唱会",
+      "createdAt": "2026-10-13",
+      "updatedAt": "2026-10-13"
+    },
     {
       "id": "CD_evt_eb21bd",
       "cityCode": "CD",
@@ -131,24 +149,6 @@ window.APP_DATA = {
       "tagName": "脱口秀 演出",
       "createdAt": "2026-10-09",
       "updatedAt": "2026-10-09"
-    },
-    {
-      "id": "CD_evt_dc99f7",
-      "cityCode": "CD",
-      "categoryId": "show",
-      "name": "2026成华·星光LIVE双节音乐展演季",
-      "venueId": "CD_ven_cd_ex07",
-      "venueText": "中演·成都大剧院",
-      "dateText": "2026年9月20日至10月12日",
-      "startDate": "2026-09-20",
-      "endDate": "2026-10-12",
-      "costId": "free",
-      "priceText": "免费开放、零门槛参与（每日19:30—21:30）",
-      "description": "成华·星光LIVE双节音乐展演季在中演·成都大剧院户外露天剧场举行，全程免费开放，每日19:30—21:30，全覆盖双节长假。",
-      "sourceUrl": "https://www.sohu.com/a/1082277087_121106884",
-      "tagName": "音乐节 演艺 免票 成华 双节 国庆",
-      "createdAt": "2026-09-30",
-      "updatedAt": "2026-09-30"
     },
     {
       "id": "CD_evt_8a0a47",

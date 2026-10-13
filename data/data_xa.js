@@ -1,29 +1,11 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-12",
+    "date": "2026-10-13",
     "weekday": "周日",
     "coverage": "未来约 14 天"
   },
   "events": [
-    {
-      "id": "XA_evt_a54bda",
-      "cityCode": "XA",
-      "categoryId": "show",
-      "name": "中央芭蕾舞团 原创芭蕾舞剧《牡丹亭》",
-      "venueId": "XA_ven_083ebc6c",
-      "venueText": "陕西大剧院",
-      "dateText": "2026年10月12日",
-      "startDate": "2026-10-12",
-      "endDate": "2026-10-12",
-      "costId": "paid",
-      "priceText": "180-880元",
-      "description": "中央芭蕾舞团原创芭蕾舞剧《牡丹亭》暌违十八年重磅回归，10月12日19:45登陆陕西大剧院歌剧厅，以芭蕾演绎杜丽娘与柳梦梅跨越生死的爱情。",
-      "sourceUrl": "https://huodong.com/event/detail/eyaml",
-      "tagName": "",
-      "createdAt": "2026-10-11",
-      "updatedAt": "2026-10-11"
-    },
     {
       "id": "XA_evt_09dbc8",
       "cityCode": "XA",

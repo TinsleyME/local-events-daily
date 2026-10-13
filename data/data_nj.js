@@ -1,11 +1,29 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-12",
-    "weekday": "周日",
+    "date": "2026-10-13",
+    "weekday": "周二",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "NJ_evt_728573",
+      "cityCode": "NJ",
+      "categoryId": "show",
+      "name": "2026「WUUHAA」南京嘉年华",
+      "venueId": "NJ_ven_yz3j4s5",
+      "venueText": "南京江北新区扬子江生态公园",
+      "dateText": "2026.10.31-2026.11.01",
+      "startDate": "2026-10-31",
+      "endDate": "2026-11-01",
+      "costId": "paid",
+      "priceText": "599-1280元",
+      "description": "「五哈团」邓超、陈赫、鹿晗、范志毅、宝石Gem、王勉等全员集结，好友团吴克群、金志文、高瀚宇、万妮达、回春丹乐队、陆虎等陆续解锁。10月31日至11月1日在南京江北新区扬子江生态公园开唱，游园会11:00-21:00，音乐节环节16:00开始。",
+      "sourceUrl": "https://www.huanghepiao.com/article/1791511679162645.html",
+      "tagName": "音乐节 嘉年华",
+      "createdAt": "2026-10-13",
+      "updatedAt": "2026-10-13"
+    },
     {
       "id": "NJ_evt_b29326",
       "cityCode": "NJ",
@@ -237,24 +255,6 @@ window.APP_DATA = {
       "description": "依托中央银行旧址场地的免费公共展览，梳理呈现南京市中央路街区的发展历程与时代变迁脉络。",
       "sourceUrl": "https://www.arthing.org/archives/2026/07/0067546.html",
       "tagName": "城市史 免费展览 南京",
-      "createdAt": "2026-09-30",
-      "updatedAt": "2026-09-30"
-    },
-    {
-      "id": "NJ_evt_37dbe6",
-      "cityCode": "NJ",
-      "categoryId": "exhi",
-      "name": "艾丽·杨：虫之光",
-      "venueId": "NJ_ven_84a9d86d",
-      "venueText": "恒立影像中心",
-      "dateText": "2026年7月3日至10月12日",
-      "startDate": "2026-07-03",
-      "endDate": "2026-10-12",
-      "costId": "unknown",
-      "priceText": "",
-      "description": "HLiiC恒立影像中心全新展览，展出艺术家艾丽·杨（Ellie Young）四色碳素印相原作及相关系列作品，以特殊工艺呈现昆虫在不锈钢基底上的独特内在光辉。",
-      "sourceUrl": "https://www.arthing.org/?p=67554",
-      "tagName": "摄影 印相 当代艺术",
       "createdAt": "2026-09-30",
       "updatedAt": "2026-09-30"
     },

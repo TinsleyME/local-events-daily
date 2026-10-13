@@ -1,11 +1,29 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-12",
-    "weekday": "周一",
+    "date": "2026-10-13",
+    "weekday": "周二",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "GZ_evt_477eef",
+      "cityCode": "GZ",
+      "categoryId": "show",
+      "name": "西班牙马德里弗拉门戈舞团《卡门》广州站",
+      "venueId": "GZ_ven_f39081c3",
+      "venueText": "星海音乐厅(交响乐演奏厅)",
+      "dateText": "2026.12.19",
+      "startDate": "2026-12-19",
+      "endDate": "2026-12-19",
+      "costId": "paid",
+      "priceText": "180-880元",
+      "description": "西班牙马德里弗拉门戈舞团《卡门》广州站，2026年12月19日于星海音乐厅（交响乐演奏厅）上演，票价180-880元。",
+      "sourceUrl": "https://detail.damai.cn/item.htm?id=922395370105",
+      "tagName": "弗拉门戈 卡门 舞蹈",
+      "createdAt": "2026-10-13",
+      "updatedAt": "2026-10-13"
+    },
     {
       "id": "GZ_evt_c47d77",
       "cityCode": "GZ",
@@ -563,25 +581,6 @@ window.APP_DATA = {
       "tagName": "非遗 展览 国庆节",
       "createdAt": "2026-10-09",
       "updatedAt": "2026-10-09"
-    },
-    {
-      "id": "GZ_evt_3cc0d8",
-      "cityCode": "GZ",
-      "categoryId": "show",
-      "name": "库伦奇斯与音乐永恒乐团2026广州音乐会",
-      "venueId": "GZ_ven_f39081c3",
-      "venueText": "星海音乐厅",
-      "dateText": "10月12日 20:00",
-      "startDate": "2026-10-12",
-      "endDate": "2026-10-12",
-      "costId": "paid",
-      "priceText": "280/380/480/580/680/880元，VIP 1080元",
-      "description": "「指挥鬼才」库伦奇斯率音乐永恒乐团首次亮相广州，全场合贝多芬作品：《科里奥兰》序曲、第四与第七交响曲。星海音乐厅交响乐演奏大厅。",
-      "sourceUrl": "https://www.concerthall.com.cn/xinghaiconcert/index.html#/ticket/detail/21993",
-      "tagName": "交响乐",
-      "celebrity": "指挥：提奥多·库伦奇斯；乐团：音乐永恒乐团",
-      "createdAt": "2026-10-08",
-      "updatedAt": "2026-10-08"
     },
     {
       "id": "GZ_evt_e201c9",
