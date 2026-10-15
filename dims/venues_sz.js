@@ -654,5 +654,69 @@ window.APP_VENUES_SZ = [
     "latitude": 22.71244,
     "longitude": 114.22602,
     "address": "龙岗区地铁16号线"
+  },
+  {
+    "id": "SZ_ven_fabde427",
+    "cityCode": "SZ",
+    "name": "中航城君尚",
+    "latitude": 22.54234,
+    "longitude": 114.083469,
+    "address": ""
+  },
+  {
+    "id": "SZ_ven_b44da6a8",
+    "cityCode": "SZ",
+    "name": "后海汇",
+    "latitude": 22.516305,
+    "longitude": 113.940725,
+    "address": ""
+  },
+  {
+    "id": "SZ_ven_7cd9ac28",
+    "cityCode": "SZ",
+    "name": "万象天地",
+    "latitude": 22.542957,
+    "longitude": 113.956814,
+    "address": ""
+  },
+  {
+    "id": "SZ_ven_2d180fcc",
+    "cityCode": "SZ",
+    "name": "海岸城",
+    "latitude": 22.516939,
+    "longitude": 113.93691,
+    "address": ""
+  },
+  {
+    "id": "SZ_ven_7a6e7271",
+    "cityCode": "SZ",
+    "name": "光明区群众体育中心",
+    "latitude": 22.748065,
+    "longitude": 113.948501,
+    "address": ""
+  },
+  {
+    "id": "SZ_ven_7eadcbb7",
+    "cityCode": "SZ",
+    "name": "红花山体育中心",
+    "latitude": 22.775581,
+    "longitude": 113.906274,
+    "address": ""
+  },
+  {
+    "id": "SZ_ven_31cfd031",
+    "cityCode": "SZ",
+    "name": "龙岗文博展览馆",
+    "latitude": 22.7218,
+    "longitude": 114.252252,
+    "address": ""
+  },
+  {
+    "id": "SZ_ven_d15b5a52",
+    "cityCode": "SZ",
+    "name": "前海博物馆",
+    "latitude": 22.520021,
+    "longitude": 113.884649,
+    "address": ""
   }
 ];

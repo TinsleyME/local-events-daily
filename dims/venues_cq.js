@@ -622,5 +622,29 @@ window.APP_VENUES_CQ = [
     "latitude": 29.799096,
     "longitude": 106.080099,
     "address": "铜梁区319国道西重庆梦湖度假酒店"
+  },
+  {
+    "id": "CQ_ven_ce875453",
+    "cityCode": "CQ",
+    "name": "鹅岭贰厂文创公园",
+    "latitude": 29.550941,
+    "longitude": 106.540597,
+    "address": ""
+  },
+  {
+    "id": "CQ_ven_44069c9b",
+    "cityCode": "CQ",
+    "name": "龙湖重庆时代天街",
+    "latitude": 29.536052,
+    "longitude": 106.512253,
+    "address": ""
+  },
+  {
+    "id": "CQ_ven_2c4fc65a",
+    "cityCode": "CQ",
+    "name": "重百·造梦场",
+    "latitude": 29.575316,
+    "longitude": 106.532393,
+    "address": ""
   }
 ];

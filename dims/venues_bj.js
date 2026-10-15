@@ -686,5 +686,69 @@ window.APP_VENUES_BJ = [
     "latitude": 39.990694,
     "longitude": 116.187538,
     "address": "海淀区买卖街40号"
+  },
+  {
+    "id": "BJ_ven_f4181ae3",
+    "cityCode": "BJ",
+    "name": "六合庄林场",
+    "latitude": 39.689903,
+    "longitude": 116.236947,
+    "address": "北京市大兴区兴良路南侧"
+  },
+  {
+    "id": "BJ_ven_014d4b1a",
+    "cityCode": "BJ",
+    "name": "喇叭沟门原始森林公园",
+    "latitude": 40.959432,
+    "longitude": 116.489299,
+    "address": ""
+  },
+  {
+    "id": "BJ_ven_8f479d66",
+    "cityCode": "BJ",
+    "name": "国家奥林匹克体育中心",
+    "latitude": 39.98507,
+    "longitude": 116.401044,
+    "address": ""
+  },
+  {
+    "id": "BJ_ven_da042b56",
+    "cityCode": "BJ",
+    "name": "京丰宾馆",
+    "latitude": 39.863875,
+    "longitude": 116.281325,
+    "address": "北京市丰台区西四环南路61号"
+  },
+  {
+    "id": "BJ_ven_305e8eaf",
+    "cityCode": "BJ",
+    "name": "天坛南门剧场",
+    "latitude": 39.873869,
+    "longitude": 116.4096,
+    "address": ""
+  },
+  {
+    "id": "BJ_ven_d2849199",
+    "cityCode": "BJ",
+    "name": "华熙生物·润百颜ECM中心",
+    "latitude": 39.9111,
+    "longitude": 116.280783,
+    "address": ""
+  },
+  {
+    "id": "BJ_ven_4510654f",
+    "cityCode": "BJ",
+    "name": "国家游泳中心",
+    "latitude": 39.992979,
+    "longitude": 116.39042,
+    "address": ""
+  },
+  {
+    "id": "BJ_ven_9193089b",
+    "cityCode": "BJ",
+    "name": "三元农业科技园",
+    "latitude": 40.084953,
+    "longitude": 116.219345,
+    "address": ""
   }
 ];

@@ -1,10 +1,4 @@
 window.APP_DATA = {
-  "version": 3,
-  "meta": {
-    "date": "2026-10-13",
-    "weekday": "周日",
-    "coverage": "未来约 14 天"
-  },
   "events": [
     {
       "id": "XA_evt_09dbc8",
@@ -220,7 +214,8 @@ window.APP_DATA = {
       "sourceUrl": "https://www.toutiao.com/article/7689430879277564470",
       "tagName": "打卡 美陈 免费 商场 曲江 秋季",
       "createdAt": "2026-09-29",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-10-14",
+      "lastVerifiedAt": "2026-10-14"
     },
     {
       "id": "XA_evt_af514d",

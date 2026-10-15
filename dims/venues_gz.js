@@ -1022,5 +1022,53 @@ window.APP_VENUES_GZ = [
     "latitude": 23.114823,
     "longitude": 113.238228,
     "address": "荔湾区恩宁路99号"
+  },
+  {
+    "id": "GZ_ven_b8b08d28",
+    "cityCode": "GZ",
+    "name": "广州人民艺术中心",
+    "latitude": 23.142858,
+    "longitude": 113.2807,
+    "address": ""
+  },
+  {
+    "id": "GZ_ven_338867ca",
+    "cityCode": "GZ",
+    "name": "雲门NEW PARK",
+    "latitude": 23.237173,
+    "longitude": 113.291771,
+    "address": ""
+  },
+  {
+    "id": "GZ_ven_a40ef506",
+    "cityCode": "GZ",
+    "name": "凯德乐峰广场",
+    "latitude": 23.08861,
+    "longitude": 113.259139,
+    "address": "海珠区工业大道北106-108号"
+  },
+  {
+    "id": "GZ_ven_48d015bf",
+    "cityCode": "GZ",
+    "name": "孙中山大元帅府纪念馆",
+    "latitude": 23.109695,
+    "longitude": 113.279033,
+    "address": "广州市海珠区"
+  },
+  {
+    "id": "GZ_ven_7011f119",
+    "cityCode": "GZ",
+    "name": "飞鸢公园",
+    "latitude": 23.106131,
+    "longitude": 113.346956,
+    "address": "广州市海珠区鼎新路"
+  },
+  {
+    "id": "GZ_ven_31185efa",
+    "cityCode": "GZ",
+    "name": "SDlivehouse",
+    "latitude": 23.06421,
+    "longitude": 113.29582,
+    "address": "广州市海珠区南洲路154号侨建·HICITY 2F 207"
   }
 ];

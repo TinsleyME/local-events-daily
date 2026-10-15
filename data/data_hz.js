@@ -1,11 +1,84 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-13",
-    "weekday": "周二",
+    "date": "2026-10-15",
+    "weekday": "周四",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "HZ_evt_38b4fc",
+      "cityCode": "HZ",
+      "categoryId": "show",
+      "name": "瓦格纳《莱茵的黄金》音乐会（杭州爱乐乐团）",
+      "venueId": "HZ_ven_a1b2c3d4",
+      "venueText": "杭州大剧院",
+      "dateText": "2026年11月13日",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-13",
+      "costId": "unknown",
+      "priceText": "",
+      "description": "杭州爱乐乐团音乐季瓦格纳《莱茵的黄金》11月13日在杭州大剧院上演，德国指挥家马库斯·史坦兹执棒。",
+      "sourceUrl": "https://qjwb.tidenews.com.cn/html/2026-09/16/content_4519511.htm",
+      "tagName": "音乐会",
+      "createdAt": "2026-10-15",
+      "updatedAt": "2026-10-15"
+    },
+    {
+      "id": "HZ_evt_c67e0c",
+      "cityCode": "HZ",
+      "categoryId": "expo",
+      "name": "2026中国（杭州）健康生活节暨杭州市第十三届老年生活博览会",
+      "venueId": "HZ_ven_8896996e",
+      "venueText": "武林广场",
+      "dateText": "2026年10月23日-25日",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-25",
+      "costId": "free",
+      "priceText": "免费开放",
+      "description": "以「数智养老，乐享银龄」为主题，规划近8000平方米展出面积，设数智养老体验、品质医养等六大精品展区，配套健康义诊、公益红娘相亲会、「品味都市圈」特色产品展销等活动。",
+      "sourceUrl": "https://hznews.hangzhou.com.cn/chengshi/content/2026-10/10/content_9331855.htm",
+      "tagName": "重阳",
+      "createdAt": "2026-10-14",
+      "updatedAt": "2026-10-14"
+    },
+    {
+      "id": "HZ_evt_e4ad66",
+      "cityCode": "HZ",
+      "categoryId": "show",
+      "name": "老狼「纯真年代」巡回演唱会杭州站",
+      "venueId": "HZ_ven_e848a494",
+      "venueText": "拱墅运河体育公园体育馆",
+      "dateText": "2026年10月17日",
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-17",
+      "costId": "unknown",
+      "priceText": "",
+      "description": "10月17日杭州双场同开，老狼「纯真年代」巡回演唱会亮相拱墅运河体育公园体育馆。",
+      "sourceUrl": "https://www.toutiao.com/article/7691952836426416674/",
+      "tagName": "",
+      "celebrity": "老狼",
+      "createdAt": "2026-10-14",
+      "updatedAt": "2026-10-14"
+    },
+    {
+      "id": "HZ_evt_edd3fa",
+      "cityCode": "HZ",
+      "categoryId": "show",
+      "name": "舞动精灵Groove Coverage出道25周年杭州演唱会",
+      "venueId": "HZ_ven_n4o5p6q7",
+      "venueText": "MAO Livehouse杭州(尚城1157·利星店)",
+      "dateText": "2026年10月17日 20:00",
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-17",
+      "costId": "paid",
+      "priceText": "早鸟票180元起，正价票380元，VIP票680元",
+      "description": "德国电子舞曲组合Groove Coverage（舞动精灵乐团）出道25周年中国巡演杭州站，凭《God Is A Girl》《She》等经典作品在杭州MAO Livehouse上演，约90分钟站立场。",
+      "sourceUrl": "https://huodong.com/event/detail/eyuxb",
+      "tagName": "",
+      "createdAt": "2026-10-14",
+      "updatedAt": "2026-10-14"
+    },
     {
       "id": "HZ_evt_298f93",
       "cityCode": "HZ",
@@ -22,7 +95,9 @@ window.APP_DATA = {
       "sourceUrl": "https://www.hzxcw.gov.cn/content_49021.html",
       "tagName": "快闪 街区 集章 免费",
       "createdAt": "2026-10-13",
-      "updatedAt": "2026-10-13"
+      "updatedAt": "2026-10-13",
+      "staleExempt": true,
+      "lastVerifiedAt": "2026-10-14"
     },
     {
       "id": "HZ_evt_1cedfe",
@@ -88,13 +163,13 @@ window.APP_DATA = {
       "dateText": "展出至10月31日",
       "startDate": "2026-10-12",
       "endDate": "2026-10-31",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "88-268元",
       "description": "《银魂认真展》中国大陆巡展最终站杭州站，在杭州大悦城展出至10月31日。",
       "sourceUrl": "https://www.toutiao.com/a7691499784493892115",
       "tagName": "",
       "createdAt": "2026-10-12",
-      "updatedAt": "2026-10-12"
+      "updatedAt": "2026-10-15T00:00:00+08:00"
     },
     {
       "id": "HZ_evt_9c36fd",
@@ -151,24 +226,6 @@ window.APP_DATA = {
       "updatedAt": "2026-10-12"
     },
     {
-      "id": "HZ_evt_b402c4",
-      "cityCode": "HZ",
-      "categoryId": "market",
-      "name": "2026满陇秋日市集",
-      "venueId": "HZ_ven_3dc5b92a",
-      "venueText": "满觉陇",
-      "dateText": "2026年10月1日-10月13日",
-      "startDate": "2026-10-01",
-      "endDate": "2026-10-13",
-      "costId": "free",
-      "priceText": "沿街市集免费（满陇桂雨公园需入园门票）",
-      "description": "满觉陇桂花季限定市集，桂花食事、秋收谷物与文创食礼，多家文创美食摊位与品牌快闪，沿街市集免费逛，10月1日至13日。",
-      "sourceUrl": "https://m.163.com/dy/article/L85UA88Q051492LM.html",
-      "tagName": "国庆节",
-      "createdAt": "2026-10-12",
-      "updatedAt": "2026-10-12"
-    },
-    {
       "id": "HZ_evt_18098d",
       "cityCode": "HZ",
       "categoryId": "market",
@@ -214,13 +271,13 @@ window.APP_DATA = {
       "dateText": "2026年10月31日",
       "startDate": "2026-10-31",
       "endDate": "2026-10-31",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "380-1380元",
       "description": "那英《我来，因为你在》巡回演唱会杭州站，10月31日在杭州奥体中心体育馆（萧山区）举办，已获浙江省文广旅厅营业性演出审批。",
       "sourceUrl": "https://zwfw.mct.gov.cn/wycx/qgswyyxychd/qgswyyxychdjg/xq?id=d63efe9c19e1b55deff83f52c63710bb",
       "tagName": "",
       "createdAt": "2026-10-12",
-      "updatedAt": "2026-10-12"
+      "updatedAt": "2026-10-15T00:00:00+08:00"
     },
     {
       "id": "HZ_evt_7334d4",
@@ -232,13 +289,13 @@ window.APP_DATA = {
       "dateText": "2026年10月16日",
       "startDate": "2026-10-16",
       "endDate": "2026-10-16",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "380-680元",
       "description": "万芳2026巡演音乐会，10月16日在杭州运河大剧院歌剧厅（拱墅区）举办，已获浙江省文广旅厅营业性演出审批。",
       "sourceUrl": "https://zwfw.mct.gov.cn/wycx/qgswyyxychd/qgswyyxychdjg/xq?id=2369f86cdce11ae938f57f7794b1bc23",
       "tagName": "",
       "createdAt": "2026-10-12",
-      "updatedAt": "2026-10-12"
+      "updatedAt": "2026-10-15T00:00:00+08:00"
     },
     {
       "id": "HZ_evt_559187",
@@ -250,13 +307,13 @@ window.APP_DATA = {
       "dateText": "2026年10月17日",
       "startDate": "2026-10-17",
       "endDate": "2026-10-17",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "299-1199元",
       "description": "GAI周延演唱会10月17日登陆黄龙体育中心体育场（杭州市文广旅局官宣定档）。",
       "sourceUrl": "https://new.qq.com/rain/a/20261002A06A0S00",
       "tagName": "",
       "createdAt": "2026-10-12",
-      "updatedAt": "2026-10-12"
+      "updatedAt": "2026-10-15T00:00:00+08:00"
     },
     {
       "id": "HZ_evt_e63cc0",
@@ -377,13 +434,13 @@ window.APP_DATA = {
       "dateText": "2026年10月29日–11月8日（连演14场）",
       "startDate": "2026-10-29",
       "endDate": "2026-11-08",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "180-888元",
       "description": "横扫全球剧坛的现象级原版音乐剧，2017年英国首演以来斩获含托尼奖在内35项戏剧大奖，伦敦西区常年售罄。杭州大剧院焕新回归后推出的国际顶级剧目，在杭连演14场。",
       "sourceUrl": "https://mdaily.hangzhou.com.cn/hzrb/2026/09/18/article_detail_1_20260918A081.html",
       "tagName": "音乐剧 演出季 杭州大剧院 国际",
       "createdAt": "2026-09-29",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-10-15T00:00:00+08:00"
     },
     {
       "id": "HZ_evt_e0d41a",

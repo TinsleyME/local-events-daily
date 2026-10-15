@@ -502,5 +502,21 @@ window.APP_VENUES_NJ = [
     "latitude": 32.042842,
     "longitude": 118.799127,
     "address": "玄武区长江路302号(总统府往东走)"
+  },
+  {
+    "id": "NJ_ven_06862987",
+    "cityCode": "NJ",
+    "name": "华采天地",
+    "latitude": 31.997929,
+    "longitude": 118.72188,
+    "address": ""
+  },
+  {
+    "id": "NJ_ven_1d1f5cd9",
+    "cityCode": "NJ",
+    "name": "江苏丘陵地区南京农业科学研究所",
+    "latitude": 32.082214,
+    "longitude": 118.916934,
+    "address": "南京市栖霞区灵山北路16号"
   }
 ];

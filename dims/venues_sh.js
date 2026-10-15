@@ -614,5 +614,45 @@ window.APP_VENUES_SH = [
     "latitude": 31.278159,
     "longitude": 121.451527,
     "address": "上海市静安区共和新路2266号"
+  },
+  {
+    "id": "SH_ven_9f9ca6f2",
+    "cityCode": "SH",
+    "name": "旗忠网球中心",
+    "latitude": 31.039311,
+    "longitude": 121.357548,
+    "address": ""
+  },
+  {
+    "id": "SH_ven_119d0fd9",
+    "cityCode": "SH",
+    "name": "新六百YOUNG",
+    "latitude": 31.194784,
+    "longitude": 121.439643,
+    "address": ""
+  },
+  {
+    "id": "SH_ven_f930ca21",
+    "cityCode": "SH",
+    "name": "鑫耀光环Live",
+    "latitude": 31.167367,
+    "longitude": 121.415325,
+    "address": ""
+  },
+  {
+    "id": "SH_ven_7a3e7691",
+    "cityCode": "SH",
+    "name": "凯德虹口商业中心",
+    "latitude": 31.270925,
+    "longitude": 121.477869,
+    "address": ""
+  },
+  {
+    "id": "SH_ven_9d542e54",
+    "cityCode": "SH",
+    "name": "佘山国际高尔夫俱乐部",
+    "latitude": 31.106992,
+    "longitude": 121.221755,
+    "address": ""
   }
 ];

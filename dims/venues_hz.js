@@ -382,5 +382,13 @@ window.APP_VENUES_HZ = [
     "latitude": 30.272612,
     "longitude": 120.165628,
     "address": "拱墅区展览东路150号(武林广场地铁站A口旁)"
+  },
+  {
+    "id": "HZ_ven_e848a494",
+    "cityCode": "HZ",
+    "name": "拱墅运河体育公园体育馆",
+    "latitude": 30.310684,
+    "longitude": 120.106391,
+    "address": ""
   }
 ];

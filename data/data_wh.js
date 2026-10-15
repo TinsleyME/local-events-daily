@@ -232,13 +232,13 @@ window.APP_DATA = {
       "dateText": "2026年10月中旬-11月30日",
       "startDate": "2026-10-15",
       "endDate": "2026-11-30",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "早鸟单人票99元、双人票188元、儿童票78元",
       "description": "光影科技、场景再造、非遗演艺、氛围互动于一体的沉浸式游园活动，落地武汉园博园。",
       "sourceUrl": "https://news.qq.com/rain/a/20260919A03XC700",
       "tagName": "东西湖 园博园 光影 非遗",
       "createdAt": "2026-10-08",
-      "updatedAt": "2026-10-08"
+      "updatedAt": "2026-10-15T00:00:00+08:00"
     },
     {
       "id": "WH_evt_4d38b6",

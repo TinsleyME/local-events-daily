@@ -622,5 +622,45 @@ window.APP_VENUES_CD = [
     "latitude": 30.708705,
     "longitude": 104.019851,
     "address": "金牛区金牛大道金牛坝路388号"
+  },
+  {
+    "id": "CD_ven_07f0cf04",
+    "cityCode": "CD",
+    "name": "成都大悦城",
+    "latitude": 30.626072,
+    "longitude": 104.01179,
+    "address": ""
+  },
+  {
+    "id": "CD_ven_487d4ac4",
+    "cityCode": "CD",
+    "name": "天府设计产业园红仓·101仓库",
+    "latitude": 30.690751,
+    "longitude": 104.11888,
+    "address": ""
+  },
+  {
+    "id": "CD_ven_836e99a7",
+    "cityCode": "CD",
+    "name": "安西镇",
+    "latitude": 30.39483,
+    "longitude": 103.748541,
+    "address": ""
+  },
+  {
+    "id": "CD_ven_81604fe1",
+    "cityCode": "CD",
+    "name": "花桥街道",
+    "latitude": 30.446153,
+    "longitude": 103.85634,
+    "address": ""
+  },
+  {
+    "id": "CD_ven_097723f9",
+    "cityCode": "CD",
+    "name": "花舞人间",
+    "latitude": 30.386286,
+    "longitude": 103.806844,
+    "address": ""
   }
 ];
