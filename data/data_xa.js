@@ -329,24 +329,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-20"
     },
     {
-      "id": "XA_evt_9c3c99",
-      "cityCode": "XA",
-      "categoryId": "exhi",
-      "name": "西安碑林博物馆“汉艺双楫——陕鲁碑刻与画像石拓片集珍”展",
-      "venueId": "XA_ven_eb0b6b3f",
-      "venueText": "西安碑林博物馆",
-      "dateText": "2026.5.15-10.15",
-      "startDate": "2026-05-15",
-      "endDate": "2026-10-15",
-      "costId": "paid",
-      "priceText": "10元",
-      "description": "精选陕鲁两地碑刻与画像石拓片，溯源历史文脉，沉浸式品读汉石遗韵。",
-      "sourceUrl": "https://www.beilin-museum.com/index.php?m=home&c=View&a=index&aid=4798",
-      "tagName": "",
-      "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-29"
-    },
-    {
       "id": "XA_evt_6c6ca4",
       "cityCode": "XA",
       "categoryId": "exhi",
@@ -592,5 +574,8 @@ window.APP_DATA = {
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-21"
     }
-  ]
+  ],
+  "meta": {
+    "date": "2026-10-16"
+  }
 };

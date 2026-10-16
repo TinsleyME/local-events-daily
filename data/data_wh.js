@@ -1,7 +1,7 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-12",
+    "date": "2026-10-16",
     "weekday": "周一",
     "coverage": "未来约 14 天"
   },
@@ -165,24 +165,6 @@ window.APP_DATA = {
       "description": "第十三届秋季向日葵花展：60余亩向日葵花海，金色花田与秋日阳光相映成趣，适合亲子与拍照打卡。",
       "sourceUrl": "https://news.qq.com/rain/a/20261008A09Z0400",
       "tagName": "",
-      "createdAt": "2026-10-10",
-      "updatedAt": "2026-10-10"
-    },
-    {
-      "id": "WH_evt_2e72fe",
-      "cityCode": "WH",
-      "categoryId": "market",
-      "name": "武汉SKP·假日特快专列",
-      "venueId": "WH_ven_eea2b3d1",
-      "venueText": "武汉SKP",
-      "dateText": "2026年9月25日-10月15日",
-      "startDate": "2026-09-25",
-      "endDate": "2026-10-15",
-      "costId": "free",
-      "priceText": "免费",
-      "description": "假日特快专列驶入欧陆假日场景：本土精品咖啡、手作烘焙、港式奶茶、闽南糖水……白天逛吃，天黑微醺，从下午茶坐到夜宵都不重样。",
-      "sourceUrl": "https://www.sohu.com/a/1082749012_121106908",
-      "tagName": "商场活动 快闪 美食 中秋",
       "createdAt": "2026-10-10",
       "updatedAt": "2026-10-10"
     },

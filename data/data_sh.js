@@ -1,11 +1,47 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-15",
-    "weekday": "周四",
+    "date": "2026-10-16",
+    "weekday": "周五",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "SH_evt_d0dfc7",
+      "cityCode": "SH",
+      "categoryId": "show",
+      "name": "从巴洛克到青花瓷—大提琴小提琴重奏音乐会",
+      "venueId": "SH_ven_176d1769",
+      "venueText": "上海长滩音乐厅",
+      "dateText": "2026年10月16日",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-16",
+      "costId": "paid",
+      "priceText": "80-120元",
+      "description": "意大利巴拉尔迪兄弟Duo Baraldi以小提琴与大提琴重奏演绎东西方经典，10月16日19:00上海长滩音乐厅，票价80-120元。",
+      "sourceUrl": "https://detail.damai.cn/item.htm?id=1084088329380",
+      "tagName": "音乐会",
+      "createdAt": "2026-10-16",
+      "updatedAt": "2026-10-16"
+    },
+    {
+      "id": "SH_evt_fdd830",
+      "cityCode": "SH",
+      "categoryId": "market",
+      "name": "GO OUT! SUHEWAN 2026遛湾节",
+      "venueId": "SH_ven_fde259a8",
+      "venueText": "苏河湾万象天地",
+      "dateText": "2026年10月4日-25日",
+      "startDate": "2026-10-04",
+      "endDate": "2026-10-25",
+      "costId": "free",
+      "priceText": "免费（场内消费自理）",
+      "description": "GO OUT! SUHEWAN 2026遛湾节回归苏河湾万象天地，设遛湾小卖部、街头公园、梦核游戏厅三大千禧年主题场景，并联动闪亮·上海（静安）国际光影艺术大赛、2026上海劳力士大师赛第二现场等水岸活动。",
+      "sourceUrl": "https://www.meet-in-shanghai.net/cn/news/shopping-and-celebrating-festivals%E2%80%94shanghai-business-districts-gather-holiday-activities-220694",
+      "tagName": "商圈节庆",
+      "createdAt": "2026-10-16",
+      "updatedAt": "2026-10-16"
+    },
     {
       "id": "SH_evt_d60a64",
       "cityCode": "SH",
@@ -203,24 +239,6 @@ window.APP_DATA = {
       "tagName": "",
       "createdAt": "2026-10-12",
       "updatedAt": "2026-10-15"
-    },
-    {
-      "id": "SH_evt_1c8b77",
-      "cityCode": "SH",
-      "categoryId": "market",
-      "name": "梅赛德斯-奔驰上海时装周先锋主题快闪「随星入戏」",
-      "venueId": "SH_ven_69d3954c",
-      "venueText": "永源路街区(静安)",
-      "dateText": "2026年10月9日-10月15日",
-      "startDate": "2026-10-09",
-      "endDate": "2026-10-15",
-      "costId": "unknown",
-      "priceText": "",
-      "description": "梅赛德斯-奔驰上海时装周先锋主题快闪「随星入戏」登陆静安永源路70号大草坪，与WMWM、ChénSifān、YIRANTIAN等独立设计师品牌联动，展示持续至10月15日。",
-      "sourceUrl": "https://new.qq.com/rain/a/20261011A04HUP00",
-      "tagName": "",
-      "createdAt": "2026-10-12",
-      "updatedAt": "2026-10-12"
     },
     {
       "id": "SH_evt_f76225",
@@ -585,24 +603,6 @@ window.APP_DATA = {
       "updatedAt": "2026-09-10"
     },
     {
-      "id": "SH_evt_25ef06",
-      "cityCode": "SH",
-      "categoryId": "exhi",
-      "name": "池社·大地骨梦",
-      "venueId": "SH_ven_efbddab9",
-      "venueText": "池社（西岸）",
-      "dateText": "2026.9.1-10.15",
-      "startDate": "2026-09-01",
-      "endDate": "2026-10-15",
-      "costId": "free",
-      "priceText": "",
-      "description": "当代艺术群展，免费向公众开放，持续至10月15日。",
-      "sourceUrl": "https://www.meet-in-shanghai.net/cn/art-space/dream-of-earth-bones-437068",
-      "tagName": "",
-      "createdAt": "2026-09-10",
-      "updatedAt": "2026-09-29"
-    },
-    {
       "id": "SH_evt_937264",
       "cityCode": "SH",
       "categoryId": "market",
@@ -800,4 +800,4 @@ window.APP_DATA = {
       "lastVerifiedAt": "2026-10-14"
     }
   ]
-}
+};
