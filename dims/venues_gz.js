@@ -1174,5 +1174,21 @@ window.APP_VENUES_GZ = [
     "latitude": 23.383744,
     "longitude": 113.307662,
     "address": "花都区白云国际机场"
+  },
+  {
+    "id": "GZ_ven_4c05a07f",
+    "cityCode": "GZ",
+    "name": "大沙头游船码头",
+    "latitude": 23.113144,
+    "longitude": 113.284941,
+    "address": "越秀区沿江东路"
+  },
+  {
+    "id": "GZ_ven_f6731cfb",
+    "cityCode": "GZ",
+    "name": "文立方",
+    "latitude": 23.108039,
+    "longitude": 113.302334,
+    "address": "越秀区二沙岛烟雨路"
   }
 ];
