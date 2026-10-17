@@ -1,11 +1,29 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-16",
-    "weekday": "周一",
+    "date": "2026-10-17",
+    "weekday": "周六",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "WH_evt_f9cc36",
+      "cityCode": "WH",
+      "categoryId": "family",
+      "name": "游遍江城博物馆电子打卡盖章",
+      "venueId": "WH_ven_11a2b3c4",
+      "venueText": "湖北省博物馆",
+      "dateText": "2026年10月1日至2027年2月",
+      "startDate": "2026-10-01",
+      "endDate": "2027-02-28",
+      "costId": "free",
+      "priceText": "",
+      "description": "武汉市文化和旅游局「游遍江城博物馆」电子地图，50家博物馆打卡盖章，前十/三十/五十家馆达标可获蒜鸟、越王勾践剑毛绒玩具等礼品。",
+      "sourceUrl": "https://www.toutiao.com/article/7688656393448047114",
+      "tagName": "打卡 盖章 博物馆 免费 国庆节",
+      "createdAt": "2026-10-17",
+      "updatedAt": "2026-10-17"
+    },
     {
       "id": "WH_evt_5de707",
       "cityCode": "WH",
@@ -34,13 +52,13 @@ window.APP_DATA = {
       "dateText": "2026年10月30日起持续一个月",
       "startDate": "2026-10-30",
       "endDate": "2026-11-29",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费",
       "description": "武汉第43届金秋菊展10月30日开展，持续一个月，核心展区设于汉口江滩风帆广场，沙湖公园、中山公园、武汉动物园设三大主题展区，各城区同步布置特色菊展点位。",
       "sourceUrl": "https://nyncj.wuhan.gov.cn/xwzx_25/xxlb/202609/t20260918_2849737.html",
       "tagName": "",
       "createdAt": "2026-10-12",
-      "updatedAt": "2026-10-12"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "WH_evt_de93d2",
@@ -142,13 +160,13 @@ window.APP_DATA = {
       "dateText": "2026.9.19-11.30",
       "startDate": "2026-09-19",
       "endDate": "2026-11-30",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "大余湾门票49.9元（优待28.9元）",
       "description": "大余湾第四届晒秋：600余年徽派古村，辣椒、玉米、水稻铺满房前屋后，秋日丰收画卷，适合亲子家庭与摄影爱好者。",
       "sourceUrl": "https://news.qq.com/rain/a/20261008A09Z0400",
       "tagName": "",
       "createdAt": "2026-10-10",
-      "updatedAt": "2026-10-10"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "WH_evt_aa9065",
@@ -196,13 +214,13 @@ window.APP_DATA = {
       "dateText": "2026年9月25日-11月8日",
       "startDate": "2026-09-25",
       "endDate": "2026-11-08",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "门市价290元（含大马戏演出349元）",
       "description": "极地大马戏焕新升级、城市地标路演、国庆红歌魔术秀等系列活动，含次元狂欢大巡游、高颜NPC/COSER互动、非遗顶杆、火秀狂潮、躺平音乐会等百场演绎。",
       "sourceUrl": "https://news.qq.com/rain/a/20260919A03XC700",
       "tagName": "东西湖 亲子 海洋 马戏 中秋",
       "createdAt": "2026-10-08",
-      "updatedAt": "2026-10-08"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "WH_evt_4bc6ad",
@@ -358,13 +376,13 @@ window.APP_DATA = {
       "dateText": "2026年9月17日起",
       "startDate": "2026-09-17",
       "endDate": "2026-11-30",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "登塔套票128元（开业特惠88元）；广场入园票20元",
       "description": "龟山电视塔全面开放，金秋文旅新产品焕新升级。",
       "sourceUrl": "https://nyncj.wuhan.gov.cn/xwzx_25/xxlb/202609/t20260918_2849737.html",
       "tagName": "",
       "createdAt": "2026-09-20",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "WH_evt_f05b27",

@@ -694,5 +694,13 @@ window.APP_VENUES_CQ = [
     "latitude": 29.575164,
     "longitude": 106.551725,
     "address": "重庆市江北区红旗河沟龙湖新壹街A馆B1层"
+  },
+  {
+    "id": "CQ_ven_bfc57c5c",
+    "cityCode": "CQ",
+    "name": "长寿区体育中心",
+    "latitude": 29.850439,
+    "longitude": 107.087002,
+    "address": "重庆市长寿区文苑大道（菩提街道）"
   }
 ];

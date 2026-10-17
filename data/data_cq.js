@@ -1,11 +1,29 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-16",
-    "weekday": "周五",
+    "date": "2026-10-17",
+    "weekday": "周六",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "CQ_evt_6ff52d",
+      "cityCode": "CQ",
+      "categoryId": "show",
+      "name": "大型摇滚杂技秀《燃烧的律动》长寿站",
+      "venueId": "CQ_ven_bfc57c5c",
+      "venueText": "长寿区体育中心（篮球馆）",
+      "dateText": "2026年11月28日-30日（共4场）",
+      "startDate": "2026-11-28",
+      "endDate": "2026-11-30",
+      "costId": "paid",
+      "priceText": "早鸟票25元起",
+      "description": "重庆杂技艺术团与重庆市歌剧院联袂打造的大型摇滚杂技秀，摇滚与杂技首次跨界：电吉他、架子鼓与绳技、十米绸吊、抖杠等高难度节目融合，11月28日19:30、11月29日15:00/19:30、11月30日15:00共四场，单场70分钟；可通过重庆国际马戏城官方小程序、携程、猫眼、大麦购票。",
+      "sourceUrl": "https://www.ccs.cn/web/aritcle/1440417840547991552/web/content_1440417840547991552.html",
+      "tagName": "杂技 演出",
+      "createdAt": "2026-10-17",
+      "updatedAt": "2026-10-17"
+    },
     {
       "id": "CQ_evt_884806",
       "cityCode": "CQ",
@@ -124,13 +142,13 @@ window.APP_DATA = {
       "dateText": "2026年10月24日",
       "startDate": "2026-10-24",
       "endDate": "2026-10-24",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "8-158元",
       "description": "白日密语2026巡演重庆站10月24日20:00在MAO Livehouse重庆上演。",
       "sourceUrl": "https://wap.showstart.com/pages/site/site/site?id=381358",
       "tagName": "独立音乐",
       "createdAt": "2026-10-16",
-      "updatedAt": "2026-10-16"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "CQ_evt_699565",
@@ -250,13 +268,13 @@ window.APP_DATA = {
       "dateText": "2026年10月16日-19日",
       "startDate": "2026-10-16",
       "endDate": "2026-10-19",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费（需提前预约）",
       "description": "第四届重庆国际消费品博览会暨遇见巴蜀·国际融合采洽会10月16日至19日在重庆国际会议展览中心（南坪）举行。",
       "sourceUrl": "https://www.zhanhuiquan.com/info/show?id=228760",
       "tagName": "博览会",
       "createdAt": "2026-10-15",
-      "updatedAt": "2026-10-15"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "CQ_evt_0148be",
@@ -268,13 +286,13 @@ window.APP_DATA = {
       "dateText": "2026年11月27日-29日",
       "startDate": "2026-11-27",
       "endDate": "2026-11-29",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费向市民开放",
       "description": "首届重庆国际城市创意博览会（重庆创博会）11月27日至29日在重庆国际会议展览中心（南坪）举行。",
       "sourceUrl": "https://www.toutiao.com/article/7694312304891986470",
       "tagName": "博览会",
       "createdAt": "2026-10-15",
-      "updatedAt": "2026-10-15"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "CQ_evt_a7c0d9",
@@ -349,24 +367,6 @@ window.APP_DATA = {
       "updatedAt": "2026-10-12"
     },
     {
-      "id": "CQ_evt_070d3d",
-      "cityCode": "CQ",
-      "categoryId": "show",
-      "name": "《今晚搭一下》互动脱口秀专场演出",
-      "venueId": "CQ_ven_cq0022",
-      "venueText": "龙湖重庆金沙天街",
-      "dateText": "2026年7月18日-10月16日（共69场）",
-      "startDate": "2026-07-18",
-      "endDate": "2026-10-16",
-      "costId": "unknown",
-      "priceText": "",
-      "description": "四川永星世纪文化传播有限公司《今晚搭一下》互动脱口秀专场，演出地点金沙天街A馆-3F-C17重庆笑扯文化传媒，2026年7月18日至10月16日共69场（沙坪坝区营业性演出许可公示）。",
-      "sourceUrl": "https://www.cqspb.gov.cn/bm/qwhlyw_64124/zwgk_64128/fdzdgknr_64130/xzxk_64138/xzxk/bljg/202607/t20260717_15830245.html",
-      "tagName": "",
-      "createdAt": "2026-10-12",
-      "updatedAt": "2026-10-12"
-    },
-    {
       "id": "CQ_evt_dfcdaa",
       "cityCode": "CQ",
       "categoryId": "exhi",
@@ -376,13 +376,13 @@ window.APP_DATA = {
       "dateText": "2026年10月17日-11月30日",
       "startDate": "2026-10-17",
       "endDate": "2026-11-30",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "全年免费开放",
       "description": "綦江农民版画院（綦江区美术馆）举办纪念红军长征胜利90周年美术书法作品展，10月17日起展出（綦江区「文化南州」活动预告）。",
       "sourceUrl": "https://www.cqqj.gov.cn/bm/qwhlyw/zwgk_58525/zfxxgkml/jczwgk/ggwh/ggfw/qwhd/202609/t20260929_16146070.html",
       "tagName": "",
       "createdAt": "2026-10-12",
-      "updatedAt": "2026-10-12"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "CQ_evt_1271d4",
@@ -502,13 +502,13 @@ window.APP_DATA = {
       "dateText": "2026年9月15日-12月15日",
       "startDate": "2026-09-15",
       "endDate": "2026-12-15",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费开放、无需预约（周一闭馆）",
       "description": "以红军标语为核心载体的专题展览，系统展示珍贵石刻标语等革命文物，讲述红军崇高革命理想与坚定信念。",
       "sourceUrl": "https://www.cqrb.cn/contry/dy29/2026-10-09/2792001_pc.html",
       "tagName": "",
       "createdAt": "2026-10-10",
-      "updatedAt": "2026-10-10"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "CQ_evt_3050ab",

@@ -654,5 +654,13 @@ window.APP_VENUES_SH = [
     "latitude": 31.106992,
     "longitude": 121.221755,
     "address": "松江区佘山度假区佘山国家旅游度假区林荫新路288弄"
+  },
+  {
+    "id": "SH_ven_3621191d",
+    "cityCode": "SH",
+    "name": "宝山区文化馆",
+    "latitude": 31.405953,
+    "longitude": 121.476734,
+    "address": "上海市宝山区牡丹江路1760号"
   }
 ];

@@ -1,7 +1,7 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-16",
+    "date": "2026-10-17",
     "weekday": "周五",
     "coverage": "未来约 14 天"
   },
@@ -59,42 +59,6 @@ window.APP_DATA = {
       "description": "米菲快闪成都站在成都COSMO开展，设米菲成都展周边专区，挂件、盲盒、玩偶、冰箱贴等。",
       "sourceUrl": "https://new.qq.com/rain/a/20261010A0BYDM00",
       "tagName": "IP展 中秋",
-      "createdAt": "2026-10-16",
-      "updatedAt": "2026-10-16"
-    },
-    {
-      "id": "CD_evt_0cbe43",
-      "cityCode": "CD",
-      "categoryId": "show",
-      "name": "「pastday」动物园钉子户2026新EP全国巡演·成都站",
-      "venueId": "CD_ven_40ee14c4",
-      "venueText": "NUSPACE_纽空间",
-      "dateText": "2026年10月16日",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16",
-      "costId": "paid",
-      "priceText": "100元",
-      "description": "独立乐队动物园钉子户2026新EP全国巡演成都站10月16日20:00在NUSPACE_纽空间开唱。",
-      "sourceUrl": "https://wap.showstart.com/venue/61643",
-      "tagName": "独立乐队",
-      "createdAt": "2026-10-16",
-      "updatedAt": "2026-10-16"
-    },
-    {
-      "id": "CD_evt_ee008d",
-      "cityCode": "CD",
-      "categoryId": "show",
-      "name": "万晓利「这一切没有想象的那么糟」20周年秋季巡演·成都站",
-      "venueId": "CD_ven_0a1cdff6",
-      "venueText": "正火艺术中心6号馆",
-      "dateText": "2026年10月16日",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16",
-      "costId": "paid",
-      "priceText": "149元起",
-      "description": "民谣歌手万晓利20周年秋季巡演成都站10月16日20:00在正火艺术中心6号馆上演。",
-      "sourceUrl": "https://wap.showstart.com/pages/site/site/site?id=72931",
-      "tagName": "民谣",
       "createdAt": "2026-10-16",
       "updatedAt": "2026-10-16"
     },
@@ -216,13 +180,13 @@ window.APP_DATA = {
       "dateText": "2026年9月23日-10月28日",
       "startDate": "2026-09-23",
       "endDate": "2026-10-28",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费观赛",
       "description": "\"乡运蓬勃 乡村振兴\"村BA篮球赛9月23日至10月28日在新津区花桥街道黄桷树社区星光篮球场和黄辣丁第一街举行，投篮赢丰收礼，配套非遗展演、农趣互动与集市展销。",
       "sourceUrl": "https://www.toutiao.com/article/7685573128256291338",
       "tagName": "篮球赛",
       "createdAt": "2026-10-15",
-      "updatedAt": "2026-10-15"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "CD_evt_3ad02c",
@@ -234,13 +198,13 @@ window.APP_DATA = {
       "dateText": "2026年9月15日-10月31日",
       "startDate": "2026-09-15",
       "endDate": "2026-10-31",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "园区门票免费开放、无需预约；挖薯/手作等体验项目费用以现场为准",
       "description": "天府农博岛踏秋研学活动9月15日至10月31日举行，可挖红薯、挖野菜、体验泡菜手作与向日葵写生。",
       "sourceUrl": "https://www.toutiao.com/article/7685573128256291338",
       "tagName": "研学",
       "createdAt": "2026-10-15",
-      "updatedAt": "2026-10-15"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "CD_evt_6bd34f",
@@ -252,13 +216,13 @@ window.APP_DATA = {
       "dateText": "2026年9月25日-10月31日",
       "startDate": "2026-09-25",
       "endDate": "2026-10-31",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "成人75元（优待45元）",
       "description": "花舞人间第十四届百合花节9月25日至10月31日在新津花舞人间景区举行，含鸡公车比赛、抓鹌鹑、抓萌兔、梦幻气球雨、猜灯谜、投壶、套圈、非遗手工等活动。",
       "sourceUrl": "https://www.toutiao.com/article/7685573128256291338",
       "tagName": "花展 中秋",
       "createdAt": "2026-10-15",
-      "updatedAt": "2026-10-15"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "CD_evt_903730",
@@ -612,13 +576,13 @@ window.APP_DATA = {
       "dateText": "2026年10月16日至10月17日",
       "startDate": "2026-10-16",
       "endDate": "2026-10-17",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "80-480元（限时8.8折）",
       "description": "取材《西游记》，演绎蜘蛛精掳走唐僧、孙悟空勇降群魔的奇幻故事，融合变脸、杂技等元素。2026天府演艺戏曲演出季剧目。地点：四川大剧院·大剧场，19:30。",
       "sourceUrl": "https://www.sina.cn/news/detail/5331152319812275.html",
       "tagName": "京剧 戏曲演出季",
       "createdAt": "2026-09-30",
-      "updatedAt": "2026-09-30"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "CD_evt_ea49da",
@@ -630,13 +594,13 @@ window.APP_DATA = {
       "dateText": "2026年9月25日至10月18日",
       "startDate": "2026-09-25",
       "endDate": "2026-10-18",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "40元（早鸟票19.9元）",
       "description": "成都世界园艺博览园第二届巨型稻草人艺术季开展，5大主题区布置超100组稻草艺术装置，并推出沉浸式演艺和NPC互动。",
       "sourceUrl": "https://news.qq.com/rain/a/20260928A0B2YS00",
       "tagName": "艺术季 亲子 双节 中秋",
       "createdAt": "2026-09-30",
-      "updatedAt": "2026-09-30"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "CD_evt_532518",
@@ -849,23 +813,6 @@ window.APP_DATA = {
       "priceText": "79元起"
     },
     {
-      "id": "CD_evt_61f4f0",
-      "cityCode": "CD",
-      "categoryId": "exhi",
-      "name": "神鸟巡宇——从古蜀问天到航天圆梦文化共创展",
-      "venueId": "CD_ven_cd_ex06",
-      "venueText": "青羊区文化馆",
-      "dateText": "2026.9.9-10.16",
-      "startDate": "2026-09-09",
-      "endDate": "2026-10-16",
-      "costId": "free",
-      "description": "融合古蜀文明与现代航天文化，展出 198 件(套)涵盖绘画、数字艺术、装置、非遗手作等品类的群众共创文艺作品。",
-      "sourceUrl": "https://candowx.cdmp.candocloud.cn/show/1881-589002.html?cid=1828&nid=2602479",
-      "tagName": "",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-22"
-    },
-    {
       "id": "CD_evt_67ddd6",
       "cityCode": "CD",
       "categoryId": "exhi",
@@ -910,13 +857,13 @@ window.APP_DATA = {
       "dateText": "2026年9月25日起，持续开放至2027年元宵节（2027年2月20日）",
       "startDate": "2026-09-25",
       "endDate": "2027-02-20",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "早鸟票19.9元",
       "description": "青羊区中秋国庆系列文旅配套活动之一，成都非遗灯会9月25日点亮，将持续开放至2027年元宵节。",
       "sourceUrl": "https://dy.163.com/article/L7CDBT5305346936.html",
       "tagName": "灯会 非遗 成都 青羊 夜游 中秋",
       "createdAt": "2026-09-29",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-10-17"
     }
   ]
 };

@@ -574,5 +574,13 @@ window.APP_VENUES_FS = [
     "latitude": 22.932949,
     "longitude": 113.220137,
     "address": "顺德区北滘新城美和路6号"
+  },
+  {
+    "id": "FS_ven_0f21b0fc",
+    "cityCode": "FS",
+    "name": "高明体育中心体育馆",
+    "latitude": 22.931344,
+    "longitude": 112.861947,
+    "address": "佛山市高明区秀丽路（荷城街道）"
   }
 ];

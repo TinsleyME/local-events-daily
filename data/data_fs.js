@@ -1,11 +1,29 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-16",
-    "weekday": "周五",
+    "date": "2026-10-17",
+    "weekday": "周六",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "FS_evt_8b7962",
+      "cityCode": "FS",
+      "categoryId": "sports",
+      "name": "佛山市第十三届镇（街道）男子篮球超级联赛·高明赛区",
+      "venueId": "FS_ven_0f21b0fc",
+      "venueText": "高明体育中心体育馆",
+      "dateText": "2026年9月20日-10月31日",
+      "startDate": "2026-09-20",
+      "endDate": "2026-10-31",
+      "costId": "free",
+      "priceText": "免费观赛",
+      "description": "佛山镇街男子篮球超级联赛高明赛区：赛事9月20日启幕、持续至10月底，16强淘汰赛10月12日开打（赛场含高明体育中心），高明荷城广东振立队10月13日晋级八强、10月18日迎战南海桂城队；市民可前往现场近距离观赛。",
+      "sourceUrl": "https://www.nfnews.com/content/n614JMj73P.html",
+      "tagName": "篮球 赛事",
+      "createdAt": "2026-10-17",
+      "updatedAt": "2026-10-17"
+    },
     {
       "id": "FS_evt_f23735",
       "cityCode": "FS",
@@ -52,13 +70,13 @@ window.APP_DATA = {
       "dateText": "2026年11月1日",
       "startDate": "2026-11-01",
       "endDate": "2026-11-01",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "70-468元（早鸟票）",
       "description": "由大兵、赵卫国团队打造的湖南笑工场广佛专场登陆潭洲国际会展中心9号馆（演艺馆）。",
       "sourceUrl": "https://www.shifair.com/informationDetails/396170.html",
       "tagName": "相声喜剧",
       "createdAt": "2026-10-16",
-      "updatedAt": "2026-10-16"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "FS_evt_6eb6c5",
@@ -76,7 +94,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.fsonline.com.cn/FS_PLUS/1074795.html",
       "tagName": "重阳",
       "createdAt": "2026-10-14",
-      "updatedAt": "2026-10-14"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "FS_evt_bda893",
@@ -160,13 +178,13 @@ window.APP_DATA = {
       "dateText": "2026年8月15日-11月15日",
       "startDate": "2026-08-15",
       "endDate": "2026-11-15",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "和美术馆成人票150元（学生/老人等85元）",
       "description": "和美术馆青年艺术家项目（Young Artist Project of HEM）呈现侯逸杰个展「我们的热烈与寂寥」，以武侠、志怪与流行文化转译笔下的当代个体处境。",
       "sourceUrl": "https://www.hem.org/mobile/zh/exhibition/58",
       "tagName": "",
       "createdAt": "2026-10-11",
-      "updatedAt": "2026-10-11"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "FS_evt_459286",
@@ -178,13 +196,13 @@ window.APP_DATA = {
       "dateText": "2026年10月18日-10月23日",
       "startDate": "2026-10-18",
       "endDate": "2026-10-23",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费（需实名预登记）",
       "description": "三馆联动：中国陶瓷城展馆展期10月18-23日，主打工厂直营与品牌出口；中国陶瓷卫浴总部展馆与佛山国际会议展览中心展馆展期10月18-21日。总面积超50万平方米，预计800余家品牌参展，15大特色展区。",
       "sourceUrl": "https://www.cerambath.org/newsDetail/ebz57obx88486e9a/%E5%B1%95%E4%BC%9A%E5%8A%A8%E6%80%81",
       "tagName": "陶瓷 展会",
       "createdAt": "2026-10-10",
-      "updatedAt": "2026-10-10"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "FS_evt_e84551",
@@ -196,13 +214,13 @@ window.APP_DATA = {
       "dateText": "2026年9月25日-10月25日",
       "startDate": "2026-09-25",
       "endDate": "2026-10-25",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "南风古灶门票25元（优待12.5元）",
       "description": "「窑光流转·鳌游南风」系列活动之一，南风古灶·南风印象展出。",
       "sourceUrl": "https://news.qq.com/rain/a/20261004A03UXM00",
       "tagName": "艺术展 中秋",
       "createdAt": "2026-10-09",
-      "updatedAt": "2026-10-09"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "FS_evt_303e63",
@@ -229,16 +247,16 @@ window.APP_DATA = {
       "name": "陶然自得——石湾陶里见岭南",
       "venueId": "FS_ven_aa11fs00",
       "venueText": "佛山市南海区博物馆",
-      "dateText": "2026年8月1日至11月1日",
+      "dateText": "2026年8月1日至11月11日",
       "startDate": "2026-08-01",
-      "endDate": "2026-11-01",
-      "costId": "unknown",
-      "priceText": "",
+      "endDate": "2026-11-11",
+      "costId": "free",
+      "priceText": "免费开放，个人参观免预约、现场刷身份证入馆",
       "description": "150余套石湾陶艺精品，荟萃佛山市新石湾美术陶瓷厂有限公司的陶艺精品，也甄选南海区博物馆珍藏的石湾陶器，以国家级非遗石湾陶塑为载体展现岭南人文风情。地点：临时展厅。",
       "sourceUrl": "https://www.nfnews.com/content/834p7gDe3d.html",
       "tagName": "石湾陶 非遗 岭南",
       "createdAt": "2026-09-30",
-      "updatedAt": "2026-09-30"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "FS_evt_cb4b1a",
@@ -250,13 +268,13 @@ window.APP_DATA = {
       "dateText": "2026年5月18日至11月8日",
       "startDate": "2026-05-18",
       "endDate": "2026-11-08",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费（无需预约）",
       "description": "半闲斋珍藏的明清至现代石湾陶制文房珍品约120件，涵盖笔洗、笔筒、笔架、砚台等全品类文房雅器，以\"礼·陈设之仪\"\"用·案上之功\"\"赏·怡情之趣\"三大主题系统梳理石湾窑文房器物的发展脉络。地点：一层专题展馆。",
       "sourceUrl": "https://www.nfnews.com/content/834p7gDe3d.html",
       "tagName": "石湾窑 文房 陶瓷",
       "createdAt": "2026-09-30",
-      "updatedAt": "2026-09-30"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "FS_evt_2fa658",
@@ -268,13 +286,13 @@ window.APP_DATA = {
       "dateText": "2026年10月23日至10月24日",
       "startDate": "2026-10-23",
       "endDate": "2026-10-24",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费",
       "description": "佛山秋色在祖庙举办，祖庙秋祭、乡饮酒礼、秋色巡游轮番上演，新疆伽师、西藏墨脱艺术团带来歌舞专场，另有非遗活态展，约60个省内外非遗项目集中亮相。",
       "sourceUrl": "https://www.sohu.com/a/1076909368_362042",
       "tagName": "民俗 秋色巡游 非遗 重阳",
       "createdAt": "2026-09-30",
-      "updatedAt": "2026-09-30"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "FS_evt_b1c3fe",
@@ -464,7 +482,7 @@ window.APP_DATA = {
       "venueId": "FS_ven_aa12fs00",
       "venueText": "广东大观博物馆 一楼临展厅",
       "dateText": "至2027.7.31",
-      "startDate": "2026-09-01",
+      "startDate": "2026-08-01",
       "endDate": "2027-07-31",
       "costId": "free",
       "priceText": "",
@@ -472,7 +490,7 @@ window.APP_DATA = {
       "sourceUrl": "https://content.foshanplus.com/newsDetails.html?newsId=1060919",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-22"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "FS_evt_3f7572",

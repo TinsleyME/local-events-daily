@@ -1,47 +1,11 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-16",
+    "date": "2026-10-17",
     "weekday": "周五",
     "coverage": "未来约 14 天"
   },
   "events": [
-    {
-      "id": "NJ_evt_6fdb7b",
-      "cityCode": "NJ",
-      "categoryId": "show",
-      "name": "五条人 2026「县·城·记」巡演城市篇·南京站",
-      "venueId": "NJ_ven_02fafdd1",
-      "venueText": "1701 LIVEHOUSE",
-      "dateText": "2026年10月16日",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16",
-      "costId": "paid",
-      "priceText": "288元",
-      "description": "五条人2026「县·城·记」巡演城市篇南京站10月16日20:00在1701 LIVEHOUSE MAX开唱。",
-      "sourceUrl": "https://www.csoshow.com/city/wutiaorennanjing",
-      "tagName": "乐队巡演",
-      "createdAt": "2026-10-16",
-      "updatedAt": "2026-10-16"
-    },
-    {
-      "id": "NJ_evt_d60e7f",
-      "cityCode": "NJ",
-      "categoryId": "show",
-      "name": "很美味2026【赏味期】巡演南京站",
-      "venueId": "NJ_ven_02fafdd1",
-      "venueText": "1701 LIVEHOUSE",
-      "dateText": "2026年10月16日",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16",
-      "costId": "paid",
-      "priceText": "128元",
-      "description": "很美味2026【赏味期】巡演南京站10月16日20:00在1701 LIVEHOUSE开唱。",
-      "sourceUrl": "https://www.df962388.com/yanchu/408302.html",
-      "tagName": "流行",
-      "createdAt": "2026-10-16",
-      "updatedAt": "2026-10-16"
-    },
     {
       "id": "NJ_evt_a9507d",
       "cityCode": "NJ",
@@ -160,13 +124,13 @@ window.APP_DATA = {
       "dateText": "2026年10月24日",
       "startDate": "2026-10-24",
       "endDate": "2026-10-24",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "报名费99元/人（含保险）",
       "description": "2026第八届南京城市定向赛定档10月24日，起终点设在南京国际展览中心，参赛规模约3000人，参赛可免费进入赛事点标并领取赛事包。",
       "sourceUrl": "https://www.thepaper.cn/newsDetail_forward_34241492",
       "tagName": "定向赛",
       "createdAt": "2026-10-15",
-      "updatedAt": "2026-10-15"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "NJ_evt_65fb9f",
@@ -178,13 +142,13 @@ window.APP_DATA = {
       "dateText": "2026年10月10日-18日",
       "startDate": "2026-10-10",
       "endDate": "2026-10-18",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "39.9元（欢乐go门票+权益包）",
       "description": "第115届全国糖酒商品交易会城市活动「全球食品欢乐购」10月10日至18日在南京华采天地ONE PARK草坪举行，进口好物、特色美食市集与婚礼主题集章打卡。",
       "sourceUrl": "https://www.toutiao.com/article/7695304520229798426",
       "tagName": "美食市集",
       "createdAt": "2026-10-15",
-      "updatedAt": "2026-10-15"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "NJ_evt_bf3260",
@@ -214,13 +178,13 @@ window.APP_DATA = {
       "dateText": "2026年10月17日-18日",
       "startDate": "2026-10-17",
       "endDate": "2026-10-18",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费开放（农产品市集购物另计）",
       "description": "2026年中国农民丰收节·第二十二届南京农业嘉年华10月17日至18日在江苏丘陵地区南京农业科学研究所（栖霞区灵山北路16号）举行，可亲手栽种草莓、选购农产品。",
       "sourceUrl": "https://www.toutiao.com/article/7694601454690189851",
       "tagName": "农业嘉年华",
       "createdAt": "2026-10-15",
-      "updatedAt": "2026-10-15"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "NJ_evt_728573",
@@ -295,24 +259,6 @@ window.APP_DATA = {
       "updatedAt": "2026-10-11"
     },
     {
-      "id": "NJ_evt_e2363c",
-      "cityCode": "NJ",
-      "categoryId": "exhi",
-      "name": "「食」光宝藏——新石器时代江苏先民的生存奥秘",
-      "venueId": "NJ_ven_6a3da22a",
-      "venueText": "南京博物院 特展馆3楼12号展厅",
-      "dateText": "2026.7.15起",
-      "startDate": "2026-07-15",
-      "endDate": null,
-      "costId": "free",
-      "priceText": "免费",
-      "description": "依托江苏地域文明探源工程成果，精选出土文物、动物标本等一百余件展品，搭配趣味科普、互动小游戏，沉浸式探寻史前水乡的「食」光宝藏，解锁江苏先民的饮食密码。",
-      "sourceUrl": "https://www.njmuseum.com/zh/generalDetails?id=1366",
-      "tagName": "",
-      "createdAt": "2026-10-10",
-      "updatedAt": "2026-10-10"
-    },
-    {
       "id": "NJ_evt_00efb5",
       "cityCode": "NJ",
       "categoryId": "market",
@@ -340,13 +286,13 @@ window.APP_DATA = {
       "dateText": "2026年9月12日-11月29日",
       "startDate": "2026-09-12",
       "endDate": "2026-11-29",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "成人188元/夜场150元",
       "description": "八大潮玩主题幻剧轮番上演、300+高能NPC、百变派对、魅影狂欢大巡游、日夜惊奇演艺，一票畅玩。",
       "sourceUrl": "https://nj.bendibao.com/xiuxian/2026924/183335.shtm",
       "tagName": "游乐园 潮玩 亲子",
       "createdAt": "2026-10-10",
-      "updatedAt": "2026-10-10"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "NJ_evt_1d6eb3",
@@ -376,13 +322,13 @@ window.APP_DATA = {
       "dateText": "2026年10月31日",
       "startDate": "2026-10-31",
       "endDate": "2026-10-31",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "298-941.5元",
       "description": "集结国内说唱圈重磅阵容，十位顶尖Rapper联合呈现的FEEL南京站。",
       "sourceUrl": "https://www.toutiao.com/article/7690936735869469193",
       "tagName": "说唱 演出",
       "createdAt": "2026-10-09",
-      "updatedAt": "2026-10-09"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "NJ_evt_1d6080",
@@ -430,13 +376,13 @@ window.APP_DATA = {
       "dateText": "9月23日-11月底",
       "startDate": "2026-09-23",
       "endDate": "2026-11-30",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "成人145元（现场160元，优待80元）",
       "description": "牛首山秋季系列活动，围绕文脉、山水、疗愈三大板块：牛首十二讲堂（10月20日、11月14日）、10月牛首山×敦煌文化周（樊再轩壁画修复分享）、10月11日「东禅寻秋」沉浸式活动、10月18日重阳3.6公里登高徒步、山林疗愈体验等。部分活动需预约，景区门票另计。",
       "sourceUrl": "https://news.qq.com/rain/a/20260924A09S1N00",
       "tagName": "秋牛首",
       "createdAt": "2026-10-08",
-      "updatedAt": "2026-10-08"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "NJ_evt_cc7f3b",
@@ -484,13 +430,13 @@ window.APP_DATA = {
       "dateText": "2026年8月7日至10月18日",
       "startDate": "2026-08-07",
       "endDate": "2026-10-18",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费（需预约）",
       "description": "以\"情\"为线索，串联蒋志近年影像、摄影作品，在美术馆独特空间中呈现情感驱动的艺术表达。",
       "sourceUrl": "https://www.arthing.org/?p=67380",
       "tagName": "影像 当代艺术 个展",
       "createdAt": "2026-09-30",
-      "updatedAt": "2026-09-30"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "NJ_evt_db02dc",

@@ -766,5 +766,13 @@ window.APP_VENUES_BJ = [
     "latitude": 39.916401,
     "longitude": 116.42024,
     "address": "北京市东城区"
+  },
+  {
+    "id": "BJ_ven_9ecdc63f",
+    "cityCode": "BJ",
+    "name": "未来科学城滨水公园",
+    "latitude": 40.111288,
+    "longitude": 116.316119,
+    "address": ""
   }
 ];

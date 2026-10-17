@@ -718,5 +718,13 @@ window.APP_VENUES_SZ = [
     "latitude": 22.519713,
     "longitude": 113.882632,
     "address": "南山区南山街道前湾四路与临海大道交叉口西北侧"
+  },
+  {
+    "id": "SZ_ven_9355c0e5",
+    "cityCode": "SZ",
+    "name": "CH8-LIVEHOUSE(深圳粤海店)",
+    "latitude": 22.521485,
+    "longitude": 113.948876,
+    "address": ""
   }
 ];

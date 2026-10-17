@@ -1,11 +1,65 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-16",
-    "weekday": "周五",
+    "date": "2026-10-17",
+    "weekday": "周六",
     "coverage": "未来约 14 天"
   },
   "events": [
+    {
+      "id": "SZ_evt_3598a5",
+      "cityCode": "SZ",
+      "categoryId": "show",
+      "name": "张杰1982开往「未·LIVE」巡回演唱会-深圳站",
+      "venueId": "SZ_ven_3d91c2f8",
+      "venueText": "深圳大运中心体育场",
+      "dateText": "2026年10月16日至18日",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-18",
+      "costId": "paid",
+      "priceText": "380/480/680/880/1280/1680元",
+      "description": "张杰首次在深圳做体育场级个人演唱会，亲任总导演，连开三晚。",
+      "sourceUrl": "https://www.dahepiao.com/news1/yanchu/20261014550348.html",
+      "tagName": "演唱会",
+      "createdAt": "2026-10-17",
+      "updatedAt": "2026-10-17"
+    },
+    {
+      "id": "SZ_evt_977342",
+      "cityCode": "SZ",
+      "categoryId": "show",
+      "name": "椅子乐团 Rolling On, Marching On 十周年巡演-深圳站",
+      "venueId": "SZ_ven_9355c0e5",
+      "venueText": "CH8-LIVEHOUSE(深圳粤海店)",
+      "dateText": "2026年10月16日至17日",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-17",
+      "costId": "paid",
+      "priceText": "249/440元",
+      "description": "椅子乐团十周年巡演深圳站，CH8-LIVEHOUSE（深圳粤海店）连演两场。",
+      "sourceUrl": "https://www.showstart.com/event/310238",
+      "tagName": "演唱会 Livehouse",
+      "createdAt": "2026-10-17",
+      "updatedAt": "2026-10-17"
+    },
+    {
+      "id": "SZ_evt_919c75",
+      "cityCode": "SZ",
+      "categoryId": "show",
+      "name": "第六届粤港澳大湾区文化艺术节（深圳）",
+      "venueId": "SZ_ven_7f88c848",
+      "venueText": "深圳滨海艺术中心",
+      "dateText": "2026年10月31日至11月30日",
+      "startDate": "2026-10-31",
+      "endDate": "2026-11-30",
+      "costId": "unknown",
+      "priceText": "",
+      "description": "文化和旅游部等共同主办，主会场首次落户深圳，开幕演出10月31日深圳滨海艺术中心（《珠江》交响套曲）。",
+      "sourceUrl": "https://sztqb.sznews.com/PC/content/202610/13/content_3483564.html",
+      "tagName": "艺术节 大湾区",
+      "createdAt": "2026-10-17",
+      "updatedAt": "2026-10-17"
+    },
     {
       "id": "SZ_evt_404f12",
       "cityCode": "SZ",
@@ -70,13 +124,13 @@ window.APP_DATA = {
       "dateText": "2026年10月11日、17日、18日",
       "startDate": "2026-10-11",
       "endDate": "2026-10-18",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "80元起（含2人/3人套票）",
       "description": "深圳·鹭湖艺术中心小剧场上演亲子音乐剧《小东东奇幻之旅》，多场排期适合家庭观演。",
       "sourceUrl": "https://www.szlhq.gov.cn/lhq/fwztgb/jmsh/hdzx/content/post_13014955.html",
       "tagName": "亲子音乐剧",
       "createdAt": "2026-10-16",
-      "updatedAt": "2026-10-16"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "SZ_evt_06abd2",
@@ -88,13 +142,13 @@ window.APP_DATA = {
       "dateText": "2026年10月21日-22日",
       "startDate": "2026-10-21",
       "endDate": "2026-10-22",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "80-480元（含80元惠民票）",
       "description": "格鲁吉亚·第比利斯42号剧场工作室话剧《狂人日记》在鹭湖艺术中心大剧场上演。",
       "sourceUrl": "https://www.szlhq.gov.cn/lhq/fwztgb/jmsh/hdzx/content/post_13014955.html",
       "tagName": "话剧",
       "createdAt": "2026-10-16",
-      "updatedAt": "2026-10-16"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "SZ_evt_feb9db",
@@ -106,13 +160,13 @@ window.APP_DATA = {
       "dateText": "2026年10月24日-25日",
       "startDate": "2026-10-24",
       "endDate": "2026-10-25",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "100-880元（含100元惠民票）",
       "description": "中国东方歌舞团携手格鲁吉亚鲁斯塔维国家歌舞团在鹭湖艺术中心大剧场带来联合专场。",
       "sourceUrl": "https://www.szlhq.gov.cn/lhq/fwztgb/jmsh/hdzx/content/post_13014955.html",
       "tagName": "歌舞专场",
       "createdAt": "2026-10-16",
-      "updatedAt": "2026-10-16"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "SZ_evt_0d6e21",
@@ -124,13 +178,13 @@ window.APP_DATA = {
       "dateText": "2026年10月24日-25日",
       "startDate": "2026-10-24",
       "endDate": "2026-10-25",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "138-358元",
       "description": "格鲁吉亚·第比利斯国家木偶剧院《摇篮之歌》《格鲁吉亚》在鹭湖艺术中心黑匣子剧场上演。",
       "sourceUrl": "https://www.szlhq.gov.cn/lhq/fwztgb/jmsh/hdzx/content/post_13014955.html",
       "tagName": "木偶剧",
       "createdAt": "2026-10-16",
-      "updatedAt": "2026-10-16"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "SZ_evt_4e993e",
@@ -142,13 +196,13 @@ window.APP_DATA = {
       "dateText": "2026年10月30日-31日",
       "startDate": "2026-10-30",
       "endDate": "2026-10-31",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "99-220元",
       "description": "来疯喜剧在鹭湖艺术中心黑匣子剧场连开《喜剧之王单口季》与《喜剧精品秀》两场脱口秀。",
       "sourceUrl": "https://www.szlhq.gov.cn/lhq/fwztgb/jmsh/hdzx/content/post_13014955.html",
       "tagName": "脱口秀",
       "createdAt": "2026-10-16",
-      "updatedAt": "2026-10-16"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "SZ_evt_f0c760",
@@ -211,16 +265,16 @@ window.APP_DATA = {
       "name": "吉伊卡哇的修炼日常·华南首展",
       "venueId": "SZ_ven_2d180fcc",
       "venueText": "海岸城购物中心",
-      "dateText": "2026年9月25日起",
+      "dateText": "2026年9月25日-2027年年初（约2月底）",
       "startDate": "2026-09-25",
-      "endDate": null,
+      "endDate": "2027-02-28",
       "costId": "free",
       "priceText": "",
-      "description": "CHIIKAWA吉伊卡哇深圳首家旗舰店暨「吉伊卡哇的修炼日常」华南首展9月25日在南山海岸城购物中心启幕，免费入场。",
+      "description": "CHIIKAWA吉伊卡哇深圳首家旗舰店暨「吉伊卡哇的修炼日常」华南首展9月25日在南山海岸城购物中心启幕，免费入场。展期至2027年年初（取2月底为保守界）。",
       "sourceUrl": "https://www.szns.gov.cn/xxgk/qzfxxgkml/bmdt/content/post_13008870.html",
       "tagName": "IP展 中秋",
       "createdAt": "2026-10-15",
-      "updatedAt": "2026-10-15"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "SZ_evt_b923e2",
@@ -269,13 +323,13 @@ window.APP_DATA = {
       "dateText": "2026年10月17日 20:00",
       "startDate": "2026-10-17",
       "endDate": "2026-10-17",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "100-380元",
       "description": "《大师杰作》凡酷四重奏音乐会10月17日晚在光明文化艺术中心上演。",
       "sourceUrl": "https://www.toutiao.com/article/7695972102255477258",
       "tagName": "音乐会",
       "createdAt": "2026-10-15",
-      "updatedAt": "2026-10-15T00:00:00+08:00"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "SZ_evt_b0b542",
@@ -287,13 +341,13 @@ window.APP_DATA = {
       "dateText": "2026年10月17日-18日",
       "startDate": "2026-10-17",
       "endDate": "2026-10-18",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "180-880元",
       "description": "中文原创音乐剧《海上钢琴师》10月17日、18日在光明文化艺术中心连演两场。",
       "sourceUrl": "https://www.toutiao.com/article/7695972102255477258",
       "tagName": "音乐剧",
       "createdAt": "2026-10-15",
-      "updatedAt": "2026-10-15T00:00:00+08:00"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "SZ_evt_e84c97",
@@ -305,13 +359,13 @@ window.APP_DATA = {
       "dateText": "2026年10月24日-25日",
       "startDate": "2026-10-24",
       "endDate": "2026-10-25",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "100-880元",
       "description": "山东歌舞剧院舞剧《大染坊》10月24日至25日在光明文化艺术中心上演。",
       "sourceUrl": "https://www.toutiao.com/article/7695972102255477258",
       "tagName": "舞剧",
       "createdAt": "2026-10-15",
-      "updatedAt": "2026-10-15T00:00:00+08:00"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "SZ_evt_dd22a2",
@@ -323,13 +377,13 @@ window.APP_DATA = {
       "dateText": "2026年10月31日 19:30",
       "startDate": "2026-10-31",
       "endDate": "2026-10-31",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "100-380元",
       "description": "北方昆曲剧院昆曲《狮吼记》10月31日晚在光明文化艺术中心上演。",
       "sourceUrl": "https://www.toutiao.com/article/7695972102255477258",
       "tagName": "昆曲",
       "createdAt": "2026-10-15",
-      "updatedAt": "2026-10-15T00:00:00+08:00"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "SZ_evt_04c66f",
@@ -359,13 +413,13 @@ window.APP_DATA = {
       "dateText": "2026年10月11日-25日",
       "startDate": "2026-10-11",
       "endDate": "2026-10-25",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费（需预约观赛）",
       "description": "2026年深圳光明国际网球公开赛10月11日至25日在光明区群众体育中心举行。",
       "sourceUrl": "https://www.toutiao.com/article/7695972102255477258",
       "tagName": "网球赛",
       "createdAt": "2026-10-15",
-      "updatedAt": "2026-10-15"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "SZ_evt_bb3235",
@@ -395,13 +449,13 @@ window.APP_DATA = {
       "dateText": "2026年10月1日-2027年1月10日",
       "startDate": "2026-10-01",
       "endDate": "2027-01-10",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "全展通票120元（含特展）",
       "description": "构成的秩序——俄罗斯抽象艺术展10月1日起在深圳国际美术馆展出，呈现俄罗斯抽象艺术发展脉络。",
       "sourceUrl": "https://www.toutiao.com/article/7695972102255477258",
       "tagName": "艺术展 国庆节",
       "createdAt": "2026-10-15",
-      "updatedAt": "2026-10-15T00:00:00+08:00"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "SZ_evt_a587d6",
@@ -585,24 +639,6 @@ window.APP_DATA = {
       "updatedAt": "2026-10-15"
     },
     {
-      "id": "SZ_evt_985049",
-      "cityCode": "SZ",
-      "categoryId": "show",
-      "name": "新世界的\"记忆\"",
-      "venueId": "SZ_ven_eab486c6",
-      "venueText": "演奏大厅",
-      "dateText": "2026年10月16日 20:00",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16",
-      "costId": "paid",
-      "priceText": "80-880元",
-      "description": "新世界的\"记忆\"10月16日晚在深圳音乐厅演奏大厅上演，票价80-880元。",
-      "sourceUrl": "https://www.szyyt.com/performance/show_100000987749239.html",
-      "tagName": "音乐会",
-      "createdAt": "2026-10-15",
-      "updatedAt": "2026-10-15"
-    },
-    {
       "id": "SZ_evt_8a0ca7",
       "cityCode": "SZ",
       "categoryId": "show",
@@ -646,16 +682,16 @@ window.APP_DATA = {
       "name": "Fotografiska深圳湾美术馆开馆展",
       "venueId": "SZ_ven_34d10f95",
       "venueText": "深圳湾万象城C区L3层",
-      "dateText": "2026年10月1日起",
+      "dateText": "2026年10月1日-2026年11月29日",
       "startDate": "2026-10-01",
-      "endDate": null,
+      "endDate": "2026-11-29",
       "costId": "paid",
       "priceText": "60元（优惠票48元）",
-      "description": "国际影像艺术品牌Fotografiska华南唯一常设场馆10月1日起在深圳湾万象城C区L3层开馆，呈现五大影像艺术展览，需购票。",
+      "description": "国际影像艺术品牌Fotografiska华南唯一常设场馆10月1日起在深圳湾万象城C区L3层开馆，呈现五大影像艺术展览，需购票。开馆首展「百达摄影奖：风暴」等展至2026年11月29日。",
       "sourceUrl": "https://news.qq.com/rain/a/20260930A0BBY700",
       "tagName": "影像艺术 国庆节",
       "createdAt": "2026-10-15",
-      "updatedAt": "2026-10-15T00:00:00+08:00"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "SZ_evt_c5f74a",
@@ -667,13 +703,15 @@ window.APP_DATA = {
       "dateText": "2026年10月30日起",
       "startDate": "2026-10-30",
       "endDate": null,
-      "costId": "unknown",
-      "priceText": "",
-      "description": "前海博物馆10月30日起开馆，推出七大展览、3000余件文物展品。",
+      "costId": "free",
+      "priceText": "免费（需预约）",
+      "description": "前海博物馆10月30日起开馆，推出七大展览、3000余件文物展品。含常设展「简明中国通史陈列」及特展：窑火凝珍·中国古代瓷器展(至2027-09-30)、瑶光映世·中国古代玉器(至2027-09-30)、青花青·千年淬炼青花瓷特展(至2027-03-14)、长风万里·丝路文明特展(至2028-08-13)、钟鼎昭礼·礼乐文明特展(至2028-04-09)、心澜澄澈·造像艺术展(至2027-10-17)。",
       "sourceUrl": "https://m.mp.oeeee.com/oe/BAAFRD0000202609301676108.html",
       "tagName": "博物馆展",
       "createdAt": "2026-10-15",
-      "updatedAt": "2026-10-15"
+      "updatedAt": "2026-10-17",
+      "staleExempt": true,
+      "lastVerifiedAt": "2026-10-17"
     },
     {
       "id": "SZ_evt_13519c",

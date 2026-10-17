@@ -1,28 +1,100 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-16",
-    "weekday": "周五",
+    "date": "2026-10-17",
+    "weekday": "周六",
     "coverage": "未来约 14 天"
   },
   "events": [
     {
-      "id": "BJ_evt_fca127",
+      "id": "BJ_evt_1619a8",
       "cityCode": "BJ",
       "categoryId": "show",
-      "name": "约夏·贝尔与田野里的圣马丁室内乐团音乐会",
-      "venueId": "BJ_ven_b1000001",
-      "venueText": "国家大剧院",
-      "dateText": "2026年10月16日",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16",
+      "name": "王嘉尔 JACKSON WANG MAGICMAN 2 演唱会-北京站",
+      "venueId": "BJ_ven_d2849199",
+      "venueText": "华熙生物·润百颜ECM中心",
+      "dateText": "2026年10月17日至18日",
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-18",
       "costId": "paid",
-      "priceText": "80-680元",
-      "description": "小提琴家约夏·贝尔携田野里的圣马丁室内乐团亮相国家大剧院音乐厅，呈现精致室内乐现场。",
-      "sourceUrl": "https://wticket.chncpa.org/product.html?id=10002920",
-      "tagName": "古典音乐",
-      "createdAt": "2026-10-16",
-      "updatedAt": "2026-10-16"
+      "priceText": "399/699/999/1499/1999/2399/2999元",
+      "description": "王嘉尔第二次个人世界巡演内地首站，华熙生物·润百颜ECM中心（原五棵松体育馆）连唱两晚。",
+      "sourceUrl": "https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/fwcj/calendar/whyc/6abcb89488f81c019f705fc6.html",
+      "tagName": "演唱会",
+      "createdAt": "2026-10-17",
+      "updatedAt": "2026-10-17"
+    },
+    {
+      "id": "BJ_evt_9e733e",
+      "cityCode": "BJ",
+      "categoryId": "show",
+      "name": "首钢园国际戏剧艺术汇",
+      "venueId": "BJ_ven_9a41ec78",
+      "venueText": "首钢园",
+      "dateText": "2026年10月17日、18日、24日、25日",
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-25",
+      "costId": "free",
+      "priceText": "免费（部分精品剧目展演需预约）",
+      "description": "大戏看北京展演季新创板块，首钢园变身没有围墙的戏剧之城，含戏剧市集、工坊、巡游、光影秀。",
+      "sourceUrl": "https://www.163.com/dy/article/L8NQJUB605376DE5.html",
+      "tagName": "戏剧节 首钢园",
+      "createdAt": "2026-10-17",
+      "updatedAt": "2026-10-17"
+    },
+    {
+      "id": "BJ_evt_e1bca9",
+      "cityCode": "BJ",
+      "categoryId": "outdoor",
+      "name": "2026中国户外运动产业大会",
+      "venueId": "BJ_ven_9ecdc63f",
+      "venueText": "未来科学城滨水公园（昌平）",
+      "dateText": "2026年10月15日至18日",
+      "startDate": "2026-10-15",
+      "endDate": "2026-10-18",
+      "costId": "free",
+      "priceText": "",
+      "description": "昌平未来科学城滨水公园户外运动生活体验园，含七大户外展区、生活市集、自在营地、品牌秀场，免费向公众开放。",
+      "sourceUrl": "https://news.qq.com/rain/a/20261010A0869F00",
+      "tagName": "户外 市集 展会 免费",
+      "createdAt": "2026-10-17",
+      "updatedAt": "2026-10-17"
+    },
+    {
+      "id": "BJ_evt_3c9c88",
+      "cityCode": "BJ",
+      "categoryId": "expo",
+      "name": "2026国际冬季运动博览会",
+      "venueId": "BJ_ven_09231b9f",
+      "venueText": "首钢国际会展中心",
+      "dateText": "2026年10月15日至17日",
+      "startDate": "2026-10-15",
+      "endDate": "2026-10-17",
+      "costId": "free",
+      "priceText": "",
+      "description": "北京石景山首钢国际会展中心2号馆，八大展区贯通冰雪全产业链，扫码登记免费入场，含雪友市集与集章。",
+      "sourceUrl": "https://new.qq.com/rain/a/20261015A0B18N00",
+      "tagName": "冬博会 冰雪 展会 免费",
+      "createdAt": "2026-10-17",
+      "updatedAt": "2026-10-17"
+    },
+    {
+      "id": "BJ_evt_7baae9",
+      "cityCode": "BJ",
+      "categoryId": "show",
+      "name": "京核·无界 杂技",
+      "venueId": "BJ_ven_9a41ec78",
+      "venueText": "首钢园",
+      "dateText": "2026年5月30日至10月25日",
+      "startDate": "2026-05-30",
+      "endDate": "2026-10-25",
+      "costId": "paid",
+      "priceText": "68-128元（普通区68元/VIP区128元）",
+      "description": "中国杂技团精选金奖节目，首钢园大跳台南广场「核聚场」驻场演艺，杂技与摇滚现场乐队融合。",
+      "sourceUrl": "https://www.163.com/dy/article/L2BRU38I0514R9OJ.html",
+      "tagName": "杂技 驻场",
+      "createdAt": "2026-10-17",
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "BJ_evt_34a7ce",
@@ -295,24 +367,6 @@ window.APP_DATA = {
       "updatedAt": "2026-10-16"
     },
     {
-      "id": "BJ_evt_43667d",
-      "cityCode": "BJ",
-      "categoryId": "expo",
-      "name": "2026北京国际风能大会暨展览会",
-      "venueId": "BJ_ven_b1000013",
-      "venueText": "中国国际展览中心(顺义馆)",
-      "dateText": "2026年10月14日-16日",
-      "startDate": "2026-10-14",
-      "endDate": "2026-10-16",
-      "costId": "free",
-      "priceText": "预约免费（专业观众）",
-      "description": "2026北京国际风能大会暨展览会（CWP2026）在顺义馆举办，近千家企业参展，全球风电产业交流合作平台。",
-      "sourceUrl": "https://www.beijing.gov.cn/fwcj/quickQuery/page/cityCalendar/info.html?termId=6ac711fd88f81c019f706489&uuid=20261009101200228862297501560417",
-      "tagName": "风能展",
-      "createdAt": "2026-10-16",
-      "updatedAt": "2026-10-16"
-    },
-    {
       "id": "BJ_evt_2def28",
       "cityCode": "BJ",
       "categoryId": "expo",
@@ -358,13 +412,13 @@ window.APP_DATA = {
       "dateText": "2026年10月9日-11月15日",
       "startDate": "2026-10-09",
       "endDate": "2026-11-15",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "80-680元（学生票40元）",
       "description": "北京人艺与东城区联合主办的国际戏剧邀请展，在首都剧场、曹禺剧场等上演来自12个国家和地区的50场精品演出。",
       "sourceUrl": "https://www.hubpd.com/detail/index.html?contentId=6629298651494768151&appKey=5fd96f94311ae500016db805&topId=&interruptId=0",
       "tagName": "戏剧邀请展",
       "createdAt": "2026-10-16",
-      "updatedAt": "2026-10-16"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "BJ_evt_036561",
@@ -448,13 +502,13 @@ window.APP_DATA = {
       "dateText": "2026年10月17日 8:30-12:00",
       "startDate": "2026-10-17",
       "endDate": "2026-10-17",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费参与，需经「大兴创森」微信公众号报名",
       "description": "六合庄林场森林艺术节10月17日上午在大兴区北京市直机关林（兴良路南侧入口）举行，扫码报名参与。",
       "sourceUrl": "https://item.btime.com/41tlits9pj892lpglsmbnl51c0j",
       "tagName": "森林艺术节",
       "createdAt": "2026-10-15",
-      "updatedAt": "2026-10-15"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "BJ_evt_06399c",
@@ -466,13 +520,13 @@ window.APP_DATA = {
       "dateText": "2026年10月2日-31日",
       "startDate": "2026-10-02",
       "endDate": "2026-10-31",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "森林公园门票40元（优待20元）",
       "description": "喇叭沟门金秋旅游文化月10月2日启幕并贯穿全月，含全国摄影艺术作品巡展、京畿四极论坛、白桦林徒步、星空科普、文艺展演等活动。",
       "sourceUrl": "https://hsc.beijing.gov.cn/hsc/ywdt8/zxdt72/744129426/index.shtml",
       "tagName": "文化月",
       "createdAt": "2026-10-15",
-      "updatedAt": "2026-10-15"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "BJ_evt_bf653e",
@@ -576,14 +630,14 @@ window.APP_DATA = {
       "dateText": "2026年11月28日",
       "startDate": "2026-11-28",
       "endDate": "2026-11-28",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "99-699元",
       "description": "熊天平\"夜夜夜夜\"演唱会北京站11月28日在北京展览馆剧场上演。",
       "sourceUrl": "https://news.qq.com/rain/a/20261005A08MUV00",
       "tagName": "演唱会",
       "celebrity": "熊天平",
       "createdAt": "2026-10-15",
-      "updatedAt": "2026-10-15"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "BJ_evt_30f27f",
@@ -816,13 +870,13 @@ window.APP_DATA = {
       "dateText": "2026年10月1日-11月15日",
       "startDate": "2026-10-01",
       "endDate": "2026-11-15",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "香山公园旺季门票10元（优惠5元）",
       "description": "香山公园主题市集依山就势串联致远斋、北门、玉华岫、香霧窟等胜景，文创、美食、非遗主题并设集章打卡，自国庆持续至红叶季11月15日。",
       "sourceUrl": "https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/202610/t20261006_4891154.html",
       "tagName": "国庆节",
       "createdAt": "2026-10-12",
-      "updatedAt": "2026-10-12"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "BJ_evt_4574e9",
@@ -852,13 +906,13 @@ window.APP_DATA = {
       "dateText": "2026年8月23日-11月22日",
       "startDate": "2026-08-23",
       "endDate": "2026-11-22",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "成人28元（优待18元/双人48元）",
       "description": "北京市朝阳区骏豪中央公园广场A2座三层。元美术馆「具象·具体」系列展，集结18位实力派80后当代艺术家，以具象笔触诉说专属这代人的现实感知与精神世界。",
       "sourceUrl": "https://new.qq.com/rain/a/20260823A0BN8C00",
       "tagName": "",
       "createdAt": "2026-10-11",
-      "updatedAt": "2026-10-11"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "BJ_evt_731104",
@@ -870,13 +924,13 @@ window.APP_DATA = {
       "dateText": "2026年9月5日-11月15日",
       "startDate": "2026-09-05",
       "endDate": "2026-11-15",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "10-80元（入场观展票10元）",
       "description": "X Museum，朗园station E1（朝阳区半截塔路53号）。X美术馆与首创郎园station联合呈现的绘画三年展，回应绘画作为信息载体、媒介路径与受众体验现场的持续讨论。",
       "sourceUrl": "https://www.reflexiongallery.com/zh/news_events/reaching-the-spirit-emotion-form-and-concept-in-painting",
       "tagName": "",
       "createdAt": "2026-10-11",
-      "updatedAt": "2026-10-11"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "BJ_evt_4580c5",
@@ -888,13 +942,13 @@ window.APP_DATA = {
       "dateText": "2026年10月1日-10月18日",
       "startDate": "2026-10-01",
       "endDate": "2026-10-18",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "免费",
       "description": "荣宝斋大厦一层、二层（西城区琉璃厂西街19号）。荣宝斋与曹俊年度合作呈现，展现艺术家遍历世界之后的艺术沉淀与立足传统、面向世界的文化自信。",
       "sourceUrl": "https://mss.meishujia.cn/?act=app&appid=4103&mid=111673&p=view",
       "tagName": "国庆节",
       "createdAt": "2026-10-11",
-      "updatedAt": "2026-10-11"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "BJ_evt_3ceca6",
@@ -906,13 +960,13 @@ window.APP_DATA = {
       "dateText": "2026年7月12日-11月15日",
       "startDate": "2026-07-12",
       "endDate": "2026-11-15",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "门票50元",
       "description": "清华大学艺术博物馆四层7号、8号展厅呈现「知境寻源：明清家具文化艺术展」，聚焦明清典型家具实例100余件，分活动情景、物质表征、形制符号三重叙事。",
       "sourceUrl": "https://www.artmuseum.tsinghua.edu.cn/cpsj/zlxx/zzzl/lszl/202607/t20260708_20796.shtml",
       "tagName": "",
       "createdAt": "2026-10-11",
-      "updatedAt": "2026-10-11"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "BJ_evt_bd933a",
@@ -924,13 +978,13 @@ window.APP_DATA = {
       "dateText": "2026年7月10日-12月6日",
       "startDate": "2026-07-10",
       "endDate": "2026-12-06",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "门票50元",
       "description": "清华大学艺术博物馆二层展厅呈现「帕拉第奥的中国对话：从经典建筑到当代实验」，探讨西方经典建筑语汇与中国当代实验的对话。",
       "sourceUrl": "https://www.tsinghua.edu.cn/info/1002/128549.htm",
       "tagName": "",
       "createdAt": "2026-10-11",
-      "updatedAt": "2026-10-11"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "BJ_evt_ea9db8",
@@ -996,13 +1050,13 @@ window.APP_DATA = {
       "dateText": "即日起至2026年10月31日",
       "startDate": "2026-10-01",
       "endDate": "2026-10-31",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "成人60元（儿童/学生40元）",
       "description": "南门三角梅花道、花廊中山桃草紫菀花境、紫薇园粉紫花开、花神大道桂香萦绕，秋日花海打卡。（注：来源页以「即日起」表述，起始日按发布日计）",
       "sourceUrl": "https://www.bjft.gov.cn/xwdt/jcdt/bmdt/202610/t20261003_226627.shtml",
       "tagName": "花海 游园 国庆节",
       "createdAt": "2026-10-09",
-      "updatedAt": "2026-10-09"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "BJ_evt_2e3388",
@@ -1014,13 +1068,13 @@ window.APP_DATA = {
       "dateText": "即日起至2026年10月31日（周末及节假日开放）",
       "startDate": "2026-10-01",
       "endDate": "2026-10-31",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "紫谷伊甸园成人68元；「我的三国世界」联票198元",
       "description": "实景剧本冒险，任选魏蜀吴三大阵营，每日两场阵营对决，20余位NPC全程互动。（注：来源页以「即日起」表述，起始日按发布日计）",
       "sourceUrl": "https://www.bjft.gov.cn/xwdt/jcdt/bmdt/202610/t20261003_226627.shtml",
       "tagName": "剧本游 亲子 国庆节",
       "createdAt": "2026-10-09",
-      "updatedAt": "2026-10-09"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "BJ_evt_f6f312",
@@ -1032,13 +1086,13 @@ window.APP_DATA = {
       "dateText": "2026年9月5日-10月31日",
       "startDate": "2026-09-05",
       "endDate": "2026-10-31",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "暹罗秘境票29.9元起（常规票80-120元，渠道价差大）",
       "description": "东南亚丛林主题沉浸体验，漂流泛舟、网红打卡与秋日市集联合嘉年华。",
       "sourceUrl": "https://www.bjft.gov.cn/xwdt/jcdt/bmdt/202610/t20261003_226627.shtml",
       "tagName": "市集 游乐",
       "createdAt": "2026-10-09",
-      "updatedAt": "2026-10-09"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "BJ_evt_c7c406",
@@ -1255,24 +1309,6 @@ window.APP_DATA = {
       "tagName": "油画",
       "createdAt": "2026-09-08",
       "updatedAt": "2026-09-20"
-    },
-    {
-      "id": "BJ_evt_0853d8",
-      "cityCode": "BJ",
-      "categoryId": "exhi",
-      "name": "了不起的汉字——古文字与中华文明传承发展工程成果展",
-      "venueId": "BJ_ven_921b7c43",
-      "venueText": "中国国家博物馆 北2展厅",
-      "dateText": "2026.7.16起(展期3个月)",
-      "startDate": "2026-07-16",
-      "endDate": "2026-10-16",
-      "costId": "free",
-      "priceText": "",
-      "description": "汇集20家文博科研机构270余件古文字类文物，从甲骨金文到简帛玺印，系统呈现汉字承载的中华文明基因密码。",
-      "sourceUrl": "https://www.chnmuseum.cn/zl/lszl/lswh/202607/t20260718_280942.shtml",
-      "tagName": "古文字",
-      "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-29"
     },
     {
       "id": "BJ_evt_a3e240",

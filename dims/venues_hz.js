@@ -11,9 +11,9 @@ window.APP_VENUES_HZ = [
     "id": "HZ_ven_b2c3d4e5",
     "cityCode": "HZ",
     "name": "杭州湘湖美术馆(萧山区湘湖景区下孙文化村)",
-    "latitude": 30.231566,
-    "longitude": 120.156801,
-    "address": "西湖区南山路138号(长桥公园对面)"
+    "latitude": 30.156511,
+    "longitude": 120.234854,
+    "address": "萧山区湘湖景区越王路下孙文化村108-8号"
   },
   {
     "id": "HZ_ven_c3d4e5f6",
@@ -390,5 +390,13 @@ window.APP_VENUES_HZ = [
     "latitude": 30.310684,
     "longitude": 120.106391,
     "address": "拱墅区祥符街道申花路花朝广场"
+  },
+  {
+    "id": "HZ_ven_d350ea63",
+    "cityCode": "HZ",
+    "name": "独山美术馆",
+    "latitude": 30.479427,
+    "longitude": 119.807183,
+    "address": "余杭区黄湖镇王位山村段大123号"
   }
 ];

@@ -1134,5 +1134,45 @@ window.APP_VENUES_GZ = [
     "latitude": 23.152312,
     "longitude": 113.394724,
     "address": "广州市天河区思成路18号"
+  },
+  {
+    "id": "GZ_ven_5f616458",
+    "cityCode": "GZ",
+    "name": "京东MALL",
+    "latitude": 23.087593,
+    "longitude": 113.260429,
+    "address": "海珠区工业大道北110号（地铁8号线/广佛线沙园站B口）"
+  },
+  {
+    "id": "GZ_ven_a37cc50d",
+    "cityCode": "GZ",
+    "name": "广东省话剧院",
+    "latitude": 23.127484,
+    "longitude": 113.294572,
+    "address": "越秀区竹丝岗二马路"
+  },
+  {
+    "id": "GZ_ven_d1c4f328",
+    "cityCode": "GZ",
+    "name": "广东粤剧艺术中心",
+    "latitude": 23.131558,
+    "longitude": 113.296013,
+    "address": "越秀区东风东路（广东粤剧院）"
+  },
+  {
+    "id": "GZ_ven_be90b7d5",
+    "cityCode": "GZ",
+    "name": "五仙观",
+    "latitude": 23.120665,
+    "longitude": 113.259761,
+    "address": "越秀区惠福西路233号"
+  },
+  {
+    "id": "GZ_ven_b9fb61fb",
+    "cityCode": "GZ",
+    "name": "广州白云国际机场",
+    "latitude": 23.383744,
+    "longitude": 113.307662,
+    "address": "花都区白云国际机场"
   }
 ];

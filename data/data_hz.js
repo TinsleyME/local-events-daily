@@ -1,28 +1,28 @@
 window.APP_DATA = {
   "version": 3,
   "meta": {
-    "date": "2026-10-15",
-    "weekday": "周四",
+    "date": "2026-10-17",
+    "weekday": "周六",
     "coverage": "未来约 14 天"
   },
   "events": [
     {
-      "id": "HZ_evt_38b4fc",
+      "id": "HZ_evt_097898",
       "cityCode": "HZ",
       "categoryId": "show",
-      "name": "瓦格纳《莱茵的黄金》音乐会（杭州爱乐乐团）",
-      "venueId": "HZ_ven_a1b2c3d4",
-      "venueText": "杭州大剧院",
-      "dateText": "2026年11月13日",
-      "startDate": "2026-11-13",
-      "endDate": "2026-11-13",
-      "costId": "unknown",
-      "priceText": "",
-      "description": "杭州爱乐乐团音乐季瓦格纳《莱茵的黄金》11月13日在杭州大剧院上演，德国指挥家马库斯·史坦兹执棒。",
-      "sourceUrl": "https://qjwb.tidenews.com.cn/html/2026-09/16/content_4519511.htm",
-      "tagName": "音乐会",
-      "createdAt": "2026-10-15",
-      "updatedAt": "2026-10-15"
+      "name": "开心麻花《免死金牌使用指南》吴越文化多媒体爆笑沉浸秀",
+      "venueId": "HZ_ven_wy7l8x9",
+      "venueText": "南坛剧院（吴越里商业中心）",
+      "dateText": "2026年10月1日-11月1日",
+      "startDate": "2026-10-01",
+      "endDate": "2026-11-01",
+      "costId": "paid",
+      "priceText": "238元起",
+      "description": "开心麻花沉浸式多媒体喜剧《免死金牌使用指南》落地临安吴越里南坛剧院：被AI取代的程序员检修钱镠机器人时穿越历史，融合三面投影与XR技术、六成叙事由影像完成，观众可参与盐市拍卖、传球筑堤等互动环节，单场约45分钟。",
+      "sourceUrl": "https://huodong.com/event/detail/eyeQ4",
+      "tagName": "戏剧 沉浸式",
+      "createdAt": "2026-10-17",
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "HZ_evt_c67e0c",
@@ -52,14 +52,14 @@ window.APP_DATA = {
       "dateText": "2026年10月17日",
       "startDate": "2026-10-17",
       "endDate": "2026-10-17",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "280-1280元",
       "description": "10月17日杭州双场同开，老狼「纯真年代」巡回演唱会亮相拱墅运河体育公园体育馆。",
       "sourceUrl": "https://www.toutiao.com/article/7691952836426416674/",
       "tagName": "",
       "celebrity": "老狼",
       "createdAt": "2026-10-14",
-      "updatedAt": "2026-10-14"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "HZ_evt_edd3fa",
@@ -181,13 +181,13 @@ window.APP_DATA = {
       "dateText": "持续至11月15日",
       "startDate": "2026-10-12",
       "endDate": "2026-11-15",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "商场快闪免费入场打卡，周边商品需另购",
       "description": "小马宝莉友谊盛典主题快闪店落地城北万象城L1中庭，120平方米沉浸式梦幻空间，含2026年BW展新品杭州首发，汇集毛绒、谷子、卡牌等100余款好物，持续至11月15日。",
       "sourceUrl": "https://www.toutiao.com/a7691499784493892115",
       "tagName": "",
       "createdAt": "2026-10-12",
-      "updatedAt": "2026-10-12"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "HZ_evt_79c838",
@@ -199,13 +199,13 @@ window.APP_DATA = {
       "dateText": "2026年10月1日-10月30日",
       "startDate": "2026-10-01",
       "endDate": "2026-10-30",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "free",
+      "priceText": "公园免费开放",
       "description": "朱炳仁色彩AI实验室在杭钢公园发起「稻草人共创体验」，带一件旧衣服到高炉边扎一个秋天，10月1日至30日，10月1日至7日市集同步开放。",
       "sourceUrl": "https://www.toutiao.com/a7691499784493892115",
       "tagName": "国庆节",
       "createdAt": "2026-10-12",
-      "updatedAt": "2026-10-12"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "HZ_evt_ba11f6",
@@ -253,13 +253,13 @@ window.APP_DATA = {
       "dateText": "持续至10月31日",
       "startDate": "2026-10-12",
       "endDate": "2026-10-31",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "灵山幻境门票87元；盗墓笔记主题套票89-98元",
       "description": "杭州灵山景区将天然溶洞与《盗墓笔记》IP融合，设青铜门、秘境通道等主题装置，吴邪、张起灵等角色Coser定点驻场并全域巡游，持续至10月31日。",
       "sourceUrl": "https://www.163.com/dy/article/L8T8TRKU05149IKJ.html",
       "tagName": "",
       "createdAt": "2026-10-12",
-      "updatedAt": "2026-10-12"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "HZ_evt_c8f489",
@@ -275,24 +275,6 @@ window.APP_DATA = {
       "priceText": "380-1380元",
       "description": "那英《我来，因为你在》巡回演唱会杭州站，10月31日在杭州奥体中心体育馆（萧山区）举办，已获浙江省文广旅厅营业性演出审批。",
       "sourceUrl": "https://zwfw.mct.gov.cn/wycx/qgswyyxychd/qgswyyxychdjg/xq?id=d63efe9c19e1b55deff83f52c63710bb",
-      "tagName": "",
-      "createdAt": "2026-10-12",
-      "updatedAt": "2026-10-15T00:00:00+08:00"
-    },
-    {
-      "id": "HZ_evt_7334d4",
-      "cityCode": "HZ",
-      "categoryId": "show",
-      "name": "2026万芳巡演音乐会",
-      "venueId": "HZ_ven_6dc5df75",
-      "venueText": "杭州运河大剧院",
-      "dateText": "2026年10月16日",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16",
-      "costId": "paid",
-      "priceText": "380-680元",
-      "description": "万芳2026巡演音乐会，10月16日在杭州运河大剧院歌剧厅（拱墅区）举办，已获浙江省文广旅厅营业性演出审批。",
-      "sourceUrl": "https://zwfw.mct.gov.cn/wycx/qgswyyxychd/qgswyyxychdjg/xq?id=2369f86cdce11ae938f57f7794b1bc23",
       "tagName": "",
       "createdAt": "2026-10-12",
       "updatedAt": "2026-10-15T00:00:00+08:00"
@@ -325,13 +307,13 @@ window.APP_DATA = {
       "dateText": "2026年10月25日",
       "startDate": "2026-10-25",
       "endDate": "2026-10-25",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "480-1880元",
       "description": "「断眉」Charlie Puth演唱会10月25日亮相黄龙体育中心体育场（杭州市文广旅局官宣定档）。",
       "sourceUrl": "https://new.qq.com/rain/a/20261002A06A0S00",
       "tagName": "",
       "createdAt": "2026-10-12",
-      "updatedAt": "2026-10-12"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "HZ_evt_4e6176",
@@ -452,13 +434,13 @@ window.APP_DATA = {
       "dateText": "2026年12月18日–12月20日",
       "startDate": "2026-12-18",
       "endDate": "2026-12-20",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "180-880元",
       "description": "中国舞坛「双子星」韩真、周莉亚执导的红色经典舞剧，第三次登陆杭州大剧院。2026秋冬演出季舞剧板块重点剧目。",
       "sourceUrl": "https://mdaily.hangzhou.com.cn/hzrb/2026/09/18/article_detail_1_20260918A081.html",
       "tagName": "舞剧 演出季 杭州大剧院 红色题材",
       "createdAt": "2026-09-29",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "HZ_evt_1c291b",
@@ -470,13 +452,13 @@ window.APP_DATA = {
       "dateText": "2026年11月6日–11月8日",
       "startDate": "2026-11-06",
       "endDate": "2026-11-08",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "199-398元",
       "description": "年度现象级荒诞喜剧，以一部「新人本主义」的温情寓言登场。杭州大剧院2026秋冬演出季话剧板块剧目。",
       "sourceUrl": "https://mdaily.hangzhou.com.cn/hzrb/2026/09/18/article_detail_1_20260918A081.html",
       "tagName": "话剧 喜剧 演出季 杭州大剧院",
       "createdAt": "2026-09-29",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "HZ_evt_e12619",
@@ -506,13 +488,13 @@ window.APP_DATA = {
       "dateText": "2027年1月8日–1月9日",
       "startDate": "2027-01-08",
       "endDate": "2027-01-09",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "180-680元",
       "description": "沈从文原著、钟志荣词曲、司徒慧焯执导的粤语音乐剧，首度来杭。杭州大剧院2026秋冬演出季剧目。",
       "sourceUrl": "https://mdaily.hangzhou.com.cn/hzrb/2026/09/18/article_detail_1_20260918A081.html",
       "tagName": "音乐剧 文学改编 演出季 杭州大剧院 粤语",
       "createdAt": "2026-09-29",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "HZ_evt_bcd96e",
@@ -524,13 +506,13 @@ window.APP_DATA = {
       "dateText": "2026年11月13日",
       "startDate": "2026-11-13",
       "endDate": "2026-11-13",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "80-680元",
       "description": "杭州爱乐乐团2026-2027音乐季重磅场次，瓦格纳《尼伯龙根的指环》四年马拉松迎来完结篇之一。德国指挥家马库斯·史坦兹执棒，集结国际全明星阵容演绎《莱茵的黄金》。",
       "sourceUrl": "https://mdaily.hangzhou.com.cn/hzrb/2026/09/18/article_detail_1_20260918A081.html",
       "tagName": "歌剧 音乐会 杭州爱乐乐团 瓦格纳",
       "createdAt": "2026-09-29",
-      "updatedAt": "2026-09-29"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "HZ_evt_aae098",
@@ -717,7 +699,7 @@ window.APP_DATA = {
       "cityCode": "HZ",
       "categoryId": "exhi",
       "name": "时间的形塑",
-      "venueId": "HZ_ven_b2c3d4e5",
+      "venueId": "HZ_ven_d350ea63",
       "venueText": "独山美术馆",
       "dateText": "2026.8.8-12.31",
       "startDate": "2026-08-08",
@@ -728,7 +710,7 @@ window.APP_DATA = {
       "sourceUrl": "https://www.sina.cn/news/detail/5330287786460003.html",
       "tagName": "",
       "createdAt": "2026-09-09",
-      "updatedAt": "2026-09-20"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "HZ_evt_35be84",

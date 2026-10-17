@@ -28,13 +28,13 @@ window.APP_DATA = {
       "dateText": "2026.9.30-11.10",
       "startDate": "2026-09-30",
       "endDate": "2026-11-10",
-      "costId": "unknown",
-      "priceText": "",
+      "costId": "paid",
+      "priceText": "门票20元（儿童/学生10元）",
       "description": "西安植物园「秋韵流芳 喜迎国庆」秋季花展，园内花木错落、秋景盎然，是城区观赏秋日花卉的优选地。开放时间8:00-18:00。",
       "sourceUrl": "https://www.xiancn.com/content/2026-09/30/content_7531700.htm",
       "tagName": "",
       "createdAt": "2026-10-10",
-      "updatedAt": "2026-10-10"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "XA_evt_ea3873",
@@ -43,16 +43,16 @@ window.APP_DATA = {
       "name": "去有枫的地方——第四届幸福雁塔枫叶季",
       "venueId": "XA_ven_cb15406b",
       "venueText": "雁南公园",
-      "dateText": "2026.10.11起",
+      "dateText": "2026年10月11日至11月15日",
       "startDate": "2026-10-11",
-      "endDate": null,
+      "endDate": "2026-11-15",
       "costId": "free",
       "priceText": "免费开放",
       "description": "2026第四届幸福雁塔枫叶季：雁南公园赏枫、唐诗主题打卡场景、枫韵主题市集（文创非遗、秋日轻食），联动西安荟聚等商圈发放惠民优惠券，服务/文化/消费三大惠民板块。",
       "sourceUrl": "https://new.qq.com/rain/a/20261010A030CV00",
       "tagName": "",
       "createdAt": "2026-10-10",
-      "updatedAt": "2026-10-10"
+      "updatedAt": "2026-10-17"
     },
     {
       "id": "XA_evt_892ff9",
@@ -205,16 +205,16 @@ window.APP_DATA = {
       "name": "西安大悦城「逐风秋涧山谷」限定秋涧映画场景",
       "venueId": "XA_ven_0f3d4524",
       "venueText": "西安大悦城 B1拾光中庭大台阶",
-      "dateText": "2026年9月19日起",
+      "dateText": "2026年9月19日至10月18日",
       "startDate": "2026-09-19",
-      "endDate": null,
+      "endDate": "2026-10-18",
       "costId": "free",
       "priceText": "免费打卡",
       "description": "把整个秋天搬进西安大悦城，「美拉德色系」油画世界，B1拾光中庭大台阶打造的限定秋涧映画场景，全民打卡热点。同期大悦城还有 PinkyPinky 哈利波特主题快闪、Justqunseen 毛绒花房全国首展、宝可梦见面会及 Wilson 等多家新店开业。",
       "sourceUrl": "https://www.toutiao.com/article/7689430879277564470",
       "tagName": "打卡 美陈 免费 商场 曲江 秋季",
       "createdAt": "2026-09-29",
-      "updatedAt": "2026-10-14",
+      "updatedAt": "2026-10-17",
       "lastVerifiedAt": "2026-10-14"
     },
     {
