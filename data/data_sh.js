@@ -848,7 +848,7 @@ window.APP_DATA = {
       "endDate": "2026-10-18",
       "costId": "free",
       "description": "路威酩轩香水化妆品呈现的感官炼金术艺术装置展，落地新天地时尚1期中庭，以沉浸式嗅觉与视觉装置演绎香水美学。",
-      "sourceUrl": "https://expo.sww.sh.gov.cn/browser/search-entp-expo.jspx?code=a41d634e-228c-4b55-a797-14f2df7abca4",
+      "sourceUrl": "https://m.kanshangjie.com/Index/Show?id=186531",
       "tagName": "",
       "createdAt": "2026-09-09",
       "updatedAt": "2026-09-17",
